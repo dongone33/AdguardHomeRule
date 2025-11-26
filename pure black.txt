@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-26 15:41:36
-# 总规则数：122069 (黑名单: 117416, 白名单: 4653)
+﻿# 更新时间: 2025-11-26 15:51:34
+# 总规则数：122045 (黑名单: 117392, 白名单: 4653)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -574,6 +574,7 @@
 ||report.qqweb.qq.com^
 ||report.meituan.com^
 ||report.meeting.tencent.com^
+||report.idqqimg.com^
 ||report.gamecenter.qq.com^
 ||report-uri.baidu.com^
 ||report-edge.agora.io^
@@ -610,6 +611,7 @@
 ||puds.ucweb.com^
 ||publiclog.zhiyan.tencent-cloud.net^
 ||public.gdtimg.com^
+||pub.idqqimg.com^
 ||pub.funshion.com^
 ||pss.alicdn.com^
 ||proxy.advp.apple.com^
@@ -54247,7 +54249,6 @@ Banner468x60
 0.0.0.0 pool.persgroep.adhese.com
 0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool.nrc.adhese.com
-0.0.0.0 pool.distilled.ie
 0.0.0.0 pool.dichtbij.adhese.com
 0.0.0.0 pool.ads.netlog.com
 0.0.0.0 pool.admedo.com
@@ -64152,7 +64153,6 @@ Banner468x60
 0.0.0.0 krythandorx.icu
 0.0.0.0 kryptzyskvaltrion.com
 0.0.0.0 kryptorauspory.pro
-0.0.0.0 kryptoportal.pl
 0.0.0.0 kryptono.exchange
 0.0.0.0 kryptonitedigital.com
 0.0.0.0 kryptavixjordanapp.com
@@ -90676,6 +90676,7 @@ Banner468x60
 0.0.0.0 adlantis.jp
 0.0.0.0 adktracking-1671721947.eu-west-3.elb.amazonaws.com
 0.0.0.0 adkb5.com
+0.0.0.0 adk2.co
 0.0.0.0 adjustnetwork.com
 0.0.0.0 adjust.net.in
 0.0.0.0 adj.st
@@ -95004,6 +95005,7 @@ Banner468x60
 0.0.0.0  vqfdkhdzsgauegpvqiem.supabase.co
 0.0.0.0  vps.gcx3.cn
 0.0.0.0  vprza.com
+0.0.0.0  vplayer.newseveryday.com
 0.0.0.0  vpkq.cn
 0.0.0.0  vpie.net
 0.0.0.0  vpemsb.autocasion.com
@@ -95844,6 +95846,7 @@ Banner468x60
 0.0.0.0  tracking.ps.shutterstock.com
 0.0.0.0  tracking.prodesa.com
 0.0.0.0  tracking.pro.engie.fr
+0.0.0.0  tracking.police1.com
 0.0.0.0  tracking.pirelli.com
 0.0.0.0  tracking.piercingladies.de
 0.0.0.0  tracking.petrelocation.com
@@ -96862,6 +96865,7 @@ Banner468x60
 0.0.0.0  t.pplcenter.com
 0.0.0.0  t.poyry.com
 0.0.0.0  t.popsugar.com
+0.0.0.0  t.police1.com
 0.0.0.0  t.paciolan.com
 0.0.0.0  t.owlsports.com
 0.0.0.0  t.oralia.fr
@@ -98619,6 +98623,7 @@ Banner468x60
 0.0.0.0  shise.me
 0.0.0.0  shinedaily.cn
 0.0.0.0  shijuezhongguo.cdn.bcebos.com
+0.0.0.0  shield.knowt.com
 0.0.0.0  shhoix0fuonj0hz6.net.fidor.de
 0.0.0.0  shgansheng.cn
 0.0.0.0  sheregesh-io.traveler.today
@@ -98915,13 +98920,11 @@ Banner468x60
 0.0.0.0  secure.visionarybusinessacumen.com
 0.0.0.0  secure.visionarybusiness7.com
 0.0.0.0  secure.visionary365enterprise.com
-0.0.0.0  secure.visionary-intuitiveimaginative.com
 0.0.0.0  secure.visionary-enterprise-wisdom.com
 0.0.0.0  secure.visionary-enterprise-ingenuity.com
 0.0.0.0  secure.visionary-data-intuition.com
 0.0.0.0  secure.visionary-business-52.com
 0.0.0.0  secure.vick6duty.com
-0.0.0.0  secure.venture365office.com
 0.0.0.0  secure.venture-enterprising.com
 0.0.0.0  secure.vane3alga.com
 0.0.0.0  secure.valleymed.org
@@ -98944,11 +98947,8 @@ Banner468x60
 0.0.0.0  secure.sour1bare.com
 0.0.0.0  secure.soma9vols.com
 0.0.0.0  secure.soil5hear.com
-0.0.0.0  secure.smartenterprisewisdom.com
-0.0.0.0  secure.smart24astute.com
 0.0.0.0  secure.smart-enterprise-acumen.com
 0.0.0.0  secure.smart-enterprise-7.com
-0.0.0.0  secure.smart-enterprise-52.com
 0.0.0.0  secure.smart-enterprise-365.com
 0.0.0.0  secure.smart-company-365.com
 0.0.0.0  secure.smart-cloud-intelligence.com
@@ -98962,7 +98962,6 @@ Banner468x60
 0.0.0.0  secure.sigmaaldrich.com
 0.0.0.0  secure.shrfbdg004.com
 0.0.0.0  secure.shoo5woop.com
-0.0.0.0  secure.sharpinspiration-instinct.com
 0.0.0.0  secure.seat6worn.com
 0.0.0.0  secure.scan6show.com
 0.0.0.0  secure.saon6harz.com
@@ -98989,8 +98988,6 @@ Banner468x60
 0.0.0.0  secure.poor5zero.com
 0.0.0.0  secure.plug4norm.com
 0.0.0.0  secure.plug1luge.com
-0.0.0.0  secure.perceptive-innovation-ingenuity.com
-0.0.0.0  secure.perceptionastute7.com
 0.0.0.0  secure.peep1alea.com
 0.0.0.0  secure.peak2poem.com
 0.0.0.0  secure.pdxor02.com
@@ -99003,8 +99000,6 @@ Banner468x60
 0.0.0.0  secure.otto5loki.com
 0.0.0.0  secure.orthology.com
 0.0.0.0  secure.oita4bali.com
-0.0.0.0  secure.office-insightdetails.com
-0.0.0.0  secure.office-information-24.com
 0.0.0.0  secure.oboe3broo.com
 0.0.0.0  secure.nyctrl32.com
 0.0.0.0  secure.norm0care.com
@@ -99061,30 +99056,19 @@ Banner468x60
 0.0.0.0  secure.jebb8hurt.com
 0.0.0.0  secure.jaup0lake.com
 0.0.0.0  secure.iron0walk.com
-0.0.0.0  secure.inventiveinspired7.com
-0.0.0.0  secure.inventive52intuitive.com
 0.0.0.0  secure.intuition-agile-7.com
 0.0.0.0  secure.intelligentdatawisdom.com
 0.0.0.0  secure.intelligentcompanywisdom.com
 0.0.0.0  secure.intelligent-data-247.com
-0.0.0.0  secure.intelligent-consortium.com
 0.0.0.0  secure.intelligent-company-foresight.com
-0.0.0.0  secure.intelligent-company-365.com
-0.0.0.0  secure.intelligent-business-wisdom.com
-0.0.0.0  secure.intelligence52.com
 0.0.0.0  secure.intelligence-enterprise.com
-0.0.0.0  secure.instinct-52.com
 0.0.0.0  secure.insightfulcompanyinsight.com
 0.0.0.0  secure.insightfulbusinesswisdom.com
 0.0.0.0  secure.insightful-enterprise-intelligence.com
-0.0.0.0  secure.insightful-enterprise-247.com
 0.0.0.0  secure.insightful-company-52.com
-0.0.0.0  secure.insightful-cloud-7.com
-0.0.0.0  secure.insight-52.com
 0.0.0.0  secure.info.awlgrip.com
 0.0.0.0  secure.immixgroup.com
 0.0.0.0  secure.imaginative-trade7.com
-0.0.0.0  secure.imaginative-24.com
 0.0.0.0  secure.hook6vein.com
 0.0.0.0  secure.hiss3lark.com
 0.0.0.0  secure.hims1nice.com
@@ -99122,9 +99106,7 @@ Banner468x60
 0.0.0.0  secure.etym6cero.com
 0.0.0.0  secure.enterprisingoperation-7.com
 0.0.0.0  secure.enterprisingconsortium.com
-0.0.0.0  secure.enterpriseintelligence-24.com
 0.0.0.0  secure.enterpriseforesight247.com
-0.0.0.0  secure.enterprise7syndicate.com
 0.0.0.0  secure.enterprise-consortiumoperation.com
 0.0.0.0  secure.emeu0circ.com
 0.0.0.0  secure.easy0bark.com
@@ -99148,7 +99130,6 @@ Banner468x60
 0.0.0.0  secure.coup7cold.com
 0.0.0.0  secure.copy9loom.com
 0.0.0.0  secure.constellation.iqvia.com
-0.0.0.0  secure.companyperceptive-365.com
 0.0.0.0  secure.coax7nice.com
 0.0.0.0  secure.coat0tire.com
 0.0.0.0  secure.clue6load.com
@@ -99184,8 +99165,6 @@ Banner468x60
 0.0.0.0  secure.aifs.com
 0.0.0.0  secure.aiea6gaza.com
 0.0.0.0  secure.agiledata7.com
-0.0.0.0  secure.agilecompanyintelligence.com
-0.0.0.0  secure.agilebusinessvision.com
 0.0.0.0  secure.agile365enterprise.com
 0.0.0.0  secure.agile-enterprise-365.com
 0.0.0.0  secure.agile-company-365.com
@@ -99195,9 +99174,7 @@ Banner468x60
 0.0.0.0  secure.adata.ca.com
 0.0.0.0  secure.acor1sign.com
 0.0.0.0  secure.7-companycompany.com
-0.0.0.0  secure.365-visionary-insightful.com
 0.0.0.0  secure.24-visionaryenterprise.com
-0.0.0.0  secure.24-astute.com
 0.0.0.0  secure-sin.adnxs.com
 0.0.0.0  secure-eugo.arrow.com
 0.0.0.0  secure-e.healthiq.com
@@ -101959,7 +101936,6 @@ Banner468x60
 0.0.0.0  microlearning.att.com
 0.0.0.0  microfog.me
 0.0.0.0  microad-cn.com
-0.0.0.0  micro.workplaceinvesting.fidelity.com
 0.0.0.0  mibook-10006092.cos.myqcloud.com
 0.0.0.0  miaomu139.cn
 0.0.0.0  mialbj6.com
@@ -103983,6 +103959,7 @@ Banner468x60
 0.0.0.0  location.imsmetals.com
 0.0.0.0  local-shares.ri.la
 0.0.0.0  loading.baofeng5.baofeng.net
+0.0.0.0  loader.worldhistory.org
 0.0.0.0  lnymd.com
 0.0.0.0  lnxfgm.party-calendar.net
 0.0.0.0  lntvby.banggood.com
@@ -105293,7 +105270,6 @@ Banner468x60
 0.0.0.0  kattepush.com
 0.0.0.0  kartik.devishetty.net
 0.0.0.0  kartik.devishetty.com
-0.0.0.0  kanxiao.net
 0.0.0.0  kanseen.com
 0.0.0.0  kanglingjiu.com
 0.0.0.0  kang08.com
@@ -106644,7 +106620,6 @@ Banner468x60
 0.0.0.0  images.chef-lavan.tnuva.co.il
 0.0.0.0  images.cargomarketing.email.aa.com
 0.0.0.0  images.care.tgh.org
-0.0.0.0  images.campaigns-qa.fidelity.com
 0.0.0.0  images.campaign.reedexpo.de
 0.0.0.0  images.campaign.reedexpo.at
 0.0.0.0  images.business.lenovo.com
@@ -107357,6 +107332,7 @@ Banner468x60
 0.0.0.0  gqjrfv.autodoc.fi
 0.0.0.0  gqhfjr.sizeofficial.es
 0.0.0.0  gpzhcc.lapeyre.fr
+0.0.0.0  gpv.ex.co
 0.0.0.0  gpukye.holabirdsports.com
 0.0.0.0  gpsqnl.delsey.com
 0.0.0.0  gpscard.cn
