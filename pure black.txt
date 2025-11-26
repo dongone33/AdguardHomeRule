@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-26 16:11:33
-# 总规则数：122045 (黑名单: 117392, 白名单: 4653)
+﻿# 更新时间: 2025-11-26 16:21:32
+# 总规则数：122083 (黑名单: 117430, 白名单: 4653)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -93748,6 +93748,8 @@ Banner468x60
 0.0.0.0  zigpdx.ltbjeans.com
 0.0.0.0  zichenit.com
 0.0.0.0  zhushou.2345.com
+0.0.0.0  zhugeapi.net
+0.0.0.0  zhugeapi.com
 0.0.0.0  zhuanshenghuo1.kuaizhan.com
 0.0.0.0  zhuangjizhuli.net
 0.0.0.0  zhuanfakong.com
@@ -93788,6 +93790,7 @@ Banner468x60
 0.0.0.0  zfjiu.com
 0.0.0.0  zfacts.com
 0.0.0.0  zerjin.com
+0.0.0.0  zenplay77a.com
 0.0.0.0  zenedge.actonservice.com
 0.0.0.0  zenaps.com
 0.0.0.0  zelle.odencat.com
@@ -93870,6 +93873,7 @@ Banner468x60
 0.0.0.0  yuanchengxiezuo.com
 0.0.0.0  ytwtxi.beautybio.com
 0.0.0.0  ytunion.com
+0.0.0.0  ytultraa.live
 0.0.0.0  ytelc.com
 0.0.0.0  yt-adv.bn.netease.com
 0.0.0.0  ysrrzgku6tar.us.themoneytizer.com
@@ -94127,6 +94131,7 @@ Banner468x60
 0.0.0.0  xgvenv.farmatodo.com.co
 0.0.0.0  xgezbc.tripmasters.com
 0.0.0.0  xfyjz.cn
+0.0.0.0  xenon.studio
 0.0.0.0  xejpzk.fram.fr
 0.0.0.0  xdsblm.ullapopken.de
 0.0.0.0  xdcpfs.shopdoen.com
@@ -94208,7 +94213,6 @@ Banner468x60
 0.0.0.0  www2.carte-gr.total.fr
 0.0.0.0  www2.autopartsplace.com
 0.0.0.0  www2.automd.com
-0.0.0.0  www2.0zz0.com
 0.0.0.0  www1.na.sandbox.gwsweb.net.jumia.co.ke
 0.0.0.0  www1.happ.social
 0.0.0.0  www1.discountautomirrors.com
@@ -94718,7 +94722,6 @@ Banner468x60
 0.0.0.0  woodtone.actonservice.com
 0.0.0.0  woodstock.viessmann.com.au
 0.0.0.0  woodruffsweitzer.actonservice.com
-0.0.0.0  woodenships-wholesale.com
 0.0.0.0  wooboo.com.cn
 0.0.0.0  won.wooribank.com
 0.0.0.0  womenwan.com
@@ -94748,7 +94751,6 @@ Banner468x60
 0.0.0.0  wjgglm.com
 0.0.0.0  wiyun.com
 0.0.0.0  wivo2gaza.com
-0.0.0.0  wither-xmr.duckdns.org
 0.0.0.0  wirewuss.com
 0.0.0.0  windriversfiles.imeitools.com
 0.0.0.0  winbaicai.com
@@ -94815,6 +94817,7 @@ Banner468x60
 0.0.0.0  weidianyuedu.com
 0.0.0.0  weidenhammer.actonservice.com
 0.0.0.0  wehoofurniture.com
+0.0.0.0  wegrowcoaching.com
 0.0.0.0  weed6tape.com
 0.0.0.0  weddingeeos.com
 0.0.0.0  weco2.oss-me-east-1.aliyuncs.com
@@ -95005,7 +95008,6 @@ Banner468x60
 0.0.0.0  vqfdkhdzsgauegpvqiem.supabase.co
 0.0.0.0  vps.gcx3.cn
 0.0.0.0  vprza.com
-0.0.0.0  vplayer.newseveryday.com
 0.0.0.0  vpkq.cn
 0.0.0.0  vpie.net
 0.0.0.0  vpemsb.autocasion.com
@@ -95101,7 +95103,6 @@ Banner468x60
 0.0.0.0  video-streaming.ezoic.com
 0.0.0.0  vicomi.com
 0.0.0.0  vick6duty.com
-0.0.0.0  vicious-net.duckdns.org
 0.0.0.0  vice4beek.com
 0.0.0.0  viatrisneuropathicpain.co.uk
 0.0.0.0  viapush.com
@@ -95154,6 +95155,7 @@ Banner468x60
 0.0.0.0  valc.atm.youku.com
 0.0.0.0  valb.atm.youku.com
 0.0.0.0  valatm.cp12.wasu.tv
+0.0.0.0  vair.xcreative.cz
 0.0.0.0  vaibhavtripathi.in
 0.0.0.0  vahlnd.bogsfootwear.com
 0.0.0.0  vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
@@ -95163,6 +95165,7 @@ Banner468x60
 0.0.0.0  v7.shaoyumuye.com
 0.0.0.0  v7.kawinhome.com
 0.0.0.0  v6-dc-ad.ixigua.com
+0.0.0.0  v6-adashx.ut.youku.com
 0.0.0.0  v6-ad.ixigua.com
 0.0.0.0  v5ad.com
 0.0.0.0  v5.juzi.cn
@@ -95237,6 +95240,7 @@ Banner468x60
 0.0.0.0  utiq.ptitchef.com
 0.0.0.0  utiq.atf-tagmanager.de
 0.0.0.0  utexas.actonservice.com
+0.0.0.0  utazznapolyba.hu
 0.0.0.0  ut2.shuqistat.com
 0.0.0.0  usw18-268-pdb.net.mydays.de
 0.0.0.0  usuf.candukang.cn
@@ -95536,6 +95540,8 @@ Banner468x60
 0.0.0.0  tvuaeb.taqi.com.br
 0.0.0.0  tvrom.cn
 0.0.0.0  tvppa.actonservice.com
+0.0.0.0  tv-garden2.com
+0.0.0.0  tv-garden1.com
 0.0.0.0  tuxi.com.cn
 0.0.0.0  tuvevx.agent-sana.com
 0.0.0.0  turboeagle.co
@@ -95579,6 +95585,7 @@ Banner468x60
 0.0.0.0  tss.sport2000.fr
 0.0.0.0  tsp.onjoyri.de
 0.0.0.0  tsliat.medme.pl
+0.0.0.0  tsfs.com.my
 0.0.0.0  tsbkht.puritan.com
 0.0.0.0  ts9.cc
 0.0.0.0  ts6.net
@@ -95846,7 +95853,6 @@ Banner468x60
 0.0.0.0  tracking.ps.shutterstock.com
 0.0.0.0  tracking.prodesa.com
 0.0.0.0  tracking.pro.engie.fr
-0.0.0.0  tracking.police1.com
 0.0.0.0  tracking.pirelli.com
 0.0.0.0  tracking.piercingladies.de
 0.0.0.0  tracking.petrelocation.com
@@ -96388,6 +96394,7 @@ Banner468x60
 0.0.0.0  topswp.com
 0.0.0.0  topstat.cn
 0.0.0.0  topitme.com
+0.0.0.0  topdigis889.com
 0.0.0.0  topblogging.com
 0.0.0.0  topapi.cp12.wasu.tv
 0.0.0.0  topapi.cp12.ott.cibntv.net
@@ -96522,6 +96529,7 @@ Banner468x60
 0.0.0.0  thsnvv.hollywoodschaukel-paradies.de
 0.0.0.0  thrive.metagenics.com
 0.0.0.0  thraka.openapp.link
+0.0.0.0  thortogel.net
 0.0.0.0  thomsonreuters.actonservice.com
 0.0.0.0  thli43.cn
 0.0.0.0  thinktot.com
@@ -96534,6 +96542,7 @@ Banner468x60
 0.0.0.0  thering.cn
 0.0.0.0  theoutplay.com
 0.0.0.0  theme.echovisuals.com
+0.0.0.0  thekingbet189.com
 0.0.0.0  thekat.se
 0.0.0.0  thejierou.net
 0.0.0.0  thecea.actonservice.com
@@ -96865,7 +96874,6 @@ Banner468x60
 0.0.0.0  t.pplcenter.com
 0.0.0.0  t.poyry.com
 0.0.0.0  t.popsugar.com
-0.0.0.0  t.police1.com
 0.0.0.0  t.paciolan.com
 0.0.0.0  t.owlsports.com
 0.0.0.0  t.oralia.fr
@@ -97073,6 +97081,7 @@ Banner468x60
 0.0.0.0  superiorgroup.actonservice.com
 0.0.0.0  superfish.com
 0.0.0.0  superchat.live
+0.0.0.0  superbet388.wiki
 0.0.0.0  super8-link.mysuki.io
 0.0.0.0  suoooi.cn
 0.0.0.0  suntechauto.com.cn
@@ -97530,7 +97539,6 @@ Banner468x60
 0.0.0.0  ss.cnczjy.com
 0.0.0.0  srvtrkxx2.com
 0.0.0.0  srvtrkxx1.com
-0.0.0.0  srv892825.hstgr.cloud
 0.0.0.0  srv2020real.com
 0.0.0.0  srv1010elan.com
 0.0.0.0  srv00infra.com
@@ -97585,7 +97593,6 @@ Banner468x60
 0.0.0.0  spjysa.only.com
 0.0.0.0  spit0stge.com
 0.0.0.0  spinnakermgmt.actonservice.com
-0.0.0.0  spike-plant.valorbuff.com
 0.0.0.0  spi.pcidata.cn
 0.0.0.0  spersonalization.rainbowintl.com
 0.0.0.0  speetals.com
@@ -97781,6 +97788,7 @@ Banner468x60
 0.0.0.0  soko.ai
 0.0.0.0  sojern.com
 0.0.0.0  soil5hear.com
+0.0.0.0  sohumbabyproducts.com
 0.0.0.0  sohu-dtv.m.cn.miaozhen.com
 0.0.0.0  softwebzone.com
 0.0.0.0  softtrack08.com
@@ -98623,7 +98631,6 @@ Banner468x60
 0.0.0.0  shise.me
 0.0.0.0  shinedaily.cn
 0.0.0.0  shijuezhongguo.cdn.bcebos.com
-0.0.0.0  shield.knowt.com
 0.0.0.0  shhoix0fuonj0hz6.net.fidor.de
 0.0.0.0  shgansheng.cn
 0.0.0.0  sheregesh-io.traveler.today
@@ -99259,6 +99266,7 @@ Banner468x60
 0.0.0.0  scarletcashwi5.com
 0.0.0.0  scanner-link.covve.com
 0.0.0.0  scannary.com
+0.0.0.0  scan.504.su
 0.0.0.0  scan-trail.com
 0.0.0.0  scaleway.ovh
 0.0.0.0  scalematrix.actonservice.com
@@ -99316,7 +99324,6 @@ Banner468x60
 0.0.0.0  satracking.finning.com
 0.0.0.0  satracking.cubiq.com
 0.0.0.0  sas.com
-0.0.0.0  sapi.sina.cn
 0.0.0.0  saon6harz.com
 0.0.0.0  sanya1.com
 0.0.0.0  sanl.six02.com
@@ -99382,6 +99389,7 @@ Banner468x60
 0.0.0.0  salzwerk.viessmann.de
 0.0.0.0  saluton.cizion.com
 0.0.0.0  saltsabar.openapp.link
+0.0.0.0  salonmarketing.ca
 0.0.0.0  salespopup.io
 0.0.0.0  sales.pandasuite.io
 0.0.0.0  sales-pop-dot-autoketing-production-sdk.appspot.com
@@ -99618,6 +99626,7 @@ Banner468x60
 0.0.0.0  s.5jjx.net
 0.0.0.0  s.35kds.com
 0.0.0.0  s-t.topya.com
+0.0.0.0  s-adashx.ut.youku.com
 0.0.0.0  rzdedao.com
 0.0.0.0  rystadenergy.actonservice.com
 0.0.0.0  ryre.cn
@@ -99680,6 +99689,7 @@ Banner468x60
 0.0.0.0  rplzmw.cn
 0.0.0.0  rpfkgf.saarbruecker-zeitung.de
 0.0.0.0  rpfkgf.rp-online.de
+0.0.0.0  royalmatkapp.com
 0.0.0.0  roxtec.actonservice.com
 0.0.0.0  rowsrm.atasunoptik.com.tr
 0.0.0.0  routes.navibration.com
@@ -99719,7 +99729,6 @@ Banner468x60
 0.0.0.0  rjsouj.clubd.co.jp
 0.0.0.0  rjjynf.showcase-tv.com
 0.0.0.0  rj.m.taobao.com
-0.0.0.0  rj.m.taobao.co
 0.0.0.0  riwnmh.novasol.co.uk
 0.0.0.0  rivrai.com
 0.0.0.0  risk8belt.com
@@ -99944,7 +99953,6 @@ Banner468x60
 0.0.0.0  redclassic.actonservice.com
 0.0.0.0  redbooks.actonservice.com
 0.0.0.0  redbee.serverside.ai
-0.0.0.0  red-shell.speedrun.com
 0.0.0.0  recv-vd.gridsumdissector.com
 0.0.0.0  recv-vd.gridsumdissector.cn
 0.0.0.0  recsys-crawl.4paradigm.com
@@ -99996,6 +100004,7 @@ Banner468x60
 0.0.0.0  rbcore-wlc-3.net.jumia.co.ke
 0.0.0.0  rbcfort.com
 0.0.0.0  rba-screen.healthsafe-id.com
+0.0.0.0  razzledazzlejewelrystore.com
 0.0.0.0  rayli.adsame.com
 0.0.0.0  ravelin.click
 0.0.0.0  rate8deny.com
@@ -100011,6 +100020,7 @@ Banner468x60
 0.0.0.0  randstad.epoise.com
 0.0.0.0  rals4alum.com
 0.0.0.0  rakuten.actonservice.com
+0.0.0.0  rajakingbet189.site
 0.0.0.0  raeqqe.cn
 0.0.0.0  radiometer.actonservice.com
 0.0.0.0  radio.moodybible.org
@@ -100310,7 +100320,6 @@ Banner468x60
 0.0.0.0  pub.sitetag.us
 0.0.0.0  pub.se.360.cn
 0.0.0.0  ptw-i.actonservice.com
-0.0.0.0  ptptonuwu.duckdns.org
 0.0.0.0  ptmcos.beginning.kr
 0.0.0.0  pthejzb.com
 0.0.0.0  pt6v.cn
@@ -100419,6 +100428,7 @@ Banner468x60
 0.0.0.0  preview.adsame.com
 0.0.0.0  pressly.com
 0.0.0.0  presence.teams.live.com
+0.0.0.0  prepstarcenter.com
 0.0.0.0  prenesi-mojm.mercator.si
 0.0.0.0  premiumapp.byjus.com
 0.0.0.0  premiercio.actonservice.com
@@ -100479,7 +100489,6 @@ Banner468x60
 0.0.0.0  poqwo3.com
 0.0.0.0  popupsmart.com
 0.0.0.0  popup.laybuy.com
-0.0.0.0  poptok.com
 0.0.0.0  poppyta.com
 0.0.0.0  popmechanic.ru
 0.0.0.0  pop3.happ.social
@@ -100684,6 +100693,7 @@ Banner468x60
 0.0.0.0  pf-2.pchome.net
 0.0.0.0  pet-recycling.husky.ca
 0.0.0.0  pesaea.autoesa.cz
+0.0.0.0  persenglish.com
 0.0.0.0  permission.au.actonservice.com
 0.0.0.0  perljs.com
 0.0.0.0  pergeroni.openapp.link
@@ -100787,7 +100797,6 @@ Banner468x60
 0.0.0.0  pangolin-dsp-toutiao-b.com
 0.0.0.0  panda.adsame.com
 0.0.0.0  palramamericas.actonservice.com
-0.0.0.0  palmnews.sina.cn
 0.0.0.0  palm-ad.cn
 0.0.0.0  paladion.actonservice.com
 0.0.0.0  pal-v.actonservice.com
@@ -100946,7 +100955,6 @@ Banner468x60
 0.0.0.0  osimg.universalorlandovacations.com
 0.0.0.0  oshp.io
 0.0.0.0  oshowm.allureville.com
-0.0.0.0  osfota.cdn.aliyun.com
 0.0.0.0  osezny.intheswim.com
 0.0.0.0  oscs.palazzolasvegas.com
 0.0.0.0  osc.hrs.com
@@ -101027,6 +101035,7 @@ Banner468x60
 0.0.0.0  open-test.wynk.in
 0.0.0.0  open-adx.com
 0.0.0.0  opbandit.com
+0.0.0.0  opaslotuv.site
 0.0.0.0  op.88dush.com
 0.0.0.0  oopt.norauto.es
 0.0.0.0  ooo.0o0.ooo
@@ -101049,6 +101058,7 @@ Banner468x60
 0.0.0.0  online.expolifestyle.com
 0.0.0.0  online.eaglepi.com
 0.0.0.0  online.cphi.cn
+0.0.0.0  online-gebuehrenzaehler.de
 0.0.0.0  onjjbn.koffiemarkt.be
 0.0.0.0  onetrust.com
 0.0.0.0  onetad.com
@@ -101393,6 +101403,7 @@ Banner468x60
 0.0.0.0  nidays.suisse.ni.com
 0.0.0.0  nidays.austria.ni.com
 0.0.0.0  nicorette.co.kr
+0.0.0.0  nicnetworkvvs.uk
 0.0.0.0  nichibenren.or.jp
 0.0.0.0  nicequest.com
 0.0.0.0  nicelabel.cc
@@ -101410,6 +101421,7 @@ Banner468x60
 0.0.0.0  ngghll.me.co.kr
 0.0.0.0  nfwebminer.com
 0.0.0.0  nfudeh.jadebag.co.kr
+0.0.0.0  nextslot777b.world
 0.0.0.0  newzheng.cn
 0.0.0.0  newwiesdom.com.cn
 0.0.0.0  newweb.top
@@ -101454,6 +101466,7 @@ Banner468x60
 0.0.0.0  news-l.play.cp81.ott.cibntv.net
 0.0.0.0  news-img.51y5.net
 0.0.0.0  newrelic.com
+0.0.0.0  newkintall.com
 0.0.0.0  newkey.co.kr
 0.0.0.0  newapi.com
 0.0.0.0  new.yokaunion.com
@@ -101526,7 +101539,6 @@ Banner468x60
 0.0.0.0  naqigs.com
 0.0.0.0  naoforge.net.jumia.com.ng
 0.0.0.0  nanthealth.actonservice.com
-0.0.0.0  namuvpn.com
 0.0.0.0  nametraff.com
 0.0.0.0  namedq.com
 0.0.0.0  namaacont.com
@@ -101595,7 +101607,6 @@ Banner468x60
 0.0.0.0  mydisplay.ctfile.com
 0.0.0.0  mydario.actonservice.com
 0.0.0.0  mybjjg.vlan.be
-0.0.0.0  myayurvedashoppe.com
 0.0.0.0  myapp.branch.rocks
 0.0.0.0  myad.cn
 0.0.0.0  mya.actonservice.com
@@ -101753,6 +101764,7 @@ Banner468x60
 0.0.0.0  momently.com
 0.0.0.0  mollnia.com
 0.0.0.0  moldex.actonservice.com
+0.0.0.0  mojtabaabbasi.com
 0.0.0.0  mojiva.com
 0.0.0.0  mohecm.com
 0.0.0.0  mohamed.net.anwalt.de
@@ -101825,7 +101837,6 @@ Banner468x60
 0.0.0.0  mm.dopa.com.cn
 0.0.0.0  mm.anqu.com
 0.0.0.0  mm.365dmp.com
-0.0.0.0  mlt01.com
 0.0.0.0  mlsjh.com
 0.0.0.0  mlno6.com
 0.0.0.0  mlnbike.com
@@ -101858,6 +101869,7 @@ Banner468x60
 0.0.0.0  mkolqj.ozonee.pl
 0.0.0.0  mkmkew.hometogo.no
 0.0.0.0  mkltfc.atgp.jp
+0.0.0.0  mkjjq.com
 0.0.0.0  mkg.colfondos.co
 0.0.0.0  mkadsearch.lizhifm.com
 0.0.0.0  mk.appwebel.com
@@ -101887,6 +101899,7 @@ Banner468x60
 0.0.0.0  missionrs.actonservice.com
 0.0.0.0  misrepush.com
 0.0.0.0  misosoup.io
+0.0.0.0  miserugrayhair.com
 0.0.0.0  misc1bulk.com
 0.0.0.0  mirtesen.ru
 0.0.0.0  mirec.ubmmexico.com
@@ -102785,6 +102798,7 @@ Banner468x60
 0.0.0.0  meiqia.com
 0.0.0.0  meinauto.hdd-dienste.de
 0.0.0.0  meigeer.com.cn
+0.0.0.0  meguri-toroge.com
 0.0.0.0  megajoy.com
 0.0.0.0  megabanners.cf
 0.0.0.0  meetrics.com
@@ -103020,6 +103034,7 @@ Banner468x60
 0.0.0.0  martech.wavenet.com.tw
 0.0.0.0  marshinsurance.actonservice.com
 0.0.0.0  marsh.actonservice.com
+0.0.0.0  marrakechpalms.com
 0.0.0.0  maropost.com
 0.0.0.0  markkinointi.igopost.fi
 0.0.0.0  marketshot.fr
@@ -103299,6 +103314,7 @@ Banner468x60
 0.0.0.0  majdmw.gigasport.at
 0.0.0.0  mairdumont.com
 0.0.0.0  main.exdynsrv.com
+0.0.0.0  main.dsn.ovh
 0.0.0.0  mailx.happ.social
 0.0.0.0  mailx.carte-gr.total.fr
 0.0.0.0  mails.coloplast.com
@@ -103350,6 +103366,7 @@ Banner468x60
 0.0.0.0  mail.adsame.com
 0.0.0.0  mail-rite.actonservice.com
 0.0.0.0  maihehd.com
+0.0.0.0  mahakalmatkaa.shop
 0.0.0.0  magnetmail1.net
 0.0.0.0  magicwindow.cn
 0.0.0.0  magicpixel.io
@@ -103894,6 +103911,7 @@ Banner468x60
 0.0.0.0  lovecar.net.cn
 0.0.0.0  loupan99.com
 0.0.0.0  lotuseed.com
+0.0.0.0  lotsofbuttons.shop
 0.0.0.0  lote1otto.com
 0.0.0.0  lord.actonservice.com
 0.0.0.0  lopostone.com
@@ -103959,7 +103977,6 @@ Banner468x60
 0.0.0.0  location.imsmetals.com
 0.0.0.0  local-shares.ri.la
 0.0.0.0  loading.baofeng5.baofeng.net
-0.0.0.0  loader.worldhistory.org
 0.0.0.0  lnymd.com
 0.0.0.0  lnxfgm.party-calendar.net
 0.0.0.0  lntvby.banggood.com
@@ -104229,6 +104246,7 @@ Banner468x60
 0.0.0.0  linking.venueapp-system.com
 0.0.0.0  linkifier.com
 0.0.0.0  linkhealth-app.hotdoc.com.au
+0.0.0.0  linkgacorkingbet189.space
 0.0.0.0  linkeye.ximalaya.com
 0.0.0.0  linker.staging.lyrahealth.com
 0.0.0.0  linkdev.sprive.com
@@ -104821,7 +104839,6 @@ Banner468x60
 0.0.0.0  lhevhb.hjgreek.com
 0.0.0.0  lhdidz.successories.com
 0.0.0.0  lhasalimited.actonservice.com
-0.0.0.0  lh24h7tp-5500.euw.devtunnels.ms
 0.0.0.0  lgzkzp.bauhaus.at
 0.0.0.0  lgpdy.com
 0.0.0.0  lgpdcontrol.com.br
@@ -104921,6 +104938,7 @@ Banner468x60
 0.0.0.0  lctfgw.evernew.ca
 0.0.0.0  lcsopa.onamae.com
 0.0.0.0  lcs.comico.jp
+0.0.0.0  lcportal.kbinsure.co.kr
 0.0.0.0  lcodff.uta-net.com
 0.0.0.0  lc.jiathis.com
 0.0.0.0  lbstatic-a.akamaihd.net
@@ -104987,6 +105005,7 @@ Banner468x60
 0.0.0.0  lan.landing.ni.com
 0.0.0.0  lammico.actonservice.com
 0.0.0.0  laksjd4.com
+0.0.0.0  lakestreetsolar.com
 0.0.0.0  laferia.cr
 0.0.0.0  ladymetro.com
 0.0.0.0  ladxxr.sonovente.com
@@ -105120,6 +105139,7 @@ Banner468x60
 0.0.0.0  kvnkjd.kaigoshoku.mynavi.jp
 0.0.0.0  kvfunf.factorydirect.ca
 0.0.0.0  kvfumh.fairwaystyles.com
+0.0.0.0  kutegiagoc.com
 0.0.0.0  kurzweiledu.actonservice.com
 0.0.0.0  kuqi.com
 0.0.0.0  kumihua.com
@@ -105136,6 +105156,7 @@ Banner468x60
 0.0.0.0  ku6.com
 0.0.0.0  ku6.cnzz.com
 0.0.0.0  ktskxm.smartphoto.nl
+0.0.0.0  ktp-digital.online
 0.0.0.0  ktocpw.silabg.com
 0.0.0.0  kthjuw.lyst.com.au
 0.0.0.0  ktdcoy.lyst.it
@@ -105207,6 +105228,7 @@ Banner468x60
 0.0.0.0  kjcenter.com
 0.0.0.0  kj733.com
 0.0.0.0  kiyoh.com
+0.0.0.0  kitadigi778.com
 0.0.0.0  kistacity.viessmann.se
 0.0.0.0  kirsrn.runway-webstore.com
 0.0.0.0  kiqwil.l-m.co.jp
@@ -105235,6 +105257,7 @@ Banner468x60
 0.0.0.0  keybut.com
 0.0.0.0  keyade.fr
 0.0.0.0  key2.actonservice.com
+0.0.0.0  ketuabuayatogel.site
 0.0.0.0  kestlerfinancial.actonservice.com
 0.0.0.0  kesko.actonservice.com
 0.0.0.0  keqii.com
@@ -105265,6 +105288,7 @@ Banner468x60
 0.0.0.0  kbcmdi.florsheim.com.au
 0.0.0.0  kb-render.alicdn.com
 0.0.0.0  kavyasourcing.com
+0.0.0.0  kavacanada.ca
 0.0.0.0  katylz.lojaspompeia.com
 0.0.0.0  kattoremontti.ruukki.com
 0.0.0.0  kattepush.com
@@ -105280,6 +105304,7 @@ Banner468x60
 0.0.0.0  kaimaohong20.cn
 0.0.0.0  kaebyy.autouncle.se
 0.0.0.0  kadlec.psjhealth.org
+0.0.0.0  kabl.fun
 0.0.0.0  k99.cc
 0.0.0.0  k5tmk4.sadobo.com
 0.0.0.0  k5app.byjus.com
@@ -105390,7 +105415,6 @@ Banner468x60
 0.0.0.0  js.pub.tom.com
 0.0.0.0  js.ptmind.com
 0.0.0.0  js.ptengine.cn
-0.0.0.0  js.mangajp.top
 0.0.0.0  js.idgdmgroup.com.cn
 0.0.0.0  js.guangsss1999.com
 0.0.0.0  js.gdyjs.com
@@ -105640,6 +105664,7 @@ Banner468x60
 0.0.0.0  jcblar.floridarentals.com
 0.0.0.0  jbflil.cn
 0.0.0.0  jbezdi.ilsole24ore.com
+0.0.0.0  jbdsg65485.bounceme.net
 0.0.0.0  jbcbio.cn
 0.0.0.0  jbbljg.autoscout24.bg
 0.0.0.0  jb.4hw.com.cn
@@ -106697,6 +106722,7 @@ Banner468x60
 0.0.0.0  iefiop.raizs.com.br
 0.0.0.0  ieeowa.marcjacobsbeauty.com
 0.0.0.0  iee5.com
+0.0.0.0  ieclearbra.com
 0.0.0.0  ie.5500w.com
 0.0.0.0  ie-mktg.vodafone.com
 0.0.0.0  iduk.barcodesgroup.com
@@ -106832,6 +106858,7 @@ Banner468x60
 0.0.0.0  hwwjsi.aboutyou.pl
 0.0.0.0  hws.ru
 0.0.0.0  hwmwin.com
+0.0.0.0  hwgeneralins.com
 0.0.0.0  hwads-t.api.my7v.com
 0.0.0.0  hwad.zuimeitianqi.com
 0.0.0.0  hvwgbj.wikinger-reisen.de
@@ -107092,6 +107119,7 @@ Banner468x60
 0.0.0.0  herb2warn.com
 0.0.0.0  henzhuan.com
 0.0.0.0  helpdesk.thinkhdi.com
+0.0.0.0  help.vreugdonline.nl
 0.0.0.0  hellogain.actonservice.com
 0.0.0.0  hello.wellocution.com
 0.0.0.0  hello.stbpost.be
@@ -107249,7 +107277,6 @@ Banner468x60
 0.0.0.0  gwropn.soelu.com
 0.0.0.0  gwizal.yumbutter.com
 0.0.0.0  gwguyh.edreams.es
-0.0.0.0  gw6.push.mcp.weibo.cn
 0.0.0.0  gw100-10.com
 0.0.0.0  gw.d.ywopt.com
 0.0.0.0  gw.conversionsapigateway.com
@@ -107332,7 +107359,6 @@ Banner468x60
 0.0.0.0  gqjrfv.autodoc.fi
 0.0.0.0  gqhfjr.sizeofficial.es
 0.0.0.0  gpzhcc.lapeyre.fr
-0.0.0.0  gpv.ex.co
 0.0.0.0  gpukye.holabirdsports.com
 0.0.0.0  gpsqnl.delsey.com
 0.0.0.0  gpscard.cn
@@ -107850,7 +107876,6 @@ Banner468x60
 0.0.0.0  ghrzlu.skechers.com.tr
 0.0.0.0  ghrnbw.avocadostore.de
 0.0.0.0  ghp.adp.ca
-0.0.0.0  ghostbin.lain.la
 0.0.0.0  ghonnz.columbiasports.co.jp
 0.0.0.0  ghnwss.fmsstores.gr
 0.0.0.0  ghmproperties.com
@@ -108103,7 +108128,6 @@ Banner468x60
 0.0.0.0  game3896.com
 0.0.0.0  game3737.com
 0.0.0.0  game2.cn
-0.0.0.0  game.weibo.com
 0.0.0.0  game.rising.cn
 0.0.0.0  game.qidian.com
 0.0.0.0  game.pps.tv
@@ -108408,6 +108432,7 @@ Banner468x60
 0.0.0.0  flipt.actonservice.com
 0.0.0.0  flipcard.bridged.media
 0.0.0.0  flexlinkspro.com
+0.0.0.0  flechabusretiro.com.ar
 0.0.0.0  fldoai.municipal.com
 0.0.0.0  flavors.firmenich.com
 0.0.0.0  flaviar.com
@@ -108447,6 +108472,7 @@ Banner468x60
 0.0.0.0  fipsta.urbanara.co.uk
 0.0.0.0  finley.finleyusa.com
 0.0.0.0  finger-info.net
+0.0.0.0  finesreport.com.br
 0.0.0.0  finead.cn
 0.0.0.0  findyourinfluence.actonservice.com
 0.0.0.0  findthetruth.allergyai.com
@@ -108500,7 +108526,6 @@ Banner468x60
 0.0.0.0  ferias.usj.es
 0.0.0.0  feraciumus.com
 0.0.0.0  feppiu.systemaction.es
-0.0.0.0  fentent.streampiay.me
 0.0.0.0  fengyx.com
 0.0.0.0  fengying5.com
 0.0.0.0  fengbuy.com
@@ -108599,6 +108624,7 @@ Banner468x60
 0.0.0.0  factory.redbull.racing
 0.0.0.0  facey.psjhealth.org
 0.0.0.0  facetwealth.actonservice.com
+0.0.0.0  facebookads.com
 0.0.0.0  face2.ishoppingapp.com
 0.0.0.0  f99.gdsoq.com
 0.0.0.0  f92j5.com
@@ -108791,7 +108817,6 @@ Banner468x60
 0.0.0.0  eu.sharpmarketing.eu
 0.0.0.0  eu.gldn.io
 0.0.0.0  eu.business.samsung.com
-0.0.0.0  eu-superops-wininstaller-prod.s3.eu-central-1.amazonaws.com
 0.0.0.0  etym6cero.com
 0.0.0.0  etwovr.underarmour.eu
 0.0.0.0  etui8.cn
@@ -108875,7 +108900,6 @@ Banner468x60
 0.0.0.0  engine.lvehaisen.com
 0.0.0.0  engine.liandaomobi.com
 0.0.0.0  engine.eroge.com
-0.0.0.0  engagesrvr.filefactory.com
 0.0.0.0  engagemaster.com
 0.0.0.0  engage.td.org
 0.0.0.0  engage.siriusdecisions.com
@@ -109689,11 +109713,13 @@ Banner468x60
 0.0.0.0  dpckzt.mesrecettesfaciles.fr
 0.0.0.0  dp.tuex.ca
 0.0.0.0  dozententag.ni.com
+0.0.0.0  dowonline.ru
 0.0.0.0  downtownit.actonservice.com
 0.0.0.0  downpayment.fernsby.com
 0.0.0.0  downloads.coface.com
 0.0.0.0  downloads.advancedtech.com
 0.0.0.0  downloadb.dewmobile.net
+0.0.0.0  download2.huduntech.com
 0.0.0.0  download.zzb6.cn
 0.0.0.0  download.zjsyawqj.cn
 0.0.0.0  download.zikirapp.com
@@ -109757,6 +109783,7 @@ Banner468x60
 0.0.0.0  dotaki.com
 0.0.0.0  dopa.com.cn
 0.0.0.0  doowe.cn
+0.0.0.0  dooflixonline.net
 0.0.0.0  dontbeevils.de
 0.0.0.0  donkeymob.com
 0.0.0.0  dongyu.us
@@ -109771,6 +109798,7 @@ Banner468x60
 0.0.0.0  dojomojo.com
 0.0.0.0  dohmen.actonservice.com
 0.0.0.0  doglobal.com
+0.0.0.0  dog-villa-portal.com
 0.0.0.0  docyjy.ryderwear.com
 0.0.0.0  docodoco.jp
 0.0.0.0  doclec.supersmart.com
@@ -110011,6 +110039,7 @@ Banner468x60
 0.0.0.0  dii1.bitiba.cz
 0.0.0.0  dii1.bitiba.be
 0.0.0.0  dii.bankaust.com.au
+0.0.0.0  digiteman77.com
 0.0.0.0  digitalunion.cn
 0.0.0.0  digital.setpointis.com
 0.0.0.0  digital.opsbase.com
@@ -110566,10 +110595,12 @@ Banner468x60
 0.0.0.0  d1ad.com
 0.0.0.0  d16b4.8ox.cn
 0.0.0.0  d15r06k2ko210l.cloudfront.net
+0.0.0.0  d13t0vhgb35i4m.cloudfront.net
 0.0.0.0  d.xinshipu.com
 0.0.0.0  d.xingshangnet.com
 0.0.0.0  d.xapcard.com
 0.0.0.0  d.whoscall.com
+0.0.0.0  d.wanyouxi7.com
 0.0.0.0  d.union.ijinshan.com
 0.0.0.0  d.tonghua5.com
 0.0.0.0  d.tjgxzs.com
@@ -110803,6 +110834,7 @@ Banner468x60
 0.0.0.0  cp.ggyapp.com
 0.0.0.0  cp.deltadentalwa.com
 0.0.0.0  cp.5jjx.net
+0.0.0.0  cp-caren.com
 0.0.0.0  cowhmc.docmorris.de
 0.0.0.0  covenant.psjhealth.org
 0.0.0.0  coup7cold.com
@@ -110930,7 +110962,6 @@ Banner468x60
 0.0.0.0  continue.com
 0.0.0.0  contextly.com
 0.0.0.0  contents.pwc.com
-0.0.0.0  contentrecommend-out.mobile.sina.cn
 0.0.0.0  content22.citi.eu
 0.0.0.0  content.youmiam.com
 0.0.0.0  content.verint.com
@@ -111120,6 +111151,7 @@ Banner468x60
 0.0.0.0  comtelitalia.alcatel-lucent.com
 0.0.0.0  compuware.actonservice.com
 0.0.0.0  computers.panasonic.eu
+0.0.0.0  compuserviceonline.com.br
 0.0.0.0  compulite.actonservice.com
 0.0.0.0  compugen.actonservice.com
 0.0.0.0  compteur.developpez.com
@@ -111235,6 +111267,7 @@ Banner468x60
 0.0.0.0  cocoawu.b0.upaiyun.com
 0.0.0.0  coco988.cn
 0.0.0.0  cockpitdcbaima.carte-gr.total.fr
+0.0.0.0  cockpit.hartsimagineering.com
 0.0.0.0  cobweb.actonservice.com
 0.0.0.0  coat0tire.com
 0.0.0.0  co85264.com
@@ -111262,6 +111295,7 @@ Banner468x60
 0.0.0.0  cngbpl.directliquidation.com
 0.0.0.0  cnej4912jks.com
 0.0.0.0  cndjs-1251973891.coshk.myqcloud.com
+0.0.0.0  cnc.504.su
 0.0.0.0  cnbanbao.com
 0.0.0.0  cname.pebmed.com.br
 0.0.0.0  cname-aa.staffservice-medical.jp
@@ -111326,6 +111360,7 @@ Banner468x60
 0.0.0.0  cm.dmp.360.cn
 0.0.0.0  cm.ctnsnet.com
 0.0.0.0  cm-mms.coachmag.co.uk
+0.0.0.0  clystracapfin.com
 0.0.0.0  club-img.douyucdn.cn
 0.0.0.0  cltxxq.cruises.united.com
 0.0.0.0  cltr.irlmail.org
@@ -111598,10 +111633,10 @@ Banner468x60
 0.0.0.0  central.actonservice.com
 0.0.0.0  central-core-7.com
 0.0.0.0  centermarkplacements.actonservice.com
-0.0.0.0  centent.stemplay.cc
 0.0.0.0  cenjobs.acspubs.org
 0.0.0.0  cenbrandlab.acspubs.org
 0.0.0.0  cen.acspubs.org
+0.0.0.0  celikaymutfak.com
 0.0.0.0  celigo.actonservice.com
 0.0.0.0  celebjihad.com
 0.0.0.0  cee2.iteye.com
@@ -111927,6 +111962,7 @@ Banner468x60
 0.0.0.0  bugjyl.jkattire.co.uk
 0.0.0.0  bugherd.com
 0.0.0.0  bubblewrapp.actonservice.com
+0.0.0.0  buayalegend01.site
 0.0.0.0  bu2.duba.com
 0.0.0.0  bu02.zybang.com
 0.0.0.0  bu01.zybang.com
@@ -112150,6 +112186,7 @@ Banner468x60
 0.0.0.0  br.ac.ebookers.de
 0.0.0.0  br.ac.ebookers.com
 0.0.0.0  br.ac.ebookers.ch
+0.0.0.0  bpy.is
 0.0.0.0  bps.ricoh.ie
 0.0.0.0  bps.ricoh.co.uk
 0.0.0.0  bpmonline.com
@@ -112160,6 +112197,7 @@ Banner468x60
 0.0.0.0  bp.mobad.ijinshan.com
 0.0.0.0  bozhihua.com
 0.0.0.0  boyxu.cn
+0.0.0.0  boybetrtp.com
 0.0.0.0  boy.fujieace.com
 0.0.0.0  boxshows.com
 0.0.0.0  box.bossdata.be
@@ -112256,7 +112294,6 @@ Banner468x60
 0.0.0.0  blackmesh.actonservice.com
 0.0.0.0  blackjack.abzorbagames.com
 0.0.0.0  blackhole-m.m.jd.com
-0.0.0.0  blackhattoolz.com
 0.0.0.0  blackdagger.openapp.link
 0.0.0.0  blackbirdventures.actonservice.com
 0.0.0.0  bl-test.curatedplanet.com
@@ -112331,6 +112368,7 @@ Banner468x60
 0.0.0.0  bfg.loanzify.app
 0.0.0.0  bfdcdn.com
 0.0.0.0  bfc-mp.caisse-epargne.fr
+0.0.0.0  bfacollege.co.in
 0.0.0.0  bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 0.0.0.0  beyondsecurity.com
 0.0.0.0  beyond.bluewolf.com
@@ -112355,6 +112393,7 @@ Banner468x60
 0.0.0.0  bepartof.wechain.eu
 0.0.0.0  beopinion.com
 0.0.0.0  bentonow.com
+0.0.0.0  benshamcentre.co.uk
 0.0.0.0  benniuluntai.cn
 0.0.0.0  benn8bord.com
 0.0.0.0  bengbeng.com
@@ -112437,6 +112476,7 @@ Banner468x60
 0.0.0.0  bbhyqp.com
 0.0.0.0  bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com
 0.0.0.0  bbbb.blackboard.com
+0.0.0.0  bbb.xfrwu.cn
 0.0.0.0  bbanywhere.links.rosieapp.com
 0.0.0.0  bb2.ifeng.com
 0.0.0.0  bb.onjoyri.de
@@ -112459,6 +112499,7 @@ Banner468x60
 0.0.0.0  baseniao.com.cn
 0.0.0.0  barrister.org.cn
 0.0.0.0  barracuda.carte-gr.total.fr
+0.0.0.0  bar88pov.com
 0.0.0.0  bapages.carte-gr.total.fr
 0.0.0.0  baoyatu.cc
 0.0.0.0  baofeng.m.cn.miaozhen.com
@@ -112624,6 +112665,7 @@ Banner468x60
 0.0.0.0  avertium.actonservice.com
 0.0.0.0  avbtkz.locknlockmall.com
 0.0.0.0  avbdf.com
+0.0.0.0  avbackup.acionline.de
 0.0.0.0  avaya-engage.avaya.com
 0.0.0.0  avasgtest.branch.rocks
 0.0.0.0  avapp.tv
@@ -112799,7 +112841,6 @@ Banner468x60
 0.0.0.0  apptracker.torob.com
 0.0.0.0  apptest.jow.fr
 0.0.0.0  apptest.gwsportsapp.in
-0.0.0.0  appsupdate.sinaapp.com
 0.0.0.0  appsecurezomation.carte-gr.total.fr
 0.0.0.0  apps.weekendgowhere.sg
 0.0.0.0  apps.uquote.io
@@ -113284,6 +113325,7 @@ Banner468x60
 0.0.0.0  app.atlasmission.com
 0.0.0.0  app.areyouin.io
 0.0.0.0  app.aquaservice.com
+0.0.0.0  app.appzcvb.com
 0.0.0.0  app.appcity.com.au
 0.0.0.0  app.anch.co
 0.0.0.0  app.almutawapharmacies.com
@@ -113359,7 +113401,6 @@ Banner468x60
 0.0.0.0  api.yuedu.iqiyi.com
 0.0.0.0  api.youxiaoad.com
 0.0.0.0  api.yidaomobi.com
-0.0.0.0  api.waptest.taobao.com
 0.0.0.0  api.upgrade.skysrt.com
 0.0.0.0  api.uniplayad.com
 0.0.0.0  api.ujian.cc
@@ -113433,6 +113474,7 @@ Banner468x60
 0.0.0.0  ao-marketing.dbiyes.com
 0.0.0.0  anysdk.com
 0.0.0.0  anura.io
+0.0.0.0  anupammills.com
 0.0.0.0  antwort.hager.de
 0.0.0.0  antonsystems.actonservice.com
 0.0.0.0  antns.com
@@ -113648,6 +113690,7 @@ Banner468x60
 0.0.0.0  americanroller.actonservice.com
 0.0.0.0  americanportfolios.actonservice.com
 0.0.0.0  amazon-email.branch.rocks
+0.0.0.0  amangboruspache.ink
 0.0.0.0  amandi.openapp.link
 0.0.0.0  amalto.actonservice.com
 0.0.0.0  amahami.net.anwalt.de
@@ -113774,7 +113817,6 @@ Banner468x60
 0.0.0.0  ahbyjm.fiever.com.br
 0.0.0.0  ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0  agrant.cn
-0.0.0.0  agoodm.m.taobao.com
 0.0.0.0  agnes.waz.de
 0.0.0.0  agn.aty.cp45.ott.cibntv.net
 0.0.0.0  agiledata7.com
@@ -113921,7 +113963,6 @@ Banner468x60
 0.0.0.0  ads.csdn.net
 0.0.0.0  ads.ce.cn
 0.0.0.0  ads.ccstock.cn
-0.0.0.0  ads.audio.thisisdax.com
 0.0.0.0  ads.adinall.com
 0.0.0.0  ads-ut.api.leiniao.com
 0.0.0.0  ads-uo.api.leiniao.com
@@ -114091,7 +114132,6 @@ Banner468x60
 0.0.0.0  ad.lqalm.com
 0.0.0.0  ad.leadboltmobile.net
 0.0.0.0  ad.kisstvshow.ru
-0.0.0.0  ad.kissasian.es
 0.0.0.0  ad.inhaabit.com
 0.0.0.0  ad.holaq.com
 0.0.0.0  ad.hefei.cc
@@ -114135,6 +114175,7 @@ Banner468x60
 0.0.0.0  activity.yuyiya.com
 0.0.0.0  activisionnews.com
 0.0.0.0  activehosted.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active-email.branch.rocks
 0.0.0.0  actirinius.com
 0.0.0.0  action.unifiedoffice.com
@@ -114483,7 +114524,6 @@ Banner468x60
 0.0.0.0  a7shun.com
 0.0.0.0  a6.hn985.com
 0.0.0.0  a4b-tracking.com
-0.0.0.0  a4active.tc.skysrt.com
 0.0.0.0  a46306.actonservice.com
 0.0.0.0  a46303.actonservice.com
 0.0.0.0  a46300.actonservice.com
@@ -114811,6 +114851,7 @@ Banner468x60
 0.0.0.0  a44177.actonservice.com
 0.0.0.0  a44172.actonservice.com
 0.0.0.0  a44171.actonservice.com
+0.0.0.0  a44157.actonservice.com
 0.0.0.0  a44156.actonservice.com
 0.0.0.0  a44155.actonservice.com
 0.0.0.0  a44148.actonservice.com
@@ -116872,7 +116913,6 @@ Banner468x60
 0.0.0.0  915.com
 0.0.0.0  911.cc
 0.0.0.0  91.51rmc.com
-0.0.0.0  91-92-241-8.cprapid.com
 0.0.0.0  90370.com
 0.0.0.0  8v1.cn
 0.0.0.0  8ox.cn
@@ -116903,7 +116943,6 @@ Banner468x60
 0.0.0.0  846.move7.com
 0.0.0.0  84232.com
 0.0.0.0  8315.cn
-0.0.0.0  83-87-76-41.cable.dynamic.v4.ziggo.nl
 0.0.0.0  8289.tv
 0.0.0.0  8184.cc
 0.0.0.0  818.dopa.com
@@ -117095,7 +117134,6 @@ Banner468x60
 0.0.0.0  425555a.com
 0.0.0.0  4251.tech
 0.0.0.0  4171764.fls.doubleclick.net
-0.0.0.0  4157.actonservice.com
 0.0.0.0  4135.com
 0.0.0.0  40caidaylimpia.catzolab.net
 0.0.0.0  402v.com
@@ -117164,6 +117202,7 @@ Banner468x60
 0.0.0.0  2te.com
 0.0.0.0  2smt6mfgo.de
 0.0.0.0  2l6ddsmnm.de
+0.0.0.0  2inf0.ru
 0.0.0.0  2hiu.com
 0.0.0.0  2f3.555b2b.com
 0.0.0.0  2cnjuh34jbpoint.com
@@ -117221,7 +117260,6 @@ Banner468x60
 0.0.0.0  20200403.logic.cpm.cm.kankan.com
 0.0.0.0  20200402.logic.cpm.cm.kankan.com
 0.0.0.0  20200401.logic.cpm.cm.kankan.com
-0.0.0.0  2016.sina.cn
 0.0.0.0  2005net.net
 0.0.0.0  2004seo.cn
 0.0.0.0  200218.com
@@ -117280,6 +117318,7 @@ Banner468x60
 0.0.0.0  1797wan.com
 0.0.0.0  178gg.com
 0.0.0.0  176.net.jumia.ma
+0.0.0.0  1735550459---www.c12o2z33.cc
 0.0.0.0  1717gs.com
 0.0.0.0  16m.cc
 0.0.0.0  168ad.cc
@@ -117292,7 +117331,6 @@ Banner468x60
 0.0.0.0  1588aa.com
 0.0.0.0  155game.com
 0.0.0.0  1503.net
-0.0.0.0  14stirling.dyndns.org
 0.0.0.0  1495039.com
 0.0.0.0  147ad.com
 0.0.0.0  143nchrtl3.com
@@ -117584,10 +117622,10 @@ Banner468x60
 @@||omniture.walmart.com^|
 @@||cdn.datatables.net^
 @@||s1.wp.com^
-@@||pgpartner.com^
 @@||redirect.disqus.com^
-@@||webstatic.nero.com^
 @@||admin.mailchimp.com^
+@@||pgpartner.com^
+@@||webstatic.nero.com^
 @@||login.gaijin.net^
 @@||krebsonsecurity.com
 @@||download.adguard.com^
@@ -117613,8 +117651,8 @@ Banner468x60
 @@||tcbox.baidu.com^
 @@||nsclick.baidu.com^
 @@||feed-image.baidu.com^
-@@||cm-10-*.getui.com^
 @@||cdn.ynuf.aliapp.org^
+@@||cm-10-*.getui.com^
 @@||v*.douyinvod.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||lf*-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -117644,156 +117682,156 @@ Banner468x60
 @@||p*-novel-sign.byteimg.com^
 @@||p*-ppx-sign.byteimg.com^
 @@||p*-ppx-report.byteimg.com^
-@@||lf1-cdn-tos.bytegoofy.com^
 @@||bgp.video-upload-v*.lf.bytelb.net^
 @@||monsetting.toutiao.com^
 @@||tnc3-bjlgy.zijieapi.com^
+@@||lf3-short.ibytedapm.com^
 @@||wxsnsdy.wxs.qq.com^
 @@||www.paypalobjects.com^
-@@||aweme.snssdk.com^
-@@||www.toutiao.com^
 @@||gm.mmstat.com^
+@@||gecko.zijieapi.com^
 @@||www.bqgyy.com^
-@@||ib.snssdk.com^
-@@||bootcdn.net^
-@@||cn.app.chat.xiaomi.net^
-@@||pic2.zhimg.com^
-@@||v.miguvideo.com^
-@@||v*.kwaicdn.com^
-@@||meiqia.com^
-@@||lf3-short.ibytedapm.com^
-@@||ylog.huya.com^
-@@||360.cn^
-@@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
-@@||m.toutiao.com^
-@@||v16m-default.akamaized.net^
-@@||dig.lianjia.com^
-@@||msg.douyu.com^
-@@||bjfesdk.douyucdn.cn^
-@@||scan.call.f.360.cn^
-@@||gift.douyucdn.cn^
-@@||payapp.weixin.qq.com^
-@@||na61-na62.wagbridge.alibaba.tanx.com^
-@@||avatar.coolapk.com^
-@@||pic.imgdb.cn
-@@||sdk.live.360.cn^
-@@||shouji.360.cn^
-@@||cloudcontrol.live.360.cn^
-@@||mimg.127.net^
-@@||jia.360.cn^
-@@||mdm.openapi.360.cn^
-@@||foundation.youdao.com^
 @@||is.snssdk.com^
+@@||cn.app.chat.xiaomi.net^
+@@||v.miguvideo.com^
+@@||meiqia.com^
+@@||pic2.zhimg.com^
+@@||v*.kwaicdn.com^
+@@||v16m-default.akamaized.net^
+@@||www.toutiao.com^
+@@||ylog.huya.com^
+@@||m.toutiao.com^
+@@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
+@@||bootcdn.net^
+@@||i2.y.qq.com^
+@@||dig.lianjia.com^
+@@||bjfesdk.douyucdn.cn^
+@@||payapp.weixin.qq.com^
+@@||api.coolapk.com^
+@@||gift.douyucdn.cn^
+@@||pic.imgdb.cn
+@@||fastconn-api.iot.360.cn^
+@@||mdm.openapi.360.cn^
+@@||shouji.360.cn^
 @@||pan.quark.cn^
+@@||avatar.coolapk.com^
+@@||click.aliyun.com^
+@@||report.passport.360.cn^
+@@||app.home.360.cn^
+@@||msg.douyu.com^
+@@||mimg.127.net^
+@@||soutiapi.quark.cn^
+@@||wgo.mmstat.com^
+@@||myquark.cn^
 @@||p*-faceu-img-sign.byteimg.com^
 @@||p*-passport.byteacctimg.com^
-@@||passport.360.cn^
-@@||wgo.mmstat.com^
-@@||i2.y.qq.com^
 @@||p3-flow-imagex-sign.byteimg.com^
-@@||download.uc.cn^
-@@||ad-log-upload.mihoyo.com^
-@@||img*.funshion.com^
-@@||app.home.360.cn^
-@@||drive.quark.cn^
+@@||scan.call.f.360.cn^
+@@||360.cn^
+@@||c.pc.qq.com^
 @@||p1-dcd.byteimg.com^
-@@||p3-cpay.byteimg.com^
-@@||myquark.cn^
+@@||img*.funshion.com^
+@@||ad-log-upload.mihoyo.com^
+@@||na61-na62.wagbridge.alibaba.tanx.com^
+@@||tybook.taoyuewenhua.net^
 @@||edu-image.nosdn.127.net^
-@@||speed.live.360.cn^
-@@||fastconn-api.iot.360.cn^
-@@||gecko.zijieapi.com^
-@@||pitaya.bytedance.com^
-@@||dp.push.dc.360.cn^
+@@||mooc-image.nosdn.127.net^
+@@||necaptcha.nosdn.127.net^
+@@||dinamicx.alibabausercontent.com^
+@@||lf1-cdn-tos.bytegoofy.com^
+@@||p3-search.byteimg.com^
 @@||app.toutiao.com^
-@@||mall.360.cn^
-@@||click.aliyun.com^
+@@||saveu.zijieapi.com^
 @@||p3-dcd.byteimg.com^
-@@||mobilist.kuwo.cn^
-@@||f-cashloan.snssdk.com^
+@@||download.uc.cn^
+@@||mssdk3-normal-lf.zijieapi.com^
 @@||search.kuwo.cn^
 @@||ncomment.kuwo.cn^
-@@||vip1.kuwo.cn^
-@@||soutiapi.quark.cn^
-@@||vas.snssdk.com^
-@@||tybook.taoyuewenhua.net^
-@@||mooc-image.nosdn.127.net^
-@@||ttwid.bytedance.com^
+@@||polaris.zijieapi.com^
 @@||down.360safe.com^
-@@||ydlunacommon-cdn.nosdn.127.net^
-@@||api.coolapk.com^
-@@||vcs.zijieapi.com^
-@@||puser.funshion.com^
-@@||c.pc.qq.com^
-@@||yanxuan.nosdn.127.net^
-@@||p3-iz-e-sign.byteimg.com^
-@@||necaptcha.nosdn.127.net^
-@@||pvip.funshion.com^
-@@||pm.funshion.com^
-@@||dinamicx.alibabausercontent.com^
-@@||po.funshion.com^
-@@||lf3-cdn-tos.bytegoofy.com^
-@@||adash-emas.cn-hangzhou.aliyuncs.com^
-@@||p3-notice.byteimg.com^
-@@||lf-c-flwb.bytetos.com^
+@@||jia.360.cn^
+@@||vip1.kuwo.cn^
+@@||f-cpay.snssdk.com^
+@@||f-cashloan.snssdk.com^
+@@||vas.snssdk.com^
+@@||drive.quark.cn^
+@@||mobilist.kuwo.cn^
+@@||js-gamezone.static.yximgs.com^
+@@||p3-dcd-sign.byteimg.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
-@@||gia.jd.com^
-@@||mssdk3-normal-lf.zijieapi.com^
+@@||p6-flow-imagex-sign.byteimg.com^
+@@||p3-notice.byteimg.com^
+@@||pm.funshion.com^
+@@||p6-dy-ipv6.byteimg.com^
+@@||p3-cpay.byteimg.com^
+@@||p6-dcd-sign.byteimg.com^
 @@||ali.static.yximgs.com^
 @@||ali-gamezone.static.yximgs.com^
-@@||p3-search.byteimg.com^
-@@||lf-cdn-tos.bytescm.com^
-@@||p3-dcd-sign.byteimg.com^
-@@||js-gamezone.static.yximgs.com^
-@@||p6-dy-ipv6.byteimg.com^
-@@||p3-insurance.byteimg.com^
-@@||auth.zijieapi.com^
-@@||p6-dcd-sign.byteimg.com^
-@@||report.passport.360.cn^
-@@||p6-flow-imagex-sign.byteimg.com^
-@@||f-cpay.snssdk.com^
-@@||saveu.zijieapi.com^
-@@||develope-oss.lanzoug.com^
-@@||ic.snssdk.com^
-@@||qzonestyle.gtimg.cn^
+@@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||lf1-cdn-tos.bytescm.com^
+@@||lf6-imcloud-file-sign.bytetos.com^
+@@||qzonestyle.gtimg.cn^
+@@||yanxuan-dl.nosdn.127.net^
+@@||puser.funshion.com^
+@@||ib.snssdk.com^
+@@||p3-insurance.byteimg.com^
+@@||gia.jd.com^
+@@||aweme.snssdk.com^
+@@||ydlunacommon-cdn.nosdn.127.net^
+@@||foundation.youdao.com^
+@@||ic.snssdk.com^
+@@||vcs.zijieapi.com^
+@@||auth.zijieapi.com^
+@@||yanxuan-item.nosdn.127.net^
 @@||smart.360.cn^
 @@||res.mi.baidu.com^
-@@||polaris.zijieapi.com^
-@@||yanxuan-item.nosdn.127.net^
-@@||effect.snssdk.com^
-@@||lf3-search.searchpstatp.com^
-@@||staticsns.cdn.bcebos.com^
-@@||onegoods.nosdn.127.net^
-@@||souti-ims.sm.cn^
+@@||dp.push.dc.360.cn^
+@@||pitaya.bytedance.com^
+@@||sdk.live.360.cn^
 @@||luna-dict-community.nosdn.127.net^
-@@||ali-ky.static.yximgs.com^
-@@||lf3-cdn-tos.bytescm.com^
-@@||p9-dy.byteimg.com
-@@||p9-dcd.byteimg.com^
-@@||p3-scmimg.bytescm.com^
-@@||yanxuan-dl.nosdn.127.net^
-@@||lf6-imcloud-file-sign.bytetos.com^
-@@||portal.volccdn.com^
+@@||pvip.funshion.com^
+@@||develope-oss.lanzoug.com^
+@@||p3-iz-e-sign.byteimg.com^
+@@||onegoods.nosdn.127.net^
+@@||yanxuan.nosdn.127.net^
+@@||cloudcontrol.live.360.cn^
+@@||lf-cdn-tos.bytescm.com^
 @@||vcs-quality.zijieapi.com^
-@@||open.bytedanceapi.com^
-@@||p9-flow-imagex-sign.byteimg.com^
-@@||p9-dcd-sign.byteimg.com^
-@@||ms.bdimg.com^
-@@||abtest3-misc-lf.zijieapi.com^
-@@||lf3-imcloud-file-sign.bytetos.com^
-@@||ipolyfill-origin.bytedance.com^
+@@||lf3-cdn-tos.bytegoofy.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
-@@||tianshu.gtimg.cn^
+@@||p9-dcd.byteimg.com^
+@@||open.bytedanceapi.com^
+@@||staticsns.cdn.bcebos.com^
+@@||abtest3-misc-lf.zijieapi.com^
+@@||lf3-cdn-tos.bytescm.com^
+@@||portal.volccdn.com^
+@@||po.funshion.com^
+@@||effect.snssdk.com^
+@@||passport.360.cn^
+@@||ttwid.bytedance.com^
+@@||p9-flow-imagex-sign.byteimg.com^
 @@||survey.feelgood.cn^
+@@||ms.bdimg.com^
+@@||p9-dcd-sign.byteimg.com^
+@@||ipolyfill-origin.bytedance.com^
+@@||p3-scmimg.bytescm.com^
+@@||ali-ky.static.yximgs.com^
 @@||s.mvconf.f.360.cn^
+@@||souti-ims.sm.cn^
+@@||p9-dy.byteimg.com
+@@||lf3-imcloud-file-sign.bytetos.com^
+@@||lf-c-flwb.bytetos.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf6-cdn-tos.bytegoofy.com^
-@@||lf3-cdn2-tos.bytescm.com^
 @@||m.jingxi.com^
-@@||cp2-cdn-play.funshion.com^
+@@||tianshu.gtimg.cn^
+@@||lf3-search.searchpstatp.com^
+@@||speed.live.360.cn^
+@@||mall.360.cn^
+@@||lf3-cdn2-tos.bytescm.com^
 @@||img.funshion.com^
 @@||qwhdcdn.cmcc-cs.cn^
+@@||cp2-cdn-play.funshion.com^
 @@||白名单仅用于测试.com^
 @@||web.qun.qq.com^
 @@||jd.com^important
