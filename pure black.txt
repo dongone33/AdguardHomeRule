@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-27 15:41:34
-# 总规则数：122085 (黑名单: 117431, 白名单: 4654)
+﻿# 更新时间: 2025-11-27 15:51:38
+# 总规则数：122104 (黑名单: 117450, 白名单: 4654)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -51562,6 +51562,7 @@ Banner468x60
 0.0.0.0 remingtonexpress.com
 0.0.0.0 remekcikkek.com
 0.0.0.0 remaxsaray.com
+0.0.0.0 remarketingpixel.com
 0.0.0.0 remain.chartboosts.com
 0.0.0.0 relyxo.live
 0.0.0.0 relty-goods.com
@@ -72919,6 +72920,7 @@ Banner468x60
 0.0.0.0 firm-trezor.com
 0.0.0.0 firintasi.com
 0.0.0.0 firingsquad.us.intellitxt.com
+0.0.0.0 fireworks-advertising.com
 0.0.0.0 firewallads.icu
 0.0.0.0 firevent.jd.com
 0.0.0.0 firesub.pl
@@ -83679,6 +83681,7 @@ Banner468x60
 0.0.0.0 blablacam.fr
 0.0.0.0 bla.gtimg.com
 0.0.0.0 bl.more-2-flirt.com
+0.0.0.0 bl.flirthits.com
 0.0.0.0 bl.dcsumm.shop
 0.0.0.0 bl-pipe.info
 0.0.0.0 bl-over-a.cfd
@@ -87104,6 +87107,7 @@ Banner468x60
 0.0.0.0 api.kaffnet.com
 0.0.0.0 api.jpush.cn
 0.0.0.0 api.jiguang.cn
+0.0.0.0 api.itv.letv.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.iqiyi.com
 0.0.0.0 api.ipinfodb.com
@@ -90180,6 +90184,7 @@ Banner468x60
 0.0.0.0 ads.gameservers.com
 0.0.0.0 ads.gamecopyworld.no
 0.0.0.0 ads.gamecity.net
+0.0.0.0 ads.game.net
 0.0.0.0 ads.fulldls.com
 0.0.0.0 ads.fuckingmachines.com
 0.0.0.0 ads.friendfinder.com
@@ -90187,6 +90192,7 @@ Banner468x60
 0.0.0.0 ads.freecaster.tv
 0.0.0.0 ads.freebannertrade.com
 0.0.0.0 ads.fredericksburg.com
+0.0.0.0 ads.foxnews.com
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.flooble.com
@@ -90761,6 +90767,7 @@ Banner468x60
 0.0.0.0 adexprt.com
 0.0.0.0 adexpose.com
 0.0.0.0 adexpansion.com
+0.0.0.0 adexc.net
 0.0.0.0 adeure.com
 0.0.0.0 adetracking.com
 0.0.0.0 adeptia.pl
@@ -91824,6 +91831,7 @@ Banner468x60
 0.0.0.0 abetterinternet.com
 0.0.0.0 abetran.com
 0.0.0.0 abersaglik.com
+0.0.0.0 abdurantom.com
 0.0.0.0 abdulvehhab.com
 0.0.0.0 abdullahunal.com
 0.0.0.0 abdullaharvas.com
@@ -95512,6 +95520,7 @@ Banner468x60
 0.0.0.0  txt.fuelmyclub.com
 0.0.0.0  txt.appcity.com.au
 0.0.0.0  txstatic.cn
+0.0.0.0  txrx.bol.com
 0.0.0.0  txpbnm.sevellia.com
 0.0.0.0  txaxkc.dsc-nightstore.com
 0.0.0.0  tx-pro-pull.kwai.net.iberostar.com
@@ -96060,6 +96069,7 @@ Banner468x60
 0.0.0.0  track.murray-intl.co.uk
 0.0.0.0  track.murray-income.co.uk
 0.0.0.0  track.marketingcube.com.au
+0.0.0.0  track.magazineluiza.com.br
 0.0.0.0  track.laredoute.fr
 0.0.0.0  track.ivia.com
 0.0.0.0  track.invtrusts.co.uk
@@ -97014,6 +97024,7 @@ Banner468x60
 0.0.0.0  sxjfhh.packersnews.com
 0.0.0.0  sxjfhh.newsleader.com
 0.0.0.0  sxjfhh.news-press.com
+0.0.0.0  sxjfhh.naplesnews.com
 0.0.0.0  sxjfhh.montgomeryadvertiser.com
 0.0.0.0  sxjfhh.hometownlife.com
 0.0.0.0  sxjfhh.greenbaypressgazette.com
@@ -98043,7 +98054,6 @@ Banner468x60
 0.0.0.0  smetrics.pwc.pl
 0.0.0.0  smetrics.pwc.ie
 0.0.0.0  smetrics.pwc.dk
-0.0.0.0  smetrics.pwc.co.uk
 0.0.0.0  smetrics.pwc.co.nz
 0.0.0.0  smetrics.purolatornow.com
 0.0.0.0  smetrics.puritan.com
@@ -98565,6 +98575,7 @@ Banner468x60
 0.0.0.0  sipulo.katies.com.au
 0.0.0.0  singleplatform.actonservice.com
 0.0.0.0  sina.mediav.com
+0.0.0.0  simulatelab-datasink.fzzixun.com
 0.0.0.0  simscale.actonservice.com
 0.0.0.0  simpletopay.americanexpress.co.uk
 0.0.0.0  simpleanalyticsbadge.com
@@ -98814,6 +98825,7 @@ Banner468x60
 0.0.0.0  sentry.siepomaga.pl
 0.0.0.0  sentry.d.xiaomi.net
 0.0.0.0  sentry.bhbapp.cn
+0.0.0.0  sentry-monitor-new.zdmimg.com
 0.0.0.0  sentiment.icis.com
 0.0.0.0  sensorsdata.ruguoapp.com
 0.0.0.0  sense.cliexa.com
@@ -103736,6 +103748,7 @@ Banner468x60
 0.0.0.0  m.408uo.cn
 0.0.0.0  m.3tx8zr.cn
 0.0.0.0  m.3987.com
+0.0.0.0  m.20mao.com
 0.0.0.0  m.1x3td.cn
 0.0.0.0  m.1s8pj.cn
 0.0.0.0  m.1qp9k.cn
@@ -105140,6 +105153,7 @@ Banner468x60
 0.0.0.0  kvfunf.factorydirect.ca
 0.0.0.0  kvfumh.fairwaystyles.com
 0.0.0.0  kutegiagoc.com
+0.0.0.0  kushou.com
 0.0.0.0  kurzweiledu.actonservice.com
 0.0.0.0  kuqi.com
 0.0.0.0  kumihua.com
@@ -107069,6 +107083,7 @@ Banner468x60
 0.0.0.0  hitachi-hightech-as.actonservice.com
 0.0.0.0  hit.cnbce.com
 0.0.0.0  hit-360.com
+0.0.0.0  histais.com
 0.0.0.0  hira-meki.jp
 0.0.0.0  hipkqt.contorion.de
 0.0.0.0  hipizza.openapp.link
@@ -107280,6 +107295,7 @@ Banner468x60
 0.0.0.0  gw100-10.com
 0.0.0.0  gw.d.ywopt.com
 0.0.0.0  gw.conversionsapigateway.com
+0.0.0.0  gw.365you.com
 0.0.0.0  gvxnff.soulara.com.au
 0.0.0.0  gvfbpo.diafer.com.br
 0.0.0.0  gvdqzy.milanoo.com
@@ -107655,7 +107671,6 @@ Banner468x60
 0.0.0.0  go.homepass.com
 0.0.0.0  go.homear.io
 0.0.0.0  go.hocoma.com
-0.0.0.0  go.hitachienergy.com
 0.0.0.0  go.heyho.my
 0.0.0.0  go.heritagebuildings.com
 0.0.0.0  go.heleman.org
@@ -109897,6 +109912,7 @@ Banner468x60
 0.0.0.0  dl.bimbaylola.com
 0.0.0.0  dl.benefits.express-scripts.com
 0.0.0.0  dl.autopay.eu
+0.0.0.0  dl.amazonmusic.com
 0.0.0.0  dl.8ox.cn
 0.0.0.0  dl.6thstreet.com
 0.0.0.0  dl.4buy.net
@@ -111470,6 +111486,7 @@ Banner468x60
 0.0.0.0  click.mediav.com
 0.0.0.0  click.mail.theknot.com
 0.0.0.0  click.mail.thecarousell.com
+0.0.0.0  click.mail.carousell.com
 0.0.0.0  click.lmbcustomersupport.com
 0.0.0.0  click.lergao.com
 0.0.0.0  click.instacartemail.com
@@ -111581,6 +111598,7 @@ Banner468x60
 0.0.0.0  ches5sort.com
 0.0.0.0  cherry.le.com
 0.0.0.0  chenshengyu.cn
+0.0.0.0  chengzijianzhan.cc
 0.0.0.0  chengjie168.com.cn
 0.0.0.0  chengadx.com
 0.0.0.0  chemdraw.com.cn
@@ -111806,6 +111824,7 @@ Banner468x60
 0.0.0.0  campaign.tandemdiabetes.com
 0.0.0.0  campaign.ssab.com
 0.0.0.0  campaign.ruukki.com
+0.0.0.0  campaign.rockwellautomation.com
 0.0.0.0  campaign.raymondcorp.com
 0.0.0.0  campaign.phinmaproperties.com
 0.0.0.0  campaign.outpayce.com
