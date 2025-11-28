@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-28 15:41:36
-# 总规则数：113015 (黑名单: 108361, 白名单: 4654)
+﻿# 更新时间: 2025-11-28 15:52:03
+# 总规则数：113019 (黑名单: 108365, 白名单: 4654)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -174,7 +174,6 @@
 ||utoken.umeng.com^
 ||usug.baidu.com^
 ||usr-api.aiclk.com^
-||userver-upaas.uc.cn^
 ||userlink.alicdn.com^
 ||us.l.qq.com^
 ||us.ibs.lgappstv.com^
@@ -37601,6 +37600,7 @@ Banner468x60
 0.0.0.0 torontocitywire.pro
 0.0.0.0 torolixtradersystem.com
 0.0.0.0 torolixtraderapp.com
+0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 torna-vida.com
 0.0.0.0 torjackan.info
 0.0.0.0 toririchard.shop
@@ -76816,7 +76816,6 @@ Banner468x60
 0.0.0.0 autoprofithub.org
 0.0.0.0 autoprofithub.net
 0.0.0.0 autoprofit.app
-0.0.0.0 autonewsinfo.fr
 0.0.0.0 autonations.com
 0.0.0.0 automoto.oewabox.at
 0.0.0.0 automotiveera.info
@@ -81201,6 +81200,7 @@ Banner468x60
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.bridgetrack.com.edgesuite.net
 0.0.0.0 ads.bridgetrack.com
+0.0.0.0 ads.brazzers.com
 0.0.0.0 ads.brand.net
 0.0.0.0 ads.brabys.com
 0.0.0.0 ads.boursorama.com
@@ -85698,6 +85698,7 @@ Banner468x60
 0.0.0.0  wm.makeding.com
 0.0.0.0  wm.20150.net
 0.0.0.0  wlwtcr.toptoon.com
+0.0.0.0  wlt-jupiter.de
 0.0.0.0  wlt-alice.de
 0.0.0.0  wlneteller.adsrv.eacdn.com
 0.0.0.0  wlct-one.de
@@ -89769,7 +89770,6 @@ Banner468x60
 0.0.0.0  sentry.siepomaga.pl
 0.0.0.0  sentry.d.xiaomi.net
 0.0.0.0  sentry.bhbapp.cn
-0.0.0.0  sentry-monitor-new.zdmimg.com
 0.0.0.0  sentiment.icis.com
 0.0.0.0  sensorsdata.ruguoapp.com
 0.0.0.0  sense.cliexa.com
@@ -91861,7 +91861,6 @@ Banner468x60
 0.0.0.0  ox-bio.com
 0.0.0.0  owss.ihs.com
 0.0.0.0  owpysc.lampenundleuchten.at
-0.0.0.0  owltrack.com
 0.0.0.0  owin.biqugego.com
 0.0.0.0  ow.s2.shuhuangge.org
 0.0.0.0  ow.s1.shuhuangge.org
@@ -96206,6 +96205,7 @@ Banner468x60
 0.0.0.0  kestlerfinancial.actonservice.com
 0.0.0.0  kesko.actonservice.com
 0.0.0.0  keqii.com
+0.0.0.0  kentent.stre4mplay.one
 0.0.0.0  kejet.com
 0.0.0.0  kehuduan.com
 0.0.0.0  keet1liod.com
@@ -96803,6 +96803,7 @@ Banner468x60
 0.0.0.0  international.wandw.ac.nz
 0.0.0.0  internalcomms.dbschenker.com
 0.0.0.0  internal.hcltech.com
+0.0.0.0  internal-t.posthog.com
 0.0.0.0  internal-e.posthog.com
 0.0.0.0  intern.forskning.no
 0.0.0.0  intermundomedia.com
@@ -97509,6 +97510,7 @@ Banner468x60
 0.0.0.0  images.explore.editionhotels.com
 0.0.0.0  images.explore.behr.com
 0.0.0.0  images.experience.eneco.be
+0.0.0.0  images.eq.tm.intuit.com
 0.0.0.0  images.engage.parexel.com
 0.0.0.0  images.engage.mims.com
 0.0.0.0  images.engage.mettel.net
@@ -97662,6 +97664,7 @@ Banner468x60
 0.0.0.0  ietheivaicai.com
 0.0.0.0  iesbpm.novasol.dk
 0.0.0.0  ieonlinews.microsoft.com
+0.0.0.0  ientent.stre4mplay.one
 0.0.0.0  ieg.intel.com
 0.0.0.0  iefiop.raizs.com.br
 0.0.0.0  ieeowa.marcjacobsbeauty.com
@@ -98062,6 +98065,7 @@ Banner468x60
 0.0.0.0  herb7calk.com
 0.0.0.0  herb2warn.com
 0.0.0.0  henzhuan.com
+0.0.0.0  hentent.stre4mplay.one
 0.0.0.0  helpdesk.thinkhdi.com
 0.0.0.0  hellogain.actonservice.com
 0.0.0.0  hello.wellocution.com
@@ -99016,6 +99020,7 @@ Banner468x60
 0.0.0.0  geo.ngtv.io
 0.0.0.0  geo.gridsumdissector.com
 0.0.0.0  gentian-frd.hjapi.com
+0.0.0.0  gentent.stre4mplay.one
 0.0.0.0  gentags.com
 0.0.0.0  gejzgq.gehaltsvergleich.com
 0.0.0.0  geindex.com
@@ -100574,7 +100579,6 @@ Banner468x60
 0.0.0.0  dw-collect.ksosoft.com
 0.0.0.0  dvvkov.agrieuro.de
 0.0.0.0  dvser02.china.com
-0.0.0.0  dvsend.china.com
 0.0.0.0  dvrxgs.fc-moto.de
 0.0.0.0  dvhcob.jtrip.co.jp
 0.0.0.0  dvczvm.cyfrowe.pl
@@ -102265,7 +102269,6 @@ Banner468x60
 0.0.0.0  cmp.tori.fi
 0.0.0.0  cmp.telerama.fr
 0.0.0.0  cmp.soundis.gr
-0.0.0.0  cmp.railmagazine.com
 0.0.0.0  cmp.playpilot.com
 0.0.0.0  cmp.pcworld.pl
 0.0.0.0  cmp.pcwelt.de
@@ -102517,6 +102520,7 @@ Banner468x60
 0.0.0.0  chiefinvestmentofficer.strategic-i.com
 0.0.0.0  chiefexecutive.actonservice.com
 0.0.0.0  chicken18.com
+0.0.0.0  chibi.sh
 0.0.0.0  chevalierusa.actonservice.com
 0.0.0.0  ches5sort.com
 0.0.0.0  cherry.le.com
