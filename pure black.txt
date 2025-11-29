@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-29 16:01:47
-# 总规则数：113008 (黑名单: 108354, 白名单: 4654)
+﻿# 更新时间: 2025-11-29 16:11:41
+# 总规则数：113004 (黑名单: 108350, 白名单: 4654)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -2224,17 +2224,18 @@ Banner468x60
 74.125.200.188 alt2-mtalk.google.com
 62.76.25.28^
 62.76.25.27^
-52.217.228.137                github-com.s3.amazonaws.com
-52.217.192.169                github-cloud.s3.amazonaws.com
+54.231.138.185                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.83.4                   github-production-user-asset-6210df.s3.amazonaws.com
 47.246.37.220 hugeota.d.miui.com
 47.246.37.220 bigota.d.miui.com
 45.82.68.79^
-3.5.0.121                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.27.137                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.1.128                     github-com.s3.amazonaws.com
 255.255.255.255 broadcasthost
 20.43.185.14 github.dev
 20.205.243.168                api.github.com
 20.205.243.166                github.com
-20.205.243.165                codeload.github.com
+20.205.243.166                gist.github.com
 20.200.245.247 github.com
 20.200.245.247 gist.github.com
 20.200.245.245 api.github.com
@@ -2277,10 +2278,9 @@ Banner468x60
 185.199.110.133 avatars0.githubusercontent.com
 185.199.110.133 avatars.githubusercontent.com
 185.199.109.154               github.githubassets.com
-16.15.217.88                  github-production-user-asset-6210df.s3.amazonaws.com
-16.15.207.32                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.183.12                  github-cloud.s3.amazonaws.com
 151.101.76.133 raw.github.com
-151.101.129.194               github.global.ssl.fastly.net
+151.101.65.194                github.global.ssl.fastly.net
 146.75.48.133 release-assets.githubusercontent.com
 146.75.48.133 raw.githubusercontent.com
 146.75.48.133 objects.githubusercontent.com
@@ -2291,19 +2291,19 @@ Banner468x60
 142.250.152.188 alt7-mtalk.google.com
 142.250.115.188 alt6-mtalk.google.com
 142.250.107.188 alt5-mtalk.google.com
+140.82.114.26                 live.github.com
+140.82.114.26                 alive.github.com
 140.82.114.22                 education.github.com
 140.82.114.22                 collector.github.com
-140.82.114.22                 api.individual.githubcopilot.com
+140.82.113.9                  codeload.github.com
 140.82.113.26 alive.github.com
-140.82.113.26                 alive.github.com
 140.82.113.22 central.github.com
+140.82.113.22                 central.github.com
 140.82.113.21 collector.github.com
-140.82.113.21                 central.github.com
-140.82.112.3                  gist.github.com
-140.82.112.26                 live.github.com
 140.82.112.25 live.github.com
+140.82.112.21                 api.individual.githubcopilot.com
 140.82.112.18 github.community
-140.82.112.17                 github.community
+140.82.112.18                 github.community
 13.107.42.16 pipelines.actions.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 13.107.213.73                 vscode.dev
@@ -84749,7 +84749,6 @@ Banner468x60
 0.0.0.0  zfjiu.com
 0.0.0.0  zfacts.com
 0.0.0.0  zerjin.com
-0.0.0.0  zenplay77a.com
 0.0.0.0  zenedge.actonservice.com
 0.0.0.0  zenaps.com
 0.0.0.0  zelle.odencat.com
@@ -85709,6 +85708,7 @@ Banner468x60
 0.0.0.0  wjgglm.com
 0.0.0.0  wiyun.com
 0.0.0.0  wivo2gaza.com
+0.0.0.0  wither-xmr.duckdns.org
 0.0.0.0  wirewuss.com
 0.0.0.0  windriversfiles.imeitools.com
 0.0.0.0  winbaicai.com
@@ -86061,6 +86061,7 @@ Banner468x60
 0.0.0.0  video-streaming.ezoic.com
 0.0.0.0  vicomi.com
 0.0.0.0  vick6duty.com
+0.0.0.0  vicious-net.duckdns.org
 0.0.0.0  vice4beek.com
 0.0.0.0  viatrisneuropathicpain.co.uk
 0.0.0.0  viapush.com
@@ -86197,7 +86198,6 @@ Banner468x60
 0.0.0.0  utiq.ptitchef.com
 0.0.0.0  utiq.atf-tagmanager.de
 0.0.0.0  utexas.actonservice.com
-0.0.0.0  utazznapolyba.hu
 0.0.0.0  ut2.shuqistat.com
 0.0.0.0  usw18-268-pdb.net.mydays.de
 0.0.0.0  usuf.candukang.cn
@@ -86208,6 +86208,7 @@ Banner468x60
 0.0.0.0  ushaqi.com
 0.0.0.0  usgzei.vidaxl.ch
 0.0.0.0  users.rentbabe.com
+0.0.0.0  users.atw.hu
 0.0.0.0  users-api.com
 0.0.0.0  userreport.com
 0.0.0.0  userimg.qunar.com
@@ -86539,7 +86540,6 @@ Banner468x60
 0.0.0.0  tst-link-ccontact.focuscura.com
 0.0.0.0  tsp.onjoyri.de
 0.0.0.0  tsliat.medme.pl
-0.0.0.0  tsfs.com.my
 0.0.0.0  tsbkht.puritan.com
 0.0.0.0  ts9.cc
 0.0.0.0  ts6.net
@@ -87483,7 +87483,6 @@ Banner468x60
 0.0.0.0  thsnvv.hollywoodschaukel-paradies.de
 0.0.0.0  thrive.metagenics.com
 0.0.0.0  thraka.openapp.link
-0.0.0.0  thortogel.net
 0.0.0.0  thomsonreuters.actonservice.com
 0.0.0.0  thli43.cn
 0.0.0.0  thinktot.com
@@ -88023,7 +88022,6 @@ Banner468x60
 0.0.0.0  survey-staging.mazda.com.au
 0.0.0.0  surpreendaapp.hanzo.com.br
 0.0.0.0  surfingbird.ru
-0.0.0.0  surethinks.com
 0.0.0.0  supvka.colancolan.com
 0.0.0.0  support.streamjav.top
 0.0.0.0  support.ricoh.de
@@ -88581,6 +88579,7 @@ Banner468x60
 0.0.0.0  souacode.com
 0.0.0.0  soua.com
 0.0.0.0  sotelsystems.actonservice.com
+0.0.0.0  sostexampp.duckdns.org
 0.0.0.0  sosintl.actonservice.com
 0.0.0.0  sosc.hrs.com
 0.0.0.0  sorrhs.nescafe.com.tr
@@ -90639,7 +90638,6 @@ Banner468x60
 0.0.0.0  rplzmw.cn
 0.0.0.0  rpfkgf.saarbruecker-zeitung.de
 0.0.0.0  rpfkgf.rp-online.de
-0.0.0.0  royalmatkapp.com
 0.0.0.0  roxtec.actonservice.com
 0.0.0.0  rowsrm.atasunoptik.com.tr
 0.0.0.0  routes.navibration.com
@@ -90821,8 +90819,10 @@ Banner468x60
 0.0.0.0  remote.carte-gr.total.fr
 0.0.0.0  remine.actonservice.com
 0.0.0.0  remind.me
+0.0.0.0  remcosf2025.duckdns.org
 0.0.0.0  remaxmetro369.myre.io
 0.0.0.0  remailtarget.com
+0.0.0.0  rem0925.duckdns.org
 0.0.0.0  relyonit.americanexpress.co.uk
 0.0.0.0  reltrd.peteralexander.com.au
 0.0.0.0  release.baidu.com
@@ -91268,6 +91268,7 @@ Banner468x60
 0.0.0.0  pub.sitetag.us
 0.0.0.0  pub.se.360.cn
 0.0.0.0  ptw-i.actonservice.com
+0.0.0.0  ptptonuwu.duckdns.org
 0.0.0.0  ptmcos.beginning.kr
 0.0.0.0  pthejzb.com
 0.0.0.0  pt6v.cn
@@ -91348,7 +91349,6 @@ Banner468x60
 0.0.0.0  pro.jig.space
 0.0.0.0  pro.heiguang.com
 0.0.0.0  pro.cn
-0.0.0.0  privvn2.vpnjantit.com
 0.0.0.0  privateadx.com
 0.0.0.0  private.dmscookie.com
 0.0.0.0  privacytools.com.br
@@ -91981,7 +91981,6 @@ Banner468x60
 0.0.0.0  open-test.wynk.in
 0.0.0.0  open-adx.com
 0.0.0.0  opbandit.com
-0.0.0.0  opaslotuv.site
 0.0.0.0  op.88dush.com
 0.0.0.0  oopt.norauto.es
 0.0.0.0  ooo.0o0.ooo
@@ -92127,6 +92126,7 @@ Banner468x60
 0.0.0.0  okwfx.cn
 0.0.0.0  okto1.spsglobal.com
 0.0.0.0  okokw.com
+0.0.0.0  oknoplastik.sk
 0.0.0.0  okmgy.cn
 0.0.0.0  okead.com
 0.0.0.0  okc-5191.com
@@ -92313,7 +92313,6 @@ Banner468x60
 0.0.0.0  nochange.ggsafe.com
 0.0.0.0  nocaadobefpc.optus.com.au
 0.0.0.0  noble55.com
-0.0.0.0  no-more-spam.app
 0.0.0.0  nnwm.com
 0.0.0.0  nnofmj.studiof.com.co
 0.0.0.0  nnobek.waschbaer.de
@@ -92366,7 +92365,6 @@ Banner468x60
 0.0.0.0  ngghll.me.co.kr
 0.0.0.0  nfwebminer.com
 0.0.0.0  nfudeh.jadebag.co.kr
-0.0.0.0  nextslot777b.world
 0.0.0.0  newzheng.cn
 0.0.0.0  newwiesdom.com.cn
 0.0.0.0  newweb.top
@@ -92570,6 +92568,7 @@ Banner468x60
 0.0.0.0  my.gaius.app
 0.0.0.0  my.fynd.com
 0.0.0.0  my.fbird.co
+0.0.0.0  my.cloudme.com
 0.0.0.0  my.catfinancial.com
 0.0.0.0  my.blueprint-health.com
 0.0.0.0  my.bake-club.com
@@ -92842,7 +92841,6 @@ Banner468x60
 0.0.0.0  missionrs.actonservice.com
 0.0.0.0  misrepush.com
 0.0.0.0  misosoup.io
-0.0.0.0  miserugrayhair.com
 0.0.0.0  misc1bulk.com
 0.0.0.0  mirtesen.ru
 0.0.0.0  mirec.ubmmexico.com
@@ -93723,7 +93721,6 @@ Banner468x60
 0.0.0.0  met.jasperforge.org
 0.0.0.0  met.adwhirl.com
 0.0.0.0  mesure-pro.engie.fr
-0.0.0.0  messias.org.br
 0.0.0.0  messengerpeople.com
 0.0.0.0  messaging.sourcepoint.com
 0.0.0.0  mesalabs.actonservice.com
@@ -94270,6 +94267,7 @@ Banner468x60
 0.0.0.0  mail2.carte-gr.total.fr
 0.0.0.0  mail1.happ.social
 0.0.0.0  mail.tops.co.th
+0.0.0.0  mail.swingologygolfschools.com
 0.0.0.0  mail.semilab.hu
 0.0.0.0  mail.rethinkretirementincome.co.uk
 0.0.0.0  mail.information.maileva.com
@@ -95187,7 +95185,6 @@ Banner468x60
 0.0.0.0  linking.venueapp-system.com
 0.0.0.0  linkifier.com
 0.0.0.0  linkhealth-app.hotdoc.com.au
-0.0.0.0  linkgacorkingbet189.space
 0.0.0.0  linkeye.ximalaya.com
 0.0.0.0  linker.staging.lyrahealth.com
 0.0.0.0  linkdev.sprive.com
@@ -96196,7 +96193,6 @@ Banner468x60
 0.0.0.0  keybut.com
 0.0.0.0  keyade.fr
 0.0.0.0  key2.actonservice.com
-0.0.0.0  ketuabuayatogel.site
 0.0.0.0  kestlerfinancial.actonservice.com
 0.0.0.0  kesko.actonservice.com
 0.0.0.0  keqii.com
@@ -96228,7 +96224,6 @@ Banner468x60
 0.0.0.0  kbcmdi.florsheim.com.au
 0.0.0.0  kb-render.alicdn.com
 0.0.0.0  kavyasourcing.com
-0.0.0.0  kavacanada.ca
 0.0.0.0  katylz.lojaspompeia.com
 0.0.0.0  kattoremontti.ruukki.com
 0.0.0.0  kattepush.com
@@ -96614,6 +96609,7 @@ Banner468x60
 0.0.0.0  jatflh.pharmamarket.be
 0.0.0.0  jasmin.com
 0.0.0.0  japheth.com.cn
+0.0.0.0  japantripninja.com
 0.0.0.0  japan.secureforms.partnermcafee.com
 0.0.0.0  japan.inmobi.com
 0.0.0.0  jan19.zhiyueit.com
@@ -99353,6 +99349,7 @@ Banner468x60
 0.0.0.0  fm.p0y.cn
 0.0.0.0  flznib.weblio.jp
 0.0.0.0  flyingpt.com
+0.0.0.0  flybirdexpbd.com
 0.0.0.0  flv.dotmore.com.tw
 0.0.0.0  flunion.cn
 0.0.0.0  fluentco.actonservice.com
@@ -99371,7 +99368,6 @@ Banner468x60
 0.0.0.0  flipt.actonservice.com
 0.0.0.0  flipcard.bridged.media
 0.0.0.0  flexlinkspro.com
-0.0.0.0  flechabusretiro.com.ar
 0.0.0.0  fldoai.municipal.com
 0.0.0.0  flavors.firmenich.com
 0.0.0.0  flaviar.com
@@ -99405,14 +99401,12 @@ Banner468x60
 0.0.0.0  firstpac.actonservice.com
 0.0.0.0  fireworktv.com
 0.0.0.0  fireworkapi.com
-0.0.0.0  firekirinonline.download
 0.0.0.0  firefang.cn
 0.0.0.0  fire.solutions.jci.com
 0.0.0.0  fipsta.worldfitness.de
 0.0.0.0  fipsta.urbanara.co.uk
 0.0.0.0  finley.finleyusa.com
 0.0.0.0  finger-info.net
-0.0.0.0  finesreport.com.br
 0.0.0.0  finead.cn
 0.0.0.0  findyourinfluence.actonservice.com
 0.0.0.0  findthetruth.allergyai.com
@@ -99566,6 +99560,7 @@ Banner468x60
 0.0.0.0  facetwealth.actonservice.com
 0.0.0.0  facebookads.com
 0.0.0.0  face2.ishoppingapp.com
+0.0.0.0  fabian-neffgen.de
 0.0.0.0  f99.gdsoq.com
 0.0.0.0  f92j5.com
 0.0.0.0  f928.pandasuite.io
@@ -100445,7 +100440,6 @@ Banner468x60
 0.0.0.0  easy-hit-counter.com
 0.0.0.0  eastern2.secureforms.mcafee.com
 0.0.0.0  easou.com
-0.0.0.0  earsi.com
 0.0.0.0  earmasterchina.cn
 0.0.0.0  eamob.com
 0.0.0.0  eakwza.bipicar.com
@@ -100647,7 +100641,6 @@ Banner468x60
 0.0.0.0  dptkdh.joinhoney.com
 0.0.0.0  dptgdj.usagi-online.com
 0.0.0.0  dps-reach.com
-0.0.0.0  dps-radar.play-market-store.ru
 0.0.0.0  dpm.demdex.net.iberostar.com
 0.0.0.0  dplp1.ibmnorthamerica.adobesandbox.com
 0.0.0.0  dpckzt.mesrecettesfaciles.fr
@@ -100684,6 +100677,7 @@ Banner468x60
 0.0.0.0  download.getneema.com
 0.0.0.0  download.fuyuncc.com
 0.0.0.0  download.frolit.io
+0.0.0.0  download.edimakor.net
 0.0.0.0  download.dnv.com
 0.0.0.0  download.dackinc.com
 0.0.0.0  download.createyournextcustomer.com
@@ -100736,7 +100730,6 @@ Banner468x60
 0.0.0.0  dojomojo.com
 0.0.0.0  dohmen.actonservice.com
 0.0.0.0  doglobal.com
-0.0.0.0  dog-villa-portal.com
 0.0.0.0  docyjy.ryderwear.com
 0.0.0.0  docodoco.jp
 0.0.0.0  doclec.supersmart.com
@@ -101097,7 +101090,6 @@ Banner468x60
 0.0.0.0  detnmz.ehow.com
 0.0.0.0  detailsinspiration-data.com
 0.0.0.0  detail.taobao.com
-0.0.0.0  detail-booking.com.br
 0.0.0.0  desuscripcion.phg.palladiumhotelgroup.com
 0.0.0.0  design.nanawall.com
 0.0.0.0  design.informabi.com
@@ -101534,7 +101526,6 @@ Banner468x60
 0.0.0.0  d1ad.com
 0.0.0.0  d16b4.8ox.cn
 0.0.0.0  d15r06k2ko210l.cloudfront.net
-0.0.0.0  d13t0vhgb35i4m.cloudfront.net
 0.0.0.0  d.xinshipu.com
 0.0.0.0  d.xingshangnet.com
 0.0.0.0  d.xapcard.com
@@ -102203,7 +102194,6 @@ Banner468x60
 0.0.0.0  cocoawu.b0.upaiyun.com
 0.0.0.0  coco988.cn
 0.0.0.0  cockpitdcbaima.carte-gr.total.fr
-0.0.0.0  cockpit.hartsimagineering.com
 0.0.0.0  cobweb.actonservice.com
 0.0.0.0  coat0tire.com
 0.0.0.0  co85264.com
@@ -102310,6 +102300,7 @@ Banner468x60
 0.0.0.0  cloudcdn.gdn
 0.0.0.0  cloudcdn.dopa.com.cn
 0.0.0.0  cloudcdn.dopa.com
+0.0.0.0  cloudbuild.splashtop.com
 0.0.0.0  cloudad.asia
 0.0.0.0  cloud.zyiis.net
 0.0.0.0  cloud.webtrack.online
@@ -103136,7 +103127,6 @@ Banner468x60
 0.0.0.0  box.bossdata.be
 0.0.0.0  bowl.actonservice.com
 0.0.0.0  botuu.adsame.com
-0.0.0.0  botevecc.boteve.cc
 0.0.0.0  botb.rtl2.de
 0.0.0.0  bot.streaktrivia.com
 0.0.0.0  bot.stackbots.com
@@ -103320,6 +103310,7 @@ Banner468x60
 0.0.0.0  best10cdn.blob.core.windows.net
 0.0.0.0  best.obs.cn-sz1.ctyun.cn
 0.0.0.0  besocial.online
+0.0.0.0  bertticleaning.com
 0.0.0.0  bersondeanstevens.actonservice.com
 0.0.0.0  berg-6-82.com
 0.0.0.0  beqioy.promessedefleurs.com
@@ -103742,6 +103733,7 @@ Banner468x60
 0.0.0.0  aries.mzres.com
 0.0.0.0  arid5glop.com
 0.0.0.0  aria.inhaabit.com
+0.0.0.0  arhitectpitesti.ro
 0.0.0.0  argyleforum.actonservice.com
 0.0.0.0  arena-quantum.co.uk
 0.0.0.0  ardmall.com
@@ -104679,6 +104671,7 @@ Banner468x60
 0.0.0.0  akv2-br-cdn.kwai.net.iberostar.com
 0.0.0.0  akspdp.materialkitchen.com
 0.0.0.0  akgnwd.tocris.com
+0.0.0.0  akamishitworks.jumpingcrab.com
 0.0.0.0  ak-br-cdn.kwai.net.iberostar.com
 0.0.0.0  ajo-zensar.adobesandbox.com
 0.0.0.0  ajo-lp-salesvelocity.adobedemo.com
@@ -104776,7 +104769,6 @@ Banner468x60
 0.0.0.0  aeros12.tk
 0.0.0.0  aeros02.tk
 0.0.0.0  aeromark.actonservice.com
-0.0.0.0  aerconditionat-arges.ro
 0.0.0.0  aep-target.credit-suisse.com
 0.0.0.0  aeewjq.dr-vegefru.com
 0.0.0.0  aec-target.telenet.be
@@ -107916,6 +107908,7 @@ Banner468x60
 0.0.0.0  757d.pandasuite.io
 0.0.0.0  7577.cc
 0.0.0.0  7555.net
+0.0.0.0  74-194-191-52.htvlcmta01.com.dyn.suddenlink.net
 0.0.0.0  73508.com
 0.0.0.0  7208853.hitslink.com
 0.0.0.0  720-trail.co.uk
@@ -108112,6 +108105,8 @@ Banner468x60
 0.0.0.0  324.com
 0.0.0.0  322927.com
 0.0.0.0  31fq.com
+0.0.0.0  31agostomax4.dynuddns.com
+0.0.0.0  31agostomax3.dynuddns.net
 0.0.0.0  31911.com
 0.0.0.0  3180555.com
 0.0.0.0  315gg.com
@@ -108325,6 +108320,7 @@ Banner468x60
 0.0.0.0  0doo.net
 0.0.0.0  0ddf.pandasuite.io
 0.0.0.0  0ci.top
+0.0.0.0  09c1d5c3-1a6e-4c05-8e4e-eff75c6b5dd6.usrfiles.com
 0.0.0.0  07b3.pandasuite.io
 0.0.0.0  0757kd.cn
 0.0.0.0  0755rc.com
