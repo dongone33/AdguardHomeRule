@@ -54,16 +54,16 @@ BLACKLIST_SOURCES = {
     #"DD自用                  ": "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
     "消失DD                  ": "https://raw.githubusercontent.com/afwfv/DD-AD/refs/heads/release/dns.txt",
     #"大萌主           　     ": "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-    "逆向涉猎       　       ": "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
+    #"逆向涉猎 晴雅？      　       ": "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
     "下个ID见                ": "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts",
     #"那个谁520               ": "https://raw.githubusercontent.com/qq5460168/666/master/rules.txt",
-    "1hosts                  ": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
-    "茯苓的广告规则    　     ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt",
+    #"1hosts                  ": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
+    #"茯苓的广告规则    　     ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt",
     "立场不定的               ": "https://raw.githubusercontent.com/Menghuibanxian/Minecraft/refs/heads/main/AdguardHome.txt",
     #"anti-ad混合名单   　     ": "https://anti-ad.net/easylist.txt",
     #"酷安 番茄 七猫　         ": "https://d.kstore.dev/download/10497/xiaoshuo.txt",
     #"酷安          　         ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/Master/OtherRules/CoolapkRules.txt",
-    "那个谁520   　　　　     ": "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
+    #"那个谁520   　　　　     ": "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
     "StevenBlack 　　　　     ": "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
     "neodevpro   　　　　     ": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host"
 }
@@ -72,18 +72,18 @@ BLACKLIST_SOURCES = {
 # ##
 # 白名单源
 WHITELIST_SOURCES = {
-    "茯苓允许列表              ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
+    #"茯苓允许列表              ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
     #"qq5460168                ": "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
     #"个人自用白名单            ": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     #"酷安cocieto白名单         ": "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
-    "BlueSkyXN          　     ": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
+    #"BlueSkyXN          　     ": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
     #"那个谁520广告白名单 　     ": "https://raw.githubusercontent.com/qq5460168/EasyAds/main/allow.txt",
     #"AdGuardHome通用白名单 　   ": "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
     #"jhsvip白名单               ": "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
     #"liwenjie119白名单          ": "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
     #"喵二白名单                 ": "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
-    "Cats-Team白名单          　": "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt",
-    "那个谁520 　　　          　": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+    #"Cats-Team白名单          　": "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt",
+    #"那个谁520 　　　          　": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     #"浅笑白名单                  ": "https://raw.githubusercontent.com/user001235/112/main/white.txt"
 }
 
