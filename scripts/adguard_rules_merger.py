@@ -235,6 +235,18 @@ def process_rules(rules):
     final_rules = usable_extracted + usable_original
     return final_rules
 
+def sanitize_caret_suffixes(rules):
+    cleaned = []
+    for rule in rules:
+        s = str(rule).strip().lstrip('\ufeff')
+        if not s:
+            continue
+        idx = s.find('^')
+        if idx != -1:
+            s = s[:idx + 1]
+        cleaned.append(s)
+    return cleaned
+
 def main(generate_white_file=True, override_time: str = None):
     print("开始处理AdGuardHome规则...")
     
@@ -357,7 +369,6 @@ def main(generate_white_file=True, override_time: str = None):
 
 if __name__ == "__main__":
     import sys
-    # 解析参数：是否生成 White.txt，以及统一时间戳
     generate_white_file = "--no-white-file" not in sys.argv
     override_time = None
     if "--timestamp" in sys.argv:
@@ -367,14 +378,3 @@ if __name__ == "__main__":
         except Exception:
             pass
     main(generate_white_file, override_time)
-def sanitize_caret_suffixes(rules):
-    cleaned = []
-    for rule in rules:
-        s = str(rule).strip().lstrip('\ufeff')
-        if not s:
-            continue
-        idx = s.find('^')
-        if idx != -1:
-            s = s[:idx + 1]
-        cleaned.append(s)
-    return cleaned
