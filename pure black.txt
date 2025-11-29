@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-30 01:51:40
-# 总规则数：115417 (黑名单: 114928, 白名单: 489)
+# 更新时间: 2025-11-30 02:01:44
+# 总规则数：115318 (黑名单: 114919, 白名单: 399)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -40,7 +40,6 @@
 ||wxa.wxs.qq.com^
 ||www.googleadservices.com^
 ||www.datadoghq-browser-agent.com^
-||www.cdn.ad.xiaomi.com^
 ||wwads.cn^
 ||wv.inner-active.mobi^
 ||wt.viagogo.net^
@@ -66,7 +65,6 @@
 ||wcp.taobao.com^
 ||watson.telemetry.microsoft.com^
 ||watson.microsoft.com^
-||w1.luckyorange.com^
 ||w1.kskwai.com^
 ||w1.gskwai.com^
 ||w1.askwai.com^
@@ -254,8 +252,6 @@
 ||statics.woozooo.com^
 ||statichf.shihuocdn.cn^
 ||static.wjxcdn.com^
-||static.media.net^
-||static.hotjar.com^
 ||static.fengkongcloud.com^
 ||static.doubleclick.net^
 ||static.cloudflareinsights.com^
@@ -340,11 +336,9 @@
 ||saxysec.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||samsungads.com^
-||samsungadhub.com^
 ||samsung-com.112.2o7.net^
 ||saas.hpplay.cn^
 ||saad.ms.zhangyue.net^
-||sa.api.intl.miui.com^
 ||s8t.teads.tv^
 ||s1.cdn-sg.advlion.com^
 ||s.pemsrv.com^
@@ -542,7 +536,6 @@
 ||mi.gdt.qq.com^
 ||mgid.com^
 ||metrika.yandex.ru^
-||metrics4.data.hicloud.com^
 ||metrics2.data.hicloud.com^
 ||metrics.mzstatic.com^
 ||metrics.icloud.com^
@@ -551,9 +544,6 @@
 ||metrics-dra.dt.hicloud.com^
 ||metok.sys.miui.com^
 ||merequartz.com^
-||mediavisor.doubleclick.net^
-||media.net^
-||media.fastclick.net^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mcs.zijieapi.com^
 ||mcs.snssdk.com^
@@ -717,7 +707,6 @@
 ||houyi.kkmh.com^
 ||hotupgrade.hpplay.cn^
 ||hotjar.com^
-||hotjar-analytics.com^
 ||hot.browser.miui.com^
 ||hmma.baidu.com^
 ||hm.baidu.com^
@@ -785,9 +774,7 @@
 ||fclog.baidu.com^
 ||fclick.baidu.com^
 ||fastclick.net^
-||fastclick.com^
 ||fancyapi.com^
-||facebook.com^
 ||extmaps-api.yandex.net^
 ||events3alt.adcolony.com^
 ||events.redditmedia.com^
@@ -819,7 +806,6 @@
 ||drcn-weather.cloud.huawei.com^
 ||dp3.qq.com^
 ||downloadxml.changhong.upgrade2.huan.tv^
-||download.uc.cn^
 ||download.changhong.upgrade2.huan.tv^
 ||doubleclick.net^
 ||doubleclick-cn.net^
@@ -873,7 +859,6 @@
 ||cpc-service-square.aiclk.com^
 ||continuum.dds.microsoft.com^
 ||content-understand-strategy.sm.cn^
-||connect.facebook.net^
 ||config.unityads.unity3d.com^
 ||config.inmobi.com^
 ||config.chsmarttv.com^
@@ -911,11 +896,9 @@
 ||cdn.ynuf.aliapp.org^
 ||cdn.wwads.cn^
 ||cdn.matomo.cloud^
-||cdn.luckyorange.com^
 ||cdn.liftoff-creatives.io^
 ||cdn.iads.unitychina.cn^
 ||cdn.hpplay.com.cn^
-||cdn.fastclick.net^
 ||cdn.chinaliftoff-creatives.io^
 ||cdn.aiclk.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
@@ -951,7 +934,6 @@
 ||btloader.com^
 ||bsrv.qq.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
-||browser.sentry-cdn.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser.events.data.msn.com^
 ||browser.events.data.msn.cn^
@@ -965,7 +947,6 @@
 ||bj-td-menta-01-callback.advlion.com^
 ||biz.weibo.com^
 ||bingads.microsoft.com^
-||bigdata.ssp.samsung.com^
 ||bidder.criteo.com^
 ||bianxian.com^
 ||bgg.baidu.com^
@@ -1037,7 +1018,6 @@
 ||api.ad.xiaomi.com^
 ||api-shoulei-ssl.xunlei.com^
 ||api-htp.beizi.biz^
-||api-hotjar.com^
 ||api-gd.hiaiabc.com^
 ||api-adservices.apple.com^
 ||api-ad-product.huxiu.com^
@@ -1066,7 +1046,6 @@
 ||analytics.query.yahoo.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pinterest.com^
-||analytics.oneplus.cn^
 ||analytics.oceanengine.com^
 ||analytics.mobile.yandex.net^
 ||analytics.meituan.net^
@@ -1085,8 +1064,6 @@
 ||amdcopen.m.taobao.com^
 ||amdc.m.taobao.com^
 ||amdc.alipay.com^
-||amazonclix.com^
-||amazonaax.com^
 ||als.baidu.com^
 ||alogus.umeng.com^
 ||alog.umeng.com^
@@ -1098,7 +1075,6 @@
 ||aiseet.aa.atianqi.com^
 ||agn.aty.sohu.com^
 ||afs.googlesyndication.com^
-||affiliationjs.s3.amazonaws.com^
 ||afd.baidu.com^
 ||aem.dentsuchina.cn^
 ||aegis.qq.com^
@@ -1124,7 +1100,6 @@
 ||advertpay-vip-ssl.xunlei.com^
 ||advertising.yandex.ru^
 ||advertising.yahoo.com^
-||advertising.twitter.com^
 ||advertising.apple.com^
 ||advertising-api.amazon.com^
 ||advertising-api-fe.amazon.com^
@@ -1157,7 +1132,6 @@
 ||adserviceretry.kugou.com^
 ||adservice.sigmob.cn^
 ||adservice.google.com^
-||adservetx.media.net^
 ||adserver.unityads.unity3d.com^
 ||adsense.google.cn^
 ||adsebs.ximalaya.com^
@@ -1183,7 +1157,6 @@
 ||ads.tiktok.com^
 ||ads.service.kugou.com^
 ||ads.servebom.com^
-||ads.reddit.com^
 ||ads.raidrive.com^
 ||ads.pubmatic.com^
 ||ads.pinterest.com^
@@ -1193,7 +1166,6 @@
 ||ads.huantest.com^
 ||ads.huan.tv^
 ||ads.google.cn^
-||ads.facebook.com^
 ||ads.adfox.ru^
 ||ads.95516.com^
 ||ads-video-qc.xhscdn.com^
@@ -1205,7 +1177,6 @@
 ||ads-jp.tiktok.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-img-al.xhscdn.com^
-||ads-dev.pinterest.com^
 ||ads-api.x.com^
 ||ads-api.twitter.com^
 ||ads-api.tiktok.com^
@@ -1276,7 +1247,6 @@
 ||ad-cdn.qingting.fm^
 ||activity.windows.com^
 ||acs4baichuan.m.taobao.com^
-||acd.op.hicloud.com^
 ||accscdn.m.taobao.com^
 ||ac.dun.163yun.com^
 ||abtest3-misc-lq.zijieapi.com^
@@ -1287,7 +1257,6 @@
 ||aaid.umeng.com^
 ||a1.itc.cn^
 ||a0.app.xiaomi.com^
-||a.mouseflow.com^
 ||a.market.xiaomi.com^
 ||a.baidinet.com^
 ||Media.net^
@@ -40738,6 +40707,7 @@ Banner468x60
 0.0.0.0 static.mepuzz.com
 0.0.0.0 static.mediaz.asia
 0.0.0.0 static.mediav.com
+0.0.0.0 static.media.net
 0.0.0.0 static.mddlsa.com
 0.0.0.0 static.madev.work
 0.0.0.0 static.mackeeper.com
@@ -40763,6 +40733,7 @@ Banner468x60
 0.0.0.0 static.ifa.slutloadlive.com
 0.0.0.0 static.ifa.empflixlive.com
 0.0.0.0 static.ifa.camads.net
+0.0.0.0 static.hotjar.com
 0.0.0.0 static.hk5.vip.prod.criteo.net
 0.0.0.0 static.hbplatform.com
 0.0.0.0 static.hatid.com
@@ -43168,6 +43139,7 @@ Banner468x60
 0.0.0.0 serving.stat-rock.com
 0.0.0.0 serving.plexop.net
 0.0.0.0 serving.ad.org.vn
+0.0.0.0 serving-sys.com
 0.0.0.0 servicosfcporto.com
 0.0.0.0 serviceuphelper.com
 0.0.0.0 serviceupdates.net
@@ -44477,6 +44449,7 @@ Banner468x60
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sa.outbrain.com
 0.0.0.0 sa.bbc.co.uk
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.aol.com.122.2o7.net
 0.0.0.0 s9kkremkr0.com
 0.0.0.0 s9g7fa.cfd
@@ -55555,6 +55528,7 @@ Banner468x60
 0.0.0.0 mediawhirl.net
 0.0.0.0 mediaweaver.jp
 0.0.0.0 mediavoice.com
+0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 mediaview.globalmailer.com
 0.0.0.0 mediavadasz.info
 0.0.0.0 mediatrack.revenue.net
@@ -55643,6 +55617,7 @@ Banner468x60
 0.0.0.0 media.ontarionorth.com
 0.0.0.0 media.og-affiliate.com
 0.0.0.0 media.nk-net.pl
+0.0.0.0 media.net
 0.0.0.0 media.naked.com
 0.0.0.0 media.mydas.mobi
 0.0.0.0 media.mediaskolan.com
@@ -55657,6 +55632,7 @@ Banner468x60
 0.0.0.0 media.funpic.de
 0.0.0.0 media.foundry42.com
 0.0.0.0 media.fc2.com
+0.0.0.0 media.fastclick.net
 0.0.0.0 media.fairlink.ru
 0.0.0.0 media.exchange-it.com
 0.0.0.0 media.evolv.ai
@@ -59341,7 +59317,6 @@ Banner468x60
 0.0.0.0 jsp.clickzzs.nl
 0.0.0.0 jsp.clickzs.com
 0.0.0.0 jsonip.com
-0.0.0.0 jsonatm-wss.broker.tplay.qq.com
 0.0.0.0 json4.ringrevenue.com
 0.0.0.0 jsn.mgid.com
 0.0.0.0 jsn.marketgid.com
@@ -67507,6 +67482,7 @@ Banner468x60
 0.0.0.0 fastcounter.linkexchange.net
 0.0.0.0 fastcounter.com
 0.0.0.0 fastclick.com.edgesuite.net
+0.0.0.0 fastclick.com
 0.0.0.0 fastburnextreme.pl
 0.0.0.0 fastbitnedge.com
 0.0.0.0 fastandfurious7pl.wordpress.com
@@ -73527,7 +73503,6 @@ Banner468x60
 0.0.0.0 cocoaldrete.shop
 0.0.0.0 cocoad.jp
 0.0.0.0 coccyxwickimp.com
-0.0.0.0 coc-ws.broker.tplay.qq.com
 0.0.0.0 cobwebshorts.com
 0.0.0.0 cobanmustafapasavakfi.net
 0.0.0.0 cobankale.net
@@ -75081,6 +75056,7 @@ Banner468x60
 0.0.0.0 cdn.selectablemedia.com
 0.0.0.0 cdn.segmentify.com
 0.0.0.0 cdn.segment.io
+0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdn.sail-horizon.com
 0.0.0.0 cdn.sagent.io
@@ -75240,6 +75216,7 @@ Banner468x60
 0.0.0.0 cdn.firstlook.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.file6.goodid.com
+0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.ezca.asia
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.exactag.com
@@ -81033,6 +81010,7 @@ Banner468x60
 0.0.0.0 api.appjiagu.com
 0.0.0.0 api.appcenter.ms
 0.0.0.0 api.analy.mob.com
+0.0.0.0 api.amplitude.com
 0.0.0.0 api.altamob.com
 0.0.0.0 api.alphonso.tv
 0.0.0.0 api.airpush.com
@@ -83279,6 +83257,7 @@ Banner468x60
 0.0.0.0 adservice.google.be
 0.0.0.0 adservice.aliexpress.com
 0.0.0.0 adservex.media.net
+0.0.0.0 adservetx.media.net
 0.0.0.0 adserverxxl.de
 0.0.0.0 adserverwc.adtechus.com
 0.0.0.0 adserverus.info
@@ -84043,6 +84022,7 @@ Banner468x60
 0.0.0.0 ads.reduxmediagroup.com
 0.0.0.0 ads.redlightcenter.com
 0.0.0.0 ads.rediff.com
+0.0.0.0 ads.reddit.com
 0.0.0.0 ads.recoletos.es
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.realcities.com
@@ -84820,6 +84800,7 @@ Banner468x60
 0.0.0.0 ads-img-bak.xhscdn.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-game-187f4.firebaseapp.com
+0.0.0.0 ads-dev.pinterest.com
 0.0.0.0 ads-de.spray.net
 0.0.0.0 ads-colruytgroup.adhese.com
 0.0.0.0 ads-c-1854119718.us-west-1.elb.amazonaws.com
@@ -86723,6 +86704,7 @@ Banner468x60
 0.0.0.0 a.networkworld.com
 0.0.0.0 a.netmng.com
 0.0.0.0 a.muloqot.uz
+0.0.0.0 a.mouseflow.com
 0.0.0.0 a.monetate.net
 0.0.0.0 a.mobimagic.com
 0.0.0.0 a.mobile.toboads.com
@@ -89795,6 +89777,7 @@ Banner468x60
 0.0.0.0  w2g-mtrx.w2g.tv
 0.0.0.0  w2528.com
 0.0.0.0  w1.wayqq.com
+0.0.0.0  w1.luckyorange.com
 0.0.0.0  w.ymapp.com
 0.0.0.0  w.yamaidei.cn
 0.0.0.0  w.waacorp.com
@@ -96247,6 +96230,7 @@ Banner468x60
 0.0.0.0  plausible.motorpresse.de
 0.0.0.0  plausible.k-words.io
 0.0.0.0  plausible.jeroenvandenboorn.nl
+0.0.0.0  plausible.io
 0.0.0.0  plausible.goldanger.de
 0.0.0.0  plausible.getlean.digital
 0.0.0.0  plausible.elbisebul.com
@@ -98963,6 +98947,7 @@ Banner468x60
 0.0.0.0  matrix.itshboanytime.com
 0.0.0.0  matrix.hbo.com
 0.0.0.0  matomo3.org
+0.0.0.0  matomo.cloud
 0.0.0.0  math.meistercody.com
 0.0.0.0  material.jfdaily.adsame.com
 0.0.0.0  match.p4p.1688.com
@@ -102098,6 +102083,7 @@ Banner468x60
 0.0.0.0  instagram.xx.fbcdn.net.iberostar.com
 0.0.0.0  instaemail.net
 0.0.0.0  instadia.net
+0.0.0.0  instabug.com
 0.0.0.0  inst.360safe.com
 0.0.0.0  inspire.ubmfashion.com
 0.0.0.0  inspire.changehealthcare.com
@@ -108669,6 +108655,7 @@ Banner468x60
 0.0.0.0  cdn.media.innity.net
 0.0.0.0  cdn.manga9.co
 0.0.0.0  cdn.ly.9377.com
+0.0.0.0  cdn.luckyorange.com
 0.0.0.0  cdn.jllstudio.com
 0.0.0.0  cdn.jesgoo.com
 0.0.0.0  cdn.hyperpromote.com
@@ -109051,6 +109038,7 @@ Banner468x60
 0.0.0.0  browserpusher.com
 0.0.0.0  browsermine.com
 0.0.0.0  browser.vivo.com.cn
+0.0.0.0  browser.sentry-cdn.com
 0.0.0.0  browser.covatic.io
 0.0.0.0  browser-intake-datadoghq.eu
 0.0.0.0  brooklynway.openapp.link
@@ -111108,6 +111096,7 @@ Banner468x60
 0.0.0.0  affilimate.io
 0.0.0.0  affilimate.com
 0.0.0.0  affiliatly.com
+0.0.0.0  affiliationjs.s3.amazonaws.com
 0.0.0.0  affiliates.goodvibes.com
 0.0.0.0  affiliate.taihoshop.jp
 0.0.0.0  affilate.hh.ru
@@ -111167,6 +111156,7 @@ Banner468x60
 0.0.0.0  advisor.newyorklifeannuities.com
 0.0.0.0  advisor.eaglestrategies.com
 0.0.0.0  advisers.kingstonsmith.co.uk
+0.0.0.0  advertising.twitter.com
 0.0.0.0  advertising.lycos.com
 0.0.0.0  advertising.dushu.io
 0.0.0.0  advertising.adobe.com
@@ -111275,6 +111265,7 @@ Banner468x60
 0.0.0.0  ads.ipfighter.com
 0.0.0.0  ads.house365.com
 0.0.0.0  ads.genieessp.com
+0.0.0.0  ads.facebook.com
 0.0.0.0  ads.dvworld.com.tw
 0.0.0.0  ads.doublemax.net
 0.0.0.0  ads.dixcom.com
@@ -114942,97 +114933,97 @@ Banner468x60
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-@@||go.redirectingat.com^|
-@@||ref.rbauction.com^|
-@@||puzzles-games-api.gp-prod.conde.digital^|
-@@||news.warhammer.com^|
-@@||prod.impartner.live^|
-@@||cdn.atmedia.hu^|
-@@||trk.ecomm.lenovo.com^|
-@@||s.bluecore.com^|
+@@||go.redirectingat.com^
+@@||ref.rbauction.com^
+@@||puzzles-games-api.gp-prod.conde.digital^
+@@||news.warhammer.com^
+@@||prod.impartner.live^
+@@||cdn.atmedia.hu^
+@@||trk.ecomm.lenovo.com^
+@@||s.bluecore.com^
 @@||affiliate.notion.so^
 @@||www3.doubleclick.net^
-@@||acs-m.daraz.pk^|
-@@||taiga.maven.io^|
-@@||tlh.gedidigital.it^|
-@@||smtp.focusgroupresearch.com^|
-@@||ap01.records.in.treasuredata.com^|
-@@||click.avs.io^|
-@@||link.sylikes.com^|
-@@||rd.bizrate.com^|
+@@||acs-m.daraz.pk^
+@@||taiga.maven.io^
+@@||tlh.gedidigital.it^
+@@||smtp.focusgroupresearch.com^
+@@||ap01.records.in.treasuredata.com^
+@@||click.avs.io^
+@@||link.sylikes.com^
+@@||rd.bizrate.com^
 @@||www.daraz.pk^
 @@||daraz.com^
-@@||sbs.demdex.net^|
-@@||cl.link-ag.net^|
-@@||action.metaffiliation.com^|
-@@||www.dogpile.com^|
-@@||acs-m.daraz.com.bd^|
-@@||f-gear.ec-optimizer.com^|
-@@||get.neofinancial.com^|
-@@||hidive.com^|
-@@||learn.khanacademy.org^|
-@@||res.ads.nicovideo.jp^|
-@@||sax.sina.com.cn^|
-@@||linka.page^|
-@@||track.webgains.com^|
-@@||secureimage.securedataimages.com^|
-@@||infra-api.newrelic.com^|
-@@||tms.capitalone.com^|
-@@||redir.ownpage.fr^|
-@@||tr.rdrtr.com^|
-@@||media-consumer365.desigual.com^|
-@@||cdn.us*.exponea.com^|
-@@||crm-cdn.peek-cloppenburg.com^|
-@@||public-cis.exponea.com^|
-@@||cdn.rozetka.com.ua^|
-@@||vcentry2.valuecommerce.ne.jp^|
-@@||recommender.scarabresearch.com^|
-@@||refer.discover.com^|
-@@||cmp.inmobi.com^|
-@@||data.digital.costco.ca^|
-@@||data.digital.costco.com^|
-@@||api.karte.io^|
-@@||sponsor.nitropay.com^|
-@@||click.cptrack.de^|
+@@||sbs.demdex.net^
+@@||cl.link-ag.net^
+@@||action.metaffiliation.com^
+@@||www.dogpile.com^
+@@||acs-m.daraz.com.bd^
+@@||f-gear.ec-optimizer.com^
+@@||get.neofinancial.com^
+@@||hidive.com^
+@@||learn.khanacademy.org^
+@@||res.ads.nicovideo.jp^
+@@||sax.sina.com.cn^
+@@||linka.page^
+@@||track.webgains.com^
+@@||secureimage.securedataimages.com^
+@@||infra-api.newrelic.com^
+@@||tms.capitalone.com^
+@@||redir.ownpage.fr^
+@@||tr.rdrtr.com^
+@@||media-consumer365.desigual.com^
+@@||cdn.us*.exponea.com^
+@@||crm-cdn.peek-cloppenburg.com^
+@@||public-cis.exponea.com^
+@@||cdn.rozetka.com.ua^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||recommender.scarabresearch.com^
+@@||refer.discover.com^
+@@||cmp.inmobi.com^
+@@||data.digital.costco.ca^
+@@||data.digital.costco.com^
+@@||api.karte.io^
+@@||sponsor.nitropay.com^
+@@||click.cptrack.de^
 @@||ezodn.com^
-@@||gate.first-id.fr^|
-@@||leechers-paradise.org^|
-@@||data-*.herz-fuer-tiere.de^|
-@@||go.adjust.com^|
-@@||clickattr.wayup.com^|
-@@||remembering.ca^|
-@@||obituaries.thestar.com^|
-@@||obituaries.therecord.com^|
-@@||catchup.thisisdax.com^|
-@@||px.a8.net^|
-@@||cdn.duurzaam.greenchoice.nl^|
-@@||c.office.com^|
-@@||surveymyopinion.researchnow.com^|
-@@||e.customeriomail.com^|
-@@||partner.everydays.de^|
-@@||api.docodoco.jp^|
-@@||js.monitor.azure.com^|
-@@||link.morningbrew.com^|
-@@||click.appcast.io^|
-@@||anwb.webpower.eu^|
-@@||bcicl.*.evergage.com^|
-@@||torimochi.line-apps.com^|
+@@||gate.first-id.fr^
+@@||leechers-paradise.org^
+@@||data-*.herz-fuer-tiere.de^
+@@||go.adjust.com^
+@@||clickattr.wayup.com^
+@@||remembering.ca^
+@@||obituaries.thestar.com^
+@@||obituaries.therecord.com^
+@@||catchup.thisisdax.com^
+@@||px.a8.net^
+@@||cdn.duurzaam.greenchoice.nl^
+@@||c.office.com^
+@@||surveymyopinion.researchnow.com^
+@@||e.customeriomail.com^
+@@||partner.everydays.de^
+@@||api.docodoco.jp^
+@@||js.monitor.azure.com^
+@@||link.morningbrew.com^
+@@||click.appcast.io^
+@@||anwb.webpower.eu^
+@@||bcicl.*.evergage.com^
+@@||torimochi.line-apps.com^
 @@||core.crazyegg.com^
 @@||app.crazyegg.com^
-@@||oa.tr.line.me^|
-@@||stash.roistat.com^|
-@@||static-v*.trbo.com^|
-@@||api-v*.trbo.com^|
-@@||brm-core-*.brsrvr.com^|
-@@||marketing.net.idealo-partner.com^|
-@@||netatmo.commander1.com^|
-@@||vcentry3.valuecommerce.ne.jp^|
+@@||oa.tr.line.me^
+@@||stash.roistat.com^
+@@||static-v*.trbo.com^
+@@||api-v*.trbo.com^
+@@||brm-core-*.brsrvr.com^
+@@||marketing.net.idealo-partner.com^
+@@||netatmo.commander1.com^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||-ds.metric.gstatic.com^
-@@||id.i2i.jp^|
-@@||thumbnail.thench.net^|
-@@||validate.perfdrive.com^|
-@@||ia.hit.interia.pl^|
-@@||analytics.amplitude.com^|
+@@||id.i2i.jp^
+@@||thumbnail.thench.net^
+@@||validate.perfdrive.com^
+@@||ia.hit.interia.pl^
+@@||analytics.amplitude.com^
 @@||adsterra.com^
 @@||ads.adsterra.com^
 @@||publishers.adsterra.com^
@@ -115042,82 +115033,82 @@ Banner468x60
 @@||affiliates.adsterra.com^
 @@||beta.affiliates.adsterra.com^
 @@||help-advertisers.adsterra.com^
-@@||goto.target.com^|
-@@||goto.walmart.com^|
-@@||citiintl.122.2o7.net^|
-@@||ma135-r.analytics.edgekey.net^|
-@@||79423.analytics.edgekey.net^|
-@@||classliving.lpages.co^|
-@@||home.focusatwill.com^|
-@@||health.halodoc.com^|
-@@||promo.gramedia.com^|
-@@||support-beacon.nakanohito.jp^|
-@@||support-widget.nakanohito.jp^|
-@@||afi-b.com^|
-@@||daikoku.ebis.ne.jp^|
-@@||envato.market^|
-@@||ac.ebis.ne.jp^|
-@@||email.awscloud.com^|
-@@||oneline.nextday.media^|
+@@||goto.target.com^
+@@||goto.walmart.com^
+@@||citiintl.122.2o7.net^
+@@||ma135-r.analytics.edgekey.net^
+@@||79423.analytics.edgekey.net^
+@@||classliving.lpages.co^
+@@||home.focusatwill.com^
+@@||health.halodoc.com^
+@@||promo.gramedia.com^
+@@||support-beacon.nakanohito.jp^
+@@||support-widget.nakanohito.jp^
+@@||afi-b.com^
+@@||daikoku.ebis.ne.jp^
+@@||envato.market^
+@@||ac.ebis.ne.jp^
+@@||email.awscloud.com^
+@@||oneline.nextday.media^
 @@||ftp.bmp.ovh^
-@@||cloud.notification-naviextras.com^|
-@@||email.elitedangerous.com^|
-@@||links.e.theatlantic.com^|
-@@||app.appsflyer.com^|
-@@||email.procook.co.uk^|
-@@||omsc.kpn.com^|
-@@||logentries.com^|
-@@||email.*.skyeng.ru^|
-@@||go.scorptec.com.au^|
-@@||links.getblueshift.com^|
-@@||click.trafficguard.ai^|
-@@||hb.afl.rakuten.co.jp^|
-@@||pt.afl.rakuten.co.jp^|
-@@||proto2ad.durasite.net^|
-@@||tags.crwdcntrl.net^|
-@@||official.paymaya.com^|
+@@||cloud.notification-naviextras.com^
+@@||email.elitedangerous.com^
+@@||links.e.theatlantic.com^
+@@||app.appsflyer.com^
+@@||email.procook.co.uk^
+@@||omsc.kpn.com^
+@@||logentries.com^
+@@||email.*.skyeng.ru^
+@@||go.scorptec.com.au^
+@@||links.getblueshift.com^
+@@||click.trafficguard.ai^
+@@||hb.afl.rakuten.co.jp^
+@@||pt.afl.rakuten.co.jp^
+@@||proto2ad.durasite.net^
+@@||tags.crwdcntrl.net^
+@@||official.paymaya.com^
 @@||statcounter.com^
-@@||www.statcounter.com^|
-@@||gs.statcounter.com^|
-@@||click.virt.s*.exacttarget.com^|
-@@||click.virt.exacttarget.com^|
-@@||mc.*.exacttarget.com^|
-@@||login.sendpulse.com^|
-@@||a.sellpoint.net^|
-@@||tlaol.com^|
-@@||admin.dable.io^|
-@@||log.mmstat.com^|
-@@||click.simba.taobao.com^|
-@@||cs.silverpop.com^|
-@@||grp07.ias.rakuten.co.jp^|
-@@||cindyholbrook.lpages.co^|
-@@||pagead.l.doubleclick.net^|
-@@||www.googleadservices.com^|
-@@||my.tealiumiq.com^|
-@@||artifactory.appodeal.com^|
-@@||www.jdoqocy.com^|
-@@||cj.dotomi.com^|
-@@||intersport.peerius.com^|
-@@||cutcaptcha.com^|
-@@||forum.notebookreview.com^|
-@@||radiofrance.targetspot.com^|
-@@||awin1.com^|
-@@||app.adjust.com^|
-@@||feed.adrelayer.com^|
-@@||redirect.appmetrica.yandex.com^|
-@@||guce.advertising.com^|
-@@||a.adwolf.ru^|
-@@||cm-beacon.nakanohito.jp^|
-@@||cm-widget.nakanohito.jp^|
-@@||ads.tdbank.com^|
-@@||nineto5mac-d.openx.net^|
-@@||redir.tradedoubler.com^|
-@@||clk*.tradedoubler.com^|
-@@||href.li^|
-@@||str.hit.gemius.pl^|
-@@||track.rutarget.ru^|
-@@||5471782.fls.doubleclick.net^|
-@@||omniture.walmart.com^|
+@@||www.statcounter.com^
+@@||gs.statcounter.com^
+@@||click.virt.s*.exacttarget.com^
+@@||click.virt.exacttarget.com^
+@@||mc.*.exacttarget.com^
+@@||login.sendpulse.com^
+@@||a.sellpoint.net^
+@@||tlaol.com^
+@@||admin.dable.io^
+@@||log.mmstat.com^
+@@||click.simba.taobao.com^
+@@||cs.silverpop.com^
+@@||grp07.ias.rakuten.co.jp^
+@@||cindyholbrook.lpages.co^
+@@||pagead.l.doubleclick.net^
+@@||www.googleadservices.com^
+@@||my.tealiumiq.com^
+@@||artifactory.appodeal.com^
+@@||www.jdoqocy.com^
+@@||cj.dotomi.com^
+@@||intersport.peerius.com^
+@@||cutcaptcha.com^
+@@||forum.notebookreview.com^
+@@||radiofrance.targetspot.com^
+@@||awin1.com^
+@@||app.adjust.com^
+@@||feed.adrelayer.com^
+@@||redirect.appmetrica.yandex.com^
+@@||guce.advertising.com^
+@@||a.adwolf.ru^
+@@||cm-beacon.nakanohito.jp^
+@@||cm-widget.nakanohito.jp^
+@@||ads.tdbank.com^
+@@||nineto5mac-d.openx.net^
+@@||redir.tradedoubler.com^
+@@||clk*.tradedoubler.com^
+@@||href.li^
+@@||str.hit.gemius.pl^
+@@||track.rutarget.ru^
+@@||5471782.fls.doubleclick.net^
+@@||omniture.walmart.com^
 @@||krebsonsecurity.com
 @@||s1.wp.com^
 @@||admin.mailchimp.com^
@@ -115330,93 +115321,3 @@ Banner468x60
 @@||cp2-cdn-play.funshion.com^
 @@||img.funshion.com^
 @@||qwhdcdn.cmcc-cs.cn^
-@@||白名单仅用于测试.com^
-@@||web.qun.qq.com^
-@@||jd.com^important
-@@||flydigi.com^
-@@||000714.xyz^
-@@||blueskyxn.com^
-@@||support.apple.com^
-@@||icloud.com^
-@@||mzstatic.com^
-@@||a0.app.xiaomi.com^
-@@||globalapi.ad.xiaomi.com^
-@@||api.ad.xiaomi.com^
-@@||tracker.ai.xiaomi.com^
-@@||s.click.taobao.com^
-@@||acs.m.taobao.com^
-@@||click.simba.taobao.com^
-@@||amdc.m.taobao.com^
-@@||api.jr.mi.com^
-@@||c2.gdt.qq.com^
-@@||d.gdt.qq.com^
-@@||gw.365you.com^
-@@||h5.gdt.qq.com^
-@@||i.gdt.qq.com^
-@@||ii.gdt.qq.com^
-@@||ipv4.gdt.qq.com^
-@@||m.gdt.qq.com^
-@@||mi.gdt.qq.com^
-@@||nc.gdt.qq.com^
-@@||pgdt.gtimg.cn^
-@@||pgdt.ugdtimg.com^
-@@||pv.sohu.com^
-@@||q.i.gdt.qq.com^
-@@||rm.gdt.qq.com^
-@@||sdk.e.qq.com^
-@@||t.gdt.qq.com^
-@@||tangram.e.qq.com^
-@@||v2.gdt.qq.com^
-@@||v3.gdt.qq.com^
-@@||v6ii.gdt.qq.com^
-@@||vr.gdt.qq.com^
-@@||x.adnet.qq.com^
-@@||xc.gdt.qq.com^
-@@||win.gdt.qq.com^
-@@||wxsnsad.tc.qq.com^
-@@||wxsnsdy.tc.qq.com^
-@@||wxsnsdy.video.qq.com^
-@@||wxsnsdythumb.wxs.qq.com^
-@@||wxa.wxs.qq.com^
-@@||wximg.wxs.qq.com^
-@@||wxsmw.wxs.qq.com^
-@@||nadvideo.baidu.com^
-@@||nadvideo2.baidu.com^
-@@||open.e.kuaishou.com^
-@@||e.kuaishou.com^
-@@||api2.e.kuaishou.com^
-@@||api.e.kuaishou.com^
-@@||api-access.pangolin-sdk-toutiao.com^
-@@||api-access.pangolin-sdk-toutiao-b.com^
-@@||adstats.tencentmusic.com^
-@@||ad.tencentmusic.com^
-@@||adexpo.tencentmusic.com^
-@@||adcdn.tencentmusic.com^
-@@||adclick.tencentmusic.com^
-@@||adsmind.gdtimg.com^
-@@||rpt.gdt.qq.com^
-@@||v.gdt.qq.com^
-@@||c.gdt.qq.com^
-@@||tmead.y.qq.com^
-@@||tmeadcomm.y.qq.com^
-@@||tmeadbak.y.qq.com^
-@@||oth.eve.mdt.qq.com^
-@@||oth.str.mdt.qq.com^
-@@||oth.update.mdt.qq.com^
-@@||mtt.eve.mdt.qq.com^
-@@||mtt.str.mdt.qq.com^
-@@||adx-bj.anythinktech.com^
-@@||adx-bj-req.anythinktech.com^
-@@||dc.sigmob.cn^
-@@||cn-api.anythinktech.com^
-@@||cn-tk.anythinktech.com^
-@@||tk.anythinktech.com^
-@@||adx.anythinktech.com^
-@@||v1-lm.adukwai.com^
-@@||v2-lm.adukwai.com^
-@@||v4-lm.adukwai.com^
-@@||clientlog.music.163.com^
-@@||clientlog3.music.163.com^
-@@||ecmb.bdimg.com^
-@@||ecma.bdimg.com^
-@@||click.discord.com^
