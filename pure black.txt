@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-29 15:41:42
-# 总规则数：113016 (黑名单: 108362, 白名单: 4654)
+﻿# 更新时间: 2025-11-29 15:51:39
+# 总规则数：113008 (黑名单: 108354, 白名单: 4654)
 # 作者名称: Menghuibanxian  酷安名: 梦半仙
 # 作者主页: https://github.com/Menghuibanxian/AdguardHome
 
@@ -55163,6 +55163,7 @@ Banner468x60
 0.0.0.0 mackeeperapp1.zeobit.com
 0.0.0.0 mackeeperapp.zeobit.com
 0.0.0.0 mackeeperapp.mackeeper.com
+0.0.0.0 mackeeperaffiliates.com
 0.0.0.0 machtervolks.pro
 0.0.0.0 macgamefiles.us.intellitxt.com
 0.0.0.0 macfs.fr
@@ -74628,7 +74629,6 @@ Banner468x60
 0.0.0.0 bradpittnow.us.intellitxt.com
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 braccom.ch
-0.0.0.0 bracalemusic.com
 0.0.0.0 bracabrac.fr
 0.0.0.0 br4bet.top
 0.0.0.0 br.rk.com
@@ -86498,7 +86498,6 @@ Banner468x60
 0.0.0.0  tvuaeb.taqi.com.br
 0.0.0.0  tvrom.cn
 0.0.0.0  tvppa.actonservice.com
-0.0.0.0  tuxi.com.cn
 0.0.0.0  tuvevx.agent-sana.com
 0.0.0.0  turboeagle.co
 0.0.0.0  tuoens.cn
@@ -86538,7 +86537,6 @@ Banner468x60
 0.0.0.0  tst16infra.com
 0.0.0.0  tst14netreal.com
 0.0.0.0  tst-link-ccontact.focuscura.com
-0.0.0.0  tss.sport2000.fr
 0.0.0.0  tsp.onjoyri.de
 0.0.0.0  tsliat.medme.pl
 0.0.0.0  tsfs.com.my
@@ -87856,7 +87854,6 @@ Banner468x60
 0.0.0.0  t.icomms.origin.com.au
 0.0.0.0  t.home.news.cn
 0.0.0.0  t.hmwy.io
-0.0.0.0  t.hellowork.com
 0.0.0.0  t.haha.me
 0.0.0.0  t.greenbids.ai
 0.0.0.0  t.gozips.com
@@ -98856,13 +98853,11 @@ Banner468x60
 0.0.0.0  geystikigonia.openapp.link
 0.0.0.0  geygin.bonprix.ch
 0.0.0.0  getwoohoo.com
-0.0.0.0  getviously.com
 0.0.0.0  gettoknow.skookum.com
 0.0.0.0  getterms.io
 0.0.0.0  getstatistics.se
 0.0.0.0  getscoutapp.com
 0.0.0.0  gets.myoyster.mx
-0.0.0.0  getreview.pl
 0.0.0.0  getpxq.rivolishop.com
 0.0.0.0  getone.today
 0.0.0.0  getnotification.me
@@ -99088,7 +99083,6 @@ Banner468x60
 0.0.0.0  ga2.3dmgame.com
 0.0.0.0  g9s.sgzs999.com
 0.0.0.0  g993dvyzae.branch.salesfloor.net
-0.0.0.0  g990421675.co
 0.0.0.0  g9111879410.co
 0.0.0.0  g8913795075.co
 0.0.0.0  g8715710740.co
@@ -100315,7 +100309,6 @@ Banner468x60
 0.0.0.0  eiv.baidu.cn
 0.0.0.0  eitkrg.loriblu.com
 0.0.0.0  eisdog.shape.com
-0.0.0.0  eiorzm.orvis.com
 0.0.0.0  einrfh.justanswer.com
 0.0.0.0  eikwax.marmot.com
 0.0.0.0  eiftfa.fashionette.de
@@ -107897,7 +107890,6 @@ Banner468x60
 0.0.0.0  7x24s.com
 0.0.0.0  7ssw.cn
 0.0.0.0  7pud.com
-0.0.0.0  7pk.com
 0.0.0.0  7mnpeh.com1.z0.glb.clouddn.com
 0.0.0.0  7dlm.cn
 0.0.0.0  7cx.com
