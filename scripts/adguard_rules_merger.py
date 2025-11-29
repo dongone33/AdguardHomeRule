@@ -73,8 +73,8 @@ BLACKLIST_SOURCES = {
 # 白名单源
 WHITELIST_SOURCES = {
     "茯苓允许列表              ": "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
-    "qq5460168                ": "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
-    "个人自用白名单            ": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+    #"qq5460168                ": "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
+    #"个人自用白名单            ": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
     #"酷安cocieto白名单         ": "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
     "BlueSkyXN          　     ": "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
     #"那个谁520广告白名单 　     ": "https://raw.githubusercontent.com/qq5460168/EasyAds/main/allow.txt",
@@ -84,7 +84,7 @@ WHITELIST_SOURCES = {
     #"喵二白名单                 ": "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
     "Cats-Team白名单          　": "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt",
     "那个谁520 　　　          　": "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-    "浅笑白名单                  ": "https://raw.githubusercontent.com/user001235/112/main/white.txt"
+    #"浅笑白名单                  ": "https://raw.githubusercontent.com/user001235/112/main/white.txt"
 }
 
 #    "冷漠白名单         　     ": "https://file-git.trli.club/file-hosts/allow/Domains",            暂时别用qq.com被白名单了
