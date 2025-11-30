@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-11-30 14:11:45
-# 纯黑名单规则数: 1973 (黑: 1503, 白: 470)
+﻿# 更新时间: 2025-11-30 14:21:47
+# 纯黑名单规则数: 1965 (黑: 1495, 白: 470)
 # 说明: 仅包含活跃域名的黑名单 + 全量白名单
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -33,7 +33,6 @@
 185.199.110.133 private-user-images.githubusercontent.com
 185.199.110.133 raw.githubusercontent.com
 185.199.110.133 user-images.githubusercontent.com
-185.199.110.153 topjohnwu.github.io
 185.199.110.154 docs.github.com
 185.199.110.154 github.githubassets.com
 192.178.131.188 alt8-mtalk.google.com
@@ -232,7 +231,6 @@
 ||analytics.yahoo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||android.bugly.qq.com^
-||android.rqd.qq.com^
 ||ap.lijit.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
@@ -314,6 +312,7 @@
 ||app.getsentry.com^
 ||appc.baidu.com^
 ||appcfg.v.qq.com^
+||appdownload.xianyu.alibaba-inc.com^
 ||apple-relay.cloudflare.com^
 ||applog.lc.quark.cn^
 ||applog.snssdk.com^
@@ -355,6 +354,7 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdloc.qchannel03.cn^
+||bdlog.tanx.com^
 ||bdsp.x.jd.com^
 ||beacon-api.aliyuncs.com^
 ||beacon.cdn.qq.com^
@@ -457,7 +457,6 @@
 ||cfg.imtt.qq.com^
 ||cfgc.flysleep.cn^
 ||cfgc.zztfly.com^
-||cgi.pub.qq.com^
 ||cgicol.amap.com^
 ||channel-analysis-js.gmw.cn^
 ||chaseherbalpasty.com^
@@ -523,7 +522,6 @@
 ||d.turn.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
-||d3g.qq.com^
 ||data-sdk-uuid-log.d.meituan.net^
 ||data.ads.oppomobile.com^
 ||data.mistat.india.xiaomi.com^
@@ -553,7 +551,6 @@
 ||dis.criteo.com^
 ||dis.eu.criteo.com^
 ||dis.us.criteo.com^
-||dldir1v6.qq.com^
 ||dlswbr.baidu.com^
 ||dm.bytedance.com^
 ||dm.toutiao.com^
@@ -716,7 +713,6 @@
 ||httpdns.music.163.com^
 ||httpdns.n.netease.com^
 ||httpsdns.baidu.com^
-||huatuocode.huatuo.qq.com^
 ||hub5pn.wap.sandai.net^
 ||huichuan-mc.sm.cn^
 ||huichuan.sm.cn^
@@ -758,7 +754,6 @@
 ||img1.360buyimg.com^
 ||img2.360buyimg.com^
 ||in.appcenter.ms^
-||info.3g.qq.com^
 ||init.supersonicads.com^
 ||insights.hotjar.com^
 ||internal-amis-res.cdn.bcebos.com^
@@ -771,7 +766,6 @@
 ||iqiyi-mipdx.cn.miaozhen.com^
 ||ir-sdk.dun.163.com^
 ||is-hl.snssdk.com^
-||isdspeed.qq.com^
 ||isub.snssdk.com^
 ||iv6.gtimg.cn^
 ||iyes.youku.com^
@@ -899,7 +893,6 @@
 ||miav-cse.avlyun.com^
 ||miniapp-ad.cdn.bcebos.com^
 ||minigame.gtimg.cn^
-||minorshort.weixin.qq.com^
 ||mipcache.bdstatic.com^
 ||mkt-advertisement.tuhu.cn^
 ||mllog.jd.com^
@@ -1072,7 +1065,6 @@
 ||prebid.media.net^
 ||prg.smartadserver.com^
 ||privacy-policy.truste.com^
-||pro.bugly.qq.com^
 ||promotion-partner.kuaishou.com^
 ||proxy-mob-cld.alicdn.com^
 ||prt-stsdk.vivo.com.cn^
