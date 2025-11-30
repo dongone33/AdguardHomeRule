@@ -32,6 +32,8 @@ class AdGuardRuleManager:
         
         self.whitelist_sources = {
         }
+        
+        self.fallback_sources = ["秋风的规则", "GitHub加速"]
 
     def get_beijing_time(self) -> str:
         try:
@@ -243,9 +245,26 @@ class AdGuardRuleManager:
         matched_blacklist = []
         domain_db = self.load_domain_list()
         
+        fallback_source_rules = set()
+        if self.fallback_sources:
+            print(f"--- 正在获取兜底规则源 ---")
+            fallback_sources_dict = {name: self.blacklist_sources[name] 
+                                    for name in self.fallback_sources 
+                                    if name in self.blacklist_sources}
+            fallback_rules_raw = self.fetch_rules(fallback_sources_dict)
+            for r in fallback_rules_raw:
+                if not r.startswith("@@"):
+                    fallback_source_rules.add(r)
+            print(f"兜底规则源共 {len(fallback_source_rules)} 条规则")
+        
         if domain_db:
             print(f"正在根据域名库过滤黑名单...")
+            matched_count = 0
+            
             for rule in final_blacklist:
+                if rule in fallback_source_rules:
+                    continue
+                
                 domain = ""
                 if rule.startswith("||") and rule.endswith("^"):
                     domain = rule[2:-1]
@@ -260,8 +279,10 @@ class AdGuardRuleManager:
                 
                 if domain and domain.lower() in domain_db:
                     matched_blacklist.append(rule)
+                    matched_count += 1
             
-            print(f"过滤完成: 原黑名单 {len(final_blacklist)} -> 匹配后 {len(matched_blacklist)}")
+            matched_blacklist.extend(list(fallback_source_rules))
+            print(f"过滤完成: 匹配的黑名单 {matched_count} 条 + 兜底规则 {len(fallback_source_rules)} 条 = 总计 {len(matched_blacklist)} 条")
         else:
             matched_blacklist = final_blacklist
 
@@ -279,7 +300,7 @@ class AdGuardRuleManager:
         
         pure_header = f"# 更新时间: {start_time}\n"
         pure_header += f"# 纯黑名单规则数: {len(matched_blacklist) + len(final_whitelist)} (黑: {len(matched_blacklist)}, 白: {len(final_whitelist)})\n"
-        pure_header += f"# 说明: 仅包含活跃域名的黑名单 + 全量白名单\n"
+        pure_header += f"# 说明: 与域名库匹配的黑名单 + 兜底规则源({', '.join(self.fallback_sources)}) + 全量白名单\n"
         pure_header += f"# 作者: Menghuibanxian (Merged by Script)\n"
         pure_header += "# ------------------------------------------\n\n"
         self.save_file(self.pure_file, matched_blacklist + final_whitelist, pure_header)
