@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-12-01 16:19:01
-# 白名单规则数: 469
+﻿# 更新时间: 2025-12-01 16:21:47
+# 白名单规则数: 470
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -126,6 +126,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
+@@||d*-magic.static.yximgs.com^
 @@||d*.static.yximgs.com^
 @@||d.gdt.qq.com^
 @@||daikoku.ebis.ne.jp^
