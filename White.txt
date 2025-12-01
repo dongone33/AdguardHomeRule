@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-12-01 23:01:50
-# 白名单规则数: 470
+﻿# 更新时间: 2025-12-01 23:12:08
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -200,6 +200,7 @@
 @@||ipolyfill-origin.bytedance.com^
 @@||ipv4.gdt.qq.com^
 @@||is.snssdk.com^
+@@||itoya.ec-optimizer.com^
 @@||jd.com^
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
