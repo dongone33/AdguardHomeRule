@@ -1,27 +1,27 @@
-oth.eve.mdt.qq.com 836639
+oth.eve.mdt.qq.com 836734
 plbslog.umeng.com 556124
-coc-ws.broker.tplay.qq.com 271032
-wup.imtt.qq.com 180976
-jsonatm-wss.broker.tplay.qq.com 151438
-h.trace.qq.com 125698
-cgi.connect.qq.com 125278
-down.anticheatexpert.com 117973
-snowflake.qq.com 116968
-cloud.tgpa.qq.com 113440
-appsupport.qq.com 113301
-download.600396619-1-1.gcloudsvcs.com 110533
-api.unipay.qq.com 100303
-inbox.clashofclans.cn 98668
-game.production.clashofclans.cn 95803
-hc.tdm.qq.com 86443
-receiver.tdm.qq.com 85638
-cloudctrl.gcloud.qq.com 76667
-thirdqq.qlogo.cn 67419
+coc-ws.broker.tplay.qq.com 271103
+wup.imtt.qq.com 181002
+jsonatm-wss.broker.tplay.qq.com 151467
+h.trace.qq.com 125750
+cgi.connect.qq.com 125330
+down.anticheatexpert.com 118029
+snowflake.qq.com 117022
+cloud.tgpa.qq.com 113457
+appsupport.qq.com 113351
+download.600396619-1-1.gcloudsvcs.com 110585
+api.unipay.qq.com 100341
+inbox.clashofclans.cn 98701
+game.production.clashofclans.cn 95835
+hc.tdm.qq.com 86477
+receiver.tdm.qq.com 85649
+cloudctrl.gcloud.qq.com 76686
+thirdqq.qlogo.cn 67465
 id.supercell.com 65813
-ap6.ssl.msdk.qq.com 64513
-nj.cschannel.anticheatexpert.com 64114
+ap6.ssl.msdk.qq.com 64534
+nj.cschannel.anticheatexpert.com 64139
 clashofclans.inbox.supercell.com 62394
-szmg.qq.com 60841
+szmg.qq.com 60859
 log.tbs.qq.com 56907
 mtalk.google.com 47672
 aeventlog.beacon.qq.com 47233
@@ -52,9 +52,9 @@ ido.getui.net 18744
 push.kwd.inkuai.com 17829
 api.kuaishouzt.com 17160
 v2-zj-shxcm.kwaicdn.com 17122
+clash-static.inbox-staging.supercell.com 17094
 aps.amap.com 17062
 ec.kwd.inkuai.com 17062
-clash-static.inbox-staging.supercell.com 17044
 keep-so.kwd.inkuai.com 16917
 zt-sup.kwd.inkuai.com 16914
 v16-img.djvod.ndcimgs.com 16838
@@ -65,7 +65,7 @@ v6-gdvod.kwaicdn.com 16707
 v6.kwaicdn.com 16706
 whoami.akamai.net 16395
 toblog.ctobsnssdk.com 15811
-otheve.beacon.qq.com 15557
+otheve.beacon.qq.com 15563
 log.zijieapi.com 15507
 metok.sys.miui.com 15396
 p4.a.yximgs.com 15131
@@ -78,7 +78,7 @@ p5.a.yximgs.com 14293
 api.usercentrics.eu 14219
 ali.push.yximgs.com 14203
 center.qoder.sh 14184
-oth.str.mdt.qq.com 14146
+oth.str.mdt.qq.com 14175
 kuaishou.httpdns.pro 14068
 ali.static.yximgs.com 14034
 ws-origin.pull.yximgs.com 14018
@@ -291,7 +291,7 @@ ipv4only.arpa 9793
 config-proxy-bak.kwd.inkuai.com 9363
 yoda.kwd.inkuai.com 9340
 www.baidu.com 9024
-android.crashsight.qq.com 9014
+android.crashsight.qq.com 9016
 apidns-js.kwd.inkuai.com 8772
 pushjs.gifshow.com 8695
 www.google-analytics.com 8325
@@ -1135,7 +1135,7 @@ avatars.githubusercontent.com 1425
 time.asia.apple.com 1425
 hcdnl.pull302.gslb.livehwc3.cn 1422
 szextshort.weixin.qq.com 1414
-s.xinshuru.com 1402
+s.xinshuru.com 1404
 v95-bjb-hl-hw-cn-coldy.douyinvod.com 1387
 v2-plat.wsukwai.com 1379
 trpcpb.imtt.qq.com 1376
@@ -1143,6 +1143,7 @@ res2.mobileanjian.com 1366
 pull-rtmp-f6-hs.pstatp.com 1365
 api.msn.com 1363
 vc-mirror-v6.ndcpp.com 1360
+game.gtimg.cn 1352
 mgw.alipay.com 1352
 api.mijia.tech 1351
 findermp.video.qq.com 1350
@@ -1154,7 +1155,6 @@ p4-ad.adkwai.com 1340
 pull-flv-f6-hs.pstatp.com 1337
 pull-flv-l1-hs.pstatp.com 1337
 pull-f5-hs.flive.pstatp.com 1332
-game.gtimg.cn 1330
 log.mmstat.com 1330
 pull-hs-f5.flive.huoshanlive.com 1327
 pull-hs-f5.flive.ihuoshanlive.com 1326
@@ -1316,8 +1316,8 @@ a0ai-api.zijieapi.com 958
 lbs.map.qq.com 956
 mayybstatnew.3g.qq.com 954
 mdh-pa.googleapis.com 954
+topdalao.lanzoui.com 954
 ecs.office.com 952
-topdalao.lanzoui.com 952
 m.mpl.dutils.com 950
 gecko5-lq.zijieapi.com 949
 p2-live-ksc.wsukwai.com 948
@@ -2475,6 +2475,7 @@ yixiu-abtest.alicdn.com 188
 34-courier.push.apple.com 186
 41-courier.push.apple.com 186
 cdn.luckyorange.com 186
+pandola.coc.qq.com 186
 resource.diantao.cn 186
 p26.douyinpic.com 185
 signaler-pa.clients6.google.com 185
@@ -2490,7 +2491,6 @@ gameswhitelisted.googleapis.com 183
 mop.meituan.com 183
 find.api.micloud.xiaomi.net 182
 finderqv.video.qq.com 182
-pandola.coc.qq.com 182
 ssl.google-analytics.com 182
 gsearch.vivo.com.cn 181
 img12.360buyimg.com 181
@@ -2958,6 +2958,7 @@ static-res.qq.com 134
 v5-se-jx-traffic-wha.douyinvod.com 134
 cn.alicdn.com 133
 gdynamic.qpic.cn 133
+pingfore.qq.com 133
 1e10adc3949ba59abcobl646jtmzfqd564twybn4era.vegslb.com 132
 amdcopen.m.umeng.com 132
 analytics.s3.amazonaws.com 132
@@ -3060,7 +3061,6 @@ crash.163.com 123
 inference.location.live.net 123
 p.qlogo.cn 123
 p16.a.kwimgs.com 123
-pingfore.qq.com 123
 pt-api.meituan.com 123
 v5-wha.douyinvod.com 123
 1e10adc3949ba59ab3u67uyto2bj5664ms4mhdl4jxy.vegslb.com 122
@@ -3389,6 +3389,7 @@ c.viayoo.com 98
 cdn.cn.gcloudcs.com 98
 corssdk.map.qq.com 98
 gs.gszyi.com 98
+kf.qq.com 98
 magic-cube.vivo.com.cn 98
 monitor.zqids.com 98
 mtcls.qq.com 98
@@ -3473,7 +3474,6 @@ easylist-downloads.adblockplus.org 92
 fastpnrt-stsdk.vivo.com.cn 92
 frontier-aweme-hl-ipainner.amemv.com 92
 frontier-aweme.snssdk.com 92
-kf.qq.com 92
 m.baidu.com 92
 msch.f.360.cn 92
 realip.e.lanxin.cn 92
@@ -4570,6 +4570,7 @@ n98-lf-cj-cdn-tos-ncdn.bytegecko.com 42
 newvector.map.baidu.com 42
 ntp.ynuf.aliapp.org 42
 p9-luckycatopen.byteimg.com 42
+pingfore.qq.com.lan 42
 s1-11976.kwimgs.com 42
 s5.music.126.net 42
 ssp.1rtb.com 42
@@ -4731,7 +4732,6 @@ map-mobile-mcs.cdn.bcebos.com 38
 mobileplugin.v.mitvos.com 38
 napi.uc.cn 38
 opaddin.example 38
-pingfore.qq.com.lan 38
 psstatic.cdn.bcebos.com 38
 qiqu-img.uc.cn 38
 report.tv.kohesport.qq.com 38
@@ -5016,6 +5016,7 @@ mis.migc.xiaomi.com 32
 mp.music.163.com 32
 ocsp2.g.aaplimg.com 32
 officecdn.microsoft.com 32
+ossweb-img.qq.com 32
 p3-img.searchpstatp.com 32
 p3-piu.byteimg.com 32
 p3-ug-imc.byteimg.com 32
@@ -5094,6 +5095,7 @@ advertising.yandex.ru 30
 ai.search.miui.com 30
 amdc-sibling.alipay.com.cn 30
 amdc-thirdparty.alipay.com 30
+ams.game.qq.com 30
 apd-pcdnvodstat.teg.tencent-cloud.net 30
 api-normal.amemv.com 30
 api.tencentmusic.com 30
@@ -5146,6 +5148,7 @@ quickapktxdl.vivo.com.cn 30
 sentry.d.mi.com 30
 sisu.xboxlive.com 30
 smp-device-content.apple.com.w.alikunlun.com.v.vvpncdn.com 30
+ssl.captcha.qq.com 30
 static-d.iqiyi.com 30
 static-verify.sec.xiaomi.com 30
 stun.pinduoduo.com 30
@@ -5226,6 +5229,7 @@ api.ad.xiaomi.com.lan 28
 api100-eeft-mixed-quic-v6-hl.feishu.cn 28
 api5-normal-lf.fqnovel.com 28
 apm-a.pinduoduo.com 28
+apps.game.qq.com 28
 b50492fb7c960032b94accf57d13207a759d9da5c50ef47e.v.smtcdns.com 28
 bjuser.jpush.cn 28
 bk.info.zb.qq.com 28
@@ -5267,7 +5271,6 @@ metrics3.data.hicloud.com 28
 mon11-misc-lf.fqnovel.com 28
 n98-lf-toutiao-lite-saveu-ncdn.bytetos.com 28
 opportunarch.iqiyi.com 28
-ossweb-img.qq.com 28
 p6-piu.byteimg.com 28
 pages.github.com 28
 partner.quark.cn 28
@@ -5367,7 +5370,6 @@ activity.tuia.cn 26
 agent-1.oss-cn-beijing.aliyuncs.com 26
 aidc.apple.com 26
 alimei-api.aliyun.com 26
-ams.game.qq.com 26
 apd-pcdniegwzlogin.teg.tencent-cloud.net 26
 apd-pcdnwxlogin.teg.tencent-cloud.net.lan 26
 api-c.hiaiabc.com 26
@@ -5408,6 +5410,7 @@ liveng.alicdn.com 26
 log-verify.dutils.com 26
 log-verify.hiaiabc.com 26
 log.weixin.qq.com 26
+logs.game.qq.com 26
 miniapp.duxiaoman.com 26
 mmapp.qpic.cn 26
 mo.m.taobao.com 26
@@ -5431,7 +5434,6 @@ shopapi.io.mi.com 26
 smalltool.xftsoft.com 26
 sns.m.taobao.com 26
 space.dingtalk.com 26
-ssl.captcha.qq.com 26
 ssl.log.wtlogin.qq.com 26
 st.sxbzbd.cn 26
 stat.youpin.mi.com 26
@@ -5536,7 +5538,6 @@ app-monitor-cn.hellogroup.com 24
 app-site-association.cdn-apple.com 24
 applog-bd.feishu.cn 24
 appmetrica.yandex.com 24
-apps.game.qq.com 24
 appsec1.group.taikang.com 24
 attester.gateway.icloud.com 24
 business.samsungusa.com 24
@@ -5547,6 +5548,7 @@ cdn2.unrealengine.com 24
 client.crisp.chat 24
 cmts.iqiyi.com 24
 cmyd-10-122.getui.com 24
+coc.qq.com 24
 consent.config.office.com 24
 crlog-crcn.adobe.com 24
 d.f.4.8.c.3.9.2.2.7.d.5.1.2.4.1.0.0.0.0.c.e.c.a.4.2.a.5.6.0.d.f.ip6.arpa 24
@@ -5754,7 +5756,6 @@ k0u78ydfye9y9zw2409x8c3cx904x7xx9z.djvod.ndcimgs.com 22
 kainosiuorod3n151pidqje9ptsdn2vb893i5ji0asics86ar1gf5de.tt.x.bsgslb.cn 22
 lf3-unity.bytetos.com 22
 lf9-cdn-tos.bytegeckoext.com 22
-logs.game.qq.com 22
 lv-api.ulikecam.com 22
 m1.360buyimg.com 22
 maker.meituan.com 22
@@ -5936,7 +5937,6 @@ cdn1.epicgames.com 20
 cdn1.hlcdn.cc 20
 cef7704f31cdf6f331dae3d890e2d47661fa3d6901cbdd46.v.smtcdns.com 20
 click.tanx.com 20
-coc.qq.com 20
 configuration.apple.com.w.cdngslb.com 20
 contacts.fe.apple-dns.cn 20
 courier-ab-vs.push.apple.com 20
@@ -6266,6 +6266,7 @@ d89d02bbe18e9fbbc797347bfd60e6e2015904dc48f958f6.v.smtcdns.com 18
 db32f4f9721fd671343b91fe881695a3ecd80d0c06f6295f.v.smtcdns.com 18
 devc.flysleep.cn 18
 diviner.jd.com 18
+dmplog.qq.com 18
 dns1.top 18
 drive.kdocs.cn 18
 entitlements.itunes.apple.com 18
@@ -7389,7 +7390,6 @@ desktop.githubusercontent.com 14
 dis.criteo.com 14
 dlassets-ssl.xboxlive.com 14
 dm-media.zhongan.com 14
-dmplog.qq.com 14
 dolphin.cr.qq.com 14
 douyin.a.bdydns.com 14
 downupdate.ydcdn.tcdnos.com 14
@@ -7525,6 +7525,7 @@ www.hgzs.host 14
 www.xshell.com 14
 www.xxsida.com 14
 wxpay.qpic.cn 14
+x8m8.ams.game.qq.com 14
 xx.knit.bid 14
 yktd.m.cn.miaozhen.com 14
 yyb.qpic.cn 14
@@ -8658,7 +8659,6 @@ www.bytedance.com.lan 10
 www.slytgjj.com 10
 wxpaylogo.qpic.cn 10
 wzzsmanager-1255653016.file.myqcloud.com 10
-x8m8.ams.game.qq.com 10
 xf11t9dqvf11111r9znrtepvd9f99sfo.v1d.pkoplink.com 10
 xjg8mi.z.cjjd14.com 10
 xy1x194x192x14xy.mcdn.bilivideo.cn 10
