@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-12-05 08:51:56
-# 白名单规则数: 472
+﻿# 更新时间: 2025-12-05 09:01:54
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -162,7 +162,6 @@
 @@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||gate.first-id.fr^
-@@||gecko.zijieapi.com^
 @@||get.neofinancial.com^
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
