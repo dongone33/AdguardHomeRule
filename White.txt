@@ -1,5 +1,5 @@
-﻿# 更新时间: 2025-12-07 07:58:23
-# 白名单规则数: 472
+﻿# 更新时间: 2025-12-07 10:26:14
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -224,7 +224,6 @@
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf3-cdn-tos.bytecdntp.com^
-@@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytescm.com^
 @@||lf3-cdn2-tos.bytescm.com^
 @@||lf3-imcloud-file-sign.bytetos.com^
