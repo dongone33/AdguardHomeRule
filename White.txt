@@ -1,4 +1,4 @@
-﻿# 更新时间: 2025-12-17 23:56:00
+﻿# 更新时间: 2025-12-18 00:35:58
 # 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -194,7 +194,6 @@
 @@||ii.gdt.qq.com^
 @@||img*.funshion.com^
 @@||img.ads.tvb.com^
-@@||img.funshion.com^
 @@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ipolyfill-origin.bytedance.com^
@@ -222,6 +221,7 @@
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
 @@||lf1-cdn-tos.bytegoofy.com^
+@@||lf1-cdn-tos.bytescm.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytescm.com^
