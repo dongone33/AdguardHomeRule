@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-04 23:58:41
-# 白名单规则数: 470
+﻿# 更新时间: 2026-01-05 00:35:32
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -400,6 +400,7 @@
 @@||support-beacon.nakanohito.jp^
 @@||support-widget.nakanohito.jp^
 @@||support.apple.com^
+@@||survey.feelgood.cn^
 @@||surveymyopinion.researchnow.com^
 @@||t.gdt.qq.com^
 @@||tags.crwdcntrl.net^
