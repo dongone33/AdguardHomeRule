@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-09 15:59:08
-# 白名单规则数: 471
+﻿# 更新时间: 2026-01-09 16:43:00
+# 白名单规则数: 470
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -408,7 +408,6 @@
 @@||tangram.e.qq.com^
 @@||tcbox.baidu.com^
 @@||thumbnail.thench.net^
-@@||tianshu.gtimg.cn^
 @@||tk.anythinktech.com^
 @@||tlaol.com^
 @@||tlh.gedidigital.it^
