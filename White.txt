@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-10 15:59:08
-# 白名单规则数: 470
+﻿# 更新时间: 2026-01-10 16:37:56
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -188,6 +188,7 @@
 @@||i2.y.qq.com^
 @@||ia.hit.interia.pl^
 @@||ib.snssdk.com^
+@@||ic.snssdk.com^
 @@||icloud.com^
 @@||id.i2i.jp^
 @@||ii.gdt.qq.com^
