@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-21 00:56:57
-# 白名单规则数: 471
+﻿# 更新时间: 2026-01-21 01:36:06
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -393,6 +393,7 @@
 @@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
 @@||sponsor.nitropay.com^
+@@||ssai.aniview.com^
 @@||stash.roistat.com^
 @@||static-v*.trbo.com^
 @@||staticsns.cdn.bcebos.com^
