@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-23 07:59:12
-# 白名单规则数: 471
+﻿# 更新时间: 2026-01-23 10:26:58
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -194,6 +194,7 @@
 @@||ii.gdt.qq.com^
 @@||img*.funshion.com^
 @@||img.ads.tvb.com^
+@@||img.funshion.com^
 @@||infra-api.newrelic.com^
 @@||intersport.peerius.com^
 @@||ipolyfill-origin.bytedance.com^
