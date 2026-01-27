@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-01-28 00:10:27
+﻿# 更新时间: 2026-01-28 00:49:49
 # 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -331,7 +331,6 @@
 @@||pan.quark.cn^
 @@||partner.everydays.de^
 @@||passport.360.cn^
-@@||payapp.weixin.qq.com^
 @@||pgdt.gtimg.cn^
 @@||pgdt.ugdtimg.com^
 @@||pgpartner.com^
@@ -354,6 +353,7 @@
 @@||pvip.funshion.com^
 @@||px.a8.net^
 @@||q.i.gdt.qq.com^
+@@||qwhdcdn.cmcc-cs.cn^
 @@||qzonestyle.gtimg.cn^
 @@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
