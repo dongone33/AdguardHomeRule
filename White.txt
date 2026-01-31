@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-01-31 16:16:35
-# 白名单规则数: 472
+﻿# 更新时间: 2026-01-31 16:50:51
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -448,7 +448,6 @@
 @@||vip1.kuwo.cn^
 @@||vr.gdt.qq.com^
 @@||web.qun.qq.com^
-@@||webstatic.nero.com^
 @@||wgo.mmstat.com^
 @@||win.gdt.qq.com^
 @@||www.bqgyy.com^
