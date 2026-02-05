@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-02-06 00:10:03
-# 白名单规则数: 472
+﻿# 更新时间: 2026-02-06 01:10:01
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -354,7 +354,6 @@
 @@||pvip.funshion.com^
 @@||px.a8.net^
 @@||q.i.gdt.qq.com^
-@@||qwhdcdn.cmcc-cs.cn^
 @@||qzonestyle.gtimg.cn^
 @@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
