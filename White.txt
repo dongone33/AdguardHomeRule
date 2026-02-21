@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-02-22 00:02:45
-# 白名单规则数: 473
+﻿# 更新时间: 2026-02-22 00:48:35
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -250,7 +250,6 @@
 @@||login.sendpulse.com^
 @@||luna-dict-community.nosdn.127.net^
 @@||m.gdt.qq.com^
-@@||m.jingxi.com^
 @@||m.toutiao.com^
 @@||ma*-normal-lf.zijieapi.com^
 @@||ma135-r.analytics.edgekey.net^
