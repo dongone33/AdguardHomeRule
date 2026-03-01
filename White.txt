@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-03-01 23:55:02
+﻿# 更新时间: 2026-03-02 00:35:43
 # 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -178,6 +178,7 @@
 @@||guce.advertising.com^
 @@||gw.365you.com^
 @@||h5.gdt.qq.com^
+@@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
 @@||hidive.com^
@@ -315,7 +316,6 @@
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
 @@||p3-flow-imagex-sign.byteimg.com^
-@@||p3-insurance.byteimg.com^
 @@||p3-iz-e-sign.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||p3-scmimg.bytescm.com^
