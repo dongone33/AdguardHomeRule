@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-03-02 07:56:07
+﻿# 更新时间: 2026-03-02 10:33:23
 # 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -136,7 +136,6 @@
 @@||dc.sigmob.cn^
 @@||develope-oss.lanzoug.com^
 @@||dig.lianjia.com^
-@@||dinamicx.alibabausercontent.com^
 @@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
@@ -316,6 +315,7 @@
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
 @@||p3-flow-imagex-sign.byteimg.com^
+@@||p3-insurance.byteimg.com^
 @@||p3-iz-e-sign.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||p3-scmimg.bytescm.com^
