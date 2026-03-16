@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-03-17 00:36:55
-# 白名单规则数: 471
+﻿# 更新时间: 2026-03-17 01:44:12
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -167,6 +167,7 @@
 @@||gia.jd.com^
 @@||gift.douyucdn.cn^
 @@||globalapi.ad.xiaomi.com^
+@@||gm.mmstat.com^
 @@||go.adjust.com^
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
