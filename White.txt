@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-03-22 15:59:34
+﻿# 更新时间: 2026-03-22 16:49:57
 # 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -271,7 +271,6 @@
 @@||mtt.eve.mdt.qq.com^
 @@||mtt.str.mdt.qq.com^
 @@||my.tealiumiq.com^
-@@||myquark.cn^
 @@||mzstatic.com^
 @@||n*-lf*-dy-ncdn-tos-sub.bytegecko.com^
 @@||n*-lf-webcast-cdn-tos-ncdn.bytegecko.com^
@@ -355,6 +354,7 @@
 @@||pvip.funshion.com^
 @@||px.a8.net^
 @@||q.i.gdt.qq.com^
+@@||qwhdcdn.cmcc-cs.cn^
 @@||qzonestyle.gtimg.cn^
 @@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
