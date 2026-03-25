@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-03-25 08:01:37
-# 白名单规则数: 471
+﻿# 更新时间: 2026-03-25 11:16:15
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -241,6 +241,7 @@
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||live*.static.yximgs.com^
+@@||local.adguard.org^
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log.mmstat.com^
