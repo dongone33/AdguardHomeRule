@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-03-31 08:07:33
-# 白名单规则数: 472
+﻿# 更新时间: 2026-03-31 11:30:41
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -112,7 +112,6 @@
 @@||clk*.tradedoubler.com^
 @@||cloud.notification-naviextras.com^
 @@||cloudcontrol.live.360.cn^
-@@||cm-10-*.getui.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cmp.inmobi.com^
