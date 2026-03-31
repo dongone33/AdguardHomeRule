@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-03-31 16:12:23
+﻿# 更新时间: 2026-03-31 17:37:44
 # 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -112,6 +112,7 @@
 @@||clk*.tradedoubler.com^
 @@||cloud.notification-naviextras.com^
 @@||cloudcontrol.live.360.cn^
+@@||cm-10-*.getui.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cmp.inmobi.com^
@@ -354,7 +355,6 @@
 @@||pvip.funshion.com^
 @@||px.a8.net^
 @@||q.i.gdt.qq.com^
-@@||qwhdcdn.cmcc-cs.cn^
 @@||qzonestyle.gtimg.cn^
 @@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
