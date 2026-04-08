@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-08 20:03:15
-# 白名单规则数: 472
+﻿# 更新时间: 2026-04-08 22:02:45
+# 白名单规则数: 473
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -73,6 +73,7 @@
 @@||aweme.snssdk.com^
 @@||awin1.com^
 @@||bcicl.*.evergage.com^
+@@||belgium.wolterskluwer.com^
 @@||bgp.video-upload-v*.lf.bytelb.net^
 @@||bjfesdk.douyucdn.cn^
 @@||blueskyxn.com^
