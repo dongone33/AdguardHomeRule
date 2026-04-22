@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-22 15:58:02
-# 白名单规则数: 465
+﻿# 更新时间: 2026-04-22 17:27:46
+# 白名单规则数: 456
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -20,7 +20,6 @@
 @@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||action.metaffiliation.com^
-@@||ad-log-upload.mihoyo.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -137,7 +136,6 @@
 @@||dc.sigmob.cn^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
-@@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||drive.quark.cn^
@@ -160,7 +158,6 @@
 @@||feed.adrelayer.com^
 @@||flydigi.com^
 @@||forum.notebookreview.com^
-@@||foundation.youdao.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
 @@||get.neofinancial.com^
@@ -250,7 +247,6 @@
 @@||luna-dict-community.nosdn.127.net^
 @@||m.gdt.qq.com^
 @@||m.jingxi.com^
-@@||m.toutiao.com^
 @@||ma*-normal-lf.zijieapi.com^
 @@||ma135-r.analytics.edgekey.net^
 @@||mall.360.cn^
@@ -317,10 +313,8 @@
 @@||p3-insurance.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||p3-scmimg.bytescm.com^
-@@||p3-search.byteimg.com^
 @@||p6-dcd-sign.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
-@@||p6-flow-imagex-sign.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
@@ -334,10 +328,8 @@
 @@||pgdt.ugdtimg.com^
 @@||pgpartner.com^
 @@||pic.imgdb.cn
-@@||pic2.zhimg.com^
+@@||pics.porndroids.com^
 @@||pitaya.bytedance.com^
-@@||pm.funshion.com^
-@@||po.funshion.com^
 @@||polaris.zijieapi.com^
 @@||portal.volccdn.com^
 @@||prod.impartner.live^
@@ -412,7 +404,6 @@
 @@||tmeadbak.y.qq.com^
 @@||tmeadcomm.y.qq.com^
 @@||tms.capitalone.com^
-@@||tnc3-bjlgy.zijieapi.com^
 @@||torimochi.line-apps.com^
 @@||tr.rdrtr.com^
 @@||track.rutarget.ru^
