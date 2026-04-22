@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-22 08:04:54
-# 白名单规则数: 464
+﻿# 更新时间: 2026-04-22 11:41:46
+# 白名单规则数: 465
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -65,6 +65,7 @@
 @@||app.adjust.com^
 @@||app.appsflyer.com^
 @@||app.home.360.cn^
+@@||app.toutiao.com^
 @@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
 @@||auto-api.yelp.com
@@ -319,6 +320,7 @@
 @@||p3-search.byteimg.com^
 @@||p6-dcd-sign.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
+@@||p6-flow-imagex-sign.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
@@ -333,7 +335,6 @@
 @@||pgpartner.com^
 @@||pic.imgdb.cn
 @@||pic2.zhimg.com^
-@@||pics.porndroids.com^
 @@||pitaya.bytedance.com^
 @@||pm.funshion.com^
 @@||po.funshion.com^
