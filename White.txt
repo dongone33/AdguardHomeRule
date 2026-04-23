@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-24 00:55:06
-# 白名单规则数: 465
+﻿# 更新时间: 2026-04-24 02:10:56
+# 白名单规则数: 463
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -122,7 +122,6 @@
 @@||cn.app.chat.xiaomi.net^
 @@||conf.hpplay.cn^
 @@||content.viralize.tv^
-@@||cp2-cdn-play.funshion.com^
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cs.silverpop.com^
 @@||cutcaptcha.com^
@@ -310,7 +309,6 @@
 @@||p*-sdbk2-media.byteimg.com^
 @@||p*.toutiaoimg.com^
 @@||p1-dcd.byteimg.com^
-@@||p3-cpay.byteimg.com^
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
 @@||p3-flow-imagex-sign.byteimg.com^
