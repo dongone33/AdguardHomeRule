@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-23 09:12:05
-# 白名单规则数: 464
+﻿# 更新时间: 2026-04-23 12:24:30
+# 白名单规则数: 465
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -92,6 +92,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.us*.exponea.com^
+@@||cdn.ynuf.aliapp.org^
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
