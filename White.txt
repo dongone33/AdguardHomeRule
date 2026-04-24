@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-24 16:27:02
-# 白名单规则数: 465
+﻿# 更新时间: 2026-04-24 18:09:07
+# 白名单规则数: 459
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -42,7 +42,6 @@
 @@||adx.anythinktech.com^
 @@||afi-b.com^
 @@||al-aqsanews.com
-@@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
 @@||amdc.m.taobao.com^
@@ -137,7 +136,6 @@
 @@||dc.sigmob.cn^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
-@@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||drive.quark.cn^
@@ -219,7 +217,6 @@
 @@||lf*-webcastcdn-tos.douyinstatic.com^
 @@||lf*material.searchpstatp.com^
 @@||lf-c-flwb.bytetos.com^
-@@||lf-cdn-tos.bytescm.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
 @@||lf1-cdn-tos.bytegoofy.com^
@@ -322,7 +319,6 @@
 @@||p6-dy-ipv6.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||pagead.l.doubleclick.net^
 @@||pan.quark.cn^
@@ -419,7 +415,6 @@
 @@||track.webgains.com^
 @@||tracker.ai.xiaomi.com^
 @@||trk.ecomm.lenovo.com^
-@@||ttwid.bytedance.com^
 @@||tvapp.hpplay.cn^
 @@||tybook.taoyuewenhua.net^
 @@||umengjmacs.m.taobao.com^
@@ -438,7 +433,6 @@
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
-@@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
 @@||vr.gdt.qq.com^
 @@||web.qun.qq.com^
