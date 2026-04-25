@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-25 07:57:35
-# 白名单规则数: 457
+﻿# 更新时间: 2026-04-25 10:51:48
+# 白名单规则数: 465
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -32,6 +32,7 @@
 @@||adclick.tencentmusic.com^
 @@||adexpo.tencentmusic.com^
 @@||admin.dable.io^
+@@||admin.mailchimp.com^
 @@||ads.tdbank.com^
 @@||adsmind.gdtimg.com^
 @@||adstats.tencentmusic.com^
@@ -68,6 +69,7 @@
 @@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
 @@||auto-api.yelp.com
+@@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
 @@||awin1.com^
 @@||bcicl.*.evergage.com^
@@ -110,6 +112,7 @@
 @@||clientlog3.music.163.com^
 @@||clk*.tradedoubler.com^
 @@||cloud.notification-naviextras.com^
+@@||cloudcontrol.live.360.cn^
 @@||cm-10-*.getui.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
@@ -137,6 +140,7 @@
 @@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
+@@||drive.quark.cn^
 @@||e.customeriomail.com^
 @@||e.kuaishou.com^
 @@||ecma.bdimg.com^
@@ -156,6 +160,7 @@
 @@||feed.adrelayer.com^
 @@||flydigi.com^
 @@||forum.notebookreview.com^
+@@||foundation.youdao.com^
 @@||gate.first-id.fr^
 @@||gecko.zijieapi.com^
 @@||get.neofinancial.com^
@@ -333,6 +338,7 @@
 @@||pitaya.bytedance.com^
 @@||pm.funshion.com^
 @@||po.funshion.com^
+@@||polaris.zijieapi.com^
 @@||portal.volccdn.com^
 @@||prod.impartner.live^
 @@||promo.gramedia.com^
@@ -369,6 +375,7 @@
 @@||saveu.zijieapi.com^
 @@||sax.sina.com.cn^
 @@||sbs.demdex.net^
+@@||scan.call.f.360.cn^
 @@||sdk.e.qq.com^
 @@||sdk.live.360.cn^
 @@||search.kuwo.cn^
@@ -376,6 +383,7 @@
 @@||sedge.nfl.com^
 @@||shouji.360.cn^
 @@||sl.hpplay.cn^
+@@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
 @@||speed.live.360.cn^
