@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-29 08:14:39
-# 白名单规则数: 466
+﻿# 更新时间: 2026-04-29 12:08:24
+# 白名单规则数: 465
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -135,7 +135,6 @@
 @@||data.digital.costco.com^
 @@||data.orders.costco.com^
 @@||dc.sigmob.cn^
-@@||develope-oss.lanzoug.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||download.adguard.com^
