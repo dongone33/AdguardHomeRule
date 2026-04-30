@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-04-30 17:06:58
-# 白名单规则数: 464
+﻿# 更新时间: 2026-04-30 19:06:12
+# 白名单规则数: 466
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -178,6 +178,7 @@
 @@||guce.advertising.com^
 @@||gw.365you.com^
 @@||h5.gdt.qq.com^
+@@||h5.hpplay.com.cn^
 @@||hb.afl.rakuten.co.jp^
 @@||health.halodoc.com^
 @@||hidive.com^
@@ -439,6 +440,7 @@
 @@||vcentry3.valuecommerce.ne.jp^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
+@@||vitacost.122.2o7.net^
 @@||vr.gdt.qq.com^
 @@||web.qun.qq.com^
 @@||webstatic.nero.com^
