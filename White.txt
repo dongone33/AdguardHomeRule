@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-05-01 09:28:16
+﻿# 更新时间: 2026-05-01 13:13:05
 # 白名单规则数: 465
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -364,7 +364,6 @@
 @@||remembering.ca^
 @@||report.passport.360.cn^
 @@||res.ads.nicovideo.jp^
-@@||res.mi.baidu.com^
 @@||rm.gdt.qq.com^
 @@||rpt.gdt.qq.com^
 @@||s.bluecore.com^
@@ -382,6 +381,7 @@
 @@||secureimage.securedataimages.com^
 @@||sedge.nfl.com^
 @@||shouji.360.cn^
+@@||sl.hpplay.cn^
 @@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
