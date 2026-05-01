@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-01 17:23:51
-# 白名单规则数: 465
+﻿# 更新时间: 2026-05-01 18:54:55
+# 白名单规则数: 466
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -364,6 +364,7 @@
 @@||remembering.ca^
 @@||report.passport.360.cn^
 @@||res.ads.nicovideo.jp^
+@@||res.mi.baidu.com^
 @@||rm.gdt.qq.com^
 @@||rpt.gdt.qq.com^
 @@||s.bluecore.com^
