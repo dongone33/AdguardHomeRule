@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-04 00:30:34
-# 白名单规则数: 466
+﻿# 更新时间: 2026-05-04 01:30:38
+# 白名单规则数: 464
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -218,7 +218,6 @@
 @@||lf*-webcast-cdn-tos.bytegecko.com^
 @@||lf*-webcastcdn-tos.douyinstatic.com^
 @@||lf*material.searchpstatp.com^
-@@||lf-c-flwb.bytetos.com^
 @@||lf-cdn-tos.bytescm.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
 @@||lf-webcast-sourcecdn-tos.bytegecko.com^
@@ -337,7 +336,6 @@
 @@||pics.porndroids.com^
 @@||pitaya.bytedance.com^
 @@||pm.funshion.com^
-@@||po.funshion.com^
 @@||polaris.zijieapi.com^
 @@||portal.volccdn.com^
 @@||prod.impartner.live^
