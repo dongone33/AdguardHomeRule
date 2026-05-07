@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-07 08:04:53
-# 白名单规则数: 467
+﻿# 更新时间: 2026-05-07 12:04:04
+# 白名单规则数: 466
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -386,7 +386,6 @@
 @@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
-@@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
 @@||sponsor.nitropay.com^
 @@||ssai.aniview.com^
