@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-05-12 09:28:36
+﻿# 更新时间: 2026-05-12 13:07:59
 # 白名单规则数: 467
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -232,7 +232,6 @@
 @@||lf3-search.searchpstatp.com^
 @@||lf3-short.ibytedapm.com^
 @@||lf6-cdn-tos.bytegoofy.com^
-@@||lf6-imcloud-file-sign.bytetos.com^
 @@||link.meet5.net^
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
@@ -319,6 +318,7 @@
 @@||p3-notice.byteimg.com^
 @@||p3-scmimg.bytescm.com^
 @@||p3-search.byteimg.com^
+@@||p6-dcd-sign.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
