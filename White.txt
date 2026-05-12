@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-13 01:38:21
-# 白名单规则数: 464
+﻿# 更新时间: 2026-05-13 03:23:16
+# 白名单规则数: 467
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -153,6 +153,7 @@
 @@||email.procook.co.uk^
 @@||envato.market^
 @@||f-cashloan.snssdk.com^
+@@||f-cpay.snssdk.com^
 @@||f-gear.ec-optimizer.com^
 @@||fastconn-api.iot.360.cn^
 @@||feed-image.baidu.com^
@@ -318,6 +319,7 @@
 @@||p3-scmimg.bytescm.com^
 @@||p3-search.byteimg.com^
 @@||p6-dcd-sign.byteimg.com^
+@@||p6-dy-ipv6.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
@@ -419,6 +421,7 @@
 @@||trk.ecomm.lenovo.com^
 @@||ttwid.bytedance.com^
 @@||tvapp.hpplay.cn^
+@@||tybook.taoyuewenhua.net^
 @@||umengjmacs.m.taobao.com^
 @@||unsubscribe.lhinsights.com^
 @@||v*.douyinvod.com^
