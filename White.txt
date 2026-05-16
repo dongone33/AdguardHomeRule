@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-16 09:25:28
-# 白名单规则数: 466
+﻿# 更新时间: 2026-05-16 12:57:22
+# 白名单规则数: 467
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -309,6 +309,7 @@
 @@||p*-ppx-sign.byteimg.com^
 @@||p*-sdbk2-media.byteimg.com^
 @@||p*.toutiaoimg.com^
+@@||p1-dcd.byteimg.com^
 @@||p3-cpay.byteimg.com^
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
