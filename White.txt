@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-18 18:41:30
-# 白名单规则数: 466
+﻿# 更新时间: 2026-05-18 22:20:07
+# 白名单规则数: 467
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -424,6 +424,7 @@
 @@||tybook.taoyuewenhua.net^
 @@||umengjmacs.m.taobao.com^
 @@||unsubscribe.lhinsights.com^
+@@||v*.douyinvod.com^
 @@||v*.kwaicdn.com^
 @@||v.gdt.qq.com^
 @@||v.miguvideo.com^
