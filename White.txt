@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-20 20:31:18
-# 白名单规则数: 467
+﻿# 更新时间: 2026-05-21 00:10:16
+# 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -286,7 +286,9 @@
 @@||oa.tr.line.me^
 @@||obituaries.therecord.com^
 @@||obituaries.thestar.com^
+@@||obituaries.toacorn.com^
 @@||official.paymaya.com^
+@@||om-ssl.consorsbank.de^
 @@||omniture.walmart.com^
 @@||omsc.kpn.com^
 @@||onegoods.nosdn.127.net^
