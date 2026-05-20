@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-21 00:10:16
-# 白名单规则数: 469
+﻿# 更新时间: 2026-05-21 02:33:00
+# 白名单规则数: 470
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -467,6 +467,7 @@
 @@||wxsnsdythumb.wxs.qq.com^
 @@||x.adnet.qq.com^
 @@||xc.gdt.qq.com^
+@@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
 @@||ydlunacommon-cdn.nosdn.127.net^
