@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-05-26 09:48:52
-# 白名单规则数: 470
+﻿# 更新时间: 2026-05-26 13:55:50
+# 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -232,7 +232,6 @@
 @@||lf3-search.searchpstatp.com^
 @@||lf3-short.ibytedapm.com^
 @@||lf6-cdn-tos.bytegoofy.com^
-@@||lf6-imcloud-file-sign.bytetos.com^
 @@||link.meet5.net^
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
