@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-01 15:14:09
-# 白名单规则数: 474
+﻿# 更新时间: 2026-06-01 21:05:01
+# 白名单规则数: 475
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -133,6 +133,7 @@
 @@||data-*.herz-fuer-tiere.de^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
+@@||data.notify.macys.com^
 @@||data.orders.costco.com^
 @@||dc.sigmob.cn^
 @@||develope-oss.lanzoug.com^
