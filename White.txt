@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-01 21:05:01
-# 白名单规则数: 475
+﻿# 更新时间: 2026-06-02 02:50:23
+# 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -136,7 +136,6 @@
 @@||data.notify.macys.com^
 @@||data.orders.costco.com^
 @@||dc.sigmob.cn^
-@@||develope-oss.lanzoug.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||download.adguard.com^
@@ -234,7 +233,6 @@
 @@||lf3-search.searchpstatp.com^
 @@||lf3-short.ibytedapm.com^
 @@||lf6-cdn-tos.bytegoofy.com^
-@@||lf6-imcloud-file-sign.bytetos.com^
 @@||link.meet5.net^
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
@@ -320,7 +318,6 @@
 @@||p3-dcd.byteimg.com^
 @@||p3-flow-imagex-sign.byteimg.com^
 @@||p3-insurance.byteimg.com^
-@@||p3-iz-e-sign.byteimg.com^
 @@||p3-notice.byteimg.com^
 @@||p3-scmimg.bytescm.com^
 @@||p3-search.byteimg.com^
@@ -392,7 +389,6 @@
 @@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
-@@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
 @@||sponsor.nitropay.com^
 @@||ssai.aniview.com^
@@ -446,7 +442,6 @@
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
-@@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
 @@||vr.gdt.qq.com^
@@ -472,7 +467,6 @@
 @@||wxsnsdythumb.wxs.qq.com^
 @@||x.adnet.qq.com^
 @@||xc.gdt.qq.com^
-@@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
 @@||ydlunacommon-cdn.nosdn.127.net^
