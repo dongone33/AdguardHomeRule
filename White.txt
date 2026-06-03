@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-04 03:00:16
-# 白名单规则数: 470
+﻿# 更新时间: 2026-06-04 05:58:23
+# 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -309,7 +309,6 @@
 @@||p*-novel.byteimg.com^
 @@||p*-passport.byteacctimg.com^
 @@||p*-piu.byteimg.com^
-@@||p*-ppx-report.byteimg.com^
 @@||p*-ppx-sign.byteimg.com^
 @@||p*-sdbk2-media.byteimg.com^
 @@||p*.toutiaoimg.com^
