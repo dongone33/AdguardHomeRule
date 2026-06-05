@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-05 07:59:16
-# 白名单规则数: 470
+﻿# 更新时间: 2026-06-05 12:42:48
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -443,6 +443,7 @@
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
+@@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
 @@||vr.gdt.qq.com^
