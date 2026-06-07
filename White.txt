@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-08 01:01:37
-# 白名单规则数: 470
+﻿# 更新时间: 2026-06-08 02:16:23
+# 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -119,7 +119,6 @@
 @@||cmp.inmobi.com^
 @@||cn-api.anythinktech.com^
 @@||cn-tk.anythinktech.com^
-@@||cn.app.chat.xiaomi.net^
 @@||conf.hpplay.cn^
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
