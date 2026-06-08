@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-06-08 10:00:37
+﻿# 更新时间: 2026-06-08 14:57:44
 # 白名单规则数: 469
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
@@ -119,6 +119,7 @@
 @@||cmp.inmobi.com^
 @@||cn-api.anythinktech.com^
 @@||cn-tk.anythinktech.com^
+@@||cn.app.chat.xiaomi.net^
 @@||conf.hpplay.cn^
 @@||content.viralize.tv^
 @@||cp2-cdn-play.funshion.com^
@@ -215,7 +216,6 @@
 @@||lf*-dy-cdn-tos.bytegecko.com^
 @@||lf*-infras.bytetos.com^
 @@||lf*-static.bytednsdoc.com^
-@@||lf*-webcast-cdn-tos-ncdn.bytegecko.com^
 @@||lf*-webcast-cdn-tos.bytegecko.com^
 @@||lf*-webcastcdn-tos.douyinstatic.com^
 @@||lf*material.searchpstatp.com^
