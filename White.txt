@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-19 08:03:58
-# 白名单规则数: 470
+﻿# 更新时间: 2026-06-19 13:23:49
+# 白名单规则数: 472
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -45,6 +45,7 @@
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
+@@||alllaw.112.2o7.net^
 @@||amdc.m.taobao.com^
 @@||analytics.amplitude.com^
 @@||anwb.webpower.eu^
@@ -324,6 +325,7 @@
 @@||p3-search.byteimg.com^
 @@||p6-dcd-sign.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
+@@||p6-flow-imagex-sign.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
