@@ -1,9 +1,10 @@
-﻿# 更新时间: 2026-06-21 07:56:52
-# 白名单规则数: 470
+﻿# 更新时间: 2026-06-21 12:46:39
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
 @@-ds.metric.gstatic.com^
+@@down.360safe.com^
 @@||*ad*.ksyungslb.com^
 @@||*m.chenzhongtech.com^
 @@||000714.xyz^
