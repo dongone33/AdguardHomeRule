@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-26 08:15:37
-# 白名单规则数: 471
+﻿# 更新时间: 2026-06-26 12:46:14
+# 白名单规则数: 470
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -154,7 +154,6 @@
 @@||email.elitedangerous.com^
 @@||email.procook.co.uk^
 @@||envato.market^
-@@||f-cashloan.snssdk.com^
 @@||f-cpay.snssdk.com^
 @@||f-gear.ec-optimizer.com^
 @@||fastconn-api.iot.360.cn^
