@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-26 23:58:17
-# 白名单规则数: 472
+﻿# 更新时间: 2026-06-27 01:56:29
+# 白名单规则数: 470
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -374,7 +374,6 @@
 @@||s.bluecore.com^
 @@||s.click.taobao.com^
 @@||s.mvconf.f.360.cn^
-@@||s1.wp.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
 @@||sax.sina.com.cn^
@@ -469,7 +468,6 @@
 @@||wxsnsdythumb.wxs.qq.com^
 @@||x.adnet.qq.com^
 @@||xc.gdt.qq.com^
-@@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
 @@||ydlunacommon-cdn.nosdn.127.net^
