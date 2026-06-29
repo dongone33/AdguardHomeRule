@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-29 20:08:59
-# 白名单规则数: 471
+﻿# 更新时间: 2026-06-30 00:11:27
+# 白名单规则数: 462
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -32,7 +32,6 @@
 @@||adclick.tencentmusic.com^
 @@||adexpo.tencentmusic.com^
 @@||admin.dable.io^
-@@||admin.mailchimp.com^
 @@||ads.tdbank.com^
 @@||adsmind.gdtimg.com^
 @@||adstats.tencentmusic.com^
@@ -68,7 +67,6 @@
 @@||app.toutiao.com^
 @@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
-@@||auto-api.yelp.com
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
 @@||awin1.com^
@@ -88,7 +86,6 @@
 @@||captcha.su.baidu.com^
 @@||catchup.thisisdax.com^
 @@||cdn.atmedia.hu^
-@@||cdn.datatables.net^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.us*.exponea.com^
@@ -139,7 +136,6 @@
 @@||dc.sigmob.cn^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
-@@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||drive.quark.cn^
@@ -198,7 +194,6 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||infra-api.newrelic.com^
-@@||injections.adguard.org^
 @@||intersport.peerius.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||ipv4.gdt.qq.com^
@@ -208,7 +203,6 @@
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
-@@||krebsonsecurity.com
 @@||learn.khanacademy.org^
 @@||leechers-paradise.org^
 @@||lf*-baike.searchpstatp.com^
@@ -234,6 +228,7 @@
 @@||lf3-search.searchpstatp.com^
 @@||lf3-short.ibytedapm.com^
 @@||lf6-cdn-tos.bytegoofy.com^
+@@||lf6-imcloud-file-sign.bytetos.com^
 @@||link.meet5.net^
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
@@ -242,12 +237,10 @@
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||live*.static.yximgs.com^
-@@||local.adguard.org^
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log.mmstat.com^
 @@||logentries.com^
-@@||login.gaijin.net^
 @@||login.sendpulse.com^
 @@||luna-dict-community.nosdn.127.net^
 @@||m.gdt.qq.com^
@@ -335,10 +328,8 @@
 @@||payapp.weixin.qq.com^
 @@||pgdt.gtimg.cn^
 @@||pgdt.ugdtimg.com^
-@@||pgpartner.com^
 @@||pic.imgdb.cn
 @@||pic2.zhimg.com^
-@@||pics.porndroids.com^
 @@||pitaya.bytedance.com^
 @@||pm.funshion.com^
 @@||po.funshion.com^
@@ -374,7 +365,6 @@
 @@||s.bluecore.com^
 @@||s.click.taobao.com^
 @@||s.mvconf.f.360.cn^
-@@||s1.wp.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
 @@||sax.sina.com.cn^
@@ -390,6 +380,7 @@
 @@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
+@@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
 @@||sponsor.nitropay.com^
 @@||ssai.aniview.com^
@@ -443,12 +434,11 @@
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
+@@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
-@@||vitacost.122.2o7.net^
 @@||vr.gdt.qq.com^
 @@||web.qun.qq.com^
-@@||webstatic.nero.com^
 @@||wgo.mmstat.com^
 @@||win.gdt.qq.com^
 @@||www.bqgyy.com^
@@ -469,6 +459,7 @@
 @@||wxsnsdythumb.wxs.qq.com^
 @@||x.adnet.qq.com^
 @@||xc.gdt.qq.com^
+@@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
 @@||ydlunacommon-cdn.nosdn.127.net^
