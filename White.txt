@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-30 00:11:27
-# 白名单规则数: 462
+﻿# 更新时间: 2026-06-30 02:28:10
+# 白名单规则数: 463
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -67,6 +67,7 @@
 @@||app.toutiao.com^
 @@||artifactory.appodeal.com^
 @@||auth.zijieapi.com^
+@@||auto-api.yelp.com
 @@||avatar.coolapk.com^
 @@||aweme.snssdk.com^
 @@||awin1.com^
@@ -134,6 +135,7 @@
 @@||data.orders.costco.ca^
 @@||data.orders.costco.com^
 @@||dc.sigmob.cn^
+@@||develope-oss.lanzoug.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
 @@||download.uc.cn^
@@ -228,7 +230,6 @@
 @@||lf3-search.searchpstatp.com^
 @@||lf3-short.ibytedapm.com^
 @@||lf6-cdn-tos.bytegoofy.com^
-@@||lf6-imcloud-file-sign.bytetos.com^
 @@||link.meet5.net^
 @@||link.morningbrew.com^
 @@||link.nzz.ch^
@@ -330,6 +331,7 @@
 @@||pgdt.ugdtimg.com^
 @@||pic.imgdb.cn
 @@||pic2.zhimg.com^
+@@||pics.porndroids.com^
 @@||pitaya.bytedance.com^
 @@||pm.funshion.com^
 @@||po.funshion.com^
@@ -459,7 +461,6 @@
 @@||wxsnsdythumb.wxs.qq.com^
 @@||x.adnet.qq.com^
 @@||xc.gdt.qq.com^
-@@||yanxuan-dl.nosdn.127.net^
 @@||yanxuan-item.nosdn.127.net^
 @@||yanxuan.nosdn.127.net^
 @@||ydlunacommon-cdn.nosdn.127.net^
