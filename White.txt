@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-06-30 08:20:03
-# 白名单规则数: 463
+﻿# 更新时间: 2026-06-30 12:41:06
+# 白名单规则数: 471
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -32,6 +32,7 @@
 @@||adclick.tencentmusic.com^
 @@||adexpo.tencentmusic.com^
 @@||admin.dable.io^
+@@||admin.mailchimp.com^
 @@||ads.tdbank.com^
 @@||adsmind.gdtimg.com^
 @@||adstats.tencentmusic.com^
@@ -87,6 +88,7 @@
 @@||captcha.su.baidu.com^
 @@||catchup.thisisdax.com^
 @@||cdn.atmedia.hu^
+@@||cdn.datatables.net^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.rozetka.com.ua^
 @@||cdn.us*.exponea.com^
@@ -135,9 +137,9 @@
 @@||data.orders.costco.ca^
 @@||data.orders.costco.com^
 @@||dc.sigmob.cn^
-@@||develope-oss.lanzoug.com^
 @@||dig.lianjia.com^
 @@||dinamicx.alibabausercontent.com^
+@@||download.adguard.com^
 @@||download.uc.cn^
 @@||dp.push.dc.360.cn^
 @@||drive.quark.cn^
@@ -196,6 +198,7 @@
 @@||img.ads.tvb.com^
 @@||img.funshion.com^
 @@||infra-api.newrelic.com^
+@@||injections.adguard.org^
 @@||intersport.peerius.com^
 @@||ipolyfill-origin.bytedance.com^
 @@||ipv4.gdt.qq.com^
@@ -205,6 +208,7 @@
 @@||jia.360.cn^
 @@||js-gamezone.static.yximgs.com^
 @@||js.monitor.azure.com^
+@@||krebsonsecurity.com
 @@||learn.khanacademy.org^
 @@||leechers-paradise.org^
 @@||lf*-baike.searchpstatp.com^
@@ -238,10 +242,12 @@
 @@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||live*.static.yximgs.com^
+@@||local.adguard.org^
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log.mmstat.com^
 @@||logentries.com^
+@@||login.gaijin.net^
 @@||login.sendpulse.com^
 @@||luna-dict-community.nosdn.127.net^
 @@||m.gdt.qq.com^
@@ -329,6 +335,7 @@
 @@||payapp.weixin.qq.com^
 @@||pgdt.gtimg.cn^
 @@||pgdt.ugdtimg.com^
+@@||pgpartner.com^
 @@||pic.imgdb.cn
 @@||pic2.zhimg.com^
 @@||pics.porndroids.com^
@@ -367,6 +374,7 @@
 @@||s.bluecore.com^
 @@||s.click.taobao.com^
 @@||s.mvconf.f.360.cn^
+@@||s1.wp.com^
 @@||saveu*-normal-lf.zijieapi.com^
 @@||saveu.zijieapi.com^
 @@||sax.sina.com.cn^
@@ -382,7 +390,6 @@
 @@||smart.360.cn^
 @@||smtp.focusgroupresearch.com^
 @@||souti-ims.sm.cn^
-@@||soutiapi.quark.cn^
 @@||speed.live.360.cn^
 @@||sponsor.nitropay.com^
 @@||ssai.aniview.com^
@@ -436,11 +443,12 @@
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
 @@||vcentry3.valuecommerce.ne.jp^
-@@||vcs-quality.zijieapi.com^
 @@||vcs.zijieapi.com^
 @@||vip1.kuwo.cn^
+@@||vitacost.122.2o7.net^
 @@||vr.gdt.qq.com^
 @@||web.qun.qq.com^
+@@||webstatic.nero.com^
 @@||wgo.mmstat.com^
 @@||win.gdt.qq.com^
 @@||www.bqgyy.com^
