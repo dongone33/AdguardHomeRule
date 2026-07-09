@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-09 18:33:22
-# 白名单规则数: 480
+﻿# 更新时间: 2026-07-09 21:37:18
+# 白名单规则数: 479
 # 作者: Menghuibanxian (Merged by Script)
 # ------------------------------------------
 
@@ -263,7 +263,6 @@
 @@||mc.*.exacttarget.com^
 @@||mdm.openapi.360.cn^
 @@||media-consumer365.desigual.com^
-@@||meiqia.com^
 @@||mi.gdt.qq.com^
 @@||mimg.127.net^
 @@||mobilist.kuwo.cn^
