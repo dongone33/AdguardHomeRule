@@ -22,38 +22,36 @@ class AdGuardRuleManager:
         self.blacklist_sources = {
             "AdGuard DNS filter":        "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
             "秋风的规则":                "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-            "GitHub加速":                "https://raw.githubusercontent.com/521xueweihan/GitHub520/refs/heads/main/hosts",
+            #"GitHub加速":                "https://raw.githubusercontent.com/521xueweihan/GitHub520/refs/heads/main/hosts",
             #"DD自用":                   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
             #"广告规则":                 "https://raw.githubusercontent.com/huantian233/HT-AD/main/AD.txt",
             "消失DD":                    "https://raw.githubusercontent.com/afwfv/DD-AD/refs/heads/release/dns.txt",
-            #"大萌主":                   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
-            #"逆向涉猎 晴雅？":           "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
+            "大萌主":                   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
+            "qy-Ads-Rule":           "https://raw.gitcode.com/rssv/qy-Ads-Rule/raw/main/black.txt",
             "下个ID见":                  "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts",
-            #"那个谁520":                "https://raw.githubusercontent.com/qq5460168/666/master/rules.txt",
-            #"1hosts":                   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt",
-            #"茯苓的广告规则":            "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt",
-            "立场不定的":                "https://raw.githubusercontent.com/Menghuibanxian/Minecraft/refs/heads/main/AdguardHome.txt",
-            #"anti-ad混合名单":           "https://anti-ad.net/easylist.txt",
-            #"酷安 番茄 七猫":            "https://d.kstore.dev/download/10497/xiaoshuo.txt",
+            "那个谁520":                "https://raw.githubusercontent.com/qq5460168/666/master/dns.txt",
+            "TTDNS":                   "https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT",
+            "茯苓的广告规则":            "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingBlockList.txt",
+            "HG":                      "https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt",
+            "anti-ad":                  "https://anti-ad.net/easylist.txt",
+            "adg-kall-dns":            "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt",
             #"酷安":                     "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/Master/OtherRules/CoolapkRules.txt",
-            #"那个谁520":                "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
-            "StevenBlack":               "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
-            "neodevpro":                 "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
+            "666":                "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
+            #"StevenBlack":               "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
+            #"neodevpro":                 "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
         }
 
         self.whitelist_sources = {
-            #"茯苓允许列表":              "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
-            #"qq5460168":                "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
-            #"个人自用白名单":            "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+            "茯苓允许列表":              "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
+            "个人自用白名单":            "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
             #"酷安cocieto白名单":         "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
             #"BlueSkyXN":                 "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
-            #"那个谁520广告白名单":        "https://raw.githubusercontent.com/qq5460168/EasyAds/main/allow.txt",
-            #"AdGuardHome通用白名单":     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
+            "那个谁520广告白名单":        "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
+            "AdGuardHome通用白名单":     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
             #"jhsvip白名单":              "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
             #"liwenjie119白名单":         "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
             #"喵二白名单":                "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
             #"Cats-Team白名单":           "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt",
-            #"那个谁520":                 "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
             #"浅笑白名单":                 "https://raw.githubusercontent.com/user001235/112/main/white.txt",
         }
 
@@ -61,7 +59,7 @@ class AdGuardRuleManager:
 
 
 
-        self.fallback_sources = ["秋风的规则", "GitHub加速"]
+        self.fallback_sources = ["anti-ad", "AdGuard DNS filter"]
 
     def get_beijing_time(self) -> str:
         try:
@@ -316,20 +314,20 @@ class AdGuardRuleManager:
 
         black_header = f"# 更新时间: {start_time}\n"
         black_header += f"# 总规则数: {len(final_blacklist) + len(final_whitelist)} (黑: {len(final_blacklist)}, 白: {len(final_whitelist)})\n"
-        black_header += f"# 作者: Menghuibanxian (Merged by Script)\n"
+        black_header += f"# 作者: dongone33 (Merged by Script)\n"
         black_header += "# ------------------------------------------\n\n"
         self.save_file(self.black_file, final_blacklist + final_whitelist, black_header)
         
         white_header = f"# 更新时间: {start_time}\n"
         white_header += f"# 白名单规则数: {len(final_whitelist)}\n"
-        white_header += f"# 作者: Menghuibanxian (Merged by Script)\n"
+        white_header += f"# 作者: dongone33 (Merged by Script)\n"
         white_header += "# ------------------------------------------\n\n"
         self.save_file(self.white_file, final_whitelist, white_header)
         
         pure_header = f"# 更新时间: {start_time}\n"
         pure_header += f"# 纯黑名单规则数: {len(matched_blacklist) + len(final_whitelist)} (黑: {len(matched_blacklist)}, 白: {len(final_whitelist)})\n"
         pure_header += f"# 说明: 与域名库匹配的黑名单 + 兜底规则源({', '.join(self.fallback_sources)}) + 全量白名单\n"
-        pure_header += f"# 作者: Menghuibanxian (Merged by Script)\n"
+        pure_header += f"# 作者: dongone33 (Merged by Script)\n"
         pure_header += "# ------------------------------------------\n\n"
         self.save_file(self.pure_file, matched_blacklist + final_whitelist, pure_header)
         
