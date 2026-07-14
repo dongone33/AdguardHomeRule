@@ -35,8 +35,8 @@ class AdGuardRuleManager:
             "HG":                      "https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt",
             "anti-ad":                  "https://anti-ad.net/easylist.txt",
             "adg-kall-dns":            "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt",
-            #"酷安":                     "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/refs/heads/Master/OtherRules/CoolapkRules.txt",
-            "666":                "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
+            "DNS-Kuner":                 "https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/blacklist.txt",
+            "666":                       "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
             #"StevenBlack":               "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
             #"neodevpro":                 "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
         }
@@ -44,7 +44,7 @@ class AdGuardRuleManager:
         self.whitelist_sources = {
             "茯苓允许列表":              "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
             "个人自用白名单":            "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
-            #"酷安cocieto白名单":         "https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt",
+            "DNS-Kuner":         "https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/allowlist.txt",
             #"BlueSkyXN":                 "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
             "那个谁520广告白名单":        "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
             "AdGuardHome通用白名单":     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
