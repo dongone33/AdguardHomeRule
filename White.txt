@@ -1,9 +1,10 @@
-﻿# 更新时间: 2026-07-14 17:24:34
-# 白名单规则数: 3890
+﻿# 更新时间: 2026-07-14 17:29:24
+# 白名单规则数: 3921
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
 @@-ds.metric.gstatic.com^
+@@auni.telecome.cn^
 @@down.360safe.com^
 @@googlesyndication.com$domain=bilinovel.com
 @@||"*.streaming.mediaservices.windows.net^
@@ -133,6 +134,8 @@
 @@||*ggpht.com^
 @@||*googlevideo.com*^
 @@||*live.com.akadns.net*^
+@@||*luna.douyin*.*
+@@||*m*.360buyimg.com^
 @@||*m.chenzhongtech.com^
 @@||*microsoft.akadns.net*^
 @@||*microsoft.com*akadns.net*^
@@ -349,6 +352,7 @@
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.googleapis.com^
 @@||akamaized.net^
+@@||aks.jdpay.com^
 @@||al-aqsanews.com
 @@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
 @@||albert.apple.com^$important
@@ -401,6 +405,7 @@
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^
 @@||apd-ugcvlive.apdcdn.tc.qq.com^
 @@||apd-vlive.apdcdn.tc.qq.com^
+@@||api*normal*fqnovel.com^
 @@||api-album.quark.cn^
 @@||api-chat.soulapp.cn^
 @@||api-cmnt.wtzw.com^
@@ -548,6 +553,7 @@
 @@||appdownload.alicdn.com^
 @@||appgallery.huawei.com^
 @@||appgoad.189.cn^
+@@||appimg*dbankcdn.com^
 @@||appimg-drcn.dbankcdn.com^
 @@||appimg.dbankcdn.com^
 @@||appldnld.apple.com.edgesuite.net^$important
@@ -635,6 +641,7 @@
 @@||backupapi.lkong.com^
 @@||bad.news^
 @@||bag.itunes.apple.com^
+@@||baidupcs.com^
 @@||baijiahao.baidu.com^
 @@||baike.baidu.com^
 @@||baike.so.com^
@@ -735,6 +742,7 @@
 @@||campus.163.com^
 @@||capi.jingjianx.vip^
 @@||captcha-gray.zt.kuaishou.com^
+@@||captcha.95516.com^
 @@||captcha.su.baidu.com^
 @@||captcha.zt.kuaishou.com^
 @@||captive.apple.com^
@@ -992,6 +1000,7 @@
 @@||content.viralize.tv^
 @@||contentcenter-vali-drcn.dbankcdn.com^
 @@||coolapk-oss-image.oss-cn-hangzhou.aliyuncs.com^
+@@||coolapk.com^
 @@||coop.voicecloud.cn^
 @@||core.tantanapp.com^
 @@||cos.ap-bangkok.myqcloud.com^
@@ -1114,6 +1123,8 @@
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
 @@||developer.extscreen.com^
+@@||developer.huawei.com^
+@@||device.95516.com^
 @@||device.login.microsoftonline.com^$important
 @@||deviceenrollment.apple.com^$important
 @@||deviceservices-external.apple.com^$important
@@ -1316,6 +1327,7 @@
 @@||f10.baidu.com^
 @@||f11.baidu.com^
 @@||f12.baidu.com^
+@@||f17.market.xiaomi.com^
 @@||f4.market.xiaomi.com^
 @@||f7.163.com^
 @@||f7.baidu.com^
@@ -1473,6 +1485,7 @@
 @@||googletagmanager.com^
 @@||goto.target.com^
 @@||goto.walmart.com^
+@@||gov.cn^
 @@||gql-fed.reddit.com^
 @@||graph.microsoft.com^$important
 @@||graph.qq.com^
@@ -1807,6 +1820,7 @@
 @@||iyfbodn.com^
 @@||j.gamersky.com^
 @@||javfinder.ai^
+@@||jd.com^
 @@||jhk-cdn-mampic.hismarttv.com^
 @@||jia.360.cn^
 @@||jianghu.163.com^
@@ -1908,6 +1922,7 @@
 @@||lf-douyin-pc-web.douyinstatic.com^
 @@||lf-douyin-search-fe.bytetos.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
+@@||lf-normal-gr-sourcecdn.bytegecko.com^
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
 @@||lf-webcast-platform.bytetos.com^
@@ -2021,6 +2036,7 @@
 @@||m.360buyimg.com^
 @@||m.360video.so.com^
 @@||m.anjuke.com^
+@@||m.baidu.com^
 @@||m.bilibili.com^
 @@||m.client.10010.com^
 @@||m.ctrip.com^
@@ -2036,6 +2052,7 @@
 @@||m.ip138.com^
 @@||m.iqiyi.com^
 @@||m.jd.com^
+@@||m.jdjygold.com^
 @@||m.jf.10010.com^
 @@||m.jiaoyimao.com^
 @@||m.jingxi.com^
@@ -2411,6 +2428,7 @@
 @@||oneline.nextday.media^
 @@||oneplus.cdn.cloudflare.net^
 @@||oneplus.helpshift.com^
+@@||open.95516.com^
 @@||open.bytedanceapi.com^
 @@||open.douyin.com^
 @@||open.oppomobile.com^
@@ -2458,6 +2476,7 @@
 @@||p*.music.126.net^
 @@||p*.qhimg.com^
 @@||p*.toutiaoimg.com^
+@@||p*reading*sign.fqnovelpic.com^
 @@||p-l.play.aiseet.atianqi.com^
 @@||p.qlogo.cn^
 @@||p.qlogo.cn^$important
@@ -2556,6 +2575,7 @@
 @@||pack.google.com^$important
 @@||pagead.l.doubleclick.net^
 @@||pages.github.com^
+@@||pan.baidu.com^
 @@||pan.quark.cn^
 @@||pan.xunlei.com^
 @@||papegames.qiyukf.com^
@@ -2681,6 +2701,7 @@
 @@||pos-device.apple.com^$important
 @@||pp.myapp.com^
 @@||ppq.apple.com^$important
+@@||ppui-static-wap.cdn.bcebos.com^
 @@||preview-jupiter.sys.miui.com^
 @@||printerconfigurations.googleusercontent.com^$important
 @@||privatehomeclips.com^
@@ -2743,6 +2764,7 @@
 @@||qhres2.com^$domain=www.n.cn
 @@||qi.163.com^
 @@||qidian.gtimg.com^
+@@||qishui.com^
 @@||qiye.163.com^
 @@||qlogo.cn^
 @@||qlp.qinlinad.com^
@@ -2829,6 +2851,7 @@
 @@||res.qhmsg.com^
 @@||res.qiyukf.net^
 @@||res.vmallres.com^
+@@||res.wx.qq.com^
 @@||res.xmcdn.com^
 @@||res.xunfei.cn^
 @@||resfile.lixincsb.com^
@@ -2920,6 +2943,7 @@
 @@||scone-pa.clients6.google.com^$important
 @@||scriptcat.org^
 @@||sd.360.cn^
+@@||sdk*faceid.qq.com^
 @@||sdk-api.beizi.biz^
 @@||sdk.jinrishici.com^
 @@||sdk.live.360.cn^
@@ -3004,6 +3028,7 @@
 @@||smart.360.cn^
 @@||smartcard.apps.coloros.com^
 @@||smarthome-drcn.dbankcdn.com^
+@@||smartplg.com^
 @@||smartrobot-drcn.dbankcdn.com^
 @@||smoot.apple.com^$important
 @@||smp-device-content.apple.com^$important
@@ -3136,6 +3161,7 @@
 @@||statusapi.micloud.xiaomi.net^
 @@||stawritecdn.yuewen.com^
 @@||steamcommunity.com^
+@@||storage*360buyimg.com^
 @@||storage.360buyimg.com^
 @@||storage.googleapis.com^$important
 @@||storage.jd.com^
@@ -3256,6 +3282,7 @@
 @@||ti.qq.com^
 @@||tianshu.gtimg.cn^
 @@||tieba-ares.cdn.bcebos.com^
+@@||tieba.baidu.com^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
 @@||time-ios.apple.com^$important
@@ -3754,6 +3781,7 @@
 @@||www.qdmm.com^
 @@||www.qidian.com^
 @@||www.recaptcha.net^
+@@||www.shidianguji.com^
 @@||www.siyuan-note.club^
 @@||www.so.com^
 @@||www.spaceship.com^
@@ -3811,6 +3839,7 @@
 @@||wxmini-api.uyouqu.com^
 @@||wxpay.qpic.cn^
 @@||wxpaylogo.qpic.cn^
+@@||wxqcloud.qq.com.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
 @@||x0.ifengimg.com^
@@ -3851,6 +3880,7 @@
 @@||yep.com^
 @@||yhd.com^
 @@||yixiu-abtest.alicdn.com^
+@@||ykf.ichongqing.info^
 @@||ykimg.com^
 @@||ylog.huya.com^
 @@||ym.163.com^
@@ -3893,3 +3923,4 @@
 @@||zmde.yijoys.com^
 @@||zodgame.xyz^
 @@||ztgame.com^
+@@||＃银联^
