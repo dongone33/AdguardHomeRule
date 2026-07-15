@@ -22,7 +22,7 @@ class AdGuardRuleManager:
         self.blacklist_sources = {
             "AdGuard DNS filter":        "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
             "秋风的规则":                "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
-            #"GitHub加速":                "https://raw.githubusercontent.com/521xueweihan/GitHub520/refs/heads/main/hosts",
+            "halflife":                "https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt",
             #"DD自用":                   "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
             #"广告规则":                 "https://raw.githubusercontent.com/huantian233/HT-AD/main/AD.txt",
             "消失DD":                    "https://raw.githubusercontent.com/afwfv/DD-AD/refs/heads/release/dns.txt",
@@ -36,21 +36,21 @@ class AdGuardRuleManager:
             "anti-ad":                  "https://anti-ad.net/easylist.txt",
             "adg-kall-dns":            "https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt",
             "DNS-Kuner":                 "https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/blacklist.txt",
-            "666":                       "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
+            "喵二黑名单":                       "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/rule.txt",
             #"StevenBlack":               "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/hosts",
             #"neodevpro":                 "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
         }
 
         self.whitelist_sources = {
             "茯苓允许列表":              "https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/Master/FuLingRules/FuLingAllowList.txt",
-            "个人自用白名单":            "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
+            #"666白名单":            "https://raw.githubusercontent.com/qq5460168/dangchu/main/white.txt",
             "DNS-Kuner":         "https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/allowlist.txt",
             #"BlueSkyXN":                 "https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt",
             "那个谁520广告白名单":        "https://raw.githubusercontent.com/qq5460168/666/master/allow.txt",
             "AdGuardHome通用白名单":     "https://raw.githubusercontent.com/mphin/AdGuardHomeRules/main/Allowlist.txt",
             #"jhsvip白名单":              "https://raw.githubusercontent.com/jhsvip/ADRuls/main/white.txt",
             #"liwenjie119白名单":         "https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt",
-            #"喵二白名单":                "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
+            "喵二白名单":                "https://raw.githubusercontent.com/miaoermua/AdguardFilter/main/whitelist.txt",
             #"Cats-Team白名单":           "https://raw.githubusercontent.com/Cats-Team/AdRules/script/script/allowlist.txt",
             #"浅笑白名单":                 "https://raw.githubusercontent.com/user001235/112/main/white.txt",
         }
