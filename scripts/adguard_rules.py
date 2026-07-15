@@ -59,7 +59,7 @@ class AdGuardRuleManager:
 
 
 
-        self.fallback_sources = ["anti-ad", "AdGuard DNS filter"]
+        self.fallback_sources = ["anti-ad", "halflife"]
 
     def get_beijing_time(self) -> str:
         try:
