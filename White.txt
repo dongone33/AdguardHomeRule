@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-17 17:20:08
-# 白名单规则数: 4240
+﻿# 更新时间: 2026-07-17 19:02:17
+# 白名单规则数: 4239
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -20,7 +20,6 @@
 @@_cpc_cpm_$domain=saraba1st.com
 @@_prebid.js$domain=now.com
 @@auni.telecome.cn^
-@@down.360safe.com^
 @@googlesyndication.com$domain=bilinovel.com
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
