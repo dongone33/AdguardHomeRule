@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-19 16:41:15
-# 白名单规则数: 4240
+﻿# 更新时间: 2026-07-19 18:18:18
+# 白名单规则数: 4241
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -2974,6 +2974,7 @@
 @@||pull-m1.wxlivecdn.com^
 @@||pull.yximgs.com^
 @@||pull2.91cloud.net^
+@@||puma.112.2o7.net^
 @@||puser.funshion.com^
 @@||push.apple.com^
 @@||push.apple.com^$important
