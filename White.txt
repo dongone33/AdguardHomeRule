@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-20 18:28:54
-# 白名单规则数: 4241
+﻿# 更新时间: 2026-07-20 20:36:33
+# 白名单规则数: 4240
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -3813,7 +3813,6 @@
 @@||vip.xunlei.com^
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
-@@||vitacost.122.2o7.net^
 @@||viu.tv^$generichide
 @@||vjav.com^
 @@||vjav0.ahcdn.com^
