@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-22 21:11:47
-# 白名单规则数: 4240
+﻿# 更新时间: 2026-07-22 23:20:14
+# 白名单规则数: 4261
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -59,6 +59,13 @@
 @@||*.compliance.microsoft.com^
 @@||*.cortana.ai^
 @@||*.cup.com.cn^
+@@||*.dbankcdn.cn^
+@@||*.dbankcdn.com^
+@@||*.dbankcloud.asia^
+@@||*.dbankcloud.cn^
+@@||*.dbankcloud.com^
+@@||*.dbankcloud.eu^
+@@||*.dbankcloud.ru^
 @@||*.dlied1.cdntips.net^
 @@||*.entrust.net^
 @@||*.events.data.microsoft.com^
@@ -69,6 +76,7 @@
 @@||*.googleusercontent.com^
 @@||*.gvt1.com^
 @@||*.heytapdownload.com^
+@@||*.hicloud.com^
 @@||*.hip.live.com^
 @@||*.img.mobile.sina.cn^
 @@||*.in-addr.arpa^
@@ -268,6 +276,7 @@
 @@||account.live.com^$important
 @@||account.oneplus.com^
 @@||account.oppo.com^
+@@||account.qzhua.net^
 @@||account.realme.com^
 @@||account.vivo.com^
 @@||account.wps.cn^
@@ -461,6 +470,7 @@
 @@||aod.cos.tx.xmcdn.com^
 @@||aod.itunes.apple.com^$important
 @@||aod.itunes.g.aaplimg.com^$important
+@@||ap-*-*.agora.io^
 @@||ap.6wz.co^
 @@||ap01.records.in.treasuredata.com^
 @@||ap6.ssl.msdk.qq.com^
@@ -490,6 +500,7 @@
 @@||api.account.xiaomi.com^
 @@||api.account.xiaomi.com^$important
 @@||api.ads.tvb.com^
+@@||api.agora.io^
 @@||api.airpush.com^
 @@||api.amemv.com^
 @@||api.apple-cloudkit.com^$important
@@ -1293,11 +1304,14 @@
 @@||doc.oplist.org^
 @@||dockerstatic.com^
 @@||docrdsfx76ssb.cloudfront.net^
+@@||docs.chmlfrp.net^
 @@||docs.doudou.fun^
 @@||docs.idqqimg.com^
 @@||docs.live.net^$important
 @@||docs.microsoft.com^$important
 @@||docs.scriptcat.org^
+@@||docs.trae.ai^
+@@||docs.trae.cn^
 @@||docs.vilinko.com^
 @@||doh.dns.apple.com^$important
 @@||domains-ws.revved.com^
@@ -1524,6 +1538,7 @@
 @@||fonts.gstatic.com^
 @@||forexprostools.com^$domain=shougedui.com
 @@||forum.notebookreview.com^
+@@||forum.trae.cn^
 @@||forums.oneplus.com^
 @@||foundation.youdao.com^
 @@||fourhoi.com^
@@ -2068,6 +2083,7 @@
 @@||l36-danmu.hi.163.com^
 @@||l36.gdl.netease.com^
 @@||l36.update.netease.com^
+@@||l36.update.nieapps.com^
 @@||laohuangli.bmcx.com^
 @@||laomaotao.net^
 @@||laosu.cf^$generichide
@@ -2781,6 +2797,7 @@
 @@||p6-sign.douyinpic.com^
 @@||p6-webcast-sign.douyinpic.com^
 @@||p6.douyinpic.com^
+@@||p9-arcosite.byteimg.com^
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
@@ -2804,6 +2821,7 @@
 @@||pan.baidu.com^
 @@||pan.quark.cn^
 @@||pan.xunlei.com^
+@@||panel.chmlfrp.net^
 @@||papalah.com^$generichide
 @@||papegames.qiyukf.com^
 @@||parked-content.godaddy.com^
@@ -3965,6 +3983,7 @@
 @@||www.chemdraw.com.cn^
 @@||www.chinaunicom.com.cn^
 @@||www.chinaunicom.com^
+@@||www.chmlfrp.net^
 @@||www.clips4sale.com^
 @@||www.cloudflare-cn.com^
 @@||www.cloudflare.com^
@@ -3988,6 +4007,7 @@
 @@||www.dxmpay.com^
 @@||www.e0734.com^
 @@||www.easyicon.net^$important
+@@||www.emojiall.com^
 @@||www.enigmaprotector.cn^
 @@||www.enigmaprotector.com^
 @@||www.epicgames.com^
@@ -4046,6 +4066,7 @@
 @@||www.manhuabei.com^
 @@||www.maserati.com^
 @@||www.mcmod.cn^
+@@||www.mefrp.com^
 @@||www.meituan.com^
 @@||www.meizu.com^
 @@||www.mercedes-benz.com.cn^
