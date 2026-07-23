@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-23 20:57:39
-# 白名单规则数: 4261
+﻿# 更新时间: 2026-07-23 23:14:28
+# 白名单规则数: 4263
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -831,6 +831,7 @@
 @@||calendars.icloud.com^
 @@||callback.58.com^
 @@||campus.163.com^
+@@||camscanner.com^
 @@||capi.jingjianx.vip^
 @@||captcha-gray.zt.kuaishou.com^
 @@||captcha.95516.com^
@@ -881,6 +882,7 @@
 @@||cdn.datatables.net^
 @@||cdn.deepseek.com^
 @@||cdn.duurzaam.greenchoice.nl^
+@@||cdn.exp.xiaomi.com^
 @@||cdn.ferrari.com^
 @@||cdn.jsdelivr.net^
 @@||cdn.jsdelivr.net^$script,domain=movieffm.net
