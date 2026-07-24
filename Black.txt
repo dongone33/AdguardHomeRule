@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-25 05:49:24
-# 总规则数: 227582 (黑: 223319, 白: 4263)
+﻿# 更新时间: 2026-07-25 06:49:03
+# 总规则数: 227608 (黑: 223345, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -35624,6 +35624,7 @@ zzzyk.com###Tinfo
 ||beat.yourtv.jp^
 ||beatbase.live^
 ||beatforumsubstitute.com^
+||beatifykinbot.cyou^
 ||beatricecandanceyd.com^
 ||beatricecathy.com^
 ||beatricenba.com^
@@ -36775,6 +36776,7 @@ zzzyk.com###Tinfo
 ||bijztncfltrmb.site^
 ||bike.turbobd.com^
 ||bikechokedattic.com^
+||bikedhoedown.cyou^
 ||bikeexerciser.com^
 ||bikemanw.com^
 ||bikepaws.com^
@@ -48137,6 +48139,7 @@ zzzyk.com###Tinfo
 ||conopidlanai.qpon^
 ||conoret.com^
 ||conreyacrania.qpon^
+||consarnleafen.cyou^
 ||conscent.in^
 ||conscience34.top^
 ||conscientiouscabbageadrift.com^
@@ -51590,6 +51593,7 @@ zzzyk.com###Tinfo
 ||cznratophrtou.website^
 ||cznzorthcvkvi.online^
 ||czofrrdmzszbd.site^
+||czoquowdqbtjr.online^
 ||czpidg.unisportstore.fr^
 ||czpnpjrg.xyz^
 ||czpush.com^
@@ -53859,6 +53863,7 @@ zzzyk.com###Tinfo
 ||daofuw.cn^
 ||daohang.114so.cn^
 ||daohannganhang.click^
+||daoinelupulic.qpon^
 ||daokejs.com^
 ||daoxwweomcsvt.site^
 ||daoyoudao.com^
@@ -58983,6 +58988,7 @@ zzzyk.com###Tinfo
 ||deltarockme.com^
 ||deltoidretapetriazo.cfd^
 ||deltraff.com^
+||deludertinkles.cfd^
 ||delugemuntjak.qpon^
 ||delugerefluxunpinned.com^
 ||delusionalrevolt.com^
@@ -62374,6 +62380,7 @@ zzzyk.com###Tinfo
 ||dqjbykmaxfocb.website^
 ||dqjojx.xyz^
 ||dqjrxj.icu^
+||dqmgvcgaghhww.online^
 ||dqnajb.icu^
 ||dqntra.home-to-go.ca^
 ||dqorvlyh.com^
@@ -64810,6 +64817,7 @@ zzzyk.com###Tinfo
 ||e459.kcci.com^
 ||e47.xyz^
 ||e48.xyz^
+||e487fjemkl94zhnpxmq7yjumpl.rest^
 ||e488.macombdaily.com^
 ||e49.xyz^
 ||e4b.cn^
@@ -73632,6 +73640,7 @@ zzzyk.com###Tinfo
 ||flyteinfile.qpon^
 ||flytenauretas.cyou^
 ||flywithexecutors.net^
+||flywortartize.qpon^
 ||flyxutjhemkgg.space^
 ||flznib.weblio.jp^
 ||flzrsrikaaymy.online^
@@ -76583,6 +76592,7 @@ zzzyk.com###Tinfo
 ||garn.garnspecialisten.dk^
 ||garn.garnspecialisten.se^
 ||garn.garnspesialisten.no^
+||garnetzexegete.cfd^
 ||garnishdecoction.com^
 ||garonvizor.cyou^
 ||garosesia.com^
@@ -96093,6 +96103,7 @@ zzzyk.com###Tinfo
 ||irhsymtcvduze.website^
 ||iridescentdusk.com^
 ||iridiumsergeiprogenitor.info^
+||iridousmutive.cfd^
 ||iris.iad.apple.com^
 ||iris.reparstores.com^
 ||irisinunquitensues.cfd^
@@ -101107,6 +101118,7 @@ zzzyk.com###Tinfo
 ||kdiwpsdrk.com^
 ||kdjb.xyz^
 ||kdjjkg.rajapack.pl^
+||kdjoidndjhzaf.site^
 ||kdkgorjbvlxjrnv.com^
 ||kdkhip.bookoffonline.co.jp^
 ||kdkpsqklemvnu.site^
@@ -120823,6 +120835,7 @@ zzzyk.com###Tinfo
 ||metircs.ka-ex.ch^
 ||metis.truecaller.com^
 ||metis.voysaude.com.br^
+||metisleacher.cyou^
 ||metmt.com^
 ||metolautomatvinery.cyou^
 ||metosk.com^
@@ -124081,6 +124094,7 @@ zzzyk.com###Tinfo
 ||mmi.bemobile.ua^
 ||mmihucdry.in^
 ||mmimb.itzyritzy.com^
+||mmirvipxdumpx.online^
 ||mmismm.com^
 ||mmjpvdrhgjfyj.space^
 ||mmjs.adutp.com^
@@ -124514,6 +124528,7 @@ zzzyk.com###Tinfo
 ||mocluvrxsluqj.space^
 ||mocoaundark.shop^
 ||mocqmhwjcouzb.space^
+||mocuntrain.cfd^
 ||mocuvmnjp1p83l2g9lgvu1qcghg3ibrg.cfd^
 ||mod.leftnewsex.com^
 ||modastro.ee^
@@ -131923,6 +131938,7 @@ zzzyk.com###Tinfo
 ||ockecpnnrbu.com^
 ||ockerflurn.qpon^
 ||ockremarkedon.com^
+||ocksterconnect.qpon^
 ||ockvjestempfy.website^
 ||ockvpyhmddtus.online^
 ||ockzcenmegjnn.site^
@@ -135142,6 +135158,7 @@ zzzyk.com###Tinfo
 ||oxbtkqmotycfo.online^
 ||oxcluster.com^
 ||oxdejn.lavprisel.dk^
+||oxdewajpuichn.space^
 ||oxducycsdzrlm.site^
 ||oxepmgkryfttv.online^
 ||oxfnvsoyzykjq.site^
@@ -142810,6 +142827,7 @@ zzzyk.com###Tinfo
 ||pukri.climit.com^
 ||puksjalhf.com^
 ||pulayagaed.cfd^
+||pulayamosque.cfd^
 ||puldhukelpmet.com^
 ||pulexwakanda.cfd^
 ||pulfinik.com^
@@ -146341,6 +146359,7 @@ zzzyk.com###Tinfo
 ||r255.wmtw.com^
 ||r2b2.cz^
 ||r2b2.io^
+||r2c3i9f6v82nj9.cfd^
 ||r2d2.aotter.net^
 ||r2izxventc18b3.cfd^
 ||r2pnq.montecarlovirtualtour.com^
@@ -150216,6 +150235,7 @@ zzzyk.com###Tinfo
 ||rowwurqlhyyuu.online^
 ||roxby.org^
 ||roxfdmeqsfjjw.online^
+||roxieawidemudcat.cyou^
 ||roxot-panel.com^
 ||roxtxykhks.com^
 ||roxyaffiliates.com^
@@ -163476,6 +163496,7 @@ zzzyk.com###Tinfo
 ||silentcredit.com^
 ||silentinevitable.com^
 ||silentjackal.com^
+||silentsingle.com^
 ||silentvalleyhill.com^
 ||silenuspsis.cyou^
 ||silesiadeuces.com^
@@ -169563,6 +169584,7 @@ zzzyk.com###Tinfo
 ||songshijiazu.cn^
 ||songsill.com^
 ||songsterritory.com^
+||songsulna.cyou^
 ||songtopbrand.com^
 ||sonic-ui.highereducation.com^
 ||sonicsads.com^
@@ -185539,6 +185561,7 @@ zzzyk.com###Tinfo
 ||swqmuo.icu^
 ||swquery.apple.com^
 ||swrhddilmlyyt.site^
+||swriftibcacgq.space^
 ||swrksnogbbojn.online^
 ||sws.junshankeji.com.gccdn.net^
 ||sws.junshankeji.com^
@@ -207764,6 +207787,7 @@ zzzyk.com###Tinfo
 ||vqiopvwlcnmsj.online^
 ||vqiwjqdulmzur.space^
 ||vqjacf.mauriziocollectionstore.com^
+||vqjxckklhqfjv.website^
 ||vqk0h1xb.xyz^
 ||vqk14006.cc^
 ||vqkffynxyptrx.online^
@@ -212200,6 +212224,7 @@ zzzyk.com###Tinfo
 ||woofweather.com^
 ||woogoust.com^
 ||wooguwhede.net^
+||woohookbepsom.cfd^
 ||wooinggashest.qpon^
 ||wookapjvpowjy.website^
 ||wooldedapitong.qpon^
@@ -221743,6 +221768,7 @@ zzzyk.com###Tinfo
 ||ziffdavis.com^
 ||zifrppvunuhag.site^
 ||zifyeldq.top^
+||zigankafer.cfd^
 ||zigaokj.top^
 ||zigequiped.cyou^
 ||zigpdx.ltbjeans.com^
