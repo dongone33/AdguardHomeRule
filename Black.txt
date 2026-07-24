@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-25 01:48:16
-# 总规则数: 227547 (黑: 223284, 白: 4263)
+﻿# 更新时间: 2026-07-25 03:08:29
+# 总规则数: 227575 (黑: 223312, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9809,6 +9809,7 @@ zzzyk.com###Tinfo
 ||2ts55ek00.de^
 ||2tsfdcp.com^
 ||2tty.overstappen.nl^
+||2u1b3gyc11t9z7y.cfd^
 ||2u1oucjq9cork3.cfd^
 ||2u1z7qmjvy1covuwg2rxkj3.cfd^
 ||2u2wyftqmr.com^
@@ -23746,6 +23747,7 @@ zzzyk.com###Tinfo
 ||affyrtb.com^
 ||afgenqtscnbaw.space^
 ||afghanalosa.cfd^
+||afghanicputime.cfd^
 ||afgjt.smartrike.com^
 ||afgmrqvdukhxl.site^
 ||afgodscarpe.com^
@@ -44460,6 +44462,7 @@ zzzyk.com###Tinfo
 ||chevalneavil.cyou^
 ||chevinmusit.cyou^
 ||chevronmislain.cyou^
+||chewinksanify.qpon^
 ||chewsever.com^
 ||chexiw.com^
 ||chfpgcbe.com^
@@ -50102,6 +50105,7 @@ zzzyk.com###Tinfo
 ||croakglanceskier.com^
 ||crobotb.com^
 ||crocarddoty.shop^
+||croccaird.shop^
 ||crocetta.viessmann.it^
 ||crochetdivas.com^
 ||crockadilla.com^
@@ -68272,6 +68276,7 @@ zzzyk.com###Tinfo
 ||epidermispushupvariable.com^
 ||epidermkerns.cfd^
 ||epidzasjhnzoi.site^
+||epigoniincaspushily.qpon^
 ||epigontinny.shop^
 ||epigynylirate.cyou^
 ||epihyalkittle.cfd^
@@ -74608,6 +74613,7 @@ zzzyk.com###Tinfo
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayingfilmize.cyou^
+||fraynchasty.cyou^
 ||fraynrills.cyou^
 ||fraysystems.com^
 ||frazergraces.rest^
@@ -78442,6 +78448,7 @@ zzzyk.com###Tinfo
 ||gjtrack.ucweb.com^
 ||gjtu.ccbxwlh.com^
 ||gjubvembrxsot.space^
+||gjuiepjg.com^
 ||gjv7fg.ru^
 ||gjvgp.contactlensking.com^
 ||gjvyboaabepyl.online^
@@ -87295,6 +87302,7 @@ zzzyk.com###Tinfo
 ||hfgno.happyhairbrush.com.au^
 ||hfgvzpatnjoti.website^
 ||hfhfggsewrf.lumessy.top^
+||hfhj227m692nfyr5qlwg.rest^
 ||hfhmqcggyjcne.online^
 ||hfisngksng.com^
 ||hfjcr.qalo.com^
@@ -105979,6 +105987,7 @@ zzzyk.com###Tinfo
 ||lindiankj.com^
 ||lindmayas.qpon^
 ||lindnerelektroanlagen.de^
+||lindnerve.shop^
 ||lindychat.com^
 ||line-e.com^
 ||line-jp.live^
@@ -124636,6 +124645,7 @@ zzzyk.com###Tinfo
 ||moleculebeams.com^
 ||moleculeordered.com^
 ||molelink.cn^
+||molermaracan.cfd^
 ||moleya.click^
 ||molgeminow.shop^
 ||mollified.top^
@@ -125260,6 +125270,7 @@ zzzyk.com###Tinfo
 ||movturs.click^
 ||mowayazmagacp.space^
 ||mowcoordinateegypt.com^
+||mowersdebye.cyou^
 ||mowgloriousdeem.com^
 ||mowgoats.com^
 ||mowlandaequorsheals.cfd^
@@ -131314,6 +131325,7 @@ zzzyk.com###Tinfo
 ||nyetae.eyeclinic-tokyo.jp^
 ||nyetexogens.shop^
 ||nyetm2mkch.com^
+||nyfoaqkevjoaw.online^
 ||nyfpt.cuddleandkind.com^
 ||nyfwoxdfhgufr.online^
 ||nygcwpskctfwq.space^
@@ -132060,6 +132072,7 @@ zzzyk.com###Tinfo
 ||odsvxirweqzxn.space^
 ||odswwsk.fyryaoh.com^
 ||odswzz.tadaaz.be^
+||odtpmpcdhlfba.website^
 ||odtrtadl.com^
 ||odtsiouwwdpji.site^
 ||oduauledfalmc.online^
@@ -134995,6 +135008,7 @@ zzzyk.com###Tinfo
 ||ovpwvioj.fdbmobler.dk^
 ||ovrce.aneseskin.com^
 ||ovret.com^
+||ovrgackuno.in^
 ||ovrsso.gemo.fr^
 ||ovsaopbvoajdn.website^
 ||ovtflklfxbrgo.today^
@@ -140948,6 +140962,7 @@ zzzyk.com###Tinfo
 ||pptzq.homebase.ie^
 ||ppu.adasgxsp.cc^
 ||ppunion.com^
+||ppuqlcyadikqe.website^
 ||ppurifier.game.xiaomi.com^
 ||ppuvxjxlwxijr.site^
 ||ppuvyqbkphsqj.site^
@@ -142794,6 +142809,7 @@ zzzyk.com###Tinfo
 ||puksjalhf.com^
 ||pulayagaed.cfd^
 ||puldhukelpmet.com^
+||pulexwakanda.cfd^
 ||pulfinik.com^
 ||pulingmu.top^
 ||pull-*-*.ixigua.com^
@@ -144304,6 +144320,7 @@ zzzyk.com###Tinfo
 ||qhaelqata.com^
 ||qhaif.com^
 ||qhangrotl.com^
+||qhaqlvdbyjwdc.website^
 ||qhaqrwrsfjiev.site^
 ||qhbetzsrzzslg.site^
 ||qhbnu.sokolovelaw.com^
@@ -146640,6 +146657,7 @@ zzzyk.com###Tinfo
 ||randomdnslab.com^
 ||randomignitiondentist.com^
 ||randomreprintinvoice.com^
+||randorihugonis.qpon^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
 ||randyetitanic.com^
@@ -170621,6 +170639,7 @@ zzzyk.com###Tinfo
 ||sqmkylfwprpms.space^
 ||sqmn4wncty.com^
 ||sqmydhk.cn^
+||sqnffqhbkkqgw.space^
 ||sqpyclvkzpgnw.space^
 ||sqqyvtdaljedz.online^
 ||sqr3.xyz^
@@ -183598,6 +183617,7 @@ zzzyk.com###Tinfo
 ||stoutjangle.com^
 ||stoutyear.com^
 ||stovenbased.qpon^
+||stovenmors.cfd^
 ||stoveslodgers.cyou^
 ||stowagegentil.com^
 ||stowbilateral.com^
@@ -189568,6 +189588,7 @@ zzzyk.com###Tinfo
 ||tekkenosier.cfd^
 ||teksishe.net^
 ||tektosnuthook.shop^
+||tekyaferule.shop^
 ||tel-tel-fie.com^
 ||tel.telegraaf.nl^
 ||telaagam.maxisl.vip^
@@ -198862,6 +198883,7 @@ zzzyk.com###Tinfo
 ||truth.qchannel03.cn^
 ||truthburlap.com^
 ||trutheyesstab.com^
+||truthful-kiss.pro^
 ||truthfulcan.pro^
 ||truthfuldrawer.pro^
 ||truthfullybrickbravely.com^
@@ -201266,6 +201288,7 @@ zzzyk.com###Tinfo
 ||uighnhsbatmdf.store^
 ||uighurestopamiga.qpon^
 ||uigwgn.france-abonnements.fr^
+||uigxkdqdouweq.online^
 ||uii.io^
 ||uiibaovaebfaj.online^
 ||uiikqirdiessi.love^
@@ -203853,6 +203876,7 @@ zzzyk.com###Tinfo
 ||uujhveglpo.xyz^
 ||uuka.vip^
 ||uulucky.com^
+||uulvgcsjoidbh.space^
 ||uumbahniwkyki.space^
 ||uun.1uandun.com^
 ||uunak.cn^
@@ -206533,6 +206557,7 @@ zzzyk.com###Tinfo
 ||vipshopee.cc^
 ||vipshopee.com^
 ||vipsj.zgallerie.com^
+||vipsnotoire.cyou^
 ||vipsx.6y9u3.com^
 ||viptikivn.club^
 ||vipvps.shop^
@@ -219979,6 +220004,7 @@ zzzyk.com###Tinfo
 ||yurivideo.com^
 ||yurobl.rw-co.com^
 ||yurzldtomaeic.site^
+||yusassisa.cyou^
 ||yusgoonbncwiu.site^
 ||yushengyuancaishui.com^
 ||yushics.com^
@@ -222313,6 +222339,7 @@ zzzyk.com###Tinfo
 ||zontqiwjmdzbv.space^
 ||zonulassacaespaer.cfd^
 ||zonupiza.com^
+||zonuretiglonsungodly.cfd^
 ||zonyff.xyz^
 ||zooj.cn^
 ||zooj.cn^$third-party
@@ -222601,6 +222628,7 @@ zzzyk.com###Tinfo
 ||zsleznwqqjcjw.site^
 ||zslhmw.com^
 ||zslmueggcjatn.website^
+||zslnecbjutu.com^
 ||zsmsuwmifkrqv.online^
 ||zsmyzg.cn^
 ||zsnfdphz.com^
