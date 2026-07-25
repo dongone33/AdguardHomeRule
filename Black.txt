@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-25 12:36:16
-# 总规则数: 227606 (黑: 223343, 白: 4263)
+﻿# 更新时间: 2026-07-25 15:03:58
+# 总规则数: 227646 (黑: 223383, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -13679,6 +13679,7 @@ zzzyk.com###Tinfo
 ||84e867f7b4.com^
 ||84eb50d125.com^
 ||84gs08xe1.com^
+||84hr9imnpwgx49uggw.cfd^
 ||84mua.com^
 ||84toexecutors.com^
 ||84v3xysu80.com^
@@ -13710,6 +13711,7 @@ zzzyk.com###Tinfo
 ||85c64e11.hysjs168.com^
 ||85d6890e34.0ed35fac92.com^
 ||85dcec5317.b8763ae795.com^
+||85gijjnwq512fix.rest^
 ||85mrruhppm8w5264n.rest^
 ||85n9.k8.com^
 ||85tgw.com^
@@ -18145,6 +18147,7 @@ zzzyk.com###Tinfo
 ||abpjs23.com^
 ||abpnow.xyz^
 ||abpwqf.lolaflora.com.mx^
+||abqdvwwaqzbjl.website^
 ||abqjst.com^
 ||abqnmgbyxyias.site^
 ||abrakadabra.zensim.com.au^
@@ -31505,6 +31508,7 @@ zzzyk.com###Tinfo
 ||arowpinenes.cyou^
 ||aroxumtoe.com^
 ||arozyzigxyfnt.online^
+||arpenexcite.cfd^
 ||arpg2.com^
 ||arphzc.woodica.pl^
 ||arpoyoiriphet.space^
@@ -38066,6 +38070,7 @@ zzzyk.com###Tinfo
 ||bobzk.sokolovelaw.com^
 ||bocaa.l-r-g.com^
 ||boccesfrizzy.cyou^
+||bocciaurdbeeves.qpon^
 ||bocenrqhquopv.website^
 ||bochersium.cyou^
 ||bochnvmvvzeqc.space^
@@ -38730,6 +38735,7 @@ zzzyk.com###Tinfo
 ||brainsoptionsshirt.com^
 ||brainybasin.com^
 ||braised58.top^
+||braiseparvisemezuzas.cyou^
 ||brajqk.ineedamobile.com^
 ||brakefluid.website^
 ||brakepresign.cfd^
@@ -42464,6 +42470,7 @@ zzzyk.com###Tinfo
 ||cba-fed-igh.com^
 ||cba.cda-hd.co^
 ||cbajpzowuzxdc.website^
+||cbarackvuvdfv.online^
 ||cbasspider.10jqka.com.cn^
 ||cbayvxac.com^
 ||cbbimyjigrdch.site^
@@ -62814,6 +62821,7 @@ zzzyk.com###Tinfo
 ||dsekhn.com^
 ||dseloqua.danskespil.dk^
 ||dseopf.com^
+||dserdo.com^
 ||dsetx3.com^
 ||dseyzk.com^
 ||dsfe19.madeindesign.com^
@@ -65672,6 +65680,7 @@ zzzyk.com###Tinfo
 ||edeals.rbp.com^
 ||edeals.rhymebiz.com^
 ||edeclineryb.org^
+||edematagodful.qpon^
 ||edenhermosa.com^
 ||edesf.xyzxmark.cn^
 ||edethrelhf.com^
@@ -71267,6 +71276,7 @@ zzzyk.com###Tinfo
 ||fatchilli.media^
 ||fatcoil.com^
 ||fate-xy.com^
+||fatedribston.qpon^
 ||fathionmall.com^
 ||fathmurskewed.cfd^
 ||fathom.app.silverbeak.com^
@@ -72095,6 +72105,7 @@ zzzyk.com###Tinfo
 ||ff3fe3d6.july7cloud.net^
 ||ff9435.ldwjgeu81j.xyz^
 ||ff97d1d2da.20590def33.com^
+||ffaehixrnmahj.online^
 ||ffb.feihuo.com^
 ||ffbal.modernshelving.com^
 ||ffbdatxllaeco.website^
@@ -75451,6 +75462,7 @@ zzzyk.com###Tinfo
 ||fustnapery.shop^
 ||fusungjytsoqn.online^
 ||fut.mondo.link^
+||futaqcap.in^
 ||futengbao.com.cn^
 ||futfp.nanamacs.com^
 ||futhacifl.com^
@@ -75743,6 +75755,7 @@ zzzyk.com###Tinfo
 ||fyitbmdvlbmhb.website^
 ||fyiygeowufqxk.site^
 ||fyjyhm.com^
+||fykaxukhoyhnn.space^
 ||fykqm.sqairz.com^
 ||fylfotchassedcesura.qpon^
 ||fylfotswindjamteise.qpon^
@@ -77779,6 +77792,7 @@ zzzyk.com###Tinfo
 ||gfhgfhfj.nordicoil.it^
 ||gfhgxmczmrcda.site^
 ||gfhhghnduzqiq.site^
+||gfjfixuvixtup.site^
 ||gfkfqilsulylx.website^
 ||gfkgmbwjfoem.com^
 ||gfkpbebwqwhlginna.org^
@@ -81033,6 +81047,7 @@ zzzyk.com###Tinfo
 ||gsoyeigyntuyb.online^
 ||gsp0.kj-gov.cn^
 ||gspayment.shop^
+||gspgdqqmpxftn.site^
 ||gspjom.3balls.com^
 ||gspkethascafr.online^
 ||gspqch.cake.jp^
@@ -84943,6 +84958,7 @@ zzzyk.com###Tinfo
 ||gumgo.cn^$third-party
 ||gumgum.com^
 ||gumgxeesgjiat.website^
+||gumlyascend.shop^
 ||gummierhedera.life^
 ||gummosepotifer.qpon^
 ||gummoussubsetlegers.cfd^
@@ -85406,6 +85422,7 @@ zzzyk.com###Tinfo
 ||gyyd.n7d5a.com^
 ||gyyd.wpdpt.com^
 ||gyydua.dakine.com^
+||gyyogtabspzzi.site^
 ||gyyuansu.com^
 ||gyyylfxjupsfj.website^
 ||gyyzlvkb5ew3fkxh.cfd^
@@ -87659,6 +87676,7 @@ zzzyk.com###Tinfo
 ||highrevenuenetwork.com^
 ||hightedwhirrs.cfd^
 ||highter.top^
+||highthbooker.cyou^
 ||hightouch-events.com^
 ||highway.18manwa.com^
 ||highway.cablecar.sph.com.sg^
@@ -90927,6 +90945,7 @@ zzzyk.com###Tinfo
 ||ibnads.xl.co.id^
 ||ibns3ibgf.com^
 ||ibnxviddjsqgq.store^
+||iboliumviolety.shop^
 ||ibotaburny.cfd^
 ||iboxs.xyz^
 ||ibozys.cn^
@@ -98468,6 +98487,7 @@ zzzyk.com###Tinfo
 ||jkpzthxjt.com^
 ||jkqiweqrxsieb.website^
 ||jkrgnk.suncamp.fr^
+||jkrqtupzfahwe.site^
 ||jkry.8890.com^
 ||jkshl.iaaaz.com^
 ||jksmaafnkdyni.store^
@@ -102904,6 +102924,7 @@ zzzyk.com###Tinfo
 ||krxwwojyad.com^
 ||krytilka.ru^
 ||kryvidmqdmlnm.space^
+||krzaupbgjueut.site^
 ||krzkasckoqvad.site^
 ||krzsueygruwdl.online^
 ||ks-adaptive.pull.yximgs.com^
@@ -116972,6 +116993,7 @@ zzzyk.com###Tinfo
 ||manifold-config-server-staging.glanceai.inmobi.com^
 ||manihothallahs.qpon^
 ||maniocaupheal.qpon^
+||maniocminis.shop^
 ||manipulativeslaves.com^
 ||manistsesbandammers.cyou^
 ||maniteka.com^
@@ -120413,6 +120435,7 @@ zzzyk.com###Tinfo
 ||meimpheaea.com^
 ||meinauto.hdd-dienste.de^
 ||meineserver.com^
+||meioticbanba.cfd^
 ||meiqia.com^$third-party
 ||meirav-il.com^
 ||meirensuan.xyz^
@@ -123323,6 +123346,7 @@ zzzyk.com###Tinfo
 ||minerva.devices.a2z.com^
 ||minerva.healthcentral.com^
 ||minerva.thebody.com^
+||mineryalanins.cfd^
 ||mineryazideintends.cfd^
 ||mineryballerovigerm.qpon^
 ||minesage.com^
@@ -131547,6 +131571,7 @@ zzzyk.com###Tinfo
 ||o2o.api.xiaomi.com.lan^
 ||o2omobi.com^
 ||o2x4h2txrc.com^
+||o32nffz728t4ln9mw148g33p.rest^
 ||o333o.com^
 ||o35e79f2.eulerian.io^
 ||o365diagtelemetry.trafficmanager.net^
@@ -136122,6 +136147,7 @@ zzzyk.com###Tinfo
 ||palibzh.tech^
 ||paliliaimbriumvansire.qpon^
 ||palingrombos.cfd^
+||palisclochanfother.qpon^
 ||palishcanapcrocky.cfd^
 ||palishhunchy.cfd^
 ||palissestelaialumna.cyou^
@@ -137033,6 +137059,7 @@ zzzyk.com###Tinfo
 ||pas3img.sgrmachine.com^
 ||pasangiklan.com^
 ||pasbstbovc.com^
+||paschalbrahma.shop^
 ||pasco.cc^
 ||pasengclatch.qpon^
 ||paservices.tech^
@@ -146623,6 +146650,7 @@ zzzyk.com###Tinfo
 ||rakerykulimitangelic.qpon^
 ||rakesh.csatmantra.com^
 ||rakesh.yogicshaadi.com^
+||rakhlai.cfd^
 ||rakib.rozafragrance.com^
 ||rakiblinger.com^
 ||rakishgabling.com^
@@ -148391,6 +148419,7 @@ zzzyk.com###Tinfo
 ||requisite57.com^
 ||requisiteconjure.com^
 ||requisitezap.com^
+||reragtyfcfgqa.space^
 ||rereddit.com^
 ||reringhuari.cyou^
 ||rerisesveen.qpon^
@@ -151242,6 +151271,7 @@ zzzyk.com###Tinfo
 ||rtsinternationals.screenconnect.com^
 ||rtslxo3a.xyz^
 ||rtss.heizungshop.de^
+||rtszviczeldr.com^
 ||rtt.campanja.com^
 ||rtt.verseo.pl^
 ||rttkpr.bidolubaski.com^
@@ -164247,6 +164277,7 @@ zzzyk.com###Tinfo
 ||slabshookwasted.com^
 ||slackastonishing.com^
 ||slackb.com^
+||slackenkor.cyou^
 ||slackentheatres.com^
 ||slacklovely.com^
 ||slacklybarmie.cfd^
@@ -189334,6 +189365,7 @@ zzzyk.com###Tinfo
 ||tdrec.youku.com^
 ||tdrfecial.shop^
 ||tdrgac.cn^
+||tdrskiddycuprous.cyou^
 ||tds.bid^
 ||tds.favbet.partners^
 ||tds.io^
@@ -192433,6 +192465,7 @@ zzzyk.com###Tinfo
 ||tofusquirrel.com^
 ||togaedspinula.cfd^
 ||togame.iqiyi.com^
+||togemancavish.qpon^
 ||togetherefwuko.org^
 ||toggedmowie.shop^
 ||toggle.qq.com^
@@ -197930,6 +197963,7 @@ zzzyk.com###Tinfo
 ||trijetsnilrosters.qpon^
 ||trikahrta.com^
 ||trillfesters.cyou^
+||trillilunmask.cyou^
 ||trillisept.cyou^
 ||trilobefdub.qpon^
 ||trilogyed.com^
@@ -199907,6 +199941,7 @@ zzzyk.com###Tinfo
 ||tweetdeck.net.anwalt.de^
 ||tweetedjota.cfd^
 ||tweetup.com^
+||twekj3b2jul7gfquk8hm34bygt7u7horfg8o.cfd^
 ||twelfthdistasteful.com^
 ||twelvedawn.com^
 ||twelvesmilordpsec.qpon^
@@ -216815,6 +216850,7 @@ zzzyk.com###Tinfo
 ||xrff-adguard.pro^
 ||xrhf.taimei-t336.vip^
 ||xrhf.taimei-t546.vip^
+||xrhitfmnoaejs.website^
 ||xrhrrk.steepandcheap.com^
 ||xriahrofno.com^
 ||xriwisjrek.in^
@@ -216863,6 +216899,7 @@ zzzyk.com###Tinfo
 ||xrqllcnmizjpa.website^
 ||xrqzzumoujvwx.site^
 ||xrsbwd.eurobuty.com.pl^
+||xrsssecerpuxq.space^
 ||xrtb.io^
 ||xrtrdwuttxptw.site^
 ||xrtzf.com^
@@ -221975,6 +222012,7 @@ zzzyk.com###Tinfo
 ||zjven.boysmells.com^
 ||zjvjeghnomike.website^
 ||zjvrbcwdfdrky.store^
+||zjvssgpnxfgnd.site^
 ||zjwjcjiozdear.online^
 ||zjwldq.cn^
 ||zjwubei.com^
@@ -222122,6 +222160,7 @@ zzzyk.com###Tinfo
 ||zlne800.com^
 ||zlnitethia.com^
 ||zlnmzc.top^
+||zlnykovrmapcq.space^
 ||zlnzioxqvzfxp.store^
 ||zloes.carttek.com^
 ||zlog.mp3.zing.vn^
@@ -223064,6 +223103,7 @@ zzzyk.com###Tinfo
 ||zxinihfgkdpfb.space^
 ||zxiws.cn^
 ||zxjjzx.com^
+||zxjmtfktbjgvk.website^
 ||zxjnlsqprjjqo.space^
 ||zxjshtdjvtfhb.site^
 ||zxl.qzbxfs.com^
