@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-26 02:14:01
-# 总规则数: 227815 (黑: 223552, 白: 4263)
+﻿# 更新时间: 2026-07-26 03:41:42
+# 总规则数: 227845 (黑: 223582, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -14753,6 +14753,7 @@ zzzyk.com###Tinfo
 ||9ipin.cn^
 ||9j1y.cn^
 ||9j3a.cn^
+||9j3bclmv5o1zukrp6q62o.cfd^
 ||9j6g.880.net^
 ||9j9gc694o4.com^
 ||9jdq2a.poco.de^
@@ -24815,6 +24816,7 @@ zzzyk.com###Tinfo
 ||aki-gb-sdklog.kurogames.net^
 ||akiazoariteaikane.cfd^
 ||akilifox.com^
+||akinetenj.cfd^
 ||akinlongish.qpon^
 ||akiqckgsj.com^
 ||akjfo.sunrisecapitalgroup.com^
@@ -60414,6 +60416,7 @@ zzzyk.com###Tinfo
 ||diiazyhybjtmj.online^
 ||diiwesvtjlvmq.com^
 ||dijhqtrrbgn.com^
+||dijqktxogljjz.site^
 ||dijuvxuzjhkrb.website^
 ||dikasomywnqww.website^
 ||dikcmpgwemomx.space^
@@ -61755,6 +61758,7 @@ zzzyk.com###Tinfo
 ||dog89nqcp3al4.cloudfront.net^
 ||dogabonclasps.cyou^
 ||dogbedscentral.com^
+||dogboatalbucacorage.cfd^
 ||dogcbhkupqzor.website^
 ||dogcollarfavourbluff.com^
 ||dogfootdomusvetoism.cfd^
@@ -67940,6 +67944,7 @@ zzzyk.com###Tinfo
 ||engine.vaxcams.com^
 ||engine212.com^
 ||engine64.com^
+||enginebethorn.cfd^
 ||enginecorruptiontrice.com^
 ||enginedriverlatter.com^
 ||engineer66.com^
@@ -69063,6 +69068,7 @@ zzzyk.com###Tinfo
 ||etphoneme.com^
 ||etppmr.luko.eu^
 ||etqu.cn^
+||etqyveeihyh7uu.rest^
 ||etr.casanovacoaching.de^
 ||etr.cosee.biz^
 ||etr.eu.elemis.com^
@@ -75388,6 +75394,7 @@ zzzyk.com###Tinfo
 ||fumiad.dxys.pro^
 ||fummd03je4.com^
 ||fumosenair.cyou^
+||fumulirelique.shop^
 ||fun-hits.com^
 ||fun.360.cn^
 ||fun.91wwll.com^
@@ -86121,6 +86128,7 @@ zzzyk.com###Tinfo
 ||hankfixplace.com^
 ||hankleachuete.cfd^
 ||hankynecessarily.com^
+||hanlalwagof.in^
 ||hanlanad.com^
 ||hanlinzhijia.net^
 ||hanmiyong.com^
@@ -86296,6 +86304,7 @@ zzzyk.com###Tinfo
 ||harpisttoilyogees.qpon^
 ||harpra-companion-test.harvinar.com^
 ||harpra-companion.harvinar.com^
+||harpselodes.shop^
 ||harpsichord34.com^
 ||harrenmedianetwork.com^
 ||harridaphizog.com^
@@ -103158,6 +103167,7 @@ zzzyk.com###Tinfo
 ||ktlrv.hotelcollection.no^
 ||ktlwulkjhxmhb.space^
 ||ktmvzffnawzug.space^
+||ktndgryjzyqiw.online^
 ||ktnwsfisfbvjl.space^
 ||ktocmwvtlivyq.site^
 ||ktocpw.silabg.com^
@@ -123402,6 +123412,7 @@ zzzyk.com###Tinfo
 ||mimicromax.com^
 ||mimilcnf.pro^
 ||mimimao315.cc^
+||mimmoudcrumbum.cfd^
 ||mimokrikodil.link^
 ||mimosamajor.com^
 ||mimpstannylcornea.qpon^
@@ -125325,6 +125336,7 @@ zzzyk.com###Tinfo
 ||mou.niu.xunlei.com^
 ||mouaa.com^
 ||mouao.milkmakeup.com^
+||moughtgdsanhima.cfd^
 ||moujikestus.cyou^
 ||mouledevests.cyou^
 ||moulinsquidbewend.cfd^
@@ -132098,6 +132110,7 @@ zzzyk.com###Tinfo
 ||ocqmbcwysestl.website^
 ||ocqsshujqukygch.com^
 ||ocrlmgqgqlfqt.store^
+||ocrpsbyzm.com^
 ||ocs.hagerty.com^
 ||ocs.opodo.fr^
 ||ocsapi1964.hydqef.com.w.cdngslb.com^
@@ -149600,6 +149613,7 @@ zzzyk.com###Tinfo
 ||risnjmyxfqaep.website^
 ||risquesprawls.cyou^
 ||risqusavored.shop^
+||risselcunning.qpon^
 ||ritfbtbqnmvxw.space^
 ||ritkmczosfhgk.online^
 ||ritlinggravelscombat.qpon^
@@ -151775,6 +151789,7 @@ zzzyk.com###Tinfo
 ||rvyaqmmxxoinm.site^
 ||rvyhsdxujqhqw.website^
 ||rvyjbwr.cn^
+||rvyjnccadrepq.site^
 ||rvz9.destinia.co.ro^
 ||rvzlobj.cn^
 ||rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com^
@@ -153889,6 +153904,7 @@ zzzyk.com###Tinfo
 ||samarasyisneezed.cfd^
 ||samarketing.sedgwick.com^
 ||sambaads.com^
+||sambarunpaced.shop^
 ||samboc.com^
 ||sambuksabaism.cyou^
 ||samc.buero-zueri.ch^
@@ -154500,6 +154516,7 @@ zzzyk.com###Tinfo
 ||saxophone90.top^
 ||saxs.sina.cn^
 ||saxs.sina.com.cn^
+||saxvdffvkgmot.space^
 ||saxxaz.taohuayuan8888.com^
 ||saxys9w.cn^
 ||saxysec.com^
@@ -154822,6 +154839,7 @@ zzzyk.com###Tinfo
 ||scb.chamsockhachhang-truc-tuyen-the.online^
 ||scb.nanghanmucthenganhangvisa.com^
 ||scb4tpwq40.com^
+||scbkgjktowyuz.site^
 ||scbt.asia^
 ||scc.0.0.0.0.cn^
 ||scc.bytedance.com^
@@ -162693,6 +162711,7 @@ zzzyk.com###Tinfo
 ||shoneten.com^
 ||shonretimus.com^
 ||shoo5woop.com^
+||shooedfayumic.shop^
 ||shoofabhalu.com^
 ||shoofle.tv^
 ||shoogloonetwork.com^
@@ -163534,6 +163553,7 @@ zzzyk.com###Tinfo
 ||siegerabounds.cyou^
 ||siegurdkaiwi.cfd^
 ||sieniewicz.pl^
+||sienitemarek.cfd^
 ||siennaalpine.shop^
 ||sienokeeryirp.online^
 ||sierrakermit.com^
@@ -190041,6 +190061,7 @@ zzzyk.com###Tinfo
 ||teotnajhxmwts.site^
 ||teoxn.vbtvaa.com^
 ||tepalscancanchugger.qpon^
+||tepasricksvet.qpon^
 ||tepatonol.com^
 ||tepid-permission.com^
 ||tepidpolicy.com^
@@ -190843,6 +190864,7 @@ zzzyk.com###Tinfo
 ||thighlemonadejell.com^
 ||thighsympusammer.qpon^
 ||thillssurlier.qpon^
+||thimblejailer.shop^
 ||thimblestrangearchitect.com^
 ||thind-gke-euw.prd.data.corp.unity3d.com^
 ||thind.unityads.unity3d.com^
@@ -200867,6 +200889,7 @@ zzzyk.com###Tinfo
 ||ubb.bbb.wzguosutang.com^
 ||ubbfatevovpkd.site^
 ||ubbfpm.com^
+||ubbsaxcfvmhmj.online^
 ||ubcpm.com^
 ||ubdjfy.maje.com^
 ||ubdsej.notino.pl^
@@ -202397,6 +202420,7 @@ zzzyk.com###Tinfo
 ||unntvrpwfzluf.store^
 ||unoadsrv.com^
 ||unoldiseautoing.qpon^
+||unonaunpawn.cfd^
 ||unpackelasticlens.com^
 ||unpackstaleintended.com^
 ||unpavelamplet.cfd^
@@ -211317,6 +211341,7 @@ zzzyk.com###Tinfo
 ||whiteysmullet.cyou^
 ||whittenbump.cyou^
 ||whizzco.com^
+||whizzedargala.shop^
 ||whizzesophion.cyou^
 ||whjgjueyjtxii.site^
 ||whjl.curvevera.com^
@@ -211991,6 +212016,7 @@ zzzyk.com###Tinfo
 ||wkrcbszi.xyz^
 ||wkrd.tingyun.com^
 ||wkrflrxfdtx.com^
+||wkrlkvcgwrocd.space^
 ||wkrqnanquiftt.website^
 ||wkrqvffpntjzm.store^
 ||wkrt.tingyun.com^
@@ -212705,6 +212731,7 @@ zzzyk.com###Tinfo
 ||wqhgmzdbdgasc.space^
 ||wqhlaexymgkyu.site^
 ||wqhmzb.cn^
+||wqhphempltlfk.space^
 ||wqhuludpb.com^
 ||wqjisacylil.com^
 ||wqjregsni.net^
@@ -217065,6 +217092,7 @@ zzzyk.com###Tinfo
 ||xrqiweauoxfwn.site^
 ||xrqllcnmizjpa.website^
 ||xrqzzumoujvwx.site^
+||xrrdnzdtma.com^
 ||xrsbwd.eurobuty.com.pl^
 ||xrsssecerpuxq.space^
 ||xrtb.io^
@@ -219744,6 +219772,7 @@ zzzyk.com###Tinfo
 ||ypqgnx.morizon.pl^
 ||ypshiwypoqxbw.website^
 ||ypsozc.com^
+||ypswhvpqmfqtp.website^
 ||yptqys.tianqistatic.com^
 ||ypvtp.buffalojackson.com^
 ||ypwcttlciuuzu.online^
@@ -220127,6 +220156,7 @@ zzzyk.com###Tinfo
 ||yulonginvest.com.cn^
 ||yulqwwuozhkfo.space^
 ||yulzs.com^
+||yumaburys.cfd^
 ||yumao.puata*^
 ||yumao.puata.info^
 ||yumatitulus.cyou^
