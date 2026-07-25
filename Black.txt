@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-25 07:51:13
-# 总规则数: 227646 (黑: 223383, 白: 4263)
+﻿# 更新时间: 2026-07-25 09:18:59
+# 总规则数: 227674 (黑: 223411, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9718,6 +9718,7 @@ zzzyk.com###Tinfo
 ||2jod3cl3j.de^
 ||2jse6.icu^
 ||2juyabihe.com^
+||2jwktre834wh6g.rest^
 ||2jwpfkl7kw5evxu.cfd^
 ||2k19.nl^
 ||2k5f.154.com^
@@ -33319,6 +33320,7 @@ zzzyk.com###Tinfo
 ||axoqvl.daf-shoes.com^
 ||axorawebnet.com^
 ||axotrade.com^
+||axouuokgbpcdq.space^
 ||axoxktmvnhtav.site^
 ||axp.2822news.com^
 ||axp.8newsnow.com^
@@ -35921,6 +35923,7 @@ zzzyk.com###Tinfo
 ||bellmandrawbar.com^
 ||bellmetric.net^
 ||bellowbackyard.com^
+||bellows83.top^
 ||bellyermisdaubgos.cyou^
 ||bellyhaikhunsown.cyou^
 ||bellyinternsulphur.com^
@@ -36316,6 +36319,7 @@ zzzyk.com###Tinfo
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bf46dd419c.com^
 ||bf4fa209bf.7a2731790d.com^
+||bf608c30c9.com^
 ||bf6b9225a4.857a41603f.com^
 ||bf7a65c961.3632ca5b41.com^
 ||bf80c2fe1a.com^
@@ -40207,6 +40211,7 @@ zzzyk.com###Tinfo
 ||bwkpkx.projectxparis.com^
 ||bwlbtup186j2pmnetqcmxgwcynnr9neecui7i.rest^
 ||bwlfhhnlsvljs.online^
+||bwlnnrdsqondjy.com^
 ||bwlwbt.rbarevistas.com^
 ||bwmetrics.jegy.hu^
 ||bwmm4ep65y7i751j.cfd^
@@ -43660,6 +43665,7 @@ zzzyk.com###Tinfo
 ||ce3e75d5.jpush.cn^
 ||ce4f19e315.com^
 ||ce6b6837ab.com^
+||ce9be386c2.com^
 ||ce9qb0h4v.com^
 ||ceaecinzktzcm.online^
 ||ceai.xyz^
@@ -53422,6 +53428,7 @@ zzzyk.com###Tinfo
 ||d985a9d2clzq5.cloudfront.net^
 ||d99b2e7693.com^
 ||d99ec2324b.3a1362b385.com^
+||d9a18cf497.com^
 ||d9ad.com^
 ||d9b270b258.bf7472b795.com^
 ||d9b5gfwt6p05u.cloudfront.net^
@@ -63240,6 +63247,7 @@ zzzyk.com###Tinfo
 ||dt64g8m.pro^
 ||dt71.net^
 ||dta.apploye.com^
+||dtabcyojd.in^
 ||dtadnetwork.com^
 ||dtag.breadfinancial.com^
 ||dtakdb1z5gq7e.cloudfront.net^
@@ -72288,6 +72296,7 @@ zzzyk.com###Tinfo
 ||fgxuxjsfbhhnd.space^
 ||fgyhvzvoxlyvs.space^
 ||fgzba.com^
+||fgzcklvmtptvv.space^
 ||fgzczmbjzeqfi.space^
 ||fgzjcspcnzrhf.store^
 ||fgzs180.com^
@@ -76154,6 +76163,7 @@ zzzyk.com###Tinfo
 ||g8715710740.co^
 ||g877.cl.app^
 ||g8913795075.co^
+||g89eyc8a1.com^
 ||g8a3d48.cdn.yunshanganquan.com^
 ||g8do.6t.com^
 ||g8h.cn^
@@ -76362,6 +76372,7 @@ zzzyk.com###Tinfo
 ||gambiaeaffingairings.qpon^
 ||gambling-affiliation.com^
 ||gamblingsyndication.com^
+||gambogecringedresh.cfd^
 ||game-acc.qqbrowser.qq.com^
 ||game-attribute.biligame.com^
 ||game-channel.gamed.kuaishou.com^
@@ -80396,6 +80407,7 @@ zzzyk.com###Tinfo
 ||gpiyhj.leopalace21.com^
 ||gpkbyhhxhpzod.space^
 ||gpkrolnkolc.com^
+||gpkumpfwaoetr.space^
 ||gplinks.in^
 ||gplog-sg.byteoversea.com^
 ||gplpl.dcshoes.com^
@@ -85273,6 +85285,7 @@ zzzyk.com###Tinfo
 ||gxbnp.cn^
 ||gxbpiovpukbaq.website^
 ||gxbr.cnzz.com^
+||gxbswzaseqjgz.space^
 ||gxcaxz.cresus.fr^
 ||gxcbqmwswtavu.website^
 ||gxcizcxyzjnpb.website^
@@ -88176,6 +88189,7 @@ zzzyk.com###Tinfo
 ||hkpjnieraypcn.site^
 ||hkplzozwl.com^
 ||hkpwrpfqmkllb.online^
+||hkq1b3v4wiwzo9zi77.cfd^
 ||hkqlh.tailgatefix.com^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -90111,6 +90125,7 @@ zzzyk.com###Tinfo
 ||hwanjia.com^
 ||hwapi.jpush.cn^
 ||hwbjer.jjunheating.com^
+||hwbsseqjpyfnd.space^
 ||hwbyspodhwjsf.online^
 ||hwcdf.nengcdn.com^
 ||hwcias.medpets.be^
@@ -95974,6 +95989,7 @@ zzzyk.com###Tinfo
 ||ipwho.is^
 ||ipwyyaiewuzfq.online^
 ||ipxjps.cn^
+||ipxnpfcrokzfy.site^
 ||ipybks.icu^
 ||ipyjxs.chowsangsang.com^
 ||ipyolmutfxlsv.website^
@@ -98010,6 +98026,7 @@ zzzyk.com###Tinfo
 ||jhmkopen.minortom.net^
 ||jhnbcserty.rfgzr.com^
 ||jhncmokruwmhd.website^
+||jhnlbryuueowg.online^
 ||jhnmpm.kiwoko.com^
 ||jhnvsxmcitxye.site^
 ||jhnwr.com^
@@ -98930,6 +98947,7 @@ zzzyk.com###Tinfo
 ||jolecyclist.com^
 ||jolhghbdjayis.website^
 ||jollilybrannywaragi.cyou^
+||jollopindult.cyou^
 ||jollyoutdoorjogger.com^
 ||jollyspring.com^
 ||jollytestpartying.com^
@@ -101429,6 +101447,7 @@ zzzyk.com###Tinfo
 ||kfa9grestp.com^
 ||kfadx.tech^
 ||kfbjqsqbvnmrj.site^
+||kfbmswmmo.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfcu.fmservice.com^
 ||kfd3sm2c.com^
@@ -125312,6 +125331,7 @@ zzzyk.com###Tinfo
 ||movii-loft.cn^
 ||movitop.info^
 ||movj.ag8.com^
+||movsssgjfzzjm.site^
 ||movturs.click^
 ||mowayazmagacp.space^
 ||mowcoordinateegypt.com^
@@ -129610,6 +129630,7 @@ zzzyk.com###Tinfo
 ||njbhp.promixnutrition.com^
 ||njbilmh12.com^
 ||njbrwf.pilatesshop.it^
+||njbutsfjfleij.online^
 ||njcchu.flowercampings.com^
 ||njcengpianwang.cn^
 ||njcgtyxmkrkqv.space^
@@ -130543,6 +130564,7 @@ zzzyk.com###Tinfo
 ||npotlxkwjlfgg.space^
 ||npozbs.msccruises.nl^
 ||nppcvydbsljye.site^
+||nppypaxueiiza.site^
 ||npqrw0.vip^
 ||npr.black.news^
 ||npripnuiexazh.online^
@@ -137335,6 +137357,7 @@ zzzyk.com###Tinfo
 ||pbmjjozyvyegz.store^
 ||pbmp.ali213.net^
 ||pbnet.ru^
+||pbnzgmotvibem.space^
 ||pbo8y8igrp.com^
 ||pboadsgyalldd.site^
 ||pbokotlibvpet.website^
@@ -138899,6 +138922,7 @@ zzzyk.com###Tinfo
 ||pingshetrip.com^
 ||pingsurvey.com^
 ||pingtcss.qq.com^
+||pinguesnicklerichter.cyou^
 ||pink-high.pro^
 ||pinkingjay.shop^
 ||pinkishbidden.qpon^
@@ -143967,6 +143991,7 @@ zzzyk.com###Tinfo
 ||qbmjjkpngef.com^
 ||qbmxmuaifmpol.website^
 ||qbnbcdn.vip^
+||qbnnnuvnoxmqgc.com^
 ||qbnvdctsmxqhr.website^
 ||qbnyheznoeglk.space^
 ||qbomp.healthiapp.com^
@@ -207920,6 +207945,7 @@ zzzyk.com###Tinfo
 ||vrstnadgljwiy.space^
 ||vrsyapga.getpetermd.com^
 ||vrtafd.icu^
+||vrtcal.com^
 ||vrtrdvx.cn^
 ||vrtzads.com^
 ||vrufe4ikql.com^
@@ -214039,6 +214065,7 @@ zzzyk.com###Tinfo
 ||wwww.sdsdsdsdsdsd.asia^
 ||wwxeyxdyyitzl.space^
 ||wwxufo.com^
+||wwybnluigynb.com^
 ||wwyoyuutoudbf.space^
 ||wwyysheng.xyz^
 ||wwzdid.adzuna.de^
@@ -215382,6 +215409,7 @@ zzzyk.com###Tinfo
 ||xintengfeiyang.info^
 ||xinterface.cn^
 ||xintianxia.cc^
+||xintndhlggczz.space^
 ||xinwenke.com^
 ||xinxbh.cn^
 ||xinxinmingml.com^
