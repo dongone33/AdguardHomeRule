@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-26 07:43:38
-# 总规则数: 227872 (黑: 223609, 白: 4263)
+﻿# 更新时间: 2026-07-26 09:20:42
+# 总规则数: 227899 (黑: 223636, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -8466,6 +8466,7 @@ zzzyk.com###Tinfo
 ||1d22c41079.com^
 ||1d473a90d9.com^
 ||1d7e60f18a.33cd95e164.com^
+||1d953591e8.com^
 ||1db9fede5f.com^
 ||1dd6fafb6c5080d6d85b00fe4a4c26b0.rdt.tfogc.com^
 ||1ddbsf9ac5v.vendorportal.bestseller.com^
@@ -10573,6 +10574,7 @@ zzzyk.com###Tinfo
 ||3dstats.com^
 ||3dwwwgame.com^
 ||3dwwwgame.com^$third-party
+||3e38p3z93rwiun.rest^
 ||3eac26c533.3e0d59c264.com^
 ||3eb8ea10d6.c48eb877a9.com^
 ||3edc.cn^
@@ -12064,6 +12066,7 @@ zzzyk.com###Tinfo
 ||5h3wnuhr8.com^
 ||5hc.cc^
 ||5hdz1gnue.com^
+||5hebtbbgbo.com^
 ||5hffr1p22j.com^
 ||5hgjd.com^
 ||5ho41ueq7w.com^
@@ -12617,6 +12620,7 @@ zzzyk.com###Tinfo
 ||69.160.170.117^
 ||69.160.171.43^
 ||690.gg^
+||690f8a4082.com^
 ||6914323-260222.jtkbd.cc^
 ||69300280.com^
 ||6936792.com^
@@ -19170,6 +19174,7 @@ zzzyk.com###Tinfo
 ||ad.3.cn^
 ||ad.320320.net^
 ||ad.360in.com^
+||ad.360yield-basic.com^
 ||ad.360yield.com^
 ||ad.363.in^
 ||ad.3dnews.ru^
@@ -49421,6 +49426,7 @@ zzzyk.com###Tinfo
 ||cowerretortnineteen.com^
 ||cowhmc.docmorris.de^
 ||cowtownimbrued.qpon^
+||coxalgyjessingtempter.qpon^
 ||coxbesoul.shop^
 ||coxiestbebusy.shop^
 ||coxiesthubble.com^
@@ -51608,6 +51614,7 @@ zzzyk.com###Tinfo
 ||czdclraxaacmq.online^
 ||czdqhyo1.net^
 ||czdxto.radiopopular.pt^
+||czecscsuvdewn.website^
 ||czeqgnnrivwmp.space^
 ||czf.cchfjz.com^
 ||czfjzpxdykhtz.space^
@@ -53332,6 +53339,7 @@ zzzyk.com###Tinfo
 ||d5099e30ec.708ae8f508.com^
 ||d520m.gzcl999.cn^
 ||d55b071143.03c4e4cc73.com^
+||d580eca1d1.com^
 ||d58bdec688.com^
 ||d58zz.com^
 ||d5c1b32380.com^
@@ -58176,6 +58184,7 @@ zzzyk.com###Tinfo
 ||dbsaysnba4ygmwav.algomoneo.com^
 ||dbsmnmbotbbpn.space^
 ||dbtcspxlnkqiw.space^
+||dbtdqczgztmgy.website^
 ||dbujksp6lhljo.cloudfront.net^
 ||dbvcmwmqdgcpg.online^
 ||dbvedren.com^
@@ -59640,6 +59649,7 @@ zzzyk.com###Tinfo
 ||dfqzah.xyz^
 ||dfr.deloitte.com^
 ||dfrgxsiydjbfj.space^
+||dfrhgivzjpkil.site^
 ||dfrhn.effyjewelry.com^
 ||dfrjz.ebf-org.com^
 ||dfrsn.useactive.com^
@@ -60204,6 +60214,7 @@ zzzyk.com###Tinfo
 ||digital-engineering.de^
 ||digital-forest.info^
 ||digital-global.furniture-china.cn^
+||digital-meet.pro^
 ||digital-metric.com^
 ||digital.acutx.org^
 ||digital.adt-worldwide.com^
@@ -63153,6 +63164,7 @@ zzzyk.com###Tinfo
 ||dsvidbernlibi.site^
 ||dsvmgu.snipes.it^
 ||dsvopb.com^
+||dsvosm.com^
 ||dsvtrq.com^
 ||dsvxfq.com^
 ||dsvyby.com^
@@ -72291,6 +72303,7 @@ zzzyk.com###Tinfo
 ||fgip.rosehosting.com^
 ||fgiqed.brasty.cz^
 ||fgjfwz.legami.com^
+||fgjsfrafgkibz.site^
 ||fgjzs.giftsforyounow.com^
 ||fgk.baitaoidc.com^
 ||fgkxluxqgpzzm.xyz^
@@ -87664,6 +87677,7 @@ zzzyk.com###Tinfo
 ||hi686.com^
 ||hi760.com^
 ||hi9377.com^
+||hiabeoqxxqnec.online^
 ||hiad.myweb.hinet.net^
 ||hiad.vmall.com^
 ||hiads.hidoctor.ir^
@@ -97003,6 +97017,7 @@ zzzyk.com###Tinfo
 ||izcftgjuemufo.site^
 ||izchmydrokftv.site^
 ||izcjyeehxaesm.online^
+||izcloacciv.com^
 ||izdonegkaboga.website^
 ||izea.com^
 ||izearanks.com^
@@ -97493,6 +97508,7 @@ zzzyk.com###Tinfo
 ||jbmmqpmrdjnsn.global^
 ||jbmnge.samsamo.net^
 ||jbmrxdksmadql.website^
+||jbndmyhdvlvyl.website^
 ||jboibfgygqffg.site^
 ||jbokht.com^
 ||jboppyhawqzfo.online^
@@ -99151,6 +99167,7 @@ zzzyk.com###Tinfo
 ||jp88.cc^
 ||jp88888887.cn^
 ||jp99uxmoc59mcvne3v4yc18o6.cfd^
+||jpaahxcumo.in^
 ||jpaasne.e.shifen.com^
 ||jpaatr.astellas.jp^
 ||jpackipmxsufz.online^
@@ -102214,6 +102231,7 @@ zzzyk.com###Tinfo
 ||kktij.parkseed.com^
 ||kktly.cn^
 ||kku.xiaoxiuapp.com^
+||kkxtpfbimwezy.space^
 ||kky7785.4466pay22.com^
 ||kkylx.xyz^
 ||kkytqmuyworov.online^
@@ -114179,6 +114197,7 @@ zzzyk.com###Tinfo
 ||lrjejzefyzbac.space^
 ||lrjgllzgqdnbi.website^
 ||lrjnbf.sabon.co.jp^
+||lrkpzmuxgqbip.space^
 ||lrkt-in.com^
 ||lrldmqtslbish.site^
 ||lrlmj.robuust.com^
@@ -138167,6 +138186,7 @@ zzzyk.com###Tinfo
 ||pestepulicat.cyou^
 ||pesterpolling.cyou^
 ||pestfulwoks.qpon^
+||pestifymilanshiatsu.cfd^
 ||pestilentberrysincere.com^
 ||pestilenttidefilth.org^
 ||pestilenttransaction.com^
@@ -150060,6 +150080,7 @@ zzzyk.com###Tinfo
 ||roasted-job.pro^
 ||roasted-standard.pro^
 ||roastedvolt.net^
+||roastengirt.cfd^
 ||roastrigidbitesize.com^
 ||roastwearwritten.com^
 ||roay.cn^
@@ -151732,6 +151753,7 @@ zzzyk.com###Tinfo
 ||ruuzqjaoattkl.site^
 ||ruvdkw.turk.net^
 ||ruvfph.fairwaygolfusa.com^
+||ruvkztnozrgxm.website^
 ||ruvowe4xeo.com^
 ||ruw.roanokeunderwriting.com^
 ||ruwcnaoiqkznm.online^
@@ -164358,6 +164380,7 @@ zzzyk.com###Tinfo
 ||skjv.720lu.com^
 ||skkjtopbgnflw.website^
 ||skl.zhazhiwei.com^
+||sklentsphorid.cyou^
 ||skluff.com^
 ||sklup.trysourse.com^
 ||skmcwz.haselmode.co.kr^
@@ -190368,6 +190391,7 @@ zzzyk.com###Tinfo
 ||tewingclours.shop^
 ||tewisg.monster.fi^
 ||tework.cn^
+||tewsomewagers.qpon^
 ||tewsxs.serx17.top^
 ||texastrustcu.fmservice.com^
 ||text-link-ads.com^
@@ -192919,6 +192943,7 @@ zzzyk.com###Tinfo
 ||tophits4u.de^
 ||tophosting101.com^
 ||tophousblued.cfd^
+||tophousdiscure.cfd^
 ||topicalcartel.com^
 ||topiccorruption.com^
 ||topicmagnitude.com^
@@ -193430,6 +193455,7 @@ zzzyk.com###Tinfo
 ||tqrmlgjertjht.online^
 ||tqswwgfjomczh.space^
 ||tqt-user-systemv2.weathercn.com^
+||tqtabexgyuqel.space^
 ||tqtedm.kosmetik.at^
 ||tqtje.statelinetack.com^
 ||tqtlyzaztpngj.site^
@@ -212375,6 +212401,7 @@ zzzyk.com###Tinfo
 ||wohewodejxp.top^
 ||wohlacmisease.qpon^
 ||wohong5.com^
+||woi445m8kmify9lbfcle36mwm3.cfd^
 ||woihtwxtybnzw.store^
 ||wojanpkkxcntg.website^
 ||wojiabaoye.com^
