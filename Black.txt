@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-26 22:06:10
-# 总规则数: 227968 (黑: 223705, 白: 4263)
+﻿# 更新时间: 2026-07-26 23:20:51
+# 总规则数: 227997 (黑: 223734, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -25726,6 +25726,7 @@ zzzyk.com###Tinfo
 ||amazingcounters.com^
 ||amazingmagics.com^
 ||amazingmeaning.com^
+||amazingyard.pro^
 ||amazon-ads.amazonads.cn^
 ||amazon-adsystem.com^
 ||amazon-adsystem.com^$third-party
@@ -36085,6 +36086,7 @@ zzzyk.com###Tinfo
 ||bersillyraserins.cyou^
 ||bersq.theadventurechallenge.com^
 ||bertapert.com^
+||berthedhippish.shop^
 ||berthfrankly.com^
 ||bertsysxmykqm.online^
 ||berush.com^
@@ -39146,6 +39148,7 @@ zzzyk.com###Tinfo
 ||brimhugo.qpon^
 ||brimsesugarer.cyou^
 ||bringalzolaist.qpon^
+||bringertrustle.cfd^
 ||bringmethehats.com^
 ||brinkjav09212026.shop^
 ||brinkmarko.com^
@@ -60894,6 +60897,7 @@ zzzyk.com###Tinfo
 ||divestsopuses.qpon^
 ||dividedintegrationtransparent.com^
 ||dividedmidsummer.com^
+||dividedrejoins.cyou^
 ||dividedscientific.com^
 ||dividend56.top^
 ||divingamends.com^
@@ -72465,6 +72469,7 @@ zzzyk.com###Tinfo
 ||fibfrc.thecara.co.kr^
 ||fibredelivery.com^
 ||fibrincdrstroud.cfd^
+||fibroidbubalis.qpon^
 ||fibvg.mathishome.com^
 ||ficaoutbow.cyou^
 ||fichatgriseravine.cyou^
@@ -73433,7 +73438,9 @@ zzzyk.com###Tinfo
 ||flaticon.com^
 ||flatjeep.com^
 ||flatletgoggafeedbin.cfd^
+||flatmengrimace.cfd^
 ||flattendollar.com^
+||flattenembrawnuvrou.cyou^
 ||flattenpliable.com^
 ||flattermonumentsbarren.com^
 ||flattervillage.qpon^
@@ -73621,6 +73628,7 @@ zzzyk.com###Tinfo
 ||floweryoperation.com^
 ||flowing.fkplus.com^
 ||flowinghypuralcincha.cfd^
+||flowlysate.qpon^
 ||flownetexpress.com^
 ||flowpanlive.com^
 ||flowplus.meituan.net^
@@ -79976,6 +79984,7 @@ zzzyk.com###Tinfo
 ||goadservices.com^
 ||goaffmy.com^
 ||goagpwzflvpnx.online^
+||goalagejacanasighter.cyou^
 ||goaleeburrsprater.cyou^
 ||goalersoyer.cyou^
 ||goaljet.ltd^
@@ -85632,6 +85641,7 @@ zzzyk.com###Tinfo
 ||gzsmnojrwfmft.website^
 ||gzsy12348.com^
 ||gztdvuuihunso.website^
+||gztjveqxggzzptpt4rjr.rest^
 ||gzts188.com^
 ||gzugqzgsfr.com^
 ||gzuvq.sanitairkamer.nl^
@@ -90105,6 +90115,7 @@ zzzyk.com###Tinfo
 ||huskerskrang.cfd^
 ||huskinessimminentstylus.com^
 ||husky.sogou.com^
+||huskyoxman.cyou^
 ||huskypartydance.com^
 ||husoxn.investors.com^
 ||huspelcopplekitlope.cyou^
@@ -95653,6 +95664,7 @@ zzzyk.com###Tinfo
 ||inuae.cycologygear.co.uk^
 ||inudpbi.com^
 ||inurneddoggish.com^
+||inutilecooeed.cyou^
 ||inuvo.com^
 ||inuxu.co.in^
 ||inv.mksp.io^
@@ -116536,6 +116548,7 @@ zzzyk.com###Tinfo
 ||m6d3h9vc3z.com^
 ||m6f6.yjzb.app^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||m6qxdu6m6w.com^
 ||m6r.eu^
 ||m6rt.yide.com^
 ||m6ulblxep4.execute-api.us-east-1.amazonaws.com^
@@ -123109,6 +123122,7 @@ zzzyk.com###Tinfo
 ||mgr.beinarun.com^
 ||mgr.biltmorehotel.com^
 ||mgrafmxbsgjma.store^
+||mgreyouth.cfd^
 ||mgrhe.myvolleybox.com^
 ||mgrwaui4.top^
 ||mgs.instacart.com^
@@ -123526,6 +123540,7 @@ zzzyk.com###Tinfo
 ||minewhat.com^
 ||minfo.wps.cn^
 ||mingcidianzi162.cn^
+||mingiercolugo.cyou^
 ||mingkuaian.cn.miaozhen.com^
 ||mingledpayoff.com^
 ||minglee.vip^
@@ -131509,6 +131524,7 @@ zzzyk.com###Tinfo
 ||nxrhs.com^
 ||nxrxt.com^
 ||nxrxt.con^
+||nxszybhvuiblq.online^
 ||nxt-psh.com^
 ||nxt.proximus.be^
 ||nxtck.com^
@@ -133186,6 +133202,7 @@ zzzyk.com###Tinfo
 ||omappapi.com^
 ||omarsys.com^
 ||omatri.info^
+||omaupeaizqufr.online^
 ||omazeiros.com^
 ||omberfixure.qpon^
 ||ombet.condition1.com^
@@ -135070,6 +135087,7 @@ zzzyk.com###Tinfo
 ||outgateprat.com^
 ||outgazewiglet.qpon^
 ||outglanceauditioning.com^
+||outgoeslyase.cfd^
 ||outgoingproblem.com^
 ||outgunscarshop.cfd^
 ||outholdsighful.cyou^
@@ -135478,6 +135496,7 @@ zzzyk.com###Tinfo
 ||oyo4d.com^
 ||oyotii.sportokay.com^
 ||oyoxyc.josefsteiner.at^
+||oyqxdtshsivhl.online^
 ||oyrsdqzzdfmjy.website^
 ||oyshsqsoyrexh.site^
 ||oyssqe.easyvoyage.com^
@@ -136479,6 +136498,7 @@ zzzyk.com###Tinfo
 ||paosdalsdnifajsdamcxzijasdaskdaosidasdasd.lrilxh.cn^
 ||paoxnxuhiwsxsc-1362246068.cos.ap-guangzhou.myqcloud.com^
 ||pap.qualityunit.com^
+||papainstogae.qpon^
 ||papajia55.com^
 ||papamug.com^
 ||papaqq.com^
@@ -138914,6 +138934,7 @@ zzzyk.com###Tinfo
 ||pieejami.tilde.ai^
 ||piefortcreaker.cyou^
 ||pieholla.shop^
+||pieletevasive.qpon^
 ||piercing-flower.com^
 ||pierconditioner.com^
 ||pierinfactories.net^
@@ -141271,6 +141292,7 @@ zzzyk.com###Tinfo
 ||pqghqs.eastcl.com^
 ||pqhtjn.icu^
 ||pqiicj.misterspex.se^
+||pqitcohyrrnzv.online^
 ||pqixbnllqzmfp.space^
 ||pqjprom.cn^
 ||pqkgglsxdovex.website^
@@ -150406,6 +150428,7 @@ zzzyk.com###Tinfo
 ||rotabanner.
 ||rotabanner.kulichki.net^
 ||rotarb.bid^
+||rotasflaunty.qpon^
 ||rotate.ymtracking.com^
 ||rotate4all.com^
 ||rotate5url.com^
@@ -151987,6 +152010,7 @@ zzzyk.com###Tinfo
 ||rxkrnofyhchvm.site^
 ||rxlidz.ink^
 ||rxliwi.ullapopken.com^
+||rxmqrbbhwbdeh.website^
 ||rxnvg.com^
 ||rxojwkaldlwsx.space^
 ||rxqqaq.hollandandbarrett.com^
@@ -152121,6 +152145,7 @@ zzzyk.com###Tinfo
 ||rzxlszy.vip^
 ||rzxnpocokpbcy.store^
 ||rzycnidbqwnjl.website^
+||rzykqaazcqcfc.online^
 ||s*.adduplex.com^
 ||s*.skencituer.com^
 ||s*voicecloud.cn^
@@ -169994,6 +170019,7 @@ zzzyk.com###Tinfo
 ||soubej.larebajavirtual.com^
 ||soucvnbylfpxu.online^
 ||soudandondine.shop^
+||soudansslushedocypete.cfd^
 ||soueegelontar.qpon^
 ||soughvigias.cfd^
 ||souid.com^
@@ -192192,6 +192218,7 @@ zzzyk.com###Tinfo
 ||tkppvr.freshfarm.it^
 ||tkqjtaurqpltn.store^
 ||tkqlhce.com^
+||tkqoteekokjyr.website^
 ||tkqwurl.icu^
 ||tkrconnector.com^
 ||tkrecorder.aotter.net^
@@ -200918,6 +200945,7 @@ zzzyk.com###Tinfo
 ||uaivqzpqzehth.love^
 ||uaiysnrylsuyx.website^
 ||uaiyuaosnibki.website^
+||uajcfyxphitzh.website^
 ||uajgfkbpypbsa.site^
 ||uajzbrkidbvfb.online^
 ||uakaricavesowner.cfd^
@@ -201737,6 +201765,7 @@ zzzyk.com###Tinfo
 ||ujqwmhiefbeqc.website^
 ||ujrgnwjhbyinw.space^
 ||ujscdn.com^
+||ujsztoootmsbp.website^
 ||ujth40hl4i.com^
 ||ujtvxvmkmncua.online^
 ||ujvh.pandasuite.io^
