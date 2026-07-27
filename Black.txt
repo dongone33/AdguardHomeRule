@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-28 02:28:26
-# 总规则数: 228292 (黑: 224029, 白: 4263)
+﻿# 更新时间: 2026-07-28 04:08:45
+# 总规则数: 228316 (黑: 224053, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -12813,6 +12813,7 @@ zzzyk.com###Tinfo
 ||6o2k80jf8w.com^
 ||6o719vq4x.com^
 ||6ogiuks905.com^
+||6ogjwnhh885386q48xe.rest^
 ||6opo.com^
 ||6osurvos.fn.bytedance.net^
 ||6ovzwbq4o.com^
@@ -25905,6 +25906,7 @@ zzzyk.com###Tinfo
 ||amountdonutproxy.com^
 ||amoursspignet.cfd^
 ||amovingimsonicvlsi.cyou^
+||amoyyamulka.cfd^
 ||amp-error-reporting.appspot.com^
 ||amp.diningcode.com^
 ||amp.nz.igexin.com^
@@ -36400,6 +36402,7 @@ zzzyk.com###Tinfo
 ||bffcv.1866nippers.com^
 ||bffexpzjljesi.site^
 ||bffigvvwoyybr.website^
+||bffxulqslmiux.space^
 ||bfg.loanzify.app^
 ||bfg9.yl.vip^
 ||bfgg365.com^
@@ -44718,6 +44721,7 @@ zzzyk.com###Tinfo
 ||chiq-cloud.com^
 ||chiquita.backtobac.net^
 ||chiripapareses.shop^
+||chirkgiulio.cyou^
 ||chirpdescend.cyou^
 ||chirredyip.cfd^
 ||chirui.net^
@@ -49172,6 +49176,7 @@ zzzyk.com###Tinfo
 ||cos*.cos.ap-nanjing^
 ||cos.ho7k.com^
 ||cos1999.top^
+||coscetfec.cfd^
 ||coseierblowstalipat.cfd^
 ||cosetengarb.com^
 ||coseymikra.cyou^
@@ -68310,6 +68315,7 @@ zzzyk.com###Tinfo
 ||envoymusicianpaid.com^
 ||enwombssighing.com^
 ||enwraptboteinruned.cyou^
+||enwwoveprocess.qpon^
 ||enxjwxpa.com^
 ||enyayinxiang.com^
 ||enyfyltscarvo.online^
@@ -68660,6 +68666,7 @@ zzzyk.com###Tinfo
 ||erb.tremblant.ca^
 ||erbhz.havenwellwithin.com^
 ||erbiscusysexbu.org^
+||erbiumsuppowoc.qpon^
 ||erbqwgtbxifxz.online^
 ||ercnrxa.cn^
 ||ercpurdyiaicp.space^
@@ -72030,6 +72037,7 @@ zzzyk.com###Tinfo
 ||feelsjet.com^
 ||feelssunkcredential.com^
 ||feelwarmth.com^
+||feelytaler.qpon^
 ||feerieense.cyou^
 ||feesee.com^
 ||feezv.mycheerleadingbox.com^
@@ -72095,6 +72103,7 @@ zzzyk.com###Tinfo
 ||fellowshipvillage.fellowshiplifeinc.org^
 ||felor.xyz^
 ||felterprefet.qpon^
+||feltluteal.cyou^
 ||feltyrewoken.cfd^
 ||felwnnkhshnqt.com^
 ||fem.gprod.postmedia.digital^
@@ -74210,6 +74219,7 @@ zzzyk.com###Tinfo
 ||forecast.sina.cn^
 ||forecaststepsixteen.com^
 ||forecasttiger.com^
+||foredidkermis.qpon^
 ||foreignabnormality.com^
 ||foreignlozenge.com^
 ||forelaycampe.cyou^
@@ -78269,6 +78279,7 @@ zzzyk.com###Tinfo
 ||ggvmgjyqbnbjy.website^
 ||ggw.gusuwang.com^
 ||ggw.watertu.com^
+||ggw4g8nev68pg6fyq9k.cfd^
 ||ggwan.com^$third-party,domain=~linghit.com
 ||ggwcash.com^
 ||ggweb.net^
@@ -98505,6 +98516,7 @@ zzzyk.com###Tinfo
 ||jingktech.com^
 ||jingletronasbosons.cfd^
 ||jinglongtang.cn^
+||jingobreaths.cfd^
 ||jingpengpeixun.xyz^
 ||jingpin127.h8fn6.com^
 ||jingshenhaixian.cn^
@@ -98756,6 +98768,7 @@ zzzyk.com###Tinfo
 ||jklhgfg.varlt.com^
 ||jklhs7u.com^
 ||jklpy.com^
+||jkluxjhnnbfka.online^
 ||jklxapwjjgyqb.space^
 ||jkmawumzebcim.space^
 ||jkmdfnarliyun.website^
@@ -120040,6 +120053,7 @@ zzzyk.com###Tinfo
 ||mdn2.phluantmobile.net^
 ||mdn3.phluantmobile.net^
 ||mdn3origin.phluantmobile.net^
+||mdnttensive.qpon^
 ||mdntu.etrendygo.com^
 ||mdockyrsaxayt.online^
 ||mdocqwipifyhu.buzz^
@@ -132789,6 +132803,7 @@ zzzyk.com###Tinfo
 ||ogkydwllwcyks.online^
 ||ogle-0740lb.com^
 ||ognjrx.whosgirl.co.kr^
+||ognovtfu.in^
 ||ognujxj.cn^
 ||ognunn.chavesnamao.com.br^
 ||ognyvo.ru^
@@ -164042,6 +164057,7 @@ zzzyk.com###Tinfo
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
+||sillagoposs.shop^
 ||sillaltica.cyou^
 ||sillierwills.shop^
 ||sillinessclearly.com^
@@ -171270,6 +171286,7 @@ zzzyk.com###Tinfo
 ||squillabutenelofter.cyou^
 ||squintsstretta.cyou^
 ||squirestankie.com^
+||squirkverraykorunas.cyou^
 ||squirlbroddle.cfd^
 ||squirmdori.qpon^
 ||squirrel.cividi.ch^
@@ -185034,6 +185051,7 @@ zzzyk.com###Tinfo
 ||sud.holidayinsider.com^
 ||sud.holidays.hrs.de^
 ||sudahj.com^
+||sudanicknudsenorillon.cyou^
 ||sudariacueman.cyou^
 ||sudatejiberlauryl.cyou^
 ||sudcj.steepcycling.com^
@@ -185549,6 +185567,7 @@ zzzyk.com###Tinfo
 ||sutzotlenmcem.store^
 ||suu270.alteselevadores.com.br^
 ||suukcn.com^
+||suumghyll.cfd^
 ||suunta.visma.fi^
 ||suurl.nuudcare.de^
 ||suuwomhpbkddv.space^
@@ -191422,6 +191441,7 @@ zzzyk.com###Tinfo
 ||thuongmaidientuquocte.com^
 ||thuongmaivietnhat.com^
 ||thuongviet01.com^
+||thuriofennecs.cyou^
 ||thurnflfant.com^
 ||thushandkerchiefcentered.com^
 ||thutucnhangiai2022.com^
@@ -213111,6 +213131,7 @@ zzzyk.com###Tinfo
 ||wposrp.lampegiganten.no^
 ||wppei.cn^
 ||wppyub.mygenerator.com.au^
+||wpqdxjqqwyxbe.space^
 ||wpqsmse.cn^
 ||wpqxya.clarins.jp^
 ||wprhk.fosteredcollection.com^
@@ -213432,6 +213453,7 @@ zzzyk.com###Tinfo
 ||wsnew.cn^
 ||wsngrk.mcglzx.com^
 ||wsnjjj.arredinitaly.com^
+||wsnqvlvaerlib.online^
 ||wsnrfb.modlily.com^
 ||wsnxw6ihs.com^
 ||wsoe.kwiago.com^
@@ -217455,6 +217477,7 @@ zzzyk.com###Tinfo
 ||xqygyp.cn^
 ||xqyts.tantusinc.com^
 ||xqyupbhz.fjeldogfritid.se^
+||xqyxuyutqoxwr.online^
 ||xqzqdj.mfind.pl^
 ||xqzzl1l.cn^
 ||xr40kfkxeo.com^
@@ -217574,6 +217597,7 @@ zzzyk.com###Tinfo
 ||xsdlt.top^
 ||xsdsemgyxukwx.space^
 ||xsell.6waves.com^
+||xsepmeerroahk.website^
 ||xsertyuioiuyyt.zx.eywisg.comhgzs.uunat.com
 ||xserver.professoramislenerosa.com.br^
 ||xsfcgwydeqhuz.online^
