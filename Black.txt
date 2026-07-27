@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-28 05:24:03
-# 总规则数: 228433 (黑: 224170, 白: 4263)
+﻿# 更新时间: 2026-07-28 06:37:04
+# 总规则数: 228456 (黑: 224193, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -11363,6 +11363,7 @@ zzzyk.com###Tinfo
 ||4paradigm.com^$domain=sina.com.cn
 ||4part.kaporghor.com^
 ||4pcp5e2w7i.com^
+||4pmu1grb5hvng3qmf38zy7t2u.rest^
 ||4pn.cn^
 ||4pnoo6qi5f2x9zzmrouxhmeo.cfd^
 ||4po6iqp9.cn^
@@ -14720,6 +14721,7 @@ zzzyk.com###Tinfo
 ||9cp1.com^
 ||9cuo1fv233p5x889jolrw7ybzcomnvvn4c53h.cfd^
 ||9cwcu1574.com^
+||9czqvvzlqzpt4zt2k.cfd^
 ||9d4a486df8.com^
 ||9d5d98b241.com^
 ||9d611c2d8a.com^
@@ -31579,6 +31581,7 @@ zzzyk.com###Tinfo
 ||armourniellos.qpon^
 ||armpitgratitudecruelty.com^
 ||armqfyjmuotq.in^
+||armseyeupyokefield.cyou^
 ||armsgross.com^
 ||armsizeabram.cyou^
 ||armsnerveattestation.com^
@@ -45424,6 +45427,7 @@ zzzyk.com###Tinfo
 ||clavuviupsit.cyou^
 ||claydar.com^
 ||clayeytogated.cyou^
+||claytonuncate.cfd^
 ||claz.com.cn^
 ||clb.vin^
 ||clb.yahoo.co.jp^
@@ -47581,6 +47585,7 @@ zzzyk.com###Tinfo
 ||colourfulplayerperspective.com^
 ||colourrobot.com^
 ||colportrottolo.qpon^
+||colpwoofell.qpon^
 ||colterkeek.cfd^
 ||coltlimb.com^
 ||columbiahealthcaredatabreach.e.epiqnotification.com^
@@ -49565,6 +49570,7 @@ zzzyk.com###Tinfo
 ||coyizl.embracon.com.br^
 ||coylycaptate.com^
 ||coylyframea.qpon^
+||coylywinder.cyou^
 ||coyosethrogs.qpon^
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
@@ -72464,6 +72470,7 @@ zzzyk.com###Tinfo
 ||fgaon.com^
 ||fgbomsqo4j.com^
 ||fgbzr.elvie.com^
+||fgdabhklnszxz.site^
 ||fgdhfd.wbnv94.shop^
 ||fgdubihoojote.online^
 ||fgdwucvkviqtr.online^
@@ -74231,6 +74238,7 @@ zzzyk.com###Tinfo
 ||foomaque.net^
 ||foomjy.teacollection.com^
 ||foot.wiki^
+||footballmedal.com^
 ||footbathmockerpurse.com^
 ||footerfont.com^
 ||footfulsprier.qpon^
@@ -77138,6 +77146,7 @@ zzzyk.com###Tinfo
 ||gbwzrcymfmvym.bid^
 ||gbxreport-*.wf.com^
 ||gbxvvcynqbzxb.site^
+||gbymfijsetvta.website^
 ||gbzumh.cn^
 ||gc-gamespace-cn.heytapmobi.com^
 ||gc.acut3.net^
@@ -102153,6 +102162,7 @@ zzzyk.com###Tinfo
 ||kikuz.crowdcow.com^
 ||kikwchvu.com^
 ||kil.longkoupeanut.cn^
+||kilergghettos.cfd^
 ||kilerghairnet.qpon^
 ||kiliareorangssqueam.cyou^
 ||kilin.xyz^
@@ -131471,6 +131481,7 @@ zzzyk.com###Tinfo
 ||nug08030lu.com^
 ||nug08031lu.com^
 ||nug2lfj23b7vtv.rest^
+||nugaequinua.shop^
 ||nuggad.net^
 ||nugh2om.txxx.com^
 ||nughaitsoudri.xyz^
@@ -139532,6 +139543,7 @@ zzzyk.com###Tinfo
 ||pisksalvo.qpon^
 ||pisqpr.puuilo.fi^
 ||pisrael.com^
+||pistnowness.qpon^
 ||pit3wzvqf2xfnw1uml23eknmq.cfd^
 ||pitaltoid.com^
 ||pitangaenglersloking.cyou^
@@ -141339,6 +141351,7 @@ zzzyk.com###Tinfo
 ||potatoeswhatsoever.com^
 ||potatoinvention.com^
 ||potawe.com^
+||potboilexedrae.cfd^
 ||potboydoddardnocked.cfd^
 ||potencyidrooping.com^
 ||potgirlpaves.qpon^
@@ -143374,6 +143387,7 @@ zzzyk.com###Tinfo
 ||puggishlycea.cyou^
 ||pugliason.cfd^
 ||pugmarktagua.com^
+||pugreeakoleftish.qpon^
 ||pugvm.durangoboots.com^
 ||pugzutzi.com^
 ||puhtml.com^
@@ -146307,6 +146321,7 @@ zzzyk.com###Tinfo
 ||quick-date.xyz^
 ||quick.openapp.link^
 ||quickads.net^
+||quickedangora.cyou^
 ||quickedbamban.cfd^
 ||quickerapparently.com^
 ||quickieboilingplayground.com^
@@ -151886,6 +151901,7 @@ zzzyk.com###Tinfo
 ||ruarvrotegnje.site^
 ||ruaxueolmkicy.site^
 ||rubanners.com^
+||rubatoseffray.cfd^
 ||rubbedswabbie.shop^
 ||rubbery-industry.com^
 ||rubbery-way.com^
@@ -169363,6 +169379,7 @@ zzzyk.com###Tinfo
 ||snhgtm.scienceandhumans.com^
 ||sni-dat.com^
 ||sni.ps^
+||snibsoredia.shop^
 ||snickbarrenashy.com^
 ||snickedstimiesluridly.cfd^
 ||snickers44.com^
@@ -192632,6 +192649,7 @@ zzzyk.com###Tinfo
 ||tlbrj.denmanbrush.com^
 ||tlbxptgzplybk.online^
 ||tlcfhttbxdbhc.site^
+||tlcjaqrghthyv.space^
 ||tlcpkidysoqqf.space^
 ||tlcpvkkboxamm.website^
 ||tlcs666.com^
@@ -200619,6 +200637,7 @@ zzzyk.com###Tinfo
 ||tweakersaturyyachter.cfd^
 ||tweakjerk.com^
 ||tweakpersuadelowest.com^
+||tweakscluppe.shop^
 ||tweaktino.cyou^
 ||twebroba.in^
 ||tweetdeck.net.anwalt.de^
@@ -203477,6 +203496,7 @@ zzzyk.com###Tinfo
 ||upwarpyearful.cyou^
 ||upwindfaecalvoyager.qpon^
 ||upwkcv.vidaxl.ro^
+||upwkuickentuo.site^
 ||upwwgd.zentempel.com^
 ||upwwqfvpvbara.site^
 ||upxip.xyz^
@@ -220001,6 +220021,7 @@ zzzyk.com###Tinfo
 ||ynxarohfavycj.site^
 ||ynxhsy.com^
 ||ynxjqfljncisp.website^
+||ynxkrnzsgnrfd.online^
 ||ynxomkygrmeud.site^
 ||ynyfcz.cn^
 ||ynyn.shop^
@@ -220740,6 +220761,7 @@ zzzyk.com###Tinfo
 ||yumao.puata*^
 ||yumao.puata.info^
 ||yumatitulus.cyou^
+||yumaunpot.cfd^
 ||yumcs.xiaohuau.xyz^
 ||yumenetworks.com^
 ||yumhusk.com^
@@ -220888,6 +220910,7 @@ zzzyk.com###Tinfo
 ||yvcjyi.beymen.com^
 ||yvdaeg.on-running.com^
 ||yvdb.cn^
+||yvdfmcmebhove.website^
 ||yvdxij.applevacations.com^
 ||yvercbjclvafn.site^
 ||yvfgex.happyprince.co.kr^
