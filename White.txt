@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-29 01:59:33
-# 白名单规则数: 4262
+﻿# 更新时间: 2026-07-29 03:46:32
+# 白名单规则数: 4263
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -2211,6 +2211,7 @@
 @@||logentries.com^
 @@||login-sh.aki-game.com^
 @@||login-us.microsoftonline.com^$important
+@@||login.gaijin.net^
 @@||login.live.com^
 @@||login.live.com^$important
 @@||login.m.taobao.com^
