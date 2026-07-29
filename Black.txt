@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-29 19:43:20
-# 总规则数: 228836 (黑: 224573, 白: 4263)
+﻿# 更新时间: 2026-07-29 21:30:02
+# 总规则数: 228848 (黑: 224585, 白: 4263)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -8492,6 +8492,7 @@ zzzyk.com###Tinfo
 ||1e93lqg1eb8gj7r65i.cfd^
 ||1ebda33434.com^
 ||1ecfb6e2.aliyunddos0158.com^
+||1efwxejmwvycnffxu1.cfd^
 ||1ehioxpqe.com^
 ||1ei9.8890.com^
 ||1ep.co^
@@ -27723,6 +27724,7 @@ zzzyk.com###Tinfo
 ||angelicunioval.com^
 ||angieterming.cfd^
 ||angioidimmixt.shop^
+||angledskunky.qpon^
 ||anglerfish.luminfire.com^
 ||anglerfish.pfolios.net^
 ||anglezinccompassionate.com^
@@ -32739,6 +32741,7 @@ zzzyk.com###Tinfo
 ||atyvapfwastoa.space^
 ||atzonebd.com^
 ||atzzrq.tbs.co.jp^
+||atzzvmbxqmfgw.website^
 ||au-go.experian.com^
 ||au-partners.ingrammicro.com^
 ||au.adhacker.online^
@@ -40366,6 +40369,7 @@ zzzyk.com###Tinfo
 ||bwgq54iy2x1g1lf9mrm9xn1987zv.cfd^
 ||bwin2808.com^
 ||bwinpartypartners.com^
+||bwitahqriaz.in^
 ||bwj4.hrhibiza.com^
 ||bwjdlppiimfli.com^
 ||bwkcomucfkfpgl.com^
@@ -59855,6 +59859,7 @@ zzzyk.com###Tinfo
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dfkd.xyz^
 ||dfkkffjulbnec.space^
+||dfkovyzbejisn.website^
 ||dflow.bz.mgtv.com^
 ||dflow.log.hunantv.com^
 ||dflow.titan.mgtv.com^
@@ -66804,6 +66809,7 @@ zzzyk.com###Tinfo
 ||ejbbcf.finishline.com^
 ||ejbkqt.morugi.com^
 ||ejcnfk4t21lof1.rest^
+||ejcnszxrmlzmk.website^
 ||ejd3q.life^
 ||ejdfr.jensenoutdoor.com^
 ||ejdkqclkzq.com^
@@ -72045,6 +72051,7 @@ zzzyk.com###Tinfo
 ||fdnamecruck.cfd^
 ||fdnaylrjswdud.space^
 ||fdnyk.suzannesomers.com^
+||fdnzfwspjufno.website^
 ||fdnzpgzakqnsj.online^
 ||fdoepehritanm.site^
 ||fdolspwa.my^
@@ -88112,6 +88119,7 @@ zzzyk.com###Tinfo
 ||hiederspanule.cfd^
 ||hiefxjckmmuyf.online^
 ||hieldrenown.cyou^
+||hievviijgvakk.site^
 ||hiezj.everytable.com^
 ||hif.to^
 ||hifisgtm.trysprinkle.com^
@@ -91820,6 +91828,7 @@ zzzyk.com###Tinfo
 ||ieatlu.xyz^
 ||iebar.baidu.com^
 ||iebggwrulqeja.site^
+||iebhbkzfwcwoq.space^
 ||iebld.volcom.com^
 ||ieclmkecvhvaj.website^
 ||iecxpghbv.com^
@@ -93669,6 +93678,7 @@ zzzyk.com###Tinfo
 ||immediateequivalentstunning.com^
 ||immediatelydoghead.com^
 ||immense-owner.com^
+||immensegymsiajt.cyou^
 ||immensehoney.com^
 ||immersedexample.com^
 ||immf.me^
@@ -146740,6 +146750,7 @@ zzzyk.com###Tinfo
 ||quzmtpxw.xyz^
 ||qv.co.ke^
 ||qv566.cn^
+||qv759mti9lixmiw94pri.rest^
 ||qv7epv7przcqukppr.cfd^
 ||qvafkzqojrhbl.online^
 ||qvajfk.clarins.ie^
@@ -155625,6 +155636,7 @@ zzzyk.com###Tinfo
 ||scentedkindly.com^
 ||scentsgalliot.cfd^
 ||scentsroupingpierre.cfd^
+||scentwerthermetring.cfd^
 ||scepticalomnipresentmelody.com^
 ||scfans.cn^
 ||scfatao.com^
