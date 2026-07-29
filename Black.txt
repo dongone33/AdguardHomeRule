@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-29 11:48:14
-# 总规则数: 228697 (黑: 224437, 白: 4260)
+﻿# 更新时间: 2026-07-29 14:23:48
+# 总规则数: 228712 (黑: 224452, 白: 4260)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -38665,6 +38665,7 @@ zzzyk.com###Tinfo
 ||bowlingwapp.cfd^
 ||bownow.jp^
 ||bowo666.com^
+||bowooaoydmbvo.site^
 ||bowpotchelae.qpon^
 ||bowseddecodes.cyou^
 ||bowshotnonego.shop^
@@ -43912,6 +43913,7 @@ zzzyk.com###Tinfo
 ||celoe.xyz^
 ||celticmurgeon.shop^
 ||celtra.com^
+||celusgmmpzlur.space^
 ||celxkpdir.com^
 ||cemaolocavmti.website^
 ||cematuran.com^
@@ -45280,6 +45282,7 @@ zzzyk.com###Tinfo
 ||cjxomyilmv.com^
 ||cjxx7p.shop^
 ||cjy200107152004.ltd^
+||cjybinbgnqpgm.space^
 ||ck-cdn.com^
 ||ck-ie.com^
 ||ck.ads.heytapmobi.com^
@@ -63105,6 +63108,7 @@ zzzyk.com###Tinfo
 ||dsfjcz.com^
 ||dsfkry.com^
 ||dsfksr.com^
+||dsfmzp.com^
 ||dsfnvh.com^
 ||dsfondues.cyou^
 ||dsfsfp.com^
@@ -67068,6 +67072,7 @@ zzzyk.com###Tinfo
 ||elonreptiloid.com^
 ||elonreptiloid.pw^
 ||elopatchwork.com^
+||elopedchapmanrebozos.qpon^
 ||eloq.fiducial.fr^
 ||eloqua-tracking.kaiserpermanente.org^
 ||eloqua-tracking.unity.com^
@@ -78626,6 +78631,7 @@ zzzyk.com###Tinfo
 ||gihnpvkizsenl.com^
 ||giiao.hangtietkiem.com^
 ||gijqmewim.com^
+||gikfrgynik.com^
 ||gikwhxotzqqzc.site^
 ||gilaa038.top^
 ||gilakigorse.cfd^
@@ -85149,6 +85155,7 @@ zzzyk.com###Tinfo
 ||gtopuzzex.com^
 ||gtosmdjgn.xyz^
 ||gtoyouin.biz^
+||gtp2hii7mtv4jk.cfd^
 ||gtpxgg.nacesty.cz^
 ||gtpxvpi.cn^
 ||gtqkag.madeleine-fashion.be^
@@ -91952,6 +91959,7 @@ zzzyk.com###Tinfo
 ||igjytl.unice.com^
 ||iglakgdhhmagf.online^
 ||iglam.wtfnotebooks.com^
+||iglhinccp.com^
 ||iglinptrmtzff.site^
 ||igllmu.chicorei.com^
 ||igloohq.com^
@@ -98229,6 +98237,7 @@ zzzyk.com###Tinfo
 ||jermr.com^
 ||jeront.xyz^
 ||jeroud.com^
+||jerriebieldssoyas.cyou^
 ||jerseydiploma.com^
 ||jert.154.com^
 ||jertburi.cfd^
@@ -133317,6 +133326,7 @@ zzzyk.com###Tinfo
 ||ojokavacpkcjv.space^
 ||ojonvpuqbtqul.site^
 ||ojooo.com^
+||ojpddjmkorixy.online^
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
 ||ojpvyv.corail.co^
@@ -150812,6 +150822,7 @@ zzzyk.com###Tinfo
 ||rolmjfexvtuxd.space^
 ||rolpenszimocca.com^
 ||roma.prashant.co^
+||romainlooed.cyou^
 ||romance-net.com^
 ||romancedaters.com^
 ||romancefever.com^
@@ -186034,6 +186045,7 @@ zzzyk.com###Tinfo
 ||svvbrkk.cn^
 ||svvev3.com^
 ||svvol.eastwood.com^
+||svwemtmuqszqk.space^
 ||svwo.cn^
 ||svwsvn.top^
 ||svxdlllvtirib.site^
@@ -194149,6 +194161,7 @@ zzzyk.com###Tinfo
 ||tquspo.com^
 ||tquzifwb.com^
 ||tqvacq.intrend.it^
+||tqvewpamfkxhu.website^
 ||tqvhbqgvfuq.com^
 ||tqvnfnotrhyfl.site^
 ||tqxpnv.bauhaus.info^
@@ -215474,6 +215487,7 @@ zzzyk.com###Tinfo
 ||x888577.com^
 ||x88s.pandasuite.io^
 ||x8ad.com^
+||x8ecpclkf3j8l2.rest^
 ||x8k5ug.jizhouco.com^
 ||x8kwcr3l.xyz^
 ||x8qeucbtjwh8l3875.cfd^
@@ -217645,6 +217659,7 @@ zzzyk.com###Tinfo
 ||xoimg.com^$domain=18board.com|18p2p.com
 ||xoinnwjmlrkcv.space^
 ||xoioaiiryhdti.space^
+||xoiuprsewuyst.site^
 ||xokcaxw.cn^
 ||xokxqfxasjuaw.space^
 ||xolebe.footway.se^
