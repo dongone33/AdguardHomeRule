@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-29 21:30:02
-# 白名单规则数: 4263
+﻿# 更新时间: 2026-07-29 23:34:48
+# 白名单规则数: 4306
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -155,6 +155,7 @@
 @@||*ad*.ksyungslb.com^
 @@||*akamaiedge.net*^
 @@||*akamaihd.net^
+@@||*apk.cosama.cn^
 @@||*apple.com*^
 @@||*cdn.onenote.net^
 @@||*epicgames*myqcloud.com*^
@@ -301,6 +302,7 @@
 @@||acs-m.daraz.com.bd^
 @@||acs-m.daraz.pk^
 @@||acs-m.koubei.com^
+@@||acs.m.goofish.com^
 @@||acs.m.taobao.com^
 @@||acs.youku.com^
 @@||acs4baichuan.m.taobao.com^
@@ -773,6 +775,7 @@
 @@||bluehost.com^
 @@||blueskyxn.com^
 @@||bmap6.cn^
+@@||bodian.kuwo.cn^
 @@||bonuscloud.io^
 @@||book.qidian.com^
 @@||bookcover.yuewen.com^
@@ -1353,6 +1356,7 @@
 @@||download3.epicgames.com^$important
 @@||download4.epicgames.com^$important
 @@||downloads.marketplace.jetbrains.com^
+@@||downmobile.kugou.com^
 @@||downpack.baidu.com^
 @@||downum.game.uc.cn^
 @@||downv6.qq.com^
@@ -1698,6 +1702,7 @@
 @@||h5.cc.163.com^
 @@||h5.dianping.com^
 @@||h5.hpplay.com.cn^
+@@||h5.kugou.com^
 @@||h5.m.goofish.com^
 @@||h5.m.taobao.com^
 @@||h5.mse.360.cn^
@@ -1708,7 +1713,9 @@
 @@||h5api.m.tmall.com^
 @@||h5fs.coloros.com^
 @@||h5offline.zhuanzhuan.com^
+@@||h5s.kuwo.cn^
 @@||h5static.cc.163.com^
+@@||h5static.kuwo.cn^
 @@||h5vv6.video.qq.com^
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
@@ -1878,6 +1885,7 @@
 @@||ime-store-cdn.gtimg.com^
 @@||imeclient.openspeech.cn^
 @@||img*.funshion.com^
+@@||img*.kuwo.cn^
 @@||img-bss.csdnimg.cn^
 @@||img-cf.xnxx-cdn.com^
 @@||img-home.csdnimg.cn^
@@ -1926,6 +1934,7 @@
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
 @@||imgcache.qq.com^
+@@||imgessl.kugou.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
 @@||imgx.mediav.com^
@@ -1977,6 +1986,7 @@
 @@||ipv6.ping0.cc^
 @@||ipw.cn^
 @@||ipxx.pro^
+@@||ir.tencentmusic.com^
 @@||is-hl.snssdk.com^
 @@||is.snssdk.com^
 @@||is1-ssl.mzstatic.com^
@@ -2027,6 +2037,7 @@
 @@||jmacs.cn-zhangjiakou.aliyuncs.com^
 @@||jnn-pa.googleapis.com^
 @@||jobs.bytedance.com^
+@@||join.tencentmusic.com^
 @@||jomodns.com^
 @@||joyk.com^$generichide
 @@||jp.pornhub.com^
@@ -2066,6 +2077,7 @@
 @@||kejilion.pro^$generichide
 @@||kemono.party^
 @@||kf-ui.cdn-go.cn^
+@@||kg.qq.com^
 @@||kissjav.com^$generichide
 @@||kjimg10.360buyimg.com^
 @@||kk665403.pixnet.net^$generichide
@@ -2078,7 +2090,10 @@
 @@||krebsonsecurity.com
 @@||ku.dk^
 @@||kubernetes.io^
+@@||kugou.com^
 @@||kunlunpi.com^
+@@||kuwo.cn^
+@@||kwimg*.kuwo.cn^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||l.qq.com^
@@ -2093,6 +2108,7 @@
 @@||laotiesao.vip^$generichide
 @@||laowang.vip^
 @@||laowangappb93ibiu.cihiu487giuew87lk.xyz^
+@@||laudio-cdn.tencentmusic.com^
 @@||launcher-public-service-prod06.ol.epicgames.com^$important
 @@||launcher-website-prod07.ol.epicgames.com^$important
 @@||launcher.store.epicgames.com^$important
@@ -2127,6 +2143,8 @@
 @@||lf-douyin-pc-web.douyinstatic.com^
 @@||lf-douyin-search-fe.bytetos.com^
 @@||lf-dy-sourcecdn-tos.bytegecko.com^
+@@||lf-luna-release.qishui.com^
+@@||lf-luna.qishui.com^
 @@||lf-normal-gr-sourcecdn.bytegecko.com^
 @@||lf-sourcecdn-tos.bytegecko.com^
 @@||lf-webcast-gr-sourcecdn.bytegecko.com^
@@ -2149,6 +2167,7 @@
 @@||lf6-cdn2-tos.bytegoofy.com^
 @@||lf6-imcloud-file-sign.bytetos.com^
 @@||lf6-mgsdk-sign.dailygn.com^
+@@||lf9-apk.ugapk.cn^
 @@||lf9-mgsdk-sign.dailygn.com^
 @@||lf9-open-ma-pkg-sign.bytemastatic.com^
 @@||liangcang-material.alicdn.com^
@@ -2211,6 +2230,7 @@
 @@||logentries.com^
 @@||login-sh.aki-game.com^
 @@||login-us.microsoftonline.com^$important
+@@||login-user.kugou.com^
 @@||login.gaijin.net^
 @@||login.live.com^
 @@||login.live.com^$important
@@ -2271,6 +2291,8 @@
 @@||m.jxdown.com^
 @@||m.ke.com^
 @@||m.kuaishou.com^
+@@||m.kugou.com^
+@@||m.kuwo.cn^
 @@||m.lianjia.com^
 @@||m.manhuabei.com^
 @@||m.meizu.com^
@@ -2303,6 +2325,7 @@
 @@||m15.360buyimg.com^
 @@||m2.da.mgtv.com^
 @@||m2.img.10010.com^
+@@||m3ws.kugou.com^
 @@||m5.amap.com^
 @@||m7.music.126.net^
 @@||m7.pzds.com^
@@ -2460,6 +2483,7 @@
 @@||mobile.ximalaya.com^
 @@||mobile.xunlei.com^
 @@||mobile.yangkeduo.com^
+@@||mobilebasedata.kuwo.cn^
 @@||mobilelog.kugou.com^
 @@||mobilist.kuwo.cn^
 @@||mobinovels.com^$generichide
@@ -2479,6 +2503,7 @@
 @@||mos.m.taobao.com^
 @@||moyens.net^$generichide
 @@||mp.163.com^
+@@||mp.tencentmusic.com^
 @@||mp.yidianzixun.com^
 @@||mparticle.uc.cn^
 @@||mpay-web.g.mkey.163.com^
@@ -2513,6 +2538,8 @@
 @@||mumu.163.com^
 @@||music.163.com^
 @@||music.apple.com^
+@@||music.douyin.com^
+@@||musician.kugou.com^
 @@||muzlan.top^$generichide
 @@||mv6.music.tc.qq.com^
 @@||mvcat.com^$generichide
@@ -2817,6 +2844,7 @@
 @@||p9.douyinpic.com^
 @@||pacaio.match.qq.com^
 @@||pack.google.com^$important
+@@||packagebssdlbig.tx.kugou.com^
 @@||pagead.l.doubleclick.net^
 @@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||pages.github.com^
@@ -2916,8 +2944,10 @@
 @@||pingtas.qq.com^
 @@||pitaya.bytedance.com^
 @@||pixel.prime.amazon.dev^
+@@||pixpin.cn^
 @@||pkg.biligame.com^
 @@||pkg.sinaimg.cn^
+@@||pkgdown.kuwo.cn^
 @@||pkstep.com^$generichide
 @@||pl-ali.youku.com^
 @@||pl.taptap.cn^
@@ -3286,6 +3316,7 @@
 @@||shouji.bmcx.com^
 @@||shouji.sogou.com^
 @@||shouji.sougou.com^
+@@||shoujipkgdown.kuwo.cn^
 @@||signup.live.com^$important
 @@||simg.sinajs.cn^
 @@||similarweb.com^
@@ -3694,6 +3725,7 @@
 @@||udpolimenew.baidu.com^
 @@||uee.me^
 @@||ugame.9game.cn^
+@@||ugapk.com^
 @@||ugurl.cn^
 @@||ui.ads.microsoft.com^
 @@||uiadmin.net^$generichide
@@ -3805,6 +3837,7 @@
 @@||vdownload-*.sb-cd.com^
 @@||vdownload.hembed.com^
 @@||vectorsdk.map.qq.com^
+@@||vehiclecdn.kuwo.cn^
 @@||venus.yhd.com^
 @@||verify.cmpassport.com^
 @@||verify.snssdk.com^
@@ -3830,6 +3863,7 @@
 @@||view.inews.qq.com^
 @@||vip-pro.m.yhd.com^
 @@||vip.iqiyi.com^
+@@||vip.kugou.com^
 @@||vip.xunlei.com^
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
@@ -3991,6 +4025,7 @@
 @@||www.cloudflare.com^
 @@||www.cloudns.net^
 @@||www.cmpassport.com^
+@@||www.cosama.cn^
 @@||www.crossoverchina.com^
 @@||www.cup.com.cn^
 @@||www.curseforge.com^
@@ -4058,6 +4093,8 @@
 @@||www.kdocs.cn^
 @@||www.ke.com^
 @@||www.kuaishou.com^
+@@||www.kugou.com^
+@@||www.kuwo.cn^
 @@||www.lamborghini.com^
 @@||www.lianjia.com^
 @@||www.listary.com^
@@ -4082,6 +4119,7 @@
 @@||www.mousouzoku-av.com^
 @@||www.msftconnecttest.com^
 @@||www.msn.com^
+@@||www.mydockfinder.com^
 @@||www.myquark.cn^$important
 @@||www.nodeseek.com^
 @@||www.novelfm.com^
@@ -4109,6 +4147,7 @@
 @@||www.pzds.com^
 @@||www.qdmm.com^
 @@||www.qidian.com^
+@@||www.qishui.com^
 @@||www.recaptcha.net^
 @@||www.shidianguji.com^
 @@||www.siyuan-note.club^
@@ -4122,6 +4161,7 @@
 @@||www.taptap.io^
 @@||www.tencent.com^
 @@||www.tencent.net.cn^
+@@||www.tencentmusic.com^
 @@||www.thinkdifferent.us^
 @@||www.tiantiantiaosheng.com^
 @@||www.toutiao.com^
@@ -4171,6 +4211,7 @@
 @@||wxqcloud.qq.com.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
+@@||x.kuwo.cn^
 @@||x0.ifengimg.com^
 @@||x19.update.netease.com^
 @@||x2.ifengimg.com^
@@ -4252,10 +4293,12 @@
 @@||zhebk.cn^$important
 @@||zhidao.baidu.com^
 @@||zhipin.com^
+@@||zhuanjistatic.kugou.com^
 @@||zhuanlan.zhihu.com^
 @@||zhuanzhuan.com^
 @@||zhuti.xiaomi.com^
 @@||zhwnlapi.etouch.cn^
+@@||zimg.kuwo.cn^
 @@||zixu.site^$important
 @@||ziyuan.guwendao.net^
 @@||zkres.myzaker.com^
