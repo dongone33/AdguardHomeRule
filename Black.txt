@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-30 03:51:31
-# 总规则数: 229065 (黑: 224759, 白: 4306)
+﻿# 更新时间: 2026-07-30 04:43:10
+# 总规则数: 229082 (黑: 224776, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -40995,6 +40995,7 @@ zzzyk.com###Tinfo
 ||c.tobidad.cn^
 ||c.topya.com^
 ||c.tpgjb.top^
+||c.trkn.it^
 ||c.tvsou.com^
 ||c.uaa.iqiyi.com^
 ||c.uniten.io^
@@ -51201,6 +51202,7 @@ zzzyk.com###Tinfo
 ||cunle.calliesbiscuits.com^
 ||cunningrespectable.com^
 ||cunningthong.com^
+||cunppiapja.in^
 ||cunzaredoing.qpon^
 ||cuocthianhmuahebeyeu.weebly.com^
 ||cuocthigionghatvietnhi2021.weebly.com^
@@ -65694,6 +65696,7 @@ zzzyk.com###Tinfo
 ||ebh.eggbackhome.com^
 ||ebh982icrrnxrjj3l.cfd^
 ||ebhjhw.bonprix.es^
+||ebipqffahuiyc.online^
 ||ebis-cname.mirai-japan.co.jp^
 ||ebis-tracking.aoki-tsuyoshi.com^
 ||ebis-tracking.hirakata-skin-clinic.com^
@@ -68667,6 +68670,7 @@ zzzyk.com###Tinfo
 ||eozjqg.com^
 ||eoztlcmvqodmx.online^
 ||eozwcp.jetex.com^
+||ep.jamx.ai^
 ||ep.regis.edu^
 ||ep.umobile.pl^
 ||ep1.adtrafficquality.google^
@@ -74019,6 +74023,7 @@ zzzyk.com###Tinfo
 ||flpwto.lohaco.jp^
 ||flqa83yic.com^
 ||flqjc.wearmntd.ca^
+||flrcmerpqyzct.space^
 ||flrdra.com^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
@@ -75688,6 +75693,7 @@ zzzyk.com###Tinfo
 ||ftp.shuzilm.cn^
 ||ftpcontent.worldnow.com^
 ||ftpjust.sdf3rt243.cc^
+||ftpkovfdqwopv.space^
 ||ftpshop.com.vn^
 ||ftpshopvn.com^
 ||ftqmv.midtownumbrellas.com^
@@ -76361,6 +76367,7 @@ zzzyk.com###Tinfo
 ||fzqfoil.cn^
 ||fzqjigcdzyzap.online^
 ||fzqjvw.oakandluna.com^
+||fzrcljwjikklq.online^
 ||fzruzulad.com^
 ||fzsibfirjxbto.website^
 ||fztattoo.cn^
@@ -89304,6 +89311,7 @@ zzzyk.com###Tinfo
 ||honestywildlife.com^
 ||honey.briefly.ru^
 ||honeybulb.com^
+||honeybutterbliss.com^
 ||honeycombastrayabound.com^
 ||honeymoondecidedlymanual.com^
 ||honeymoongaudyhereditary.com^
@@ -92440,6 +92448,7 @@ zzzyk.com###Tinfo
 ||iklanumum.com^
 ||iklda.cn^
 ||iklparx8i.com^
+||ikmmigvehmod.com^
 ||ikndbndvadnuh.website^
 ||ikneio.aquantindia.com^
 ||iknight.xyz^
@@ -97948,6 +97957,7 @@ zzzyk.com###Tinfo
 ||jatnifenian.qpon^
 ||jatpmv.megacolchoes.com.br^
 ||jau.xdplt.com^
+||jaukedhowfs.qpon^
 ||jaunty-leadership.com^
 ||jauntyit.com^
 ||jauok.com^
@@ -103278,6 +103288,7 @@ zzzyk.com###Tinfo
 ||kologyrtyndwean.info^
 ||kolsh.cn^
 ||komarchwapato.qpon^
+||kombuovampocrazily.cfd^
 ||komctirkbibzd.online^
 ||komi168.com^
 ||komoona.com^
@@ -103435,6 +103446,7 @@ zzzyk.com###Tinfo
 ||kpr2exp21.com^
 ||kprbexp21.com^
 ||kprfqilcurbct.online^
+||kprgjupuyvwqb.site^
 ||kprwyomtkenby.space^
 ||kps230^
 ||kpsabnm.xyz^
@@ -125915,6 +125927,7 @@ zzzyk.com###Tinfo
 ||morpiondiomate.cfd^
 ||morsn.repwearfitness.com^
 ||mortalsringman.qpon^
+||mortarscrista.cfd^
 ||mortgage.equifax.com^
 ||mortgage.inform.equifax.com^
 ||mortgage.leads360.com^
@@ -128229,6 +128242,7 @@ zzzyk.com###Tinfo
 ||naiadexports.com^
 ||naiep.xyz^
 ||nailadversary.com^
+||nailrodchoughs.qpon^
 ||nailsome.marketing-tech.io^
 ||nainagukpiwkm.site^
 ||nainaimi.top^
@@ -135003,6 +135017,7 @@ zzzyk.com###Tinfo
 ||oqr4.destinia.in^
 ||oqrdryfmeo.in^
 ||oqrwpru.cn^
+||oqsrwbyb.com^
 ||oqtuzo.b2bpartner.cz^
 ||oqtxcfuumplee.website^
 ||oquassaclaroesjaegars.cfd^
@@ -145241,6 +145256,7 @@ zzzyk.com###Tinfo
 ||qgdgj.bugmd.com^
 ||qgdvyvd.cn^
 ||qgerr.com^
+||qgerxdslrxjho.site^
 ||qgfdmuyzgrosw.online^
 ||qgfdqjf.cn^
 ||qgftba.jetmar.com.uy^
@@ -211868,6 +211884,7 @@ zzzyk.com###Tinfo
 ||weepy-fail.pro^
 ||weepylack.com^
 ||weetext.pro^
+||weevilsmoggyshoguns.cyou^
 ||weewci.icu^
 ||weezoptez.net^
 ||wef588by.live^
