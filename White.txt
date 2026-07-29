@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-29 08:16:22
-# 白名单规则数: 4263
+﻿# 更新时间: 2026-07-29 11:48:14
+# 白名单规则数: 4260
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -692,7 +692,6 @@
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
 @@||auth.zijieapi.com^
-@@||auto-api.yelp.com
 @@||autocomplete.clearbit.com^
 @@||autodiscover.*.onmicrosoft.com
 @@||autologon.microsoftazuread-sso.com^$important
@@ -1942,7 +1941,6 @@
 @@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||init.itunes.apple.com^
-@@||injections.adguard.org^
 @@||inoreader.com^$genericblock,generichide
 @@||inporn.com^
 @@||input.shouji.sogou.com^
@@ -2885,7 +2883,6 @@
 @@||pic*.zhimg.com^
 @@||pic.baike.soso.com^
 @@||pic.iask.com.cn^
-@@||pic.imgdb.cn
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
