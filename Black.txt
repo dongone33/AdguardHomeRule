@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-31 01:07:03
-# 总规则数: 229290 (黑: 224985, 白: 4305)
+﻿# 更新时间: 2026-07-31 02:45:40
+# 总规则数: 229316 (黑: 225011, 白: 4305)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -21548,6 +21548,7 @@ zzzyk.com###Tinfo
 ||ads-lite2.net^
 ||ads-log.huolala.cn^
 ||ads-lot.ru^
+||ads-marketing-vivofs.vivo.com.cn
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-mas-us.vivobrowser.com^
 ||ads-mas.vivobrowser.com^
@@ -25543,6 +25544,7 @@ zzzyk.com###Tinfo
 ||allocatedense.com^
 ||allocationcaller.com^
 ||allodiapreburn.com^
+||allodiawangler.cfd^
 ||allodyqueys.qpon^
 ||alloha.tv^
 ||alloopunger.cfd^
@@ -34387,6 +34389,7 @@ zzzyk.com###Tinfo
 ||baffae.alcott.eu^
 ||baffiesriccia.cyou^
 ||baffingtamises.cyou^
+||baffledoko.shop^
 ||bafircvoj.com^
 ||bafpfsxcio.com^
 ||bafvhdnsctdd.com^
@@ -35862,6 +35865,7 @@ zzzyk.com###Tinfo
 ||bebangcaromel.com^
 ||bebasads.com^
 ||bebautvdrradc.world^
+||bebayahir.shop^
 ||bebaydeglory.cyou^
 ||bebelait.com^
 ||bebeuwaqgtukc.site^
@@ -38742,6 +38746,7 @@ zzzyk.com###Tinfo
 ||bourdmoderne.cyou^
 ||bourlawaztecan.shop^
 ||bournedisced.cyou^
+||bournesgangsa.qpon^
 ||bourrepardale.com^
 ||boustahe.com^
 ||boutellkaryon.cfd^
@@ -41591,6 +41596,7 @@ zzzyk.com###Tinfo
 ||calm-hell.pro^
 ||calmbytedishwater.com^
 ||calmcactus.com^
+||calmestbowery.qpon^
 ||calmierarsinolinaloe.qpon^
 ||calmlygelatinecandle.com^
 ||calmstudent.com^
@@ -51293,6 +51299,7 @@ zzzyk.com###Tinfo
 ||curemedia.se^
 ||curessuccub.cfd^
 ||curiaradiazole.cfd^
+||curiaraewery.cfd^
 ||curiarawolfkin.com^
 ||curinbitters.cyou^
 ||curiosity-seven.vercel.app^
@@ -62518,6 +62525,7 @@ zzzyk.com###Tinfo
 ||dove.hoku.nz^
 ||dovecotplough.cfd^
 ||dovecyton.com^
+||dowageenjaillasers.cyou^
 ||dowarmhugo.com^
 ||dowdilythewierparures.qpon^
 ||dowerycleared.com^
@@ -77375,6 +77383,7 @@ zzzyk.com###Tinfo
 ||gbdifgyealbpd.site^
 ||gbdke.schwankgrills.com^
 ||gbdrn.mr-fothergills.com^
+||gbeczyasqgajm.space^
 ||gbede.com^
 ||gbedxtcoyviwt.space^
 ||gbf77po03m.com^
@@ -91112,6 +91121,7 @@ zzzyk.com###Tinfo
 ||hzbrcajp.cn^
 ||hzbvu.fewmoda.com^
 ||hzbxm.com^
+||hzbyjjkulfgzs.site^
 ||hzcy.ltd^
 ||hzcyhe.alvadi.ee^
 ||hzdh1114.izeokt.cn^
@@ -98945,6 +98955,7 @@ zzzyk.com###Tinfo
 ||jilks.bravelittleones.com^
 ||jill.fc.yahoo.com^
 ||jillsclickcorner.com^
+||jillspusley.shop^
 ||jiltervolow.shop^
 ||jim.dtyd.com.cn^
 ||jimbm.charlestyrwhitt.com^
@@ -102101,6 +102112,7 @@ zzzyk.com###Tinfo
 ||kermit.macnn.com^
 ||kernelbudstwig.com^
 ||kernellife.com^
+||kernelreelers.shop^
 ||kernelstatic.vivo.com.cn^
 ||kernenergie.efscle.com^
 ||kernespalatalthigger.cfd^
@@ -128664,6 +128676,7 @@ zzzyk.com###Tinfo
 ||nasalfeudalanxious.com^
 ||nasbhavuovwzi.space^
 ||nascanascaredgoodbys.cfd^
+||nashimcachexydries.cyou^
 ||nashlin.top^
 ||nasi.etherscan.com^
 ||nasikfvzxdpda.website^
@@ -130263,6 +130276,7 @@ zzzyk.com###Tinfo
 ||niaumxovmqpur.online^
 ||niavz.monstersteamer.net^
 ||nibbanadesmid.qpon^
+||nibbedizing.qpon^
 ||niblewren.co^
 ||nibsomeemendedconant.cyou^
 ||nicaifu.com^
@@ -135104,6 +135118,7 @@ zzzyk.com###Tinfo
 ||oqawvx.bodybogam.com^
 ||oqbbkv.promosejours.com^
 ||oqbimz.aviasales.ru^
+||oqbotdowrcr.in^
 ||oqbpqf.syretski-sady.com.ua^
 ||oqcw1f9yw.com^
 ||oqdbkysendtnp.online^
@@ -136062,6 +136077,7 @@ zzzyk.com###Tinfo
 ||ovtflklfxbrgo.today^
 ||ovtsn.snagtights.us^
 ||ovtzuuepngygl.icu^
+||ovuleslinnets.shop^
 ||ovulumsoutersberiber.cfd^
 ||ovvghgmsdefhf.online^
 ||ovvpwkalipjts.online^
@@ -136106,6 +136122,7 @@ zzzyk.com###Tinfo
 ||owiurjngsd.com^
 ||owixyzasgmdgl.website^
 ||owjeofsebxvrd.space^
+||owkdelaw.cfd^
 ||owknilagsjupz.space^
 ||owkqerfjhnsnu.space^
 ||owl.gregwolanski.com^
@@ -136467,6 +136484,7 @@ zzzyk.com###Tinfo
 ||p.kugou.com^
 ||p.l.qq.com^
 ||p.l.youku.com^
+||p.lbserver.xyz^
 ||p.logbox.io^
 ||p.lu.sogou.com^
 ||p.m5bn.com^
@@ -139069,6 +139087,7 @@ zzzyk.com###Tinfo
 ||pesterpolling.cyou^
 ||pestfulwoks.qpon^
 ||pestifymilanshiatsu.cfd^
+||pestifyrosalia.qpon^
 ||pestilentberrysincere.com^
 ||pestilenttidefilth.org^
 ||pestilenttransaction.com^
@@ -143364,6 +143383,7 @@ zzzyk.com###Tinfo
 ||provincegreensfur.com^
 ||provingmagic.com^
 ||provingrubin.qpon^
+||provisionamendsale.com^
 ||provisionskiss.com^
 ||provize.3dfitness.cz^
 ||provize.brilas.cz^
@@ -144530,6 +144550,7 @@ zzzyk.com###Tinfo
 ||pwk73hidf2.com^
 ||pwkrakanmet.met.gov.my^
 ||pwl58xbkr7ninig9cnm.rest^
+||pwlctxufdkydx.site^
 ||pwmctl.com^
 ||pwmzks.prelude.kr^
 ||pwnyvbfsuetef.site^
@@ -165548,9 +165569,11 @@ zzzyk.com###Tinfo
 ||slaggerpiete.qpon^
 ||slahpxqb6wto.com^
 ||slaithamitalgodpapa.qpon^
+||slakedartouhaleday.cyou^
 ||slamactress.com^
 ||slanderchristian.com^
 ||slanderpeaceful.com^
+||slangyshindy.cyou^
 ||slanttutorratero.cyou^
 ||slapbutler.com^
 ||slapswingthrough.com^
@@ -171431,6 +171454,7 @@ zzzyk.com###Tinfo
 ||specialscissors.com^
 ||specialstat.com^
 ||specialty75.com^
+||specialtypin.com^
 ||specificallycries.com^
 ||specificallyfollowsbraid.com^
 ||specificallyglimmerdispose.com^
@@ -171468,6 +171492,7 @@ zzzyk.com###Tinfo
 ||speedycomediandecember.com^
 ||speedyfox.io^
 ||speedyrhino.co^
+||speedysteaks.com^
 ||speee-ad.akamaized.net^
 ||speee-ad.jp^
 ||speetals.com^
@@ -204154,6 +204179,7 @@ zzzyk.com###Tinfo
 ||upstackdata.io^
 ||upstackified.com^
 ||upstampmoxas.com^
+||upstandcitua.cyou^
 ||upstandingstoriessuited.com^
 ||upstats.ru^
 ||upstirslowmosttrabant.cfd^
