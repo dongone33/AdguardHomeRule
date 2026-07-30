@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-07-30 15:08:32
+﻿# 更新时间: 2026-07-30 17:42:27
 # 白名单规则数: 4306
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
@@ -20,7 +20,6 @@
 @@_cpc_cpm_$domain=saraba1st.com
 @@_prebid.js$domain=now.com
 @@auni.telecome.cn^
-@@down.360safe.com^
 @@googlesyndication.com$domain=bilinovel.com
 @@||"*.streaming.mediaservices.windows.net^
 @@||"mlccdn.blob.core.windows.net^
@@ -2831,6 +2830,7 @@
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
 @@||p9-heycan-hgt-sign.byteimg.com^
