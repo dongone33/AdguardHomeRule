@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-07-30 09:08:22
-# 总规则数: 229135 (黑: 224829, 白: 4306)
+﻿# 更新时间: 2026-07-30 12:21:21
+# 总规则数: 229162 (黑: 224856, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9655,6 +9655,7 @@ zzzyk.com###Tinfo
 ||2e68bd0a8b.com^
 ||2e718yf5jypb.test.digitalsurge.io^
 ||2e7zgbpky6h.chinese.freecodecamp.org^
+||2e903a817d.com^
 ||2e95f4db.pgawz.cc^
 ||2e95f4db.pgsdf.cc^
 ||2e95f4db.skr004.cc^
@@ -26065,6 +26066,7 @@ zzzyk.com###Tinfo
 ||amtropiusr.com^
 ||amtvgfz.veneera.de^
 ||amuckafternoon.com^
+||amueqxezmlmht.site^
 ||amuletrisquee.cfd^
 ||amuletshaped.com^
 ||amuletsourcemadden.com^
@@ -34662,6 +34664,7 @@ zzzyk.com###Tinfo
 ||bandicoot.mohit.dev^
 ||bandicoot.sigerr.org^
 ||bandidoaluco.cfd^
+||banditunearly.cfd^
 ||bandoraclink.com^
 ||bandswell.com^
 ||banefulpunkas.com^
@@ -38738,6 +38741,7 @@ zzzyk.com###Tinfo
 ||bovidbesee.cfd^
 ||bovinetimingunsaddle.com^
 ||bovmkbuiaddbb.website^
+||bovverironice.qpon^
 ||bowan.com^
 ||bowed-tackle.com^
 ||bowedcounty.com^
@@ -44990,6 +44994,7 @@ zzzyk.com###Tinfo
 ||choseing.com^
 ||chosesmahoes.cfd^
 ||chosesunslept.cyou^
+||chouanboniata.cfd^
 ||choujiang1.top^
 ||choujimai.top^
 ||choupsee.com^
@@ -47954,6 +47959,7 @@ zzzyk.com###Tinfo
 ||community.noozhawk.com^
 ||community.richlandsource.com^
 ||community.umeng.com^
+||comoxriggot.cyou^
 ||comp.360os.com^
 ||companiondirectly.com^
 ||company-target.com^
@@ -50202,6 +50208,7 @@ zzzyk.com###Tinfo
 ||crcao.newenglishteas.com^
 ||crcdn01.adnxs.com^
 ||crcdn09.adnxs.com^
+||crcnavy.shop^
 ||crcok.cn^
 ||crdefault.link^
 ||crdefault1.com^
@@ -59452,6 +59459,7 @@ zzzyk.com###Tinfo
 ||dens1raec.com^
 ||denseceleryliver.com^
 ||densetechier.qpon^
+||dentaryvacante.cfd^
 ||denteranim.cyou^
 ||dentileazurite.com^
 ||dentsuchina.cn^
@@ -63919,6 +63927,7 @@ zzzyk.com###Tinfo
 ||dupingnonsuit.cyou^
 ||dupinpu.com^
 ||dupionawald.cfd^
+||duplexsisopolytheins.cfd^
 ||dupperknolly.shop^
 ||dupqiccmjruhb.online^
 ||dupwslkemelxq.space^
@@ -75393,6 +75402,7 @@ zzzyk.com###Tinfo
 ||friendshipmale.com^
 ||frierscloofbundle.cyou^
 ||friezesgaliumtanaist.qpon^
+||friezesoneiric.cyou^
 ||frightened-half.com^
 ||frightenedcraft.com^
 ||frighteningrelative.com^
@@ -76851,6 +76861,7 @@ zzzyk.com###Tinfo
 ||galeodvern.qpon^
 ||galeri3.arkitera.com^
 ||galerisenimutiara.com^
+||galettemutase.qpon^
 ||galettevexedinguen.cfd^
 ||galgalfoiling.cyou^
 ||galikbrekkygreeter.cyou^
@@ -77247,6 +77258,7 @@ zzzyk.com###Tinfo
 ||gauqt.tryperiod.com^
 ||gaurianwingtip.cyou^
 ||gauricbehale.qpon^
+||gausterudo.cfd^
 ||gaut.8890.com^
 ||gaut.now-dns.net^
 ||gauvaiho.net^
@@ -88361,6 +88373,7 @@ zzzyk.com###Tinfo
 ||hinfogzi.sinful.no^
 ||hinfogzi.sinful.se^
 ||hingidnaa.com^
+||hinneyupleg.cyou^
 ||hintbreakfastrather.com^
 ||hintfacto.shop^
 ||hinwwezapkyiu.website^
@@ -101703,6 +101716,7 @@ zzzyk.com###Tinfo
 ||kbogmhqtrpiwh.site^
 ||kbopnpiyhomtd.space^
 ||kborst.modivo.sk^
+||kbourukynudyy.site^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||kbpdm.manscaped.com^
 ||kbpdm.manscaped.io^
@@ -102485,6 +102499,7 @@ zzzyk.com###Tinfo
 ||kiiqnnx.cn^
 ||kiitsl.icu^
 ||kijbwvznaofju.website^
+||kijvnpsbudftf.space^
 ||kikarsundown.com^
 ||kiki.rireetchansons.fr^
 ||kiki18.com^
@@ -121499,6 +121514,7 @@ zzzyk.com###Tinfo
 ||mermaidconclusionwaited.com^
 ||mermenposableglasser.qpon^
 ||mernrza.com^
+||meropicdinkly.cyou^
 ||meropiclisters.cfd^
 ||meropicnoblykoreish.cyou^
 ||merpm.sokolovelaw.com^
@@ -136165,6 +136181,7 @@ zzzyk.com###Tinfo
 ||oy31227omkvlegc3vyr.cfd^
 ||oyaswl.manor.ch^
 ||oyazrojxnntsc.site^
+||oyb2ev9lqn.com^
 ||oyb3.xyz^
 ||oycslia.xyz^
 ||oydbbnhujnfke.online^
@@ -140006,6 +140023,7 @@ zzzyk.com###Tinfo
 ||pivciahcdzvlm.website^
 ||pivimc.unitrailer.pl^
 ||pivotrunner.com^
+||pivvywohphilu.space^
 ||piwik.*.vn^
 ||piwik.com-online.com^
 ||piwik.eib.org^
@@ -141289,6 +141307,7 @@ zzzyk.com###Tinfo
 ||pohpll.xyz^
 ||poi.10jqka.com.cn^
 ||poidampish.com^
+||poignetsatem.cyou^
 ||poijugh.top^
 ||pointaceric.cyou^
 ||pointclicktrack.com^
@@ -150464,6 +150483,7 @@ zzzyk.com###Tinfo
 ||ringatumalheur.cyou^
 ||ringdisgustpostman.com^
 ||ringeddrama.com^
+||ringeyegair.qpon^
 ||ringeyetapa.cyou^
 ||ringier-advertising.ch^
 ||ringplant.com^
@@ -152690,6 +152710,7 @@ zzzyk.com###Tinfo
 ||rvhzjg.desivero.com^
 ||rvitam.xenos.nl^
 ||rviunh.tosowoong.com^
+||rviyjnarhhdeb.site^
 ||rvkahxxouzjhl.website^
 ||rvkee.sigmabeauty.com^
 ||rvkhazel.com^
@@ -170449,6 +170470,7 @@ zzzyk.com###Tinfo
 ||somewhatsunduke.com^
 ||somewhatwideslimy.com^
 ||somfeubckguwd.site^
+||sommatwie.cfd^
 ||somn.costumesupercenter.com^
 ||somn.hiltongrandvacations.com^
 ||somn.sonypictures.com^
@@ -185439,6 +185461,7 @@ zzzyk.com###Tinfo
 ||suachuadienmayxanh.com.vn^
 ||suamhsrqfuqle.website^
 ||suangtianw.com^
+||suantlysnowk.cfd^
 ||suao-defender.pro^
 ||suaswhvq.com^
 ||suativinguyenkim.com^
@@ -189305,6 +189328,7 @@ zzzyk.com###Tinfo
 ||tailfoolproof.com^
 ||tailingsoorah.cfd^
 ||tailocmomo.com^
+||tailpinbauk.cfd^
 ||tailscale.io^
 ||tailstories.biz^
 ||tailsweep.com^
@@ -198670,6 +198694,7 @@ zzzyk.com###Tinfo
 ||trafficsyncpro.com^
 ||traffictrack.de^
 ||trafficundercontrol.com^
+||traffinity.pro^
 ||traffly.net^
 ||traffmgnt.name^
 ||traffmovie.com^
@@ -209248,6 +209273,7 @@ zzzyk.com###Tinfo
 ||vrwzecqcyjfmy.site^
 ||vrxdnowkpaelgn.com^
 ||vry9.destinia.com^
+||vryefgvvkninn.online^
 ||vrzmfy.fool.com^
 ||vrzsw.com^
 ||vrzuhj.icu^
@@ -209268,6 +209294,7 @@ zzzyk.com###Tinfo
 ||vs8.gzct.u3.ucweb.com^
 ||vs8.gzcu.u3.ucweb.com^
 ||vs9158.com^
+||vsaooncsxtrlp.online^
 ||vsavbpsnxdrgt.online^
 ||vsbbcbxmceyeoc.com^
 ||vsbdvf.icu^
