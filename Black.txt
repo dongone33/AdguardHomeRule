@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-01 20:14:12
-# 总规则数: 229762 (黑: 225455, 白: 4307)
+﻿# 更新时间: 2026-08-01 22:04:01
+# 总规则数: 229777 (黑: 225470, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -25996,6 +25996,7 @@ zzzyk.com###Tinfo
 ||aminks.underarmour.com.tr^
 ||aminopay.net^
 ||amiok.org^
+||amitaratelsdivvied.cyou^
 ||amixiamediatesparage.cyou^
 ||amjs.hccoeutg.com^
 ||amjs.xylhwdu.com^
@@ -38577,6 +38578,7 @@ zzzyk.com###Tinfo
 ||boobbounds.com^
 ||boobzi.com^
 ||boodhseatersspecks.cyou^
+||boodkfcdgaaiy.website^
 ||boodper.com^
 ||boodsprank.cfd^
 ||booezozlvdg.com^
@@ -40684,6 +40686,7 @@ zzzyk.com###Tinfo
 ||by23372.com.adakamai.com^
 ||by23372.com^
 ||by2lc7429r.com^
+||by2oqlvofw3iuceu.rest^
 ||by33325.vip^
 ||by6pw.cc^
 ||by8428.com^
@@ -51895,6 +51898,7 @@ zzzyk.com###Tinfo
 ||cydonialah.qpon^
 ||cydontopply.shop^
 ||cyeabs.luxyhair.com^
+||cyecmyrbfvvcy.website^
 ||cyeitxjzgsmef.online^
 ||cyek128.top^
 ||cyezszhm.pammys.com^
@@ -66683,6 +66687,7 @@ zzzyk.com###Tinfo
 ||eevfstl1n.com^
 ||eevhqgeudnqeg.space^
 ||eevifrenxkyui.website^
+||eevzcz43grf22c7eko.cfd^
 ||eewdrt.fashiontofigure.com^
 ||eexdpbhuaohsx.online^
 ||eexlgyn.cn^
@@ -68938,6 +68943,7 @@ zzzyk.com###Tinfo
 ||eplixxwmbkoqp.space^
 ||eplkalblt.com^
 ||eplrhascktu.com^
+||eplukorxrmfvy.site^
 ||eplwgq.cn^
 ||eplwyo.vip^
 ||epm.mailperformance.com^
@@ -75882,6 +75888,7 @@ zzzyk.com###Tinfo
 ||ftgba.etrendygo.com^
 ||ftgqp.mybeautyexchange.com^
 ||ftgsxcponsrcc.site^
+||ftgxpnpzdcuvi.website^
 ||fthcz.com^
 ||ftheusysianeduk.org^
 ||fthqzxq.cn^
@@ -77971,6 +77978,7 @@ zzzyk.com###Tinfo
 ||genesismedia.com^
 ||genesjarveys.shop^
 ||geneticallydetection.com^
+||geneticallypineredden.com^
 ||geneticnormalthou.com^
 ||genettafifties.qpon^
 ||genfar.club^
@@ -90265,6 +90273,7 @@ zzzyk.com###Tinfo
 ||hsqtcuxfrglgq.site^
 ||hsrasysmobara.space^
 ||hsrdkt.com^
+||hsrffnltjlzus.website^
 ||hsrgnac.cn^
 ||hsrkdkrxjtaeq.website^
 ||hssapp.shop^
@@ -90391,6 +90400,7 @@ zzzyk.com###Tinfo
 ||htnr3qm.cn^
 ||htnykujbhbmeu.site^
 ||hton.ren^
+||htozqutwbhxkq.website^
 ||htplayground.com^
 ||htpwoc488m.xyz^
 ||htqaumcmsqrtl.com^
@@ -103508,6 +103518,7 @@ zzzyk.com###Tinfo
 ||knutenegros.pro^
 ||knv.konovo.rs^
 ||knvyzx.h201shift.com^
+||knwfgadwqvenk.com^
 ||knwjmjujhadoo.site^
 ||knxcyvvibuvde.website^
 ||knxnrqidbmlen.site^
@@ -114751,6 +114762,7 @@ zzzyk.com###Tinfo
 ||lowtrainer.com^
 ||lowvolatilitysolutions.com^
 ||loxantrums.cyou^
+||loxicsprungdashpot.cyou^
 ||loxitdat.com^
 ||loxodo-analytics.ext.nile.works^
 ||loxodo-ct.ext.nile.works^
@@ -138368,6 +138380,7 @@ zzzyk.com###Tinfo
 ||partypoker.com^
 ||partyroll.xyz^
 ||parves.doctorshopbd.com^
+||parviscostate.qpon^
 ||parvulephrenol.qpon^
 ||parynical.com^
 ||parzoom.com^
@@ -145811,6 +145824,7 @@ zzzyk.com###Tinfo
 ||qhgbxmuytmnpb.website^
 ||qhherqral.com^
 ||qhhse.themillionroses.com^
+||qhiajzlpo.in^
 ||qhicumg.cn^
 ||qhipfvjtfclea.space^
 ||qhiqk.eshopygoexpress.ro^
@@ -221683,6 +221697,7 @@ zzzyk.com###Tinfo
 ||yr.i.lencr.org^
 ||yr13.yl.ag^
 ||yr2spd4ucy.com^
+||yr7unl1qs.com^
 ||yraexzjnxasnz.site^
 ||yrba.011.com^
 ||yrbfol5.cn^
