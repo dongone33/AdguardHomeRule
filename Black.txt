@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-02 01:30:48
-# 总规则数: 229802 (黑: 225496, 白: 4306)
+﻿# 更新时间: 2026-08-02 02:35:18
+# 总规则数: 229829 (黑: 225523, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -39501,6 +39501,7 @@ zzzyk.com###Tinfo
 ||brocardnizey.cfd^
 ||brochanloomer.cfd^
 ||brochfanons.com^
+||brochopalling.cfd^
 ||brocode1s.com^
 ||brocode3s.com^
 ||brodmn.com^
@@ -41649,6 +41650,7 @@ zzzyk.com###Tinfo
 ||calopenupdate.comm.miui.com^
 ||calpackcipherscubic.cyou^
 ||calpactow.qpon^
+||calpsalminenunting.qpon^
 ||calrlpvdqocgb.website^
 ||caltat.com^
 ||calumnypaharia.qpon^
@@ -45729,6 +45731,7 @@ zzzyk.com###Tinfo
 ||clee8a.com^
 ||cleen.ru^
 ||clefspolarisxylem.cyou^
+||cleftasperly.cfd^
 ||cleftstay.qpon^
 ||clemmedaztecs.cfd^
 ||clenchedquarterbackluxuriant.com^
@@ -47328,6 +47331,7 @@ zzzyk.com###Tinfo
 ||coder-bts.site^
 ||coderformylife.info^
 ||coderjim.ltd^
+||coderschemickvitrina.cyou^
 ||codersswarmer.cyou^
 ||codes.royalad.pl^
 ||codesoftchina.com^
@@ -50483,6 +50487,7 @@ zzzyk.com###Tinfo
 ||cringezonearistocracy.com^
 ||crinitewiggish.cyou^
 ||crinukpd.com^
+||cripestribune.qpon^
 ||crippletouret.com^
 ||crirzaitai.com^
 ||crisisinanehalted.com^
@@ -59932,6 +59937,7 @@ zzzyk.com###Tinfo
 ||devoteegibberishsinister.com^
 ||devoterhillo.qpon^
 ||devotionalclicks.amazingfacts.org^
+||devotoeloigns.qpon^
 ||devoursproheim.shop^
 ||devphp.org.ua^
 ||devpz.cn^
@@ -68788,6 +68794,7 @@ zzzyk.com###Tinfo
 ||eoidr.cn^
 ||eoievavdtucqs.online^
 ||eoiqpm.gloria-jeans.ru^
+||eoithspschent.qpon^
 ||eojfxignjyzev.website^
 ||eojhs.llmedico.com^
 ||eokbuxljvlfwm.space^
@@ -69433,6 +69440,7 @@ zzzyk.com###Tinfo
 ||eswnaoudswvln.site^
 ||eswpfkuwyovtm.space^
 ||eswpwi.xlmoto.pl^
+||esxgfcmaucdux.website^
 ||esxxcuyrkvnjj.site^
 ||esydixdtagncd.online^
 ||esyeqegjjxuwr.website^
@@ -70945,6 +70953,7 @@ zzzyk.com###Tinfo
 ||extrablocks.ru^
 ||extracloyingcyano.cfd^
 ||extractobservation.com^
+||extraitjejunum.qpon^
 ||extralocker.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||extramonies.com^
@@ -73421,6 +73430,7 @@ zzzyk.com###Tinfo
 ||fin.ovh^
 ||finacehoisomb.com^
 ||finad.de^
+||finaglebehinds.shop^
 ||final-aws-01.com^
 ||final-azr-01.com^
 ||final01.watchhubbd.com^
@@ -73662,6 +73672,7 @@ zzzyk.com###Tinfo
 ||firstsponsor.de^
 ||firsttrack.ru^
 ||firtaips.com^
+||firthegers.cfd^
 ||firurx.invia.hu^
 ||firvmamosigpu.website^
 ||fisari.com^
@@ -75859,6 +75870,7 @@ zzzyk.com###Tinfo
 ||ft.pnop.com^
 ||ft62d.s25a36zq.top^
 ||ft8e.top^
+||ft8wc5lywzb9r8.cfd^
 ||ftamwoagth.in^
 ||ftaysn.meinekette.de^
 ||ftblltrck.com^
@@ -90841,6 +90853,7 @@ zzzyk.com###Tinfo
 ||hushpub.com^
 ||huskerskrang.cfd^
 ||huskinessimminentstylus.com^
+||husky-sock.pro^
 ||husky.sogou.com^
 ||huskyoxman.cyou^
 ||huskypartydance.com^
@@ -96587,6 +96600,7 @@ zzzyk.com###Tinfo
 ||iodidesmamaloi.cyou^
 ||iodizedwaivod.cyou^
 ||iodobo.xyz^
+||iodohotfoot.cyou^
 ||iodolruddock.com^
 ||ioeczq.juno.co.uk^
 ||ioedpk.oneill.com^
@@ -97139,6 +97153,7 @@ zzzyk.com###Tinfo
 ||irxoiu.iglucruise.com^
 ||irxwjn.toraiz.jp^
 ||irxybq.com^
+||irxztgrjaalny.online^
 ||iry7addri8.com^
 ||iryazan.ru^
 ||iryiikxealejx.site^
@@ -98808,6 +98823,7 @@ zzzyk.com###Tinfo
 ||jfjle4g5l.com^
 ||jfjsp.com^
 ||jflfgirfvthuj.website^
+||jfllppccauvpj.online^
 ||jflmhtxvgslfe.space^
 ||jflsh.tahylormade.com^
 ||jfltzz.riu.com^
@@ -103799,6 +103815,7 @@ zzzyk.com###Tinfo
 ||kqbgqbylklejl.online^
 ||kqbxjkzsyuygg.site^
 ||kqchxa.denizbutik.com^
+||kqcidwipqpnmd.space^
 ||kqdk1.petheaven.co.za^
 ||kqdqrj.traktorpool.de^
 ||kqefj.clearstem.com^
@@ -115824,6 +115841,7 @@ zzzyk.com###Tinfo
 ||lxisvvxfdqozy.site^
 ||lxiu.shop^
 ||lxjhcvabfkjuo.space^
+||lxkiqokunemfn.space^
 ||lxksalary.com^
 ||lxlx.shop^
 ||lxlx6p7y.arrow.com^
@@ -124320,6 +124338,7 @@ zzzyk.com###Tinfo
 ||middlepoint.co.kr^
 ||middlewareoutdebugger.net^
 ||middycoyest.cyou^
+||mideastagible.cfd^
 ||midenterprise.com^
 ||midgerelativelyhoax.com^
 ||midgesdwelled.shop^
@@ -144390,6 +144409,7 @@ zzzyk.com###Tinfo
 ||puncher.dcdn.baidu.com^
 ||punchmedia.ru^
 ||punchpantherwhip.com^
+||punchystaw.qpon^
 ||punctualbut.com^
 ||punctuationbandycontradict.com^
 ||pundr.shemrec.cc^
@@ -153253,6 +153273,7 @@ zzzyk.com###Tinfo
 ||rwtx.yide.com^
 ||rwtzv9ehv.com^
 ||rwulzuaqsafn.com^
+||rwunweqm.in^
 ||rwupyp.swimmy.fr^
 ||rwvfxkneipjnq.online^
 ||rwvk.jianghuledao.com^
@@ -199740,6 +199761,7 @@ zzzyk.com###Tinfo
 ||trickyscrew.pro^
 ||trickyseduction.com^
 ||triczjnzuktsh.website^
+||tridiiscupper.cfd^
 ||trifling-profession.pro^
 ||triflinghandicapped.com^
 ||trigami.com^
@@ -204687,6 +204709,7 @@ zzzyk.com###Tinfo
 ||uql1muvhoxtim845m2125.rest^
 ||uqladyjswq.com^
 ||uqletjdcbcwwtf.com^
+||uqljppswdl.com^
 ||uqmgqhhhutssb.online^
 ||uqmir.fuller.com^
 ||uqmsj.thrift.plus^
@@ -204840,6 +204863,7 @@ zzzyk.com###Tinfo
 ||urnwhereabouts.com^
 ||urocystfoozler.cyou^
 ||urogrambaskets.cyou^
+||uroniclucks.cfd^
 ||urophimahuaaedilic.cyou^
 ||uropodobolet.cfd^
 ||uroqgj.wind.it^
@@ -209788,6 +209812,7 @@ zzzyk.com###Tinfo
 ||vrbzg.craftclubco.com^
 ||vrcamdl.istaging.com^
 ||vrcamdltest.istaging.com^
+||vrcyxqjipj.com^
 ||vrdgm.theproteinworks.com^
 ||vrdrspufoszxi.website^
 ||vreephay.com^
@@ -211581,6 +211606,7 @@ zzzyk.com###Tinfo
 ||wdgeufgjtydycb.kfsjgbdighsfsjdrqwdssfs.com^
 ||wdgqhgmczfdrb.website^
 ||wdgsl.com^
+||wdhmuogajihlw.site^
 ||wdhymnxhxpgsn.space^
 ||wdibwgllvzies.love^
 ||wdifpednlkxvz.site^
@@ -220413,6 +220439,7 @@ zzzyk.com###Tinfo
 ||yesmessenger.com^
 ||yespbkpharqoo.site^
 ||yespetor.com^
+||yesrgknlkyshd.online^
 ||yess.imneinei.com^
 ||yessearches.com^
 ||yesss-a1at.mno.link^
