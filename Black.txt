@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-01 15:21:02
-# 总规则数: 229719 (黑: 225414, 白: 4305)
+﻿# 更新时间: 2026-08-01 17:31:43
+# 总规则数: 229732 (黑: 225427, 白: 4305)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -17511,6 +17511,7 @@ zzzyk.com###Tinfo
 ||aa2hzrmu9.com^
 ||aa36064871.xn--wtqs2doz3b.com^
 ||aa3zx8wko.top^
+||aa4jq9non.com^
 ||aa52jm08ly.com^
 ||aa55x.com^
 ||aa67678156.com^
@@ -24339,6 +24340,7 @@ zzzyk.com###Tinfo
 ||ahger.tzapw.com^
 ||ahgjbiqqwcmfo.website^
 ||ahgjtc.com^
+||ahgmivwzpjuxz.site^
 ||ahgvk.truthtreatments.com^
 ||ahh8.cn^
 ||ahhmkt.anhua.com.cn^
@@ -38402,6 +38404,7 @@ zzzyk.com###Tinfo
 ||bodyclick.net^
 ||bodygard.bismillahtek.com^
 ||boeely.silumen.com^
+||boegjyydektlx.online^
 ||boelsl.lastijerasmagicas.com^
 ||boersgrim.qpon^
 ||boersstarryscanty.qpon^
@@ -41617,6 +41620,7 @@ zzzyk.com###Tinfo
 ||caljlc.pgaacjs.cc^
 ||caljlc.pgalmjs.cc^
 ||calkagenumbly.qpon^
+||calkercutoffsrentree.cfd^
 ||call-tracking.by^
 ||call-tracking.co.uk^
 ||call.kdlocksmithnyc.com^
@@ -74449,6 +74453,7 @@ zzzyk.com###Tinfo
 ||fnlvhy.wowma.jp^
 ||fnmvok.aaaradiatory.cz^
 ||fnn.fazlaninaturesnest.com^
+||fnngskhkr.com^
 ||fnnnmmaqihint.site^
 ||fnnoemdymhpso.store^
 ||fnnpl.wineenthusiast.com^
@@ -90910,6 +90915,7 @@ zzzyk.com###Tinfo
 ||hvuihu.undiz.com^
 ||hvvaoxrjglkhd.online^
 ||hvvbqayabpuoi.website^
+||hvvmslekmyomk.site^
 ||hvwgbj.wikinger-reisen.de^
 ||hvwoeavjjemhq.site^
 ||hvxymx.tui.pl^
@@ -105700,6 +105706,7 @@ zzzyk.com###Tinfo
 ||lcpmd.phoenixphaseconverters.com^
 ||lcportal.kbinsure.co.kr^
 ||lcqbi7nsv.com^
+||lcqwxswfgppbe.space^
 ||lcr.kim^
 ||lcrbz.sterilybrasil.com^
 ||lcrft.comercialdelsol.com.do^
@@ -106298,6 +106305,7 @@ zzzyk.com###Tinfo
 ||letmenowme.biz^
 ||letmetralala.com^
 ||letminimalvacancy.com^
+||letoffwhimper.qpon^
 ||letong.xyz^
 ||letraoquavn.com^
 ||letreach.com^
@@ -117746,6 +117754,7 @@ zzzyk.com###Tinfo
 ||mahimeta.com^
 ||mahin.brillondeco.com^
 ||mahin.mahinagro.com^
+||mahjongdrabspatia.qpon^
 ||mahjouwwbezzg.online^
 ||mahmud.menfabri.com^
 ||mahoesmot.cfd^
@@ -141549,6 +141558,7 @@ zzzyk.com###Tinfo
 ||pnovfl.karaca.com^
 ||pnperf.com^
 ||pnpjkenjvtnvw.site^
+||pnpq9y4te.com^
 ||pnq.babcoxmediainc.com^
 ||pnqptxkdxkhff.site^
 ||pnrbvdqxrqlfp.club^
@@ -201271,6 +201281,7 @@ zzzyk.com###Tinfo
 ||tubfulgaloshe.cfd^
 ||tubfurryhen.com^
 ||tubroaffs.org^
+||tubyour.qpon^
 ||tucdj.trollcoclothing.ca^
 ||tuchang.trafficmanager.net^
 ||tuchang2.trafficmanager.net^
@@ -212836,6 +212847,7 @@ zzzyk.com###Tinfo
 ||wgfqayocqadzp.space^
 ||wggiud.giordanovini.it^
 ||wggmcqucgyggh.site^
+||wggnjdqbrnznde.com^
 ||wghaqpnupaxmj.space^
 ||wghjq.cn^
 ||wghkllhhoraeb.space^
@@ -224733,6 +224745,7 @@ zzzyk.com###Tinfo
 ||zsp1.ah.be^
 ||zsp1.ah.nl^
 ||zspph.ballerinafarm.com^
+||zspssmbjbp.com^
 ||zspza.snapsupplements.com^
 ||zsqsrxnbnnsat.online^
 ||zsrda.snagtights.ca^
