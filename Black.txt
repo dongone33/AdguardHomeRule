@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-02 03:54:45
-# 总规则数: 229875 (黑: 225569, 白: 4306)
+﻿# 更新时间: 2026-08-02 05:00:16
+# 总规则数: 229885 (黑: 225579, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -14139,6 +14139,7 @@ zzzyk.com###Tinfo
 ||8ks6x7.com^
 ||8kxcc.1zvbpmcnmz1vy83t55.cyou^
 ||8kz2l28p3lqr8iwmpc8qp2332x.cfd^
+||8l12vuhyuh7mg1c7n.rest^
 ||8le8le.com^
 ||8lmggang9.com^
 ||8lrmj4k28nte2v5.rest^
@@ -38855,6 +38856,7 @@ zzzyk.com###Tinfo
 ||boxballostia.cfd^
 ||boxbwxhkzwwpe.website^
 ||boxcartidalvoicing.com^
+||boxcont.qpon^
 ||boxercrazy.org^
 ||boxin1688.cn^
 ||boxingsuffocate.com^
@@ -42838,6 +42840,7 @@ zzzyk.com###Tinfo
 ||cayucotomand.cyou^
 ||cayugascorded.cyou^
 ||cayugasterminfoundry.qpon^
+||cayuseclonkedoriolus.cyou^
 ||cazbt.immunage.us^
 ||caziqueregald.cfd^
 ||cb-mms.carbuyer.co.uk^
@@ -51278,6 +51281,7 @@ zzzyk.com###Tinfo
 ||cueohf.rasage-traditionnel.com^
 ||cueohf.superforum.fr^
 ||cueohf.swedishforum.net^
+||cuerdanankin.qpon^
 ||cuevanatv.foolhardywear.pro^
 ||cuevastrck.com^
 ||cueweliqubbvh.space^
@@ -63515,6 +63519,7 @@ zzzyk.com###Tinfo
 ||dsnfrt.com^
 ||dsnfun.cn^
 ||dsngws.com^
+||dsnhfu.com^
 ||dsnhpm.com^
 ||dsnhsz.com^
 ||dsnirj.com^
@@ -98511,6 +98516,7 @@ zzzyk.com###Tinfo
 ||jctkotows.cfd^
 ||jcula.knixteen.ca^
 ||jcvtdoqmifyzt.site^
+||jcwnyotlnqmrm.site^
 ||jcwtml.icu^
 ||jcwwxn.com^
 ||jcwylmuatiaqv.store^
@@ -120956,6 +120962,7 @@ zzzyk.com###Tinfo
 ||mdt.touti.com.br^
 ||mdt.vivala.com.br^
 ||mdtnjvcsdbc02-eth1-0.net.mydays.de^
+||mdtxljudcyvgq.website^
 ||mdugiz.jdsports.de^
 ||mduhynevsirtw.com^
 ||mdumaldf.com^
@@ -126284,6 +126291,7 @@ zzzyk.com###Tinfo
 ||moosthastenjoulean.cfd^
 ||mootermedia.com^
 ||mootwombsteeple.com^
+||mopaniideaed.com^
 ||mopbucket.laundrypoint.com.au^
 ||mopedisods.com^
 ||mopinion.com^
@@ -155718,6 +155726,7 @@ zzzyk.com###Tinfo
 ||sandwichesbecomesorganism.com^
 ||sandypocket.com^
 ||saneeloisehat.com^
+||sanejudgment.pro^
 ||sanelisten.com^
 ||sanesslovens.cfd^
 ||sanestruggle.com^
@@ -189952,6 +189961,7 @@ zzzyk.com###Tinfo
 ||takk6.com^
 ||takqyi.laurenhi.jp^
 ||takuad.com^
+||takuocticoptions.cyou^
 ||talahibyeasty.cyou^
 ||talajeguttier.qpon^
 ||talapop.ir^
