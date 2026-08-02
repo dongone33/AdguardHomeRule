@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-02 19:51:40
-# 总规则数: 230011 (黑: 225704, 白: 4307)
+﻿# 更新时间: 2026-08-02 20:55:27
+# 总规则数: 230027 (黑: 225720, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -10410,6 +10410,7 @@ zzzyk.com###Tinfo
 ||373.am^
 ||373.com^
 ||373373.com^
+||37371489bd.com^
 ||374a44a834bbd8c9f7eaaffb698853ca.ohfie3oi5tikae1n.cc^
 ||3754327399.ietheivaicai.com^
 ||375553.com^
@@ -23258,6 +23259,7 @@ zzzyk.com###Tinfo
 ||aed08832da.com^
 ||aedge.roche.com^
 ||aedi.ai^
+||aedinenomic.shop^
 ||aedns.weixin.qq.com^
 ||aeeg5idiuenbi7erger.com^
 ||aeeonmaili.shop^
@@ -32444,6 +32446,7 @@ zzzyk.com###Tinfo
 ||aswlx.cn^
 ||aswpsdkeu.com^
 ||aswpsdkus.com^
+||aswznfqlssmvc.online^
 ||asxmfj.myintent.org^
 ||asxxlo.interflora.es^
 ||asy76rvai.com^
@@ -36734,6 +36737,7 @@ zzzyk.com###Tinfo
 ||bgvzasralyngg.space^
 ||bgwafghjtwywv.online^
 ||bgwncsntrack.trackaffmktg.com^
+||bgxmfoutahmpf.website^
 ||bgynhrgobyjbo.space^
 ||bgyqfqsulvmcf.space^
 ||bgyrhxxcxwcih.site^
@@ -45150,6 +45154,7 @@ zzzyk.com###Tinfo
 ||chronicle.medal.tv^
 ||chronischepancreatitis.nl^
 ||chrooo.soccerandrugby.com^
+||chrwxvdfrkwan.space^
 ||chrygilded.shop^
 ||chrysidtrigamy.cyou^
 ||chrysostrck.com^
@@ -62277,6 +62282,7 @@ zzzyk.com###Tinfo
 ||dodrryvg.octopusenergy.co.jp^
 ||doershutes.cfd^
 ||dof9zd9l290mz.cloudfront.net^
+||dofbdukakqfty.website^
 ||dofca.thebeardstruggle.com^
 ||dofrhyluyqtex.online^
 ||dofsg.cn^
@@ -66948,6 +66954,7 @@ zzzyk.com###Tinfo
 ||egvlsbzuolczs.site^
 ||egvmdcbddgial.website^
 ||egvmppvtammxw.site^
+||egvnfpnb31.com^
 ||egxo.cn^
 ||egxskengxrvlqjg.com^
 ||egyptbullsavoury.com^
@@ -71039,6 +71046,7 @@ zzzyk.com###Tinfo
 ||exxwhi.jmty.jp^
 ||exxzwx.szykownamama.pl^
 ||exygzvytvsboj.site^
+||exyznpzyprchx.site^
 ||exzocglvthjxr.space^
 ||exzumzcaqqdny.site^
 ||ey-cdn.eyangmedia.com^
@@ -76306,6 +76314,7 @@ zzzyk.com###Tinfo
 ||fuzhuyuan1688.xyz^
 ||fuziontech.net^
 ||fuzljyclpqlbv.online^
+||fuzmqfcndgbbw.online^
 ||fuzrct.gutteridge.com^
 ||fuzrxc.aboutyou.nl^
 ||fuztty4b5g.com^
@@ -76616,6 +76625,7 @@ zzzyk.com###Tinfo
 ||fzc389q8nxip6fmplqw3p.cfd^
 ||fzcgwycgkipou.online^
 ||fzchpos.com^
+||fzcknngqwit4k6gkbt.cfd^
 ||fzcrfbmjrgyli.site^
 ||fzcuii.rajapack.nl^
 ||fzczw7.site^
@@ -101073,6 +101083,7 @@ zzzyk.com###Tinfo
 ||junctordasypod.qpon^
 ||jundazulin.com^
 ||jundzeaqsodl.in^
+||juneworewyjyna.com^
 ||junfull.com^
 ||junior-a8cv.techacademy.jp^
 ||junior-satisfaction.com^
@@ -151106,6 +151117,7 @@ zzzyk.com###Tinfo
 ||riprlpruktwdz.space^
 ||ripsackfrisian.com^
 ||riptgxsype.com^
+||ripupcrawgoa.cfd^
 ||ripzey.carrieres-publiques.com^
 ||riqmqrd.icu^
 ||riqu2015.com^
@@ -208950,6 +208962,7 @@ zzzyk.com###Tinfo
 ||vivotest.oss-cn-beijing.aliyuncs.com^
 ||vivotzrigtry.com^
 ||vivoyuncdn.vip^
+||vivxuzpwao.in^
 ||vixentycckwtz.buzz^
 ||viyo.life^
 ||viyouhui.com^
@@ -213102,6 +213115,7 @@ zzzyk.com###Tinfo
 ||wghoubdaxpsik.site^
 ||wghvvdmdqgdzz.space^
 ||wgie.0z5jn.cn^
+||wgijikal.com^
 ||wgimhiakumdkf.site^
 ||wgjkyvofksrla.site^
 ||wgkff.vqwjucmfdsqznfn.in^
@@ -214820,6 +214834,7 @@ zzzyk.com###Tinfo
 ||wretchskim.com^
 ||wreulqbszdpjf.site^
 ||wrfpxenkhuekc.site^
+||wrgbfnwwg.com^
 ||wrhgivbwofdba.space^
 ||wrhv.education.gouv.fr^
 ||wriestguaza.qpon^
@@ -223144,6 +223159,7 @@ zzzyk.com###Tinfo
 ||zb.nxing.cn^
 ||zb205.xyz^
 ||zb230.com^
+||zb4ohbnsf9.com^
 ||zb757.cc^
 ||zb877.com^
 ||zbb.bbb.*.pics^
