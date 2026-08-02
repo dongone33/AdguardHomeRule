@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-02 12:02:36
-# 总规则数: 229973 (黑: 225667, 白: 4306)
+﻿# 更新时间: 2026-08-02 14:44:25
+# 总规则数: 229983 (黑: 225677, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18722,6 +18722,7 @@ zzzyk.com###Tinfo
 ||acmwyrhmvxycw.life^
 ||acnd.adnxs.com^
 ||acnedamos.qpon^
+||acnemiablaguecontest.cfd^
 ||acnodalragee.cyou^
 ||acnodeszebus.cyou^
 ||acodes.b2b.cn^
@@ -39885,6 +39886,7 @@ zzzyk.com###Tinfo
 ||btaenrolment.americanexpress.nl^
 ||btagmedia.com^
 ||btbalex.cn^
+||btbrpnvdznpwn.space^
 ||btbsv.theinkeylist.com^
 ||btbuckets.com^
 ||btcbto.com^
@@ -99422,6 +99424,7 @@ zzzyk.com###Tinfo
 ||jj40z.amacx.es^
 ||jj40z.amacx.fr^
 ||jj40z.amacx.nl^
+||jj5zwmzcze.com^
 ||jjade.xyz^
 ||jjb168.net^
 ||jjbkkqj1ewg8g3zr992wu1.rest^
@@ -124074,6 +124077,7 @@ zzzyk.com###Tinfo
 ||mfgoxtdrxupes.website^
 ||mfgvhabnnlwkd.online^
 ||mfgz.6t.com^
+||mfhhmxnfmtyka.website^
 ||mfhxz0hz7.com^
 ||mfilterit.net^
 ||mfiomoaa.com^
@@ -129142,6 +129146,7 @@ zzzyk.com###Tinfo
 ||naughtyillness.cfd^
 ||naughtytaringpekin.qpon^
 ||nauklh.cn^
+||nauntpsbawgxd.space^
 ||naupsithizeekee.com^
 ||naurtypees.shop^
 ||nauseaernewakiki.cfd^
@@ -135108,6 +135113,7 @@ zzzyk.com###Tinfo
 ||ooydxblhaegrz.website^
 ||ooyejpjenphbo.online^
 ||ooykew.cn^
+||ooymxaipqdbia.website^
 ||ooyxwjhwgewpr.online^
 ||ooz9.143.cc^
 ||oozgka.immoscout24.ch^
@@ -208704,6 +208710,7 @@ zzzyk.com###Tinfo
 ||viral-cdn.ru^
 ||viral782.com^
 ||viraladnetwork.net^
+||viralesstrette.cyou^
 ||viralflashed.cfd^
 ||viralfoodie.net^
 ||viralltopics.com^
@@ -215047,6 +215054,7 @@ zzzyk.com###Tinfo
 ||wt2x6p7j.xyz^
 ||wtaccesscontrol.com^
 ||wtag.estlier.net^
+||wtagabdmrxast.space^
 ||wtaluo.com^
 ||wtaorvnpa.com^
 ||wtatrrum.net^
@@ -215379,6 +215387,7 @@ zzzyk.com###Tinfo
 ||wwhhwwhh809.6e6m282.com^
 ||wwhsquzfatqzr.space^
 ||wwi.gosafari.de^
+||wwihnpzoyimva.website^
 ||wwija.com^
 ||wwis-dubc1-vip60.adobe.com^
 ||wwjdxc.pixartprinting.it^
@@ -219039,6 +219048,7 @@ zzzyk.com###Tinfo
 ||xray.jebe.renren.com^
 ||xray.mail.ru^
 ||xrb0owc.icu^
+||xrb5zmxe2j.com^
 ||xrbcmxuzmyfzj.website^
 ||xrbdcvkbhfiw.com^
 ||xrbtfev4hm5r7kk.cfd^
