@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-03 00:43:21
-# 白名单规则数: 4307
+﻿# 更新时间: 2026-08-03 01:49:08
+# 白名单规则数: 4306
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -2935,7 +2935,6 @@
 @@||pica.zhimg.com
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
-@@||pics.porndroids.com^
 @@||picx.zhimg.com
 @@||pifa.pinduoduo.com^
 @@||pingjs.qq.com^
