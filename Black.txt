@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-04 02:15:06
-# 总规则数: 230372 (黑: 226066, 白: 4306)
+﻿# 更新时间: 2026-08-04 04:05:34
+# 总规则数: 230358 (黑: 226052, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -6065,10 +6065,7 @@ zzzyk.com###Tinfo
 ||*-*.ap-northeast-2.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com^
-||*-ad-sign.byteimg.com^
-||*-ad-union-sdk.pglstatp-toutiao.com^
 ||*-ad.adbkwai.com^
-||*-ad.adkwai.com^
 ||*-ad.adukwai.com^
 ||*-ad.gskwai.com^
 ||*-ad.wtzw.com^
@@ -6085,7 +6082,6 @@ zzzyk.com###Tinfo
 ||*-ni57dn7z.c.2mdn-cn.net^
 ||*-pitaya-tos.pstatp.com^
 ||*-pitaya.bytetos.com^
-||*-reading-ad.qznovelvod.com^
 ||*-sdk.rum.aliyuncs.com^
 ||*-sign.dailygn.com^
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
@@ -6142,13 +6138,11 @@ zzzyk.com###Tinfo
 ||*._https.*.*^
 ||*.a1.initjj.com^
 ||*.a48962121.top^
-||*.ads.heytapmobi.com^
 ||*.aliyuncsslb.com^
 ||*.aliyuncsslbintl.com^
 ||*.amwexgj.com^
 ||*.anhuyj.cn^
 ||*.anythinktech.com^
-||*.applovin.com^
 ||*.arbyyu.com^
 ||*.asuj.cn^
 ||*.atvtkf.com^
@@ -6221,7 +6215,6 @@ zzzyk.com###Tinfo
 ||*.jjzemoc3ca.top^
 ||*.jomoxc.com^
 ||*.jqnljze.xyz^
-||*.juicyads.me^
 ||*.jvere.xyz^
 ||*.jwcnmta.top^
 ||*.kaiyun.com^
@@ -6306,7 +6299,6 @@ zzzyk.com###Tinfo
 ||*.v4v6v4.com^
 ||*.video.qq.com^
 ||*.vkomjd.com^
-||*.voiceads.cn^
 ||*.volcsiriusbd.com^
 ||*.w9k.cn^
 ||*.wacaoldy1.com^
@@ -6349,17 +6341,13 @@ zzzyk.com###Tinfo
 ||*ad*vivo*
 ||*ad*wtzw*
 ||*ad.adbkwai.com^
-||*ad.wtzw.com^
 ||*adapt-beacon.awsprodops.movetv.com^
-||*adintl.cn^
 ||*aio.ecombdimg.com^
 ||*applog.fqnovel.com^
 ||*cdn-settings.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
 ||*dns*.adobe.com
 ||*drcn*dbankcdn*
-||*googleads*^
-||*googleadsserving.cn^
 ||*gslb.qianxun.com^
 ||*item.ecombdimg.com^
 ||*ks.qm*.com^
@@ -6372,8 +6360,6 @@ zzzyk.com###Tinfo
 ||*mob.com^
 ||*normal.fqnovel.com^
 ||*novel.byteimg.com^
-||*pangolin*toutiao*.com^
-||*pglstatp-toutiao.com^
 ||*pull.yximgs.com^
 ||*reading*fqnovel*.com^
 ||*register.appsflyersdk.com^
@@ -6382,7 +6368,6 @@ zzzyk.com###Tinfo
 ||*tanx.com^
 ||*tsdk.vivo.com.cn^
 ||*two-gun-volley.pages.dev^
-||*unityads.unity3d.com^
 ||*us*watcab*.blob.core.windows.net^
 ||*video.baidu.com^
 ||*video.fqnovelvod.com^
@@ -7496,10 +7481,7 @@ zzzyk.com###Tinfo
 ||12.cookcai.com^
 ||120.195.94.11^
 ||120.220.191.55^
-||120.226.10.195^
 ||120.232.239.81^
-||120.232.58.157^
-||120.232.6.158^
 ||120.240.230.231^
 ||120.241.229.2^
 ||120.241.236.38^
@@ -12852,6 +12834,7 @@ zzzyk.com###Tinfo
 ||6jei0t6xp.com^
 ||6jim4b7h79r3cyhz1.cfd^
 ||6jtqdplfz7.com^
+||6jypv36yyh2jj54jg.cfd^
 ||6k2fehacp.com^
 ||6k3.co^
 ||6kflczrtc901.app.wefar.dev^
@@ -19788,7 +19771,6 @@ zzzyk.com###Tinfo
 ||ad.wsod.com^
 ||ad.wtzw.com^
 ||ad.wurangxian.top^
-||ad.wx.com:12638^
 ||ad.wx.com^
 ||ad.wynk.in^
 ||ad.xdomain.ne.jp^
@@ -20870,6 +20852,7 @@ zzzyk.com###Tinfo
 ||adltserv.com^
 ||adluak.madeleine.fr^
 ||adlux.com^
+||adlzmqouddtim.space^
 ||adm*.autoimg.cn^
 ||adm-cnzz.net^
 ||adm.265g.com^
@@ -21514,17 +21497,13 @@ zzzyk.com###Tinfo
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
-||ads*-normal-lf.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
-||ads*-normal.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.cj.sina.com.cn^
-||ads*.papegames.com^
 ||ads*.production-public.tubi.io^
 ||ads*.textra.me^
 ||ads-*-nfl.yinzcam.com^
 ||ads-*.v.ssp.yahoo.com^
-||ads-*.xhscdn.com^
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-abc.com^
@@ -28413,7 +28392,6 @@ zzzyk.com###Tinfo
 ||api*qm*com^
 ||api-*.hismarttv.com^
 ||api-a.op-mobile.opera.com^
-||api-access.pangolin-sdk-toutiao-*.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com.queniuyk.com^
 ||api-access.pangolin-sdk-toutiao.com^
@@ -33806,8 +33784,6 @@ zzzyk.com###Tinfo
 ||ayyaar.ir^
 ||ayybzhd.cn^
 ||ayyegtlbnqown.space^
-||az*-upload-js.gifshow.com^
-||az*-upload.ksapisrv.com^
 ||az-neverblock.aznude.workers.dev^
 ||az.appstore.vivo.com.cn^
 ||az.nzn.io^
@@ -39993,6 +39969,7 @@ zzzyk.com###Tinfo
 ||btnmlbep.casamingo.gift^
 ||btnqi.zcaddystore.com^
 ||btnspihedggvk.website^
+||btoazujuhpoca.space^
 ||btoetwervetat.space^
 ||btofoayyqedfg.site^
 ||btohhytqsijxj.website^
@@ -43347,7 +43324,6 @@ zzzyk.com###Tinfo
 ||cdn-creatives.inmobi.cn^
 ||cdn-daikuan.xjietiao.com^
 ||cdn-dynamic.optimonk.com^
-||cdn-eu.configcat.com
 ||cdn-eu.usefathom.com^
 ||cdn-eu.voida.pl^
 ||cdn-f.adsmoloco.com^
@@ -45714,6 +45690,7 @@ zzzyk.com###Tinfo
 ||clammy88.com^
 ||clammychicken.com^
 ||clammyendearedkeg.com^
+||clamorstineoid.qpon^
 ||clamourbiflex.cyou^
 ||clamp.keyclampstore.com^
 ||cland.fyi^
@@ -60678,6 +60655,7 @@ zzzyk.com###Tinfo
 ||dicierrebels.qpon^
 ||dicingfulcra.qpon^
 ||dicinggoosier.cyou^
+||diclinyhoove.cyou^
 ||diclotrans.com^
 ||dicnkachuzca.com^
 ||dicotylsau.cyou^
@@ -61866,6 +61844,7 @@ zzzyk.com###Tinfo
 ||dlmtmxsrkfxjh.online^
 ||dlmztrbyjydcn.space^
 ||dlne6myudrxi1.cloudfront.net^
+||dlnitinol.qpon^
 ||dlnskgug.com^
 ||dload.qd.qingting.fm^
 ||dloeloqua.danskespil.dk^
@@ -62815,7 +62794,6 @@ zzzyk.com###Tinfo
 ||downknottily.com^
 ||downlaod.xiaocen.com^
 ||download*.ctrip.com^
-||download*.vzuu.com^
 ||download-juui-plugin.hismarttv.com^
 ||download-staging.planify.io^
 ||download-stats.mozilla.org^
@@ -64178,6 +64156,7 @@ zzzyk.com###Tinfo
 ||dumwarran.cfd^
 ||dun.163*
 ||duncanknopper.cfd^
+||duncherrants.shop^
 ||dunderaffiliates.com^
 ||duneenwinds.qpon^
 ||dungasballam.shop^
@@ -65585,6 +65564,7 @@ zzzyk.com###Tinfo
 ||e5yx.com^$popup
 ||e5zklj5ynjjcpt8.rest^
 ||e61auf6t8.cc^
+||e61gnw8uo2erj7lty8nxcioyq.rest^
 ||e630.yabo.com^
 ||e64oac2b.eulerian.io^
 ||e664.theoaklandpress.com^
@@ -66568,6 +66548,7 @@ zzzyk.com###Tinfo
 ||edgrmtracking.com^
 ||edhmnn.com^
 ||edible-sort.pro^
+||edictsbovids.qpon^
 ||edictumolympia.cyou^
 ||ediemidnightzombies.com^
 ||edigitalsurvey.com^
@@ -66811,6 +66792,7 @@ zzzyk.com###Tinfo
 ||eelpotcarices.cyou^
 ||eelwgpubhnjxv.website^
 ||eelxrrsnormoc.space^
+||eemeresuovsbe.online^
 ||eenaeocbigfwf.site^
 ||eennme.vidaxl.sk^
 ||eentent.streampiay.me^
@@ -68205,6 +68187,7 @@ zzzyk.com###Tinfo
 ||emediatrack.com^
 ||emedns.bonify.de^
 ||emendedpenest.cyou^
+||emendexion.cyou^
 ||ementrandings.org^
 ||ementseconom.org^
 ||ementxviewsin.com^
@@ -79038,6 +79021,7 @@ zzzyk.com###Tinfo
 ||ghabovethecityon.com^
 ||ghac.cn^
 ||ghaistbrisadict.cyou^
+||gharialsemilor.cyou^
 ||gharrislapillo.cyou^
 ||ghaudhur.com^
 ||ghawbdktdopmt.online^
@@ -79790,6 +79774,7 @@ zzzyk.com###Tinfo
 ||glum-mortgage.com^
 ||glumesfracted.cyou^
 ||glummersubdiebemud.cyou^
+||glummydactyli.qpon^
 ||glumoussallooclokies.cyou^
 ||glumrevenue.com^
 ||glusidforwake.qpon^
@@ -81807,6 +81792,7 @@ zzzyk.com###Tinfo
 ||gropplecaracullay.qpon^
 ||grortalt.xyz^
 ||grotespace.com^
+||grotesquefact.pro^
 ||grotesquephilosophy.com^
 ||grotzenzelotic.com^
 ||grouchy-lay.com^
@@ -86035,6 +86021,7 @@ zzzyk.com###Tinfo
 ||gurglystannid.cyou^
 ||gurglytabloid.cyou^
 ||gurkabiuret.qpon^
+||gurrycurium.shop^
 ||gurugodlily.qpon^
 ||guruguru.cn^
 ||gurun.cc^
@@ -103003,6 +102990,7 @@ zzzyk.com###Tinfo
 ||kidnappingpickcupcake.com^
 ||kidnapsoutroar.qpon^
 ||kidnapstrongestfeathers.com^
+||kidnaptriplerbehap.cfd^
 ||kidneyconfirmed.com^
 ||kidobedientteeth.com^
 ||kidpowers.com^
@@ -103884,6 +103872,7 @@ zzzyk.com###Tinfo
 ||koleyo.xyz^
 ||kolfr.aalyun.cn^
 ||kolfsqbqvahtx.com^
+||kolhozynonce.cfd^
 ||kolijitter.com^
 ||kolinay.com^
 ||koljnda.com^
@@ -105303,6 +105292,7 @@ zzzyk.com###Tinfo
 ||labtpb.online^
 ||lacemendaimons.com^
 ||laceokay.com^
+||lacepodrubbisy.cfd^
 ||lacerateclimaxthrow.com^
 ||lacerskwanza.shop^
 ||lacertamylaseslob.cfd^
@@ -106725,7 +106715,6 @@ zzzyk.com###Tinfo
 ||lf*-ad-union-sdk.pglstatp-toutiao.com^
 ||lf-event-manager.oceanengine.com^
 ||lf-fe.fqnovelstatic.com^
-||lf-leads-fe-scm.bytecdn.com.*.queniubg.com^
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-rc1.yhgfb-cn-static.com^
 ||lf-reward-video.bytedcdn.com^
@@ -113966,7 +113955,6 @@ zzzyk.com###Tinfo
 ||lofter.httpdns.c.163.com^
 ||loftyknifeeducate.com^
 ||lofzozyzxmzri.online^
-||log*-applog-lq.fqnovel.com^
 ||log*-misc-lf.amemv.com^
 ||log*-normal-*.tiktokv.com
 ||log*-normal-*.tiktokv.us^
@@ -121779,6 +121767,7 @@ zzzyk.com###Tinfo
 ||medioteapotstikes.qpon^
 ||medipartner.jp^
 ||medises.co.kr^
+||medishanorak.cyou^
 ||mediuln.com^
 ||medium-while.com^
 ||mediumassignment.com^
@@ -122205,7 +122194,6 @@ zzzyk.com###Tinfo
 ||mestizacools.cfd^
 ||mestkom.ru^
 ||mestreqa.com^
-||mesu.apple.com^
 ||mesure-pro.engie.fr^
 ||met-horn-log.dreport.meituan.net^
 ||met.hanser-automotive.de^
@@ -133541,6 +133529,7 @@ zzzyk.com###Tinfo
 ||oceanicdreamcove.com^
 ||oceanmedia.co.il^
 ||ocelhaxcuulfb.space^
+||oceloidsummits.cfd^
 ||ocelot.anthroquiches.fr^
 ||ocelot.goinpaces.com^
 ||ocelot.pixlwebs.nl^
@@ -137072,14 +137061,12 @@ zzzyk.com###Tinfo
 ||p*-ad-sign.byteimg.com^
 ||p*-ad.adukwai.com^
 ||p*-ad.bytecdn.cn^
-||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-ecom-qualification-sign.ecombdimg.com^
 ||p*-ff.adkwai.com^
 ||p*-lm.adkwai.com^
 ||p*-lm.adukwai.com^
 ||p*-pro.a.yximgs.com^
 ||p*-webcast-sign.douyinpic.com^
-||p*.adkwai.com^
 ||p*.douyinpic.com^
 ||p-advg.com^
 ||p-analytics.life^
@@ -137589,8 +137576,6 @@ zzzyk.com###Tinfo
 ||page1monk.com^
 ||page2rss.com^
 ||page9awry.com^
-||pagead*.googleadservices-cn.com^
-||pagead*.googlesyndication-cn.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
 ||pagead.google.com^
@@ -142162,7 +142147,6 @@ zzzyk.com###Tinfo
 ||polarcdn-terrax.com^
 ||polarichip.com^
 ||polaris*-normal-*.zijieapi.com^
-||polaris*-normal-lq.zijieapi.com^
 ||polaris-sinfonlinea.zijieapi.com^
 ||polaris.truevault.com^
 ||polaris3-normal-hl.zijieapi.com^
@@ -144673,6 +144657,7 @@ zzzyk.com###Tinfo
 ||pujunancerer.cfd^
 ||puk9mpb8dm.com^
 ||pukekoassent.com^
+||pukerrevisitassalto.cfd^
 ||pukri.climit.com^
 ||puksjalhf.com^
 ||pulayagaed.cfd^
@@ -153174,7 +153159,6 @@ zzzyk.com###Tinfo
 ||rtkyvd.xyz^
 ||rtlbetlcgd.com^
 ||rtlfqocrotlhz.website^
-||rtlog*-applog-lq.fqnovel.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rtlog.byteoversea.com^
@@ -155776,6 +155760,7 @@ zzzyk.com###Tinfo
 ||samarketing.sedgwick.com^
 ||sambaads.com^
 ||sambarunpaced.shop^
+||sambasclip.cfd^
 ||samboc.com^
 ||sambuksabaism.cyou^
 ||samc.buero-zueri.ch^
@@ -161945,7 +161930,6 @@ zzzyk.com###Tinfo
 ||sezixz.officesupply.com^
 ||sezkkb.cn^
 ||sezvc.com^
-||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sf-ads.io^
 ||sf-ifc.cn^
@@ -194534,7 +194518,6 @@ zzzyk.com###Tinfo
 ||tnc-sg.capcutapi.com^
 ||tnc-v2-boot.capcutapi.com^
 ||tnc-va*.capcutapi.com^
-||tnc0-*.zijieapi.com^
 ||tnc0-aliec2.zijieapi.com^
 ||tnc0-alisc1.zijieapi.com^
 ||tnc0-bjlgy.zijieapi.com^
@@ -204692,6 +204675,7 @@ zzzyk.com###Tinfo
 ||unskilfulunpredictable.com^
 ||unskilledaccompanimentcircumstances.com^
 ||unslaveslier.qpon^
+||unslingrancors.shop^
 ||unsmartbatteau.cfd^
 ||unsmokyhashing.cfd^
 ||unsolarinclavefazed.cyou^
@@ -214996,6 +214980,7 @@ zzzyk.com###Tinfo
 ||wpe.red^
 ||wpeycj.kojitusanso.com^
 ||wpfc.ml^
+||wpfpouwlpaduq.website^
 ||wpgobx.feber.se^
 ||wpgobx.hamnen.se^
 ||wpgobx.marcusoscarsson.se^
@@ -220268,6 +220253,7 @@ zzzyk.com###Tinfo
 ||xzwcng.vans.com.au^
 ||xzwtxo.nurse-senka.jp^
 ||xzxbep.plantei.com.br^
+||xzxfhjxrhbetd.site^
 ||xzxhpcdz.icu^
 ||xzxsflbzngfms.website^
 ||xzxz.ppos.com^
