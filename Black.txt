@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-05 01:04:16
-# 总规则数: 230643 (黑: 226337, 白: 4306)
+﻿# 更新时间: 2026-08-05 02:52:07
+# 总规则数: 230675 (黑: 226368, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9890,6 +9890,7 @@ zzzyk.com###Tinfo
 ||2yrlx4lem82wqehq.cfd^
 ||2yt.cn^
 ||2ytoxb1r7.com^
+||2yvkclq26eu34ef8u95.cfd^
 ||2z1bu5for5z7qx.cfd^
 ||2z1fxurtnx1i18bln.cfd^
 ||2z8.cn^
@@ -38584,6 +38585,7 @@ zzzyk.com###Tinfo
 ||bolha.rxmaq.com^
 ||bolha.shopzinho.online^
 ||bolha.troovebr.com.br^
+||bolichejerl.cyou^
 ||bolidedecided.cyou^
 ||bolijiupingchang.com^
 ||bolimen.top^
@@ -45397,6 +45399,7 @@ zzzyk.com###Tinfo
 ||ciencia.ao^
 ||cientch.360doc.cn^
 ||ciewpsfxnt.com^
+||ciflyeoaawica.site^
 ||cifrs.maxfitmeals.com^
 ||cifyeldf.top^
 ||cig.com.cn^
@@ -51700,6 +51703,7 @@ zzzyk.com###Tinfo
 ||cutechin.com^
 ||cuterbond.com^
 ||cutescale.online^
+||cuteysdefang.qpon^
 ||cutie.kidsmagictree.com^
 ||cutinseats.qpon^
 ||cutiplpknfpbn.online^
@@ -51942,6 +51946,7 @@ zzzyk.com###Tinfo
 ||cxasci.sprzedajemy.pl^
 ||cxb4.cn^
 ||cxbogbmqugqqy.store^
+||cxbzfolgfvvvn.online^
 ||cxccm.com^
 ||cxcjuhbxaysnj.site^
 ||cxcsrgntzjolw.online^
@@ -58658,6 +58663,7 @@ zzzyk.com###Tinfo
 ||dawnedvitiatebulwand.cyou^
 ||dawnfilthscribble.com^
 ||dawonfjvwjcaj.online^
+||dawpateshrew.cfd^
 ||dawt856.com^
 ||dawwscr.cn^
 ||dawwx.com^
@@ -60498,6 +60504,7 @@ zzzyk.com###Tinfo
 ||dhsuiat.xyz^
 ||dhtycstkokmb.com^
 ||dhu1.nt.app^
+||dhunchiagyieus.cfd^
 ||dhupptmedfhss.site^
 ||dhurrapois.cfd^
 ||dhvarz.fischer.com.br^
@@ -61197,6 +61204,7 @@ zzzyk.com###Tinfo
 ||diqbgqeteua.com^
 ||diqftdf1fp8u.cloudfront.net^
 ||diqjitlusjki.com^
+||diquatfulani.cyou^
 ||dir.3.736681645.tc.gcloudgbs.com^
 ||dirbvattydams.site^
 ||dircont3.com^
@@ -62581,6 +62589,7 @@ zzzyk.com###Tinfo
 ||domipush.com^
 ||domnicma.com^
 ||domnovrek.com^
+||domnsooky.cyou^
 ||domob.cn^
 ||domob.com.cn^
 ||domob.org^
@@ -63583,6 +63592,7 @@ zzzyk.com###Tinfo
 ||dserju.com^
 ||dsetx3.com^
 ||dseyzk.com^
+||dsfdzo.com^
 ||dsfe19.madeindesign.com^
 ||dsfhk1.xn--uit034inxb03y.com^
 ||dsfj5.cn^
@@ -69656,6 +69666,7 @@ zzzyk.com###Tinfo
 ||esthbgatdzgmn.store^
 ||estimatedeferbulk.com^
 ||estiques.com^
+||estivalhopping.cyou^
 ||estore.biscoind.com^
 ||estrack.net^
 ||estream.to^
@@ -71748,6 +71759,7 @@ zzzyk.com###Tinfo
 ||factsheetgrievancekeg.com^
 ||facultativethus.com^
 ||facultycoffeehouseharp.com^
+||facundapogenylandmen.cyou^
 ||facxqniewyxym.site^
 ||facxsfbnusxhn.online^
 ||fadedsnow.com^
@@ -88042,6 +88054,7 @@ zzzyk.com###Tinfo
 ||heaterlumberexploit.com^
 ||heatexperience.com^
 ||heathertravelledpast.com^
+||heathspewer.shop^
 ||heatingapiece.com^
 ||heatmap-events-collector.instapage.com^
 ||heatmap.com^
@@ -88662,6 +88675,7 @@ zzzyk.com###Tinfo
 ||hhn.cxslcc.cn^
 ||hhnbo.resortcerts.com^
 ||hhnvrht.cn^
+||hhoofflkari.in^
 ||hhooyivpxq.com^
 ||hhosfypbmvdoj.website^
 ||hhowyijfffxry.online^
@@ -93129,6 +93143,7 @@ zzzyk.com###Tinfo
 ||ilgze.cn^
 ||ilhangrnyaubr.site^
 ||ilhbimergjlfx.website^
+||ilhmewufmj.com^
 ||ilhtossuwjwcg.online^
 ||iliaufrtcostive.qpon^
 ||iliauoncia.cfd^
@@ -97592,6 +97607,7 @@ zzzyk.com###Tinfo
 ||isles.cn^
 ||islesmarques.qpon^
 ||isletspuckmirfak.qpon^
+||islingnappytoothy.cyou^
 ||islkopcuomvsr.website^
 ||ismail.paragonshopper.com^
 ||ismwmovapolli.website^
@@ -120793,6 +120809,7 @@ zzzyk.com###Tinfo
 ||maticooads.com^
 ||matiesyacare.cyou^
 ||matildawu.online^
+||matinaldauphin.qpon^
 ||mationwind.com^
 ||matiro.com^
 ||matloomreconcile.com^
@@ -125228,6 +125245,7 @@ zzzyk.com###Tinfo
 ||mitel.marketbright.com^
 ||mitellaimponewoilie.cyou^
 ||mitherhugsrantism.cyou^
+||mitomedrabbed.shop^
 ||mitopamosal.com^
 ||mitour.de^
 ||mitpm.everdries.com^
@@ -133848,6 +133866,7 @@ zzzyk.com###Tinfo
 ||oddsq.sokolovelaw.com^
 ||oddsserve.com^
 ||oddtp.norelie.co^
+||odeletcrapula.cfd^
 ||odeonssickingbaizing.cfd^
 ||odeonstatinek.cyou^
 ||odepcf.modetour.com^
@@ -144052,6 +144071,7 @@ zzzyk.com###Tinfo
 ||promerycergerful.com^
 ||prominentpray.com^
 ||promiseair.com^
+||promisecresyls.qpon^
 ||promiseoncomestey.qpon^
 ||promisespreepanic.com^
 ||promizer.com^
@@ -149936,6 +149956,7 @@ zzzyk.com###Tinfo
 ||reflectinglouiseera.com^
 ||reflection67.top^
 ||reflectpaint.com^
+||refletsimpala.cyou^
 ||reflowsamchoor.cfd^
 ||reflushcabook.qpon^
 ||refluxvenous.cfd^
@@ -158496,6 +158517,7 @@ zzzyk.com###Tinfo
 ||semeel.click^
 ||semeiashesha.cyou^
 ||semencepourlavie.org^
+||sementunpower.qpon^
 ||semestersets.com^
 ||semiansyllab.cfd^
 ||semicjubiles.cyou^
@@ -171140,6 +171162,7 @@ zzzyk.com###Tinfo
 ||snowman77.com^
 ||snowmanjo.com^
 ||snowmentor.com^
+||snowpeaksoftware.com^
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector.
 ||snowplow-pixel.tradingview.com^
@@ -192930,6 +192953,7 @@ zzzyk.com###Tinfo
 ||thatdtahanun.qpon^
 ||thatllguider.cyou^
 ||thatmonkeybites3.com^
+||thattowel.pro^
 ||thaugnaixi.net^
 ||thavxaiwvxtja.website^
 ||thawbootsamplitude.com^
@@ -207981,6 +208005,7 @@ zzzyk.com###Tinfo
 ||vdulz.org^
 ||vdunprmzgffmf.site^
 ||vdvdjf.remotepc.com^
+||vdvefaheagcdd.space^
 ||vdvho.theshoecareshop.com^
 ||vdvqtappes.com^
 ||vdwgagjfqoreu.site^
@@ -211205,6 +211230,7 @@ zzzyk.com###Tinfo
 ||vyreat.icu^
 ||vyrhxfi.cn^
 ||vyrqhmdy.unbrws.de^
+||vysdevmiatwcx.website^
 ||vyse.rajanaga777trend.site^
 ||vyshuddphvxka.store^
 ||vyspfyimbwvls.site^
@@ -214222,6 +214248,7 @@ zzzyk.com###Tinfo
 ||wildxxxparties.com^
 ||wilechacmas.cyou^
 ||wilecrrlefaxq.space^
+||wiledatomity.qpon^
 ||willalland.info^
 ||williamsun.vip^
 ||willierdeacon.cyou^
@@ -215155,6 +215182,7 @@ zzzyk.com###Tinfo
 ||wormlaboratoryspeeding.com^
 ||wornoutquica.qpon^
 ||wornpichi.shop^
+||worqzcrxiwuob.online^
 ||worried-advantage.com^
 ||worried-difference.pro^
 ||worried-sample.com^
@@ -215799,6 +215827,7 @@ zzzyk.com###Tinfo
 ||wugrorud.com^
 ||wuhhgk.glamira.com^
 ||wuhivkwygdbiz.website^
+||wuhwpjnttazfa.website^
 ||wuiighvymbl.com^
 ||wujinimg.com^
 ||wujiupic.com^
@@ -217011,6 +217040,7 @@ zzzyk.com###Tinfo
 ||wymuxgvyjwmraqn.net^
 ||wynesippiotreatee.qpon^
 ||wynnsbodegaquidam.cyou^
+||wynskutmbuyie.online^
 ||wynvalur.com^
 ||wyojunmhapedc.site^
 ||wyominghicky.com^
@@ -217867,6 +217897,7 @@ zzzyk.com###Tinfo
 ||xgxq518.com^
 ||xgy1.53568.cc^
 ||xgyamkbizucnd.store^
+||xgyrwzuqjblux.website^
 ||xgysy.aureumcollective.com^
 ||xgyvaf.easydew.co.kr^
 ||xgzdys.com^
@@ -229194,6 +229225,7 @@ zzzyk.com###Tinfo
 @@||parking.namesilo.com^
 @@||partner.everydays.de^
 @@||partner.googleadservices.com^
+@@||partner.o2online.de^
 @@||partnerservices.getmicrosoftkey.com^$important
 @@||party.163.com^
 @@||pass.1688.com^$subdocument

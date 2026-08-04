@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-05 01:04:16
-# 白名单规则数: 4306
+﻿# 更新时间: 2026-08-05 02:52:07
+# 白名单规则数: 4307
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -2857,6 +2857,7 @@
 @@||parking.namesilo.com^
 @@||partner.everydays.de^
 @@||partner.googleadservices.com^
+@@||partner.o2online.de^
 @@||partnerservices.getmicrosoftkey.com^$important
 @@||party.163.com^
 @@||pass.1688.com^$subdocument
