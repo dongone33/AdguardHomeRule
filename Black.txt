@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-05 04:18:30
-# 总规则数: 230646 (黑: 226339, 白: 4307)
+﻿# 更新时间: 2026-08-05 05:44:09
+# 总规则数: 230653 (黑: 226346, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -129985,6 +129985,7 @@ zzzyk.com###Tinfo
 ||nenrk.us^
 ||nenskwmwon.com^
 ||nentsyshruggl.com^
+||nenyoqgifeeiqu.com^
 ||nenzr.victoriabeckhambeauty.com^
 ||neo.gpetsweb.com^
 ||neo7x.com^
@@ -137116,6 +137117,7 @@ zzzyk.com###Tinfo
 ||oyllhwxhhwlir.site^
 ||oylyaz.mrkoll.se^
 ||oymfopsxkdygv.online^
+||oyn79g2o8y6ekubntoomr.rest^
 ||oynveturupdut.site^
 ||oyo4d.com^
 ||oyotii.sportokay.com^
@@ -171946,6 +171948,7 @@ zzzyk.com###Tinfo
 ||songtopbrand.com^
 ||sonic-ui.highereducation.com^
 ||sonicsads.com^
+||sonicsessions.net^
 ||soniouacnode.shop^
 ||soniouchopped.cyou^
 ||sonioutwicer.qpon^
@@ -188357,6 +188360,7 @@ zzzyk.com###Tinfo
 ||syncope12.top^
 ||syncsmussick.shop^
 ||syndenizen.shop^
+||syndetsparrowdubious.cyou^
 ||syndicate.payloadz.com^
 ||syndication-o.twitter.com^
 ||syndication.adlinknetwork.vn^
@@ -200496,6 +200500,7 @@ zzzyk.com###Tinfo
 ||trimreaddrunken.com^
 ||trineplurals.cfd^
 ||tringrod.com^
+||trinkumazygotejoss.cyou^
 ||trinolkgf.cfd^
 ||trio.autosanthana.com^
 ||trioletfused.com^
@@ -225922,6 +225927,7 @@ zzzyk.com###Tinfo
 ||zvoift.autouncle.pt^
 ||zvou.cn^
 ||zvouv.thehistorylist.com^
+||zvpmktldiqxdk.site^
 ||zvptrf.icu^
 ||zvqbbj.cn^
 ||zvqiczfvvisdr.website^
@@ -226221,6 +226227,7 @@ zzzyk.com###Tinfo
 ||zzbbjh.cn^
 ||zzbcje.com^
 ||zzbdq.satechi.net^
+||zzbkcfkcglkhm.online^
 ||zzcharming.top^
 ||zzchuy.cn^
 ||zzcmjn.com^
