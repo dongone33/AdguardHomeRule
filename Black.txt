@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-04 23:06:13
-# 总规则数: 230626 (黑: 226320, 白: 4306)
+﻿# 更新时间: 2026-08-05 01:04:16
+# 总规则数: 230643 (黑: 226337, 白: 4306)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -14855,6 +14855,7 @@ zzzyk.com###Tinfo
 ||9gq5.cl.app^
 ||9gustis.xyz^
 ||9gy3.cl.app^
+||9gz5q1l1tm3puxk.rest^
 ||9h1111.com^
 ||9h3s1ew2qn.com^
 ||9h5a.com^
@@ -38190,6 +38191,7 @@ zzzyk.com###Tinfo
 ||bmjmse.softsurroundings.com^
 ||bmjmtewumbiqx.website^
 ||bmjs.xzw.com^
+||bmjtlfhahyhhru.com^
 ||bmjvorszopmks.online^
 ||bmkhxvvneovqi.space^
 ||bmkjku09.cc^
@@ -41660,6 +41662,7 @@ zzzyk.com###Tinfo
 ||caimlkh.com^
 ||cainginburrocagmag.cfd^
 ||caingincagers.qpon^
+||cainianbussockguars.qpon^
 ||cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com^
 ||cairnedmacacus.qpon^
 ||caishenbaoyou.top^
@@ -61161,6 +61164,7 @@ zzzyk.com###Tinfo
 ||dinuojixie.com.cn^
 ||dioboldualistpenile.qpon^
 ||dioboljizzen.cyou^
+||diobolssorrowlr.cyou^
 ||diobolsuseable.cfd^
 ||diocgn.biltorvet.dk^
 ||diocoelstentonsurer.qpon^
@@ -122628,6 +122632,7 @@ zzzyk.com###Tinfo
 ||metricas.tufcleaning.ca^
 ||metricas.wbeduca.com.br^
 ||metricas.zionerp.com.br^
+||metricfresh.com^
 ||metricode.com^
 ||metricreceiver.cellrebel.com^
 ||metrics*.data.hicloud.com^
@@ -124899,6 +124904,7 @@ zzzyk.com###Tinfo
 ||milkway.lintlink.com^
 ||milky-silver.pro^
 ||milkyepic.com^
+||milkysell.pro^
 ||milkywaynewspaper.com^
 ||mill8grip.com^
 ||milladvocacyunderstandable.com^
@@ -126920,6 +126926,7 @@ zzzyk.com###Tinfo
 ||mousetrace.com^
 ||mouseyplunder.cyou^
 ||mousheen.net^
+||mousse32.com^
 ||moustachemailboxdesirable.com^
 ||moustacheoverloadwar.com^
 ||moustoctopaswafd.cfd^
@@ -139445,6 +139452,7 @@ zzzyk.com###Tinfo
 ||pdiiclqzeglig.site^
 ||pdiinfo.com.cn^
 ||pditfcqewnobw.site^
+||pdixvlkcnchon.online^
 ||pdjbkuevogfks.online^
 ||pdjjrh.xyz^
 ||pdjxoscm7.com^
@@ -140973,6 +140981,7 @@ zzzyk.com###Tinfo
 ||pitylusjuckiescolove.cyou^
 ||pityneedsdads.com^
 ||piucvzvncenei.site^
+||piupvzxrjejxr.online^
 ||piuyt.com^
 ||pivciahcdzvlm.website^
 ||pivimc.unitrailer.pl^
@@ -142918,6 +142927,7 @@ zzzyk.com###Tinfo
 ||ppedp.cn^
 ||ppee.xyz^
 ||pperkvadtvtxk.online^
+||ppezbvebaffvx.online^
 ||ppezijkacga.com^
 ||ppftj.freshcleantees.com^
 ||ppg.m.etoote.com^
@@ -145417,6 +145427,7 @@ zzzyk.com###Tinfo
 ||pvuznrtadztxu.space^
 ||pvvii.griotsgarage.com^
 ||pvvkigebunabd.site^
+||pvvobffbwykcv.website^
 ||pvwfz.tonimay.com.au^
 ||pvwmszjztmcoh.site^
 ||pvx.autohome.com.cn^
@@ -165806,6 +165817,7 @@ zzzyk.com###Tinfo
 ||sikuptdybwuwp.site^
 ||silanesyampa.shop^
 ||silaselsehold.com^
+||silbucoxhstkd.space^
 ||sildsloverly.qpon^
 ||silebu.xyz^
 ||sileemis.cfd^
@@ -166257,6 +166269,7 @@ zzzyk.com###Tinfo
 ||sjbgyak.cn^
 ||sjbnwzwwmcubf.site^
 ||sjbtqzptourxf.online^
+||sjcjqbxogouxr.online^
 ||sjdek.reebok.com^
 ||sjdfuvz.cn^
 ||sjdjcn.cn^
@@ -172804,6 +172817,7 @@ zzzyk.com###Tinfo
 ||sponsorshipprickly.com^
 ||sponsortown.de^
 ||spoods.rce.veeseo.com^
+||spooferfacial.cyou^
 ||spooksmalldowny.com^
 ||spookyascentfranchise.com^
 ||spookyexchange.com^
@@ -205237,6 +205251,7 @@ zzzyk.com###Tinfo
 ||upkmxceubeyuz.space^
 ||upknodzbfkxmm.space^
 ||upkpezmxsosqa.today^
+||upkqznujuodgb.online^
 ||upl.baidu.com^
 ||upl.net-solutions.vn^
 ||upleandiocoel.cyou^
@@ -211033,6 +211048,7 @@ zzzyk.com###Tinfo
 ||vwcmeebcmvgbq.website^
 ||vwcsjufzjcqen.site^
 ||vwcwncsrsedyd.space^
+||vwe2gntbzifptkfpukh87rwg.cfd^
 ||vwe5pjt0jq.com^
 ||vwe73.icu^
 ||vweuk9vf.hf7mlgjm6twbb5hjyn6b9xi2u.cyou^
@@ -220630,6 +220646,7 @@ zzzyk.com###Tinfo
 ||y7veh3w.q4w9l6g3w.work^
 ||y820.darientimes.com^
 ||y84k.8890.com^
+||y89fjgm3vc.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y8lsyibocd.ru^
 ||y8rb4.com^
