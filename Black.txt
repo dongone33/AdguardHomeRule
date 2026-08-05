@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-06 03:58:10
-# 总规则数: 230979 (黑: 226671, 白: 4308)
+﻿# 更新时间: 2026-08-06 05:19:13
+# 总规则数: 230996 (黑: 226688, 白: 4308)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -40908,6 +40908,7 @@ zzzyk.com###Tinfo
 ||bytytxkz.icu^
 ||byuh78fy2m.com^
 ||byuwzr.amanacapital.com^
+||byvfjdjczibtq.online^
 ||byvlph.xyz^
 ||bywaycosine.cfd^
 ||bywxp.aritzia.com^
@@ -42606,6 +42607,7 @@ zzzyk.com###Tinfo
 ||careewituhin.org^
 ||carefree-complex.pro^
 ||carefreefootball.pro^
+||carefuldependent.pro^
 ||carefuldolls.com^
 ||careless05.com^
 ||carelessnurse.com^
@@ -50325,6 +50327,7 @@ zzzyk.com###Tinfo
 ||cqhot.club^
 ||cqishr.mobile.de^
 ||cqisidohiplpc.space^
+||cqjfqrupph.com^
 ||cqjgztejpzvkd.space^
 ||cqjjlsy.com^
 ||cqjoxvzv.kikakortebroek.nl^
@@ -72671,6 +72674,7 @@ zzzyk.com###Tinfo
 ||fdmsu.greenpan.us^
 ||fdnamecruck.cfd^
 ||fdnaylrjswdud.space^
+||fdnpobyxjxblq.online^
 ||fdnyk.suzannesomers.com^
 ||fdnzfwspjufno.website^
 ||fdnzpgzakqnsj.online^
@@ -77866,6 +77870,7 @@ zzzyk.com###Tinfo
 ||gayal.guter-plan.at^
 ||gayal.maxmasnick.com^
 ||gayal.stockshouse.co^
+||gaycatfollyerpolity.cyou^
 ||gaycloud.cn^
 ||gayeah.cn^
 ||gayetypgnttrpoctroy.cfd^
@@ -125678,6 +125683,7 @@ zzzyk.com###Tinfo
 ||mkt6333.com^
 ||mkt941.com^
 ||mktadsodr.ppdai.com^
+||mktbqkzdzadrg.site^
 ||mktcs.cloudapps.cisco.com^
 ||mktg.aa.f5.com^
 ||mktg.act-on.com^
@@ -128441,6 +128447,7 @@ zzzyk.com###Tinfo
 ||mwjakey.shop^
 ||mwjfiwyvo.com^
 ||mwjnirzamspps.space^
+||mwkljcqfgyvmw.site^
 ||mwllnzblxxylc.space^
 ||mwlucuvbyrff.com^
 ||mwmxy.lahuafa.com^
@@ -130185,6 +130192,7 @@ zzzyk.com###Tinfo
 ||nenzr.victoriabeckhambeauty.com^
 ||neo.gpetsweb.com^
 ||neo7x.com^
+||neoasjnkklymj.online^
 ||neobasnet.timeout.ru^
 ||neobux.com^
 ||neocounter.neoworx-blog-tools.net^
@@ -133304,6 +133312,7 @@ zzzyk.com###Tinfo
 ||nybjwktlrcwca.site^
 ||nybkctzmldnye.space^
 ||nybrz.loonmtn.com^
+||nybxybywscnao.online^
 ||nyc14ny.com^
 ||nyceov.life.ru^
 ||nycjuaeiuzhxe.site^
@@ -133324,6 +133333,7 @@ zzzyk.com###Tinfo
 ||nyfwoxdfhgufr.online^
 ||nygcwpskctfwq.space^
 ||nyhed.danskespil.dk^
+||nyhhwhokdnibh.online^
 ||nyhopgjjlgmyo.space^
 ||nyhpyq.com^
 ||nyjnursqfwsum.website^
@@ -151370,6 +151380,7 @@ zzzyk.com###Tinfo
 ||rfity.com^
 ||rfjckj.cn^
 ||rfjjzb4p6bozm89j.rest^
+||rfjleaeekobvz.online^
 ||rfjleunftkwbm.online^
 ||rfjrih.skinceuticals.com^
 ||rfk.biglots.com^
@@ -155815,6 +155826,7 @@ zzzyk.com###Tinfo
 ||sabdljzmuakkt.space^
 ||sabedawiggle.shop^
 ||sabellaasepsis.cfd^
+||sabellimidnblacked.qpon^
 ||saber.srvcs.tumblr.com^
 ||sabergood.com^
 ||sabinpanhas.cyou^
@@ -171735,6 +171747,7 @@ zzzyk.com###Tinfo
 ||solodiembays.qpon^
 ||soloedbiblist.cyou^
 ||soloedscape.com^
+||soloistair.com^
 ||soloistchinese.com^
 ||soloistrottenfountain.com^
 ||solonstrych.shop^
@@ -172858,6 +172871,7 @@ zzzyk.com###Tinfo
 ||spicy-effect.com^
 ||spicy-two.com^
 ||spicycopy.com^
+||spicycopy.pro^
 ||spicydrama.pro^
 ||spicyram.com^
 ||spicyrtb.com^
@@ -204884,6 +204898,7 @@ zzzyk.com###Tinfo
 ||unfamllliardate.net^
 ||unfamllliardates.com^
 ||unfatedbroomy.cyou^
+||unfearysaviour.qpon^
 ||unfinished-apple.com^
 ||unfit-discount.pro^
 ||unflagriffspoppas.cyou^
@@ -212194,6 +212209,7 @@ zzzyk.com###Tinfo
 ||waplog.net^
 ||wapn1.flosports.tv^
 ||wappatopunnerzaurak.qpon^
+||wappatoregrets.cyou^
 ||wappatoskee.cyou^
 ||wapperrattage.com^
 ||wappoputter.shop^
@@ -214078,6 +214094,7 @@ zzzyk.com###Tinfo
 ||whaujeeckudsa.net^
 ||whaukaixoargouh.net^
 ||whaunsoast.net^
+||whayzoxsfxef.com^
 ||whazrm9wa.com^
 ||whbfbktmafnff.space^
 ||whbhsoft.cn^
