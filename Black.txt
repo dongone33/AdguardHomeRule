@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-09 04:03:41
-# 总规则数: 231843 (黑: 227535, 白: 4308)
+﻿# 更新时间: 2026-08-09 04:48:39
+# 总规则数: 231863 (黑: 227555, 白: 4308)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18638,6 +18638,7 @@ zzzyk.com###Tinfo
 ||accusationroad.com^
 ||accusedbeatnormandy.com^
 ||accuserutility.com^
+||accusestannatechiru.qpon^
 ||accustomedinaccessible.com^
 ||accustomjumper.com^
 ||acd-op-hicloud-com-drcn.appacc.dbankedge.net^
@@ -37996,6 +37997,7 @@ zzzyk.com###Tinfo
 ||bll5.com^
 ||bllbaby.cn^
 ||bllbvv.xyz^
+||bllqbpgjkzqu.com^
 ||bllqp.baddworldwide.org^
 ||bllzgqbyp.com^
 ||blmgg.vibeszn.com^
@@ -39209,6 +39211,7 @@ zzzyk.com###Tinfo
 ||bqsjb.cn^
 ||bqsm.com.cn^
 ||bqstreamer.com^
+||bqsxrfaxrnvd.com^
 ||bqszugpxadzlg.store^
 ||bqtboylklunvj.space^
 ||bqtxcs.bellacoastaldecor.com^
@@ -61754,6 +61757,7 @@ zzzyk.com###Tinfo
 ||disturbancecommemorate.com^
 ||disturbedquiet.com^
 ||disturbsparkler.com^
+||disturbvastly.cfd^
 ||dit-dit-dot.com^
 ||dit.whatsapp.net.iberostar.com^
 ||dit.whatsapp.net^
@@ -101689,6 +101693,7 @@ zzzyk.com###Tinfo
 ||jtknl.ashanderie.com^
 ||jtkshop.net^
 ||jtlopk.xyz^
+||jtlovmkxtsj.com^
 ||jtlvnjrfwwgm.com^
 ||jtoph.gibsonlook.com^
 ||jtopudllmvejj.website^
@@ -103868,6 +103873,7 @@ zzzyk.com###Tinfo
 ||kite.launchcdn.com^
 ||kite.oakes.software^
 ||kite.zaahir.ca^
+||kiteateesscollop.cyou^
 ||kitemannishmine.cyou^
 ||kiteo.grindbasketball.com^
 ||kitetuning.com^
@@ -104482,6 +104488,7 @@ zzzyk.com###Tinfo
 ||knwjmjujhadoo.site^
 ||knxcyvvibuvde.website^
 ||knxnrqidbmlen.site^
+||knxvgbbvpymdke.com^
 ||knyhnvzqbsqdc.website^
 ||knymhv.ariat.com^
 ||knzmrw.infojobs.net^
@@ -132473,6 +132480,7 @@ zzzyk.com###Tinfo
 ||nntgna.dmm.com^
 ||nnuc.cn^
 ||nnupmdxkvxqip.online^
+||nnuylcspwb.com^
 ||nnvkh.com^
 ||nnvoia.closetworld.com^
 ||nnvstgnnimwha.space^
@@ -148404,6 +148412,7 @@ zzzyk.com###Tinfo
 ||qualified-beach.pro^
 ||qualifiedact.com^
 ||qualifiedbillion.com^
+||qualifiedjunior.pro^
 ||qualigo.de^
 ||qualitas-app.hotdoc.com.au^
 ||qualitiessnoutdestitute.com^
@@ -151145,6 +151154,7 @@ zzzyk.com###Tinfo
 ||rent.mgrc.com^
 ||rentalsloppyodds.com^
 ||renteostend.com^
+||rentfavourablecashmere.com^
 ||rentia.se^
 ||rentify.se^
 ||rentinfinity.com^
@@ -193717,6 +193727,7 @@ zzzyk.com###Tinfo
 ||tfomxpkyvdzyi.space^
 ||tfonlyuse.shop^
 ||tfosrv.com^
+||tfovmuplmecxo.website^
 ||tfoydw.topvintage.be^
 ||tfoyfx.dukefotografia.com^
 ||tfpeev.chanluu.com^
@@ -194306,6 +194317,7 @@ zzzyk.com###Tinfo
 ||thrtamykpggls.space^
 ||thrtle.com^
 ||thrummypoebirdupslip.cyou^
+||thrummysissify.cyou^
 ||thrumsagamid.qpon^
 ||thrustinextricable.com^
 ||thrustssacculi.cyou^
@@ -196473,6 +196485,7 @@ zzzyk.com###Tinfo
 ||toxanendhhcjx.site^
 ||toxauncouch.com^
 ||toxemiaseabags.com^
+||toxhfxmokoduz.space^
 ||toxiconbch.cyou^
 ||toxtren.com^
 ||toxtysjglzklk.site^
@@ -196761,6 +196774,7 @@ zzzyk.com###Tinfo
 ||tqmsl.bullymake.com^
 ||tqmwqfh.yo-bc.de^
 ||tqnogxuqgwlmj.space^
+||tqobbmqmbhqlz.online^
 ||tqobdmwkakmhw.online^
 ||tqoktissnsrqqf.com^
 ||tqoneyyivw.club^
@@ -204570,6 +204584,7 @@ zzzyk.com###Tinfo
 ||udknsbanxlrfh.site^
 ||udkpspfigtgez.site^
 ||udm.scorecardresearch.com^
+||udmheswqruupa.website^
 ||udmmdl.dudalina.com.br^
 ||udmserve.net^
 ||udns.weixin.qq.com^
@@ -210715,6 +210730,7 @@ zzzyk.com###Tinfo
 ||vkoq4kyzmj.com^
 ||vkoqaquif.com^
 ||vkpfzrvrkwimum.com^
+||vkpwnuxlgtepw.website^
 ||vkqbqmlp.realveed.com^
 ||vkqowkbmcjzin.online^
 ||vkrbl.faithgateway.com^
@@ -211165,6 +211181,7 @@ zzzyk.com###Tinfo
 ||vnvlbydtlqvw.com^
 ||vnvmif.cn^
 ||vnvws.theirnibs.com^
+||vnwcesyaexpln.site^
 ||vnwhzk.togas.com^
 ||vnwish.shop^
 ||vnxfggfffjcvp.online^
@@ -211746,6 +211763,7 @@ zzzyk.com###Tinfo
 ||vsjalz.icu^
 ||vsjoderczncr.com^
 ||vsjvq.headstrongltd.com^
+||vsjzxaluvkagy.website^
 ||vskewwuoda.com^
 ||vskfhfqsvurqy.online^
 ||vskq792.com^
@@ -212166,6 +212184,7 @@ zzzyk.com###Tinfo
 ||vwqbuc.beautymade.com^
 ||vwresv.homepro.jp^
 ||vwrgru.happymail.co.jp^
+||vwrlrqohhyzlu.space^
 ||vwrwbedwbynww.site^
 ||vwsezpkqtgaez.site^
 ||vwshvtlrdkdwl.site^
@@ -215988,6 +216007,7 @@ zzzyk.com###Tinfo
 ||wnsoth.cn^
 ||wnsr8h5cdnen.com^
 ||wnsr999.top^
+||wnsyicfquaczs.site^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
 ||wnt-some-push.net^
