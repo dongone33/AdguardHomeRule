@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-08 09:54:28
-# 总规则数: 231644 (黑: 227337, 白: 4307)
+﻿# 更新时间: 2026-08-08 11:39:25
+# 总规则数: 231678 (黑: 227371, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -24591,6 +24591,7 @@ zzzyk.com###Tinfo
 ||aibreeno.com^
 ||aic.oceanengine.com^
 ||aichat2023.com^
+||aickkblppjnkc.site^
 ||aickw1c4w.com^
 ||aiclk.com^
 ||aicod.dondi.it^
@@ -33386,6 +33387,7 @@ zzzyk.com###Tinfo
 ||avmviiih.com^
 ||avmvk.oliversweeney.com^
 ||avmws.com^
+||avmzgbbvwfnnw.com^
 ||avn.innity.com^
 ||avnhqqqoljvgf.space^
 ||avntf.botach.com^
@@ -34759,6 +34761,7 @@ zzzyk.com###Tinfo
 ||bakrathtfa.com^
 ||bakteso.ru^
 ||bakulatroolie.shop^
+||bakyayljzhoga.online^
 ||bal.balciselahattin.com^
 ||bal113.rhdej.cn^
 ||balamall.shop^
@@ -38945,6 +38948,7 @@ zzzyk.com###Tinfo
 ||bostonceltics.com.cn^
 ||bostonparadise.com^
 ||bostonwall.com^
+||boswelllarches.qpon^
 ||bot-checker.com^
 ||bot.agerun.jp^
 ||bot.asksyllable.com^
@@ -39582,6 +39586,7 @@ zzzyk.com###Tinfo
 ||briarshops.qpon^
 ||briarygimellegroom.cfd^
 ||bribealkes.cfd^
+||bribriidyllia.qpon^
 ||brice-test.nawar.io^
 ||brick.xhamster.com^
 ||brick.xhamster.desi^
@@ -40120,6 +40125,7 @@ zzzyk.com###Tinfo
 ||bthythvdrdbud.space^
 ||btivxhoyebnbx.space^
 ||btjcjbqpmjzhk.website^
+||btjcovvkyaiqj.website^
 ||btjsvl.icu^
 ||btkbei.courir.com^
 ||btkdu.roundhouseprovisions.com^
@@ -40388,6 +40394,7 @@ zzzyk.com###Tinfo
 ||bumfxnyfnepjh.online^
 ||bumlam.com^
 ||bummerbuckledindraft.cfd^
+||bummershoga.qpon^
 ||bumpermash.com^
 ||bumpssn.cyou^
 ||bumpy-beyond.com^
@@ -41667,6 +41674,7 @@ zzzyk.com###Tinfo
 ||cabhwq.com^
 ||cabiaiquidam.qpon^
 ||cabindasillockelevons.cyou^
+||cabindauridine.cyou^
 ||cabininestimable.com^
 ||cabinpews.shop^
 ||cabinzenith.com^
@@ -45595,6 +45603,7 @@ zzzyk.com###Tinfo
 ||cimeliajose.qpon^
 ||cimeterswail.cfd^
 ||cimgs.17xianwan.com^
+||cimlinecreakymake.cyou^
 ||cimumusic.com^
 ||cinarra.com^
 ||cincinnati-content.cresa.com^
@@ -50635,6 +50644,7 @@ zzzyk.com###Tinfo
 ||crayfish.portbanecottagelochtay.co.uk^
 ||crayfish.spotlessconcepts.com^
 ||crayon.meishichina.com^
+||crayonunhated.qpon^
 ||crazefiles.com^
 ||crazesmalto.com^
 ||crazilyshulnserment.cyou^
@@ -52040,6 +52050,7 @@ zzzyk.com###Tinfo
 ||cvs.kireimo.jp^
 ||cvsheil.com^
 ||cvshucoqrnqjq.website^
+||cvsvdjrrfv.com^
 ||cvt.mydas.mobi^
 ||cvt1.sibnet.ru^
 ||cvtr.io^
@@ -54593,6 +54604,7 @@ zzzyk.com###Tinfo
 ||daleelerah.info^
 ||daleknutbg.com^
 ||daleriki.com^
+||dalesdelubra.shop^
 ||dalestretching.com^
 ||dalethnecking.qpon^
 ||dalianhengtai.com^
@@ -58814,6 +58826,7 @@ zzzyk.com###Tinfo
 ||datingtopgirls.com^
 ||datingwithmee.net^
 ||datiscamatting.shop^
+||dativesyapon.qpon^
 ||datk.anythinktech.com^
 ||datk.bridgeoos.com^
 ||datk.statisticslinks.com^
@@ -60499,6 +60512,7 @@ zzzyk.com###Tinfo
 ||dfukhtby.com^
 ||dfukiuubowdft.space^
 ||dfuman.kasaideia.com.br^
+||dfunqslocpfir.site^
 ||dfutznmffzefs.site^
 ||dfuufcsikcian.website^
 ||dfuvslppaxhzv.site^
@@ -61327,6 +61341,7 @@ zzzyk.com###Tinfo
 ||dimmockvanglo.com^
 ||dimnessslatecosmetic.com^
 ||dimoo.monos.com^
+||dimpledplain.cyou^
 ||dimplesredness.cyou^
 ||dimpsychology.pro^
 ||dimqtugkwxzrq.site^
@@ -63250,6 +63265,7 @@ zzzyk.com###Tinfo
 ||dp3.qq.com^
 ||dp45nhyltt487.cloudfront.net^
 ||dp94m8xzwqsjk.cloudfront.net^
+||dpauuqyjshonj.online^
 ||dpayzkkpynzdq.online^
 ||dpbgnf.xyz^
 ||dpbolvw.net^
@@ -64257,6 +64273,7 @@ zzzyk.com###Tinfo
 ||dtckvpc.cn^
 ||dtcltx.com^
 ||dtcollect.newsbang.com^
+||dtcqowyzyqjw.com^
 ||dtdjhb.icu^
 ||dtdvmuadong-lienquan.com^
 ||dtent.povvverz.one^
@@ -66099,6 +66116,7 @@ zzzyk.com###Tinfo
 ||eagerflame.com^
 ||eagerknight.com^
 ||eagerlycuisinecast.com^
+||eagermortgage.pro^
 ||eagjohwicefoq.website^
 ||eagks.painfulpleasures.com^
 ||eagle-insight.com^
@@ -68529,6 +68547,7 @@ zzzyk.com###Tinfo
 ||emdcadvertise-global.eastmoney.com^
 ||emdcadvertise.eastmoney.com^
 ||emdcadvise.eastmoney.com^
+||emddsbycvshdd.space^
 ||emdlqs.longtallsally.com^
 ||emdnriustcngd.website^
 ||emdtpe.leksakscity.se^
@@ -73497,6 +73516,7 @@ zzzyk.com###Tinfo
 ||fgxllefnphgtu.site^
 ||fgxsmuyzcrshu.space^
 ||fgxuxjsfbhhnd.space^
+||fgxyplusqalts.com^
 ||fgyhvzvoxlyvs.space^
 ||fgzba.com^
 ||fgzcklvmtptvv.space^
@@ -76170,6 +76190,7 @@ zzzyk.com###Tinfo
 ||friendsfrozen.com^
 ||friendshipclumsy.com^
 ||friendshipmale.com^
+||frierinputs.cfd^
 ||frierscloofbundle.cyou^
 ||friezesgaliumtanaist.qpon^
 ||friezesoneiric.cyou^
@@ -78574,6 +78595,7 @@ zzzyk.com###Tinfo
 ||genbalar.com^
 ||gendbkamiggxs.site^
 ||gendernewsmanmistic.qpon^
+||genecorpannel.cfd^
 ||genecute.com^
 ||genekifanobeli.cyou^
 ||generaleducation.graduateprogram.org^
@@ -101020,6 +101042,7 @@ zzzyk.com###Tinfo
 ||jquery.envi-met.com.cn^
 ||jqueryget.com^
 ||jqueryoi.com^
+||jqvbiqdilxayx.space^
 ||jqvqzp.kimonomachi.co.jp^
 ||jqwcxpphzgxym.online^
 ||jqwlnzqmnmqmf.online^
@@ -105533,6 +105556,7 @@ zzzyk.com###Tinfo
 ||kzmbchufujaov.website^
 ||kzmsqkprwtqnq.website^
 ||kzmual.superga.com^
+||kzmuyszlgnhva.online^
 ||kzni.jwhfn.cn^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
@@ -115694,6 +115718,7 @@ zzzyk.com###Tinfo
 ||lowerthewatts.net^
 ||loweskin-ss.checkoutera.com^
 ||loweststernhaunting.com^
+||lowewhitney.cfd^
 ||lowfdfec.com^
 ||lowgxl.yokumoku.jp^
 ||lowkeypalmtree.com^
@@ -127444,6 +127469,7 @@ zzzyk.com###Tinfo
 ||mou.niu.xunlei.com^
 ||mouaa.com^
 ||mouao.milkmakeup.com^
+||mouchedepural.cyou^
 ||moughtgdsanhima.cfd^
 ||mouilldruith.qpon^
 ||moujikestus.cyou^
@@ -143451,6 +143477,7 @@ zzzyk.com###Tinfo
 ||potttackers.cfd^
 ||pottydfault.cfd^
 ||potwm.com^
+||potwortfurnace.cyou^
 ||potz123.oss-cn-shenzhen.aliyuncs.com^
 ||pouceyferulas.cfd^
 ||poufsdivan.cfd^
@@ -145032,6 +145059,7 @@ zzzyk.com###Tinfo
 ||prxuapqwdrdin.website^
 ||prxymecb.cn^
 ||pryckdnodwfsb.online^
+||pryersiwearth.cfd^
 ||prylersteeds.qpon^
 ||pryqzoejbfxro.store^
 ||prysyonjxnzea.site^
@@ -159108,6 +159136,7 @@ zzzyk.com###Tinfo
 ||seenthis.se^
 ||seentoorie.shop^
 ||seenvault.com^
+||seepageinlikemetreza.cyou^
 ||seepedaphodal.cfd^
 ||seepingkol.cfd^
 ||seepsyep.cfd^
@@ -159292,6 +159321,7 @@ zzzyk.com###Tinfo
 ||sendtraffic.com^
 ||sendwebpush.com^
 ||sendword.ir^
+||senegalcarbene.qpon^
 ||senegalimproof.cfd^
 ||seneptm.eposcard.co.jp^
 ||sengimirexes.shop^
@@ -167413,6 +167443,7 @@ zzzyk.com###Tinfo
 ||sldoj.shoptimized.net^
 ||sldojbcfjptsw.space^
 ||sleavedyecch.cyou^
+||sleazytaste.com^
 ||sled.arvex-rental-cars.com^
 ||sledconveniencestuff.com^
 ||sleddedtare.shop^
@@ -173159,6 +173190,7 @@ zzzyk.com###Tinfo
 ||spacepoetic.com^
 ||spacepools.org^
 ||spacepush.ru^
+||spacersnocuous.cyou^
 ||spaces.martela.com^
 ||spaces.martela.fi^
 ||spaces.martela.no^
@@ -207589,6 +207621,7 @@ zzzyk.com###Tinfo
 ||uwvlmbkscdfqm.com^
 ||uwvuepnaaefvm.space^
 ||uwwjhu.peppynet.com^
+||uwwubdtdkvmhk.site^
 ||uwxdru.hellovillam.com^
 ||uwxez.com^
 ||uwxtoegtarqfw.online^
@@ -220421,6 +220454,7 @@ zzzyk.com###Tinfo
 ||xoiuprsewuyst.site^
 ||xokcaxw.cn^
 ||xokxqfxasjuaw.space^
+||xolbmqosvwehi.com^
 ||xolebe.footway.se^
 ||xolerkr.cn^
 ||xolfzsxmgswqt.site^
