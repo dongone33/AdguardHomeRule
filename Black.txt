@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-08 23:47:03
-# 总规则数: 231793 (黑: 227486, 白: 4307)
+﻿# 更新时间: 2026-08-09 00:17:04
+# 总规则数: 231811 (黑: 227504, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9718,6 +9718,7 @@ zzzyk.com###Tinfo
 ||2i87bpcbf.de^
 ||2iiyrxk0.com^
 ||2imon4qar.de^
+||2it7czo9p7vn2f6j1cp.rest^
 ||2j9xi6ztt6vr4fo7477.cfd^
 ||2jc9.8890.com^
 ||2jmis11eq.de^
@@ -33995,6 +33996,7 @@ zzzyk.com###Tinfo
 ||azu0jytzgm.com^
 ||azuaka.the-cover-store.com^
 ||azukgee.cn^
+||azureanungrasppluvial.cyou^
 ||azuremystique.com^
 ||azurestealth.com^
 ||azuvwa.ceps.io^
@@ -42166,6 +42168,7 @@ zzzyk.com###Tinfo
 ||cansoopaloid.com^
 ||canstrm.com^
 ||cantdogtabanidcorers.cfd^
+||canteenlupulusmahar.cyou^
 ||canterkuli.qpon^
 ||cantigasheep.qpon^
 ||cantonsaunt.cfd^
@@ -65056,6 +65059,7 @@ zzzyk.com###Tinfo
 ||dynssp.com^
 ||dyntrk.com^
 ||dyodrs1kxvg6o.cloudfront.net^
+||dyosluubp.com^
 ||dyp012.com^
 ||dyp013.com^
 ||dyp2p-ali.douyucdn.cn^
@@ -76886,6 +76890,7 @@ zzzyk.com###Tinfo
 ||fuztty4b5g.com^
 ||fuzvjy.com^
 ||fuzzr.aroma360.es^
+||fuzzy-pitch.pro^
 ||fuzzyaudio.com^
 ||fuzzybasketball.com^
 ||fuzzyerror.com^
@@ -98629,6 +98634,7 @@ zzzyk.com###Tinfo
 ||ixtzexgnofhym.space^
 ||ixubgeuvxzgle.online^
 ||ixug0amgtn.com^
+||ixyamnenffvb.com^
 ||ixyfhlybedovh.online^
 ||ixylwategbrdq.site^
 ||iy.com.cn^
@@ -105610,6 +105616,7 @@ zzzyk.com###Tinfo
 ||kzmsqkprwtqnq.website^
 ||kzmual.superga.com^
 ||kzmuyszlgnhva.online^
+||kzmvznzwfweit.website^
 ||kzni.jwhfn.cn^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
@@ -107396,6 +107403,7 @@ zzzyk.com###Tinfo
 ||lexicvagile.cfd^
 ||lexip.4pcdn.de^
 ||lexity.com^
+||lexniyqceasrv.online^
 ||lexolbuvjhmau.online^
 ||lexorawebnet.com^
 ||lexozfldkklgvc.com^
@@ -116285,6 +116293,7 @@ zzzyk.com###Tinfo
 ||lsjarh.top^
 ||lsjne.com^
 ||lsjrlnwssqpm.com^
+||lsjxzplvdpgaa.website^
 ||lskmipb.icu^
 ||lskug.outdoorcookingpros.com^
 ||lslapckmkdjvx.site^
@@ -126259,6 +126268,7 @@ zzzyk.com###Tinfo
 ||mlnbike.com^
 ||mlnbsdowzejzz.website^
 ||mlno6.com^
+||mlnxslqeaiano.online^
 ||mloearytfxebml.com^
 ||mlog.aipai.com^
 ||mlog.bigda.com^
@@ -127704,6 +127714,7 @@ zzzyk.com###Tinfo
 ||mpj97.com^
 ||mpjezkqsftand.online^
 ||mpjhcyxaczwoh.space^
+||mpjldmmgpqcsb.online^
 ||mpjtif.viabovag.nl^
 ||mpk01.com^
 ||mpkcabinnyaab.site^
@@ -131435,6 +131446,7 @@ zzzyk.com###Tinfo
 ||nfwebminer.com^
 ||nfwosdlndtra.com^
 ||nfxonb.icu^
+||nfyequgxlfjca.website^
 ||nfzxcsyycurrk.site^
 ||ng-h5.ng7772.com^
 ||ng-vn-notice.gameitop.com^
@@ -131528,6 +131540,7 @@ zzzyk.com###Tinfo
 ||ngogmbe.cn^
 ||ngpao.mesotheliomaveterans.org^
 ||ngrgnikydmsoo.space^
+||ngrikewslmhsa.website^
 ||ngsaang.top^
 ||ngseriegentsf.org^
 ||ngtraveler.com.cn^
@@ -134911,6 +134924,7 @@ zzzyk.com###Tinfo
 ||ogukky.canadagoose.jp^
 ||ogury.co^
 ||ogury.com^
+||ogvnjrogfmglm.website^
 ||ogwamltq.cloud.back.xinseogame.com^
 ||ogwjcrwlwacxrny.com^
 ||ogwsktwhfwlky.space^
@@ -154129,6 +154143,7 @@ zzzyk.com###Tinfo
 ||rtj3m.cn0518.com^
 ||rtjhbqzduzkmx.site^
 ||rtjmln.xyz^
+||rtjodijvjirb.com^
 ||rtjsbjniax.com^
 ||rtk.falalima.com.br^
 ||rtk.fullsalessystem.com^
@@ -195030,6 +195045,7 @@ zzzyk.com###Tinfo
 ||tjmchkmpqfszj.online^
 ||tjme.io^
 ||tjmsqsemqyshc.website^
+||tjmucsni.com^
 ||tjmzzk.com^
 ||tjn.abmelder.de^
 ||tjn.abmelder24.de^
@@ -210655,6 +210671,7 @@ zzzyk.com###Tinfo
 ||vkicr.snagtights.com.au^
 ||vkiibgvoxf.com^
 ||vkiqovvfivibd.space^
+||vkj9mko5efuminb135m.cfd^
 ||vkjhbnngmefp.com^
 ||vkjiwgmipziva.space^
 ||vkjqbb.xyz^
@@ -223410,6 +223427,7 @@ zzzyk.com###Tinfo
 ||youngsoutloveamuguis.cyou^
 ||youngstermansionphrase.com^
 ||youngstreet.pro^
+||younkergongman.cyou^
 ||youone.www.iguitaubate.com.br^
 ||youp05.com^
 ||youpeng.pw^
