@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-08 20:03:01
-# 总规则数: 231741 (黑: 227434, 白: 4307)
+﻿# 更新时间: 2026-08-08 21:09:54
+# 总规则数: 231761 (黑: 227454, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -24853,6 +24853,7 @@ zzzyk.com###Tinfo
 ||aiwei365.net^
 ||aiwen.cc^
 ||aiwenyisheng.mobi^
+||aiwmlmzzomtjt.space^
 ||aixcdn.com^
 ||aixdassies.cyou^
 ||aixiawx.com^
@@ -25716,6 +25717,7 @@ zzzyk.com###Tinfo
 ||alngdwetstglj.site^
 ||alnko.cn^
 ||alnop.skidznyc.com^
+||alnurswyejuzu.website^
 ||alnusonmun.cfd^
 ||alnw3nsdi.com^
 ||aloatchuraimti.net^
@@ -26154,6 +26156,7 @@ zzzyk.com###Tinfo
 ||ampltd2.medal.tv^
 ||ampmhcbehnapwt.com^
 ||amps.yoyi.com.cn^
+||ampscamp.net^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||ampxchange.com^
 ||amqa11.com^
@@ -33652,6 +33655,7 @@ zzzyk.com###Tinfo
 ||axkxy.com^
 ||axltkuanrhyuz.space^
 ||axmaxhsa.com^
+||axmendodonapicea.cfd^
 ||axmlccssip.com^
 ||axmmilepqvdyj.world^
 ||axnskz.power-stones.jp^
@@ -37168,6 +37172,7 @@ zzzyk.com###Tinfo
 ||bifqprmxqv.com^
 ||bifronthellionhumphs.qpon^
 ||bifrost.oddin.gg^
+||bifvabfroza.in^
 ||bifyeldv.top^
 ||big-brief.com^
 ||big-loads.com^
@@ -39094,6 +39099,7 @@ zzzyk.com###Tinfo
 ||bpaoj.jettylife.com^
 ||bpatizov.com^
 ||bpauszxiaozwb.site^
+||bpaybiplqddqb.website^
 ||bpb.bikalpabazar.com^
 ||bpblv.katesylvester.co.nz^
 ||bpbnelpowldjl.space^
@@ -41771,6 +41777,7 @@ zzzyk.com###Tinfo
 ||cagaieedrohdv.site^
 ||cage6west.com^
 ||cagealas.com^
+||cagfqiocagixd.website^
 ||cagkpu.suitdirect.co.uk^
 ||cagothie.net^
 ||cahe.cl.app^
@@ -52438,6 +52445,7 @@ zzzyk.com###Tinfo
 ||czrlp.luxebouquet.com.au^
 ||czrqtkjxzzwtu.website^
 ||czrwtre.cn^
+||czrxruykulrga.website^
 ||czsf.cl.app^
 ||czshenyue.cn^
 ||czsk.sharpmarketing.eu^
@@ -67394,6 +67402,7 @@ zzzyk.com###Tinfo
 ||egt091102207euc.click^
 ||egtpf.freshcleantees.com^
 ||eguo.info^
+||egutbisobtaga.online^
 ||egvemw.aboutyou.ee^
 ||egvhd2ggc1.com^
 ||egvlsbzuolczs.site^
@@ -67740,6 +67749,7 @@ zzzyk.com###Tinfo
 ||elcncc.com^$third-party
 ||elcoastlinecall.com^
 ||elcqk.mytriorings.com^
+||eldaibwgnimzb.site^
 ||elderlaw.eldercounsel.com^
 ||elderly-block.pro^
 ||elderly-fail.pro^
@@ -73402,6 +73412,7 @@ zzzyk.com###Tinfo
 ||ffriedadl.com^
 ||ffrmel.gerryweber.com^
 ||ffrmwn.musinsa.com^
+||ffryqzpblxa.com^
 ||ffsfp.crocs.co.uk^
 ||ffskgnxhhnqaf.website^
 ||ffsrxeamzwtsl.website^
@@ -76198,6 +76209,7 @@ zzzyk.com###Tinfo
 ||frightenedcraft.com^
 ||frighteningrelative.com^
 ||frightfulvisitorimportant.com^
+||frigid-user.pro^
 ||frigidzymases.cyou^
 ||frigssstor.cyou^
 ||frijoleponabode.cyou^
@@ -106032,6 +106044,7 @@ zzzyk.com###Tinfo
 ||laiququan.com^
 ||lairdinnerly.cfd^
 ||lairpurposelyremainder.com^
+||laiserpeglet.com^
 ||laisuatkiemtiencao.com^
 ||lait.a21l.top^
 ||laitethmoid.cyou^
@@ -118632,6 +118645,7 @@ zzzyk.com###Tinfo
 ||mackeeper.com^
 ||mackeeperapp.mackeeper.com^
 ||mackerel.passiveincome.io^
+||mackinsbirianiusurper.cyou^
 ||macledyammers.cfd^
 ||maclwangluokeji.cn^
 ||macplatform.wondershare.com^
@@ -146923,6 +146937,7 @@ zzzyk.com###Tinfo
 ||qdvideo.xyz^
 ||qdwght.com^
 ||qdwhru8p2.com^
+||qdwkcbqso.com^
 ||qdwnlkdw.com^
 ||qdxkb721am.xyz^
 ||qdxpgtsqvwwlqbx.com^
@@ -186895,6 +186910,7 @@ zzzyk.com###Tinfo
 ||stormgate.production.raptive.com^
 ||stormiq.com^
 ||stormreader.cn^
+||stormyairbornefacility.com^
 ||stormyflower.com^
 ||stortla.com^
 ||storybeyondroughly.com^
@@ -187514,6 +187530,7 @@ zzzyk.com###Tinfo
 ||suativinguyenkim.com^
 ||suavecitoo.org^
 ||suawddlsmamci.website^
+||suayxefo.com^
 ||sub.3dmobilemammography.com^
 ||sub.3smultinational.com^
 ||sub.alisinak.com^
@@ -205992,6 +206009,7 @@ zzzyk.com###Tinfo
 ||unwritmirific.com^
 ||unwritten-cash.com^
 ||unwrittenfront.com^
+||unwrittenheight.pro^
 ||unwrqbskzhhpi.online^
 ||unwrycert.qpon^
 ||unwwovelionced.cyou^
@@ -211820,6 +211838,7 @@ zzzyk.com###Tinfo
 ||vtygcvzmvchms.online^
 ||vtyhisondajb.in^
 ||vtyusrunq.com^
+||vtyv83k8gl9h7t3hjvx6.cfd^
 ||vtzad.focl.com^
 ||vtzik.amberjack.shop^
 ||vtzkz.freshcleantees.com^
@@ -223866,6 +223885,7 @@ zzzyk.com###Tinfo
 ||yuanyanglw.com^
 ||yuapindogtie.shop^
 ||yuastejdigmex.site^
+||yubfw6wycqq4yy1nqg1yxqhr2o8w.rest^
 ||yubingyuan.top^
 ||yubziosgvkweu.online^
 ||yucalarvate.qpon^
