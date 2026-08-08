@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-08 14:12:17
-# 总规则数: 231658 (黑: 227351, 白: 4307)
+﻿# 更新时间: 2026-08-08 15:18:34
+# 总规则数: 231686 (黑: 227379, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -17974,6 +17974,7 @@ zzzyk.com###Tinfo
 ||abdalhealing.cyou^
 ||abdalminhag.com^
 ||abdelrhman.gherasstore.com^
+||abdiaqtyhyxnk.space^
 ||abdicatebirchcoolness.com^
 ||abdicateeffectlucky.com^
 ||abdlnk.com^
@@ -36404,11 +36405,13 @@ zzzyk.com###Tinfo
 ||benrif-solutions.com^
 ||benshamcentre.co.uk^
 ||benshiw.net^
+||benshizanders.shop^
 ||bensonshowd.com^
 ||bensxw.cn^
 ||bentadaptation.com^
 ||bentengcn.com^
 ||bentengine.com^
+||benthosrazee.shop^
 ||bentley.euroshop.com.pe^
 ||bento.agoda.com^
 ||bentonow.com^
@@ -41049,6 +41052,7 @@ zzzyk.com###Tinfo
 ||bzoomlubqo.com^
 ||bzp2fqad7o.com^
 ||bzpgi.plankandbeam.com^
+||bzphcxhcwuiab.site^
 ||bzpogcssaxbmc.space^
 ||bzpqekgjvaqkn.website^
 ||bzqqftz.icu^
@@ -48393,6 +48397,7 @@ zzzyk.com###Tinfo
 ||comperesceptre.com^
 ||competeneigh.com^
 ||competent-bicycle.pro^
+||competent-toe.pro^
 ||competitionpropose.com^
 ||compiledonatevanity.com^
 ||compilework.com^
@@ -60097,6 +60102,7 @@ zzzyk.com###Tinfo
 ||destinynisan.qpon^
 ||destroyedspear.com^
 ||destroyeragreed.com^
+||destryestrous.cfd^
 ||desuscripcion.phg.palladiumhotelgroup.com^
 ||desvendado.6ixcompany.com.br^
 ||desvendado.abracadabra.com.br^
@@ -67326,6 +67332,7 @@ zzzyk.com###Tinfo
 ||egfqzlqcynxif.online^
 ||egfrmduvcjtde.website^
 ||egg.afisha.ru^
+||eggarssaka.cyou^
 ||eggedpinax.qpon^
 ||eggjddjlsefmm.website^
 ||eggkhujtglllk.space^
@@ -73594,6 +73601,7 @@ zzzyk.com###Tinfo
 ||fibredelivery.com^
 ||fibrincdrstroud.cfd^
 ||fibroidbubalis.qpon^
+||fibromasycee.cfd^
 ||fibvg.mathishome.com^
 ||ficaoutbow.cyou^
 ||fichatgriseravine.cyou^
@@ -76943,6 +76951,7 @@ zzzyk.com###Tinfo
 ||fwnetrb.cn^
 ||fwnezrrjmbjjl.space^
 ||fwnoymqpjhodt.website^
+||fwoivtxqrpy.com^
 ||fwpdj.kazoo.com.au^
 ||fwpff.salesape.ai^
 ||fwpixel.com^
@@ -89135,6 +89144,7 @@ zzzyk.com###Tinfo
 ||hid24.com^
 ||hidanhao.vip^
 ||hidcolouredclink.com^
+||hidden-arrival.pro^
 ||hidden-fortune.pro^
 ||hiddengolf.pro^
 ||hiddenmilk.com^
@@ -89168,6 +89178,7 @@ zzzyk.com###Tinfo
 ||higefa.site^
 ||higglerkimchigibaro.cyou^
 ||high.useoxepay.com.br^
+||highbuffincanopy.cfd^
 ||highconvertingformats.com^
 ||highcpmcreativeformat.com^
 ||highcpmgate.com^
@@ -93236,6 +93247,7 @@ zzzyk.com###Tinfo
 ||ihl3ga.hepengshan.cn^
 ||ihlfikzmbeyob.space^
 ||ihlnh.tires-fast.com^
+||ihmfcnonj.com^
 ||ihmmkvkaiwnilneauhfn.supabase.co^
 ||ihmonitor.luckincoffee.us^
 ||ihnbqe.shane.co.jp^
@@ -115536,6 +115548,7 @@ zzzyk.com###Tinfo
 ||lopcujih3eoi1coi7zvjqfm11hbv9.rest^
 ||lope4refl.com^
 ||loperbrattle.com^
+||lopersmacabi.cyou^
 ||lopfly.com^
 ||lophiiderugate.cfd^
 ||lopley.com^
@@ -119137,6 +119150,7 @@ zzzyk.com###Tinfo
 ||manufacturemoustache.com^
 ||manufacturing.autodeskcommunications.com^
 ||manughl.de^
+||manumafeasant.qpon^
 ||manumeaseggy.qpon^
 ||manureads.com^
 ||manuredplumbumgunnies.cfd^
@@ -130558,6 +130572,7 @@ zzzyk.com###Tinfo
 ||nelvyvlfyjksw.space^
 ||nemansnlssphf.website^
 ||nemeaowmeffis.online^
+||nemesiclimps.cfd^
 ||nemospontoobliged.cyou^
 ||nemppa.com^
 ||nend.net^
@@ -140192,6 +140207,7 @@ zzzyk.com###Tinfo
 ||peasantcurbdeceased.com^
 ||peasantratio.com^
 ||peasbishopgive.com^
+||peaselinkage.cfd^
 ||peasgutsprogramme.com^
 ||peasseventy.com^
 ||peasy.so^
@@ -145483,6 +145499,7 @@ zzzyk.com###Tinfo
 ||puffer.5.736681645.tc.gcloudgbs.com^
 ||puffin.leemoody.co.uk^
 ||puffin.nex4.net^
+||puffinsgushing.cyou^
 ||puffnetwork.com^
 ||puffsrubiest.cyou^
 ||pufftnjoel.shop^
@@ -150544,6 +150561,7 @@ zzzyk.com###Tinfo
 ||reekonefoldonefoldslang.com^
 ||reekspanakchorti.cyou^
 ||reekyjangledtextlet.qpon^
+||reelectjon.cfd^
 ||reelingcuracaobras.qpon^
 ||reelingpanther.qpon^
 ||reelnk.com^
@@ -154660,6 +154678,7 @@ zzzyk.com###Tinfo
 ||rxeyyesahhlyh.website^
 ||rxfspe.ulthi.de^
 ||rxggkxdozyugf.space^
+||rxglfhpqktxnx.online^
 ||rxglmys.icu^
 ||rxgwcjrjbzzsw.website^
 ||rxhifyyzvrwzj.space^
@@ -171480,6 +171499,7 @@ zzzyk.com###Tinfo
 ||smi.today^
 ||smi2.ru^
 ||smi24.kz^
+||smibjpcjwfvrn.website^
 ||smifzyuottaxc.website^
 ||smigid.ru^
 ||smigro.info^
@@ -192020,6 +192040,7 @@ zzzyk.com###Tinfo
 ||targetspot.com^
 ||targettur.www.svenskaspel.se^
 ||targget.shop^
+||targumsupremefridges.cyou^
 ||tarhoodpreessans.cyou^
 ||tarhszehtlxis.website^
 ||taririjauntswalloch.cfd^
@@ -203673,6 +203694,7 @@ zzzyk.com###Tinfo
 ||tylll.com^
 ||tyloticseseli.shop^
 ||tylulewe.com^
+||tylxlypkjinfx.website^
 ||tymh2022.xyz^
 ||tymi38ig9q6eo74vm.cfd^
 ||tympanibossetdeline.qpon^
@@ -208167,6 +208189,7 @@ zzzyk.com###Tinfo
 ||vaedan.top^
 ||vafbpeqennikp.website^
 ||vafqt.supergoop.com^
+||vafrousredware.cyou^
 ||vafsxc.radioparts.com.au^
 ||vafysu.ecco-verde.ch^
 ||vagallymismaze.cfd^
@@ -211690,6 +211713,7 @@ zzzyk.com###Tinfo
 ||vtg2c1j8h2x8di5nk.xn--lmqz79ihwap57b.com^
 ||vtgeboewommkr.website^
 ||vtglxvza.displaywizard.co.uk^
+||vtgpnruskvazz.online^
 ||vthsl.samedelman.com^
 ||vtiiz.montanasilversmiths.com^
 ||vtipshop.today^
@@ -214913,6 +214937,7 @@ zzzyk.com###Tinfo
 ||whouphesaussums.net^
 ||whouseem.com^
 ||whowiwhwijnfa.site^
+||whpfxegsqjlzj.site^
 ||whpgbplalfntt.site^
 ||whpnd.cn^
 ||whpqscwx.z1cdn.com^
@@ -222415,6 +222440,7 @@ zzzyk.com###Tinfo
 ||yhcca8h69o.com^
 ||yhcdn-yd.com^
 ||yhcu.cn^
+||yhcxmhpjgkwuo.site^
 ||yhcyyokvksgne.website^
 ||yhdcdo.crazy-factory.com^
 ||yhdd1.com^
@@ -226419,6 +226445,7 @@ zzzyk.com###Tinfo
 ||zp0o8pii.xyz^
 ||zp22938576.com^
 ||zp8roiukic.com^
+||zpabpuzuktwo.in^
 ||zpafdv6yi.51coupon.xyz^
 ||zpairql.cn^
 ||zpajavaxxvug.in^
@@ -226775,6 +226802,7 @@ zzzyk.com###Tinfo
 ||ztugn.transformationbody.com^
 ||ztvlz.fapnado.xxx^
 ||ztvmm.gybvidu.com^
+||ztvsvcuxlyjtz.online^
 ||ztvx8.com^
 ||ztvzfq.com^
 ||ztwf8lr.cn^
