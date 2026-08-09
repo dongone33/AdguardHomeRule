@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-09 16:12:57
-# 总规则数: 231933 (黑: 227626, 白: 4307)
+﻿# 更新时间: 2026-08-09 17:06:15
+# 总规则数: 231946 (黑: 227639, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -21344,6 +21344,7 @@ zzzyk.com###Tinfo
 ||adoptim.com^
 ||adoptimize.info^
 ||adoptum.net^
+||adorable-patient.pro^
 ||adorableanger.com^
 ||adorableattention.com^
 ||adorableold.com^
@@ -42789,6 +42790,7 @@ zzzyk.com###Tinfo
 ||carpetallows.com^
 ||carpets.mobilecarpetsandflooring.com^
 ||carpici.clicknplay.to^
+||carpidthetics.cyou^
 ||carpitournel.cyou^
 ||carpoolmatch.com^
 ||carpoolqueen.com^
@@ -61847,6 +61849,7 @@ zzzyk.com###Tinfo
 ||djcjl.summitatsnoqualmie.com^
 ||djelabquercic.com^
 ||djers.com^
+||djesraoslkxvh.space^
 ||djexvabvbybza.site^
 ||djfwuer.xyz^
 ||djgdmnyuokahc.site^
@@ -72371,6 +72374,7 @@ zzzyk.com###Tinfo
 ||farawayamber.com^
 ||farawayinstallation.com^
 ||farcersacetals.cfd^
+||farcifypaascranes.qpon^
 ||fardasub.xyz^
 ||fardelsacoelaswans.cyou^
 ||fardeshifter.cyou^
@@ -81889,6 +81893,7 @@ zzzyk.com###Tinfo
 ||gpfuhw.spaghetti-interactive.it^
 ||gpfwx.cn^
 ||gpgzbl.artistguitars.com.au^
+||gphiauzlsenvo.site^
 ||gphim.drinkctrl.com^
 ||gphljspaprvsl.online^
 ||gphnmtjcyivjc.site^
@@ -87870,6 +87875,7 @@ zzzyk.com###Tinfo
 ||hasdarot.vip^
 ||hasdarot.xyz^
 ||hasdser.com^
+||hasfyyyxvrjfsc.com^
 ||hasgde.site^
 ||hash.trafficmanager.net^
 ||hashcoin.co^
@@ -105250,6 +105256,7 @@ zzzyk.com###Tinfo
 ||kumphurwyr.com^
 ||kumpulblogger.com^
 ||kumquatrepl.cyou^
+||kumvrxoewxdsr.online^
 ||kunde.danskespil.dk^
 ||kunjia.org^
 ||kunklibido.cfd^
@@ -116908,6 +116915,7 @@ zzzyk.com###Tinfo
 ||lxiaoxin.com^
 ||lxisvvxfdqozy.site^
 ||lxiu.shop^
+||lxiuhfmibptqt.space^
 ||lxjhcvabfkjuo.space^
 ||lxkiqokunemfn.space^
 ||lxksalary.com^
@@ -134227,6 +134235,7 @@ zzzyk.com###Tinfo
 ||oauarrbzxmhbs.space^
 ||oavemburgrsoz.site^
 ||oavgoe.irs.jp^
+||oavsgdmtbealk.website^
 ||oavurognaurd.net^
 ||oavyctdvbrlpz.space^
 ||oawhaursaith.com^
@@ -151284,6 +151293,7 @@ zzzyk.com###Tinfo
 ||repixel.co^
 ||replacementgoodwilljunkie.com^
 ||replaceroute.com^
+||replantchekeraffman.cfd^
 ||replatesmallen.cfd^
 ||replay.reviews.io^
 ||replaybird.com^
@@ -205960,6 +205970,7 @@ zzzyk.com###Tinfo
 ||unntvrpwfzluf.store^
 ||unoadsrv.com^
 ||unobeseownness.cfd^
+||unodilgea.com^
 ||unoldiseautoing.qpon^
 ||unonaunpawn.cfd^
 ||unpackelasticlens.com^
@@ -217233,6 +217244,7 @@ zzzyk.com###Tinfo
 ||wwnsbcmmcaeqe.website^
 ||wwnscv.myspringfield.com^
 ||wwokkf.laredoute.ru^
+||wwoujxaxvklvk.online^
 ||wwpon365.ru^
 ||wwpvpbktgoets.space^
 ||wwqharkuwtwet.online^
@@ -220870,6 +220882,7 @@ zzzyk.com###Tinfo
 ||xqpcz.handmadebyrobots.com^
 ||xqqmcnphocpku.website^
 ||xqqsfeipxeefv.store^
+||xqrizpyqaiudz.website^
 ||xqrjkp.vip^
 ||xqsfsvngpzsns.store^
 ||xqslse.annadiva.nl^
