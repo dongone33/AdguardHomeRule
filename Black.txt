@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-10 00:05:19
-# 总规则数: 232128 (黑: 227821, 白: 4307)
+﻿# 更新时间: 2026-08-10 01:09:24
+# 总规则数: 232153 (黑: 227845, 白: 4308)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -7982,6 +7982,7 @@ zzzyk.com###Tinfo
 ||15gifts.com^
 ||15mxfnk6sw.com^
 ||15oil.net^
+||15qqrbprohihpyznwmuy2387whfq8n4gnr1.cfd^
 ||15routine.net^
 ||15tianqi.com^
 ||15tianqi.com^$third-party
@@ -38652,6 +38653,7 @@ zzzyk.com###Tinfo
 ||bodi9.georgiaspacompany.com^
 ||bodilysubtractoversight.com^
 ||bodilywondering.com^
+||bodingsunitedtimings.cyou^
 ||bodkinsmudde.com^
 ||bodockvirent.cfd^
 ||bodragglairsaesop.cyou^
@@ -40246,6 +40248,7 @@ zzzyk.com###Tinfo
 ||bttrp.aimsindustrial.com.au^
 ||bttt99.kkcaicai.com^
 ||btttag.com^
+||bttupamp.com^
 ||bttzjdxxmazye.site^
 ||btucf.ryleeandcru.com^
 ||btuebtacnueoy.website^
@@ -59715,6 +59718,7 @@ zzzyk.com###Tinfo
 ||deepcloudfield.com^
 ||deepdive.zum.com^
 ||deeperregardingcontend.com^
+||deepimprovement.pro^
 ||deepingcormous.qpon^
 ||deepinghachepogey.cyou^
 ||deepingpenury.qpon^
@@ -69281,6 +69285,7 @@ zzzyk.com###Tinfo
 ||ensignpancreasrun.com^
 ||ensilesanolyte.cyou^
 ||ensmwonhtzpdh.space^
+||ensobercoquinsocking.cfd^
 ||ensosignal.com^
 ||ensoulyaks.cfd^
 ||enssd.silverpawdog.com^
@@ -86434,6 +86439,7 @@ zzzyk.com###Tinfo
 ||gtvpn.getui.com^
 ||gtw.euroapteek.ee^
 ||gtw.eurovaistine.lt^
+||gtwkp1611bwgu5y.rest^
 ||gtwrpsm.icu^
 ||gtyenqlhhinew.online^
 ||gtymujomz.in^
@@ -98278,6 +98284,7 @@ zzzyk.com###Tinfo
 ||isrug.dermstreet.com^
 ||isrv07.com^
 ||iss.shopimind.com^
+||issbobpow.com^
 ||issonruvxcgpp.website^
 ||issuedkuvasz.com^
 ||ist-track.com^
@@ -105194,6 +105201,7 @@ zzzyk.com###Tinfo
 ||kt81r6fbpevjr867571juq7p.cfd^
 ||kta.etherscan.com^
 ||ktalq.oseamalibu.com^
+||ktawpijnzlrdc.online^
 ||ktbdxs.trendhim.se^
 ||ktceuakfbblrx.store^
 ||ktdcoy.lyst.it^
@@ -105243,6 +105251,7 @@ zzzyk.com###Tinfo
 ||ktskxm.smartphoto.nl^
 ||ktsnqchncbimr.space^
 ||ktszeodeyz.com^
+||kttnvsagrgbm.com^
 ||ktunions.com^
 ||ktv0311.com^
 ||ktvkieys.com^
@@ -105431,6 +105440,7 @@ zzzyk.com###Tinfo
 ||kvaedit.site^
 ||kvarcureeny.com^
 ||kvassupgazed.qpon^
+||kvaywdebwgclg.com^
 ||kvbju.hiddencovemarinamc.com^
 ||kvbrzbxhqizoq.site^
 ||kvcd7w375h.ru^
@@ -105685,6 +105695,7 @@ zzzyk.com###Tinfo
 ||kygwbcvevmaoz.store^
 ||kyha46.com^
 ||kyhrlgqmwotks.website^
+||kyigqvraimsly.space^
 ||kyinub.palmbeachjewelry.com^
 ||kyizzs.com^
 ||kyjbsfidbcmsk.space^
@@ -107398,6 +107409,7 @@ zzzyk.com###Tinfo
 ||lengthenclipperglossy.com^
 ||lengthprogrammingdiminish.com^
 ||lengthychalcon.shop^
+||lengvjnpwzims.online^
 ||leniugame.com^
 ||lenjnluoi.com^
 ||lenkmio.com^
@@ -116704,6 +116716,7 @@ zzzyk.com###Tinfo
 ||lukeabsinth.qpon^
 ||lukrqrzkmiwst.online^
 ||lukvmrrxwnxwa.online^
+||luljmaambnzkd.website^
 ||lulkckpzirebi.space^
 ||lullercigale.qpon^
 ||lullprivacyheater.com^
@@ -130689,6 +130702,7 @@ zzzyk.com###Tinfo
 ||ndmot.sideout.com^
 ||ndourapfeafmy.space^
 ||ndpfxnu.com^
+||ndpnvzxoefzqe.website^
 ||ndpro.healthtonicbd.com^
 ||ndpro.primbd.org^
 ||ndpro.swaponsworld.com^
@@ -132585,6 +132599,7 @@ zzzyk.com###Tinfo
 ||nmugtnojvmfiq.site^
 ||nmukovjaiytyt.space^
 ||nmunljgekpsrj.site^
+||nmuqvohacmvfz.online^
 ||nmwbank.cn^
 ||nmwjlaywnozwj.vip^
 ||nmwoefdeyfdtb.space^
@@ -134714,6 +134729,7 @@ zzzyk.com###Tinfo
 ||ocwutmrfbsrwy.store^
 ||ocx.umeng.com^
 ||ocxlihabtozf.com^
+||ocxmbarylsyde.space^
 ||oczeilqyw.com^
 ||oczltdjfcrvhvq.com^
 ||ocznxv.cn^
@@ -141002,6 +141018,7 @@ zzzyk.com###Tinfo
 ||pfqwbqs.cn^
 ||pfqxrgdlckvwj.online^
 ||pfrejcjrja.com^
+||pfrjkkzdowhmg.website^
 ||pftdmmc.xyz^
 ||pftk.temu.com^
 ||pftrhtiiyduhz.website^
@@ -144215,6 +144232,7 @@ zzzyk.com###Tinfo
 ||predataclient.b-cdn.net^
 ||predateindexer.qpon^
 ||predatorvernonforefather.com^
+||predayrotas.cyou^
 ||predestinationicebergpredicament.com^
 ||predialburgalldypnone.qpon^
 ||predic.io^
@@ -148277,6 +148295,7 @@ zzzyk.com###Tinfo
 ||qqnh.608.vip^
 ||qqovdipkzwtjb.site^
 ||qqovvlzwelwfp.online^
+||qqpkbpjditpdi.website^
 ||qqpklxjesmajr.online^
 ||qqpmt.heyremmy.com^
 ||qqppz.com^
@@ -157555,6 +157574,7 @@ zzzyk.com###Tinfo
 ||sare25.com^
 ||sargoalway.cyou^
 ||sargomiaul.qpon^
+||sargonould.cyou^
 ||sarksyour.cyou^
 ||sarlykidlesse.shop^
 ||sarodessoot.cyou^
@@ -189499,6 +189519,7 @@ zzzyk.com###Tinfo
 ||symmdpxeplqou.space^
 ||symmorybewept.com^
 ||symowrqrcbomw.online^
+||sympatheticeffect.pro^
 ||sympatheticleague.com^
 ||sympatheticnerve.pro^
 ||sympatheticrequirement.pro^
@@ -194504,6 +194525,7 @@ zzzyk.com###Tinfo
 ||thrawedxarque.cfd^
 ||threadpassivetrespass.com^
 ||threatdetect.org^
+||threatenedolympicsbecomes.com^
 ||threatenletters.com^
 ||threavedouceur.cyou^
 ||threeate.jp^
@@ -213417,6 +213439,7 @@ zzzyk.com###Tinfo
 ||watsupmanu.com^
 ||wattagemesail.shop^
 ||watwait.com^
+||wauchtsatarasscun.qpon^
 ||waudeesestew.com^
 ||waudit.cz^
 ||wauk1care.com^
@@ -222917,6 +222940,7 @@ zzzyk.com###Tinfo
 ||yhsfkwqoimofr.website^
 ||yhsfsdv*.com^
 ||yhskfe.klipsch.com^
+||yhslqeecgm.com^
 ||yhsmk.com^
 ||yhtarm.footway.be^
 ||yhtcd.com^
@@ -230650,6 +230674,7 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
+@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
