@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-10 16:50:02
-# 总规则数: 226228 (黑: 221921, 白: 4307)
+﻿# 更新时间: 2026-08-10 18:08:15
+# 总规则数: 226235 (黑: 221927, 白: 4308)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18948,7 +18948,6 @@ zzzyk.com###Tinfo
 ||ad-dp-drcn.cloud.huawei.com.cn^
 ||ad-drop.jp^
 ||ad-drs-ipv6.52qumao.com^
-||ad-drs.52qumao.com
 ||ad-drs.52qumao.com^
 ||ad-dsp-1251779293.file.myqcloud.com^
 ||ad-ebis.bookpass.auone.jp^
@@ -50449,6 +50448,7 @@ zzzyk.com###Tinfo
 ||curvycry.com^
 ||curyingarvernisuints.cyou^
 ||curyrentattri.com^
+||cuseccharm.com^
 ||cushiondrum.com^
 ||cusok.ru^
 ||cuspaltex.qpon^
@@ -112588,6 +112588,7 @@ zzzyk.com###Tinfo
 ||loopcybersec.com^
 ||loopersamania.qpon^
 ||loopfuse.net^
+||loopierwhither.qpon^
 ||loopmaze.com^
 ||loopme.me^
 ||loopmeedge.net^
@@ -169342,6 +169343,7 @@ zzzyk.com###Tinfo
 ||squashprinterhissed.com^
 ||squashreservebrim.com^
 ||squashtalk.com^
+||squatlyteguima.qpon^
 ||squatsendplayswells.qpon^
 ||squattymaidly.com^
 ||squawkssuppost.qpon^
@@ -189346,6 +189348,7 @@ zzzyk.com###Tinfo
 ||thrumsagamid.qpon^
 ||thrustinextricable.com^
 ||thrustssacculi.cyou^
+||thsbmjrfuqilu.space^
 ||thsdbj.com^
 ||thseaeing.fun^
 ||thshopee.com^
@@ -191617,6 +191620,7 @@ zzzyk.com###Tinfo
 ||tpxmjwbvqkbmb.space^
 ||tpxxgiegfobee.website^
 ||tpxyqc.intenson.pl^
+||tpyacbtcjxcfo.site^
 ||tpywhfidimoxw.site^
 ||tq-eu.aasedformed-b.online^
 ||tq-eu.aasedformed-c.online^
@@ -191700,6 +191704,7 @@ zzzyk.com###Tinfo
 ||tqftse.cariru.jp^
 ||tqgav.frugalcabinetsonline.com^
 ||tqgyzwquwu.com^
+||tqhccanebnaom.online^
 ||tqhhiwipffjuu.website^
 ||tqicqsjehtegj.online^
 ||tqisbudqqjnif.online^
@@ -207886,6 +207891,7 @@ zzzyk.com###Tinfo
 ||wbwpr.purple.com^
 ||wbwuiryfbtboi.space^
 ||wbww9ouxolw7ji3i.rest^
+||wbxyusccfitux.site^
 ||wbygrybvjjksf.site^
 ||wbysnyeqjdwhl.site^
 ||wc.ksnbfuwu.com^
@@ -224750,6 +224756,7 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
+@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
