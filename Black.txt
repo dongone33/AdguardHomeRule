@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-10 13:44:36
-# 总规则数: 232270 (黑: 227963, 白: 4307)
+﻿# 更新时间: 2026-08-10 15:02:17
+# 总规则数: 232269 (黑: 227962, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -3525,7 +3525,6 @@ js0573.com###gotopr
 js0573.com##.gg_bnr
 jsbooks.com.cn#@#.left-ads
 json.cn###shuangshi1Modal1
-json.cn##.show-hide-adv
 json.cn##.tip[target="_blank"]
 jsphp.net##.adleft-wrap
 jsphp.net##.rightAdBtm-wrap
