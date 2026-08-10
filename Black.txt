@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-11 06:07:40
-# 总规则数: 222265 (黑: 217957, 白: 4308)
+﻿# 更新时间: 2026-08-11 06:57:37
+# 总规则数: 222295 (黑: 217987, 白: 4308)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9681,6 +9681,7 @@ zzzyk.com###Tinfo
 ||2i0lliongn.com^
 ||2i30i8h6i.de^
 ||2i87bpcbf.de^
+||2i945kh8olyubecb6hl88q89l5.cfd^
 ||2ic7w7wct184.gbquw7w6pxuf3v.cfd^
 ||2iiyrxk0.com^
 ||2imon4qar.de^
@@ -34017,6 +34018,8 @@ zzzyk.com###Tinfo
 ||bam.nr-data.net^
 ||bamautzky.de^
 ||bamboohugs.com^
+||bambubajimper.shop^
+||bambusamums.cfd^
 ||bamcsfm.com^
 ||bamfd.hellobatch.com^
 ||bammg.affordablegolf.co.uk^
@@ -37728,6 +37731,7 @@ zzzyk.com###Tinfo
 ||boostiv.cn^
 ||boostlo.xyz^
 ||boostog.net^
+||boostpsid.cyou^
 ||boostquery.com^
 ||boot.bytecache.cn^
 ||bootcdn.cn^
@@ -45996,6 +46000,7 @@ zzzyk.com###Tinfo
 ||codez.cloud^
 ||codon.vn^
 ||codzcuagowz.com^
+||coefslew.shop^
 ||coeliabumpee.com^
 ||coelinpinbush.shop^
 ||coemptsruesome.shop^
@@ -46518,6 +46523,7 @@ zzzyk.com###Tinfo
 ||comgnnyx.com^
 ||comic.fc2ppvv.info^
 ||comicad.net^
+||comicgot.cfd^
 ||comics18.cam^
 ||comicsarabesk.cfd^
 ||comihon.com^
@@ -47919,6 +47925,7 @@ zzzyk.com###Tinfo
 ||coqce.lyfe.com^
 ||coqivmhwkcywq.online^
 ||cor8ni3shwerex.com^
+||coragefugging.shop^
 ||coral-task.uc.cn^
 ||coral.bladestudy.net^
 ||coral.defygravity.co^
@@ -63893,6 +63900,7 @@ zzzyk.com###Tinfo
 ||eatenmockingoverwhelm.com^
 ||eatingclientconfine.com^
 ||eatinglate.com^
+||eatingremeantsarum.cfd^
 ||eatjav.ekosport.fr^
 ||eatmycookies.mockingbirdcinema.com^
 ||eatncx.cn^
@@ -68729,6 +68737,7 @@ zzzyk.com###Tinfo
 ||exptlgooney.com^
 ||exptrncaaidhs.site^
 ||expulsionelinorcorruption.com^
+||expyplagues.qpon^
 ||exqbxfzcrslqg.store^
 ||exqrzl.evcloset.com^
 ||exquisite.shouji.360.cn^
@@ -71715,6 +71724,7 @@ zzzyk.com###Tinfo
 ||fleckystalk.qpon^
 ||fledgereviver.cyou^
 ||fledparticipantmodeling.com^
+||fleeingrexes.cyou^
 ||fleet-eml.postmates.com^
 ||fleethappened.com^
 ||fleetingtrustworthydreams.com^
@@ -72332,6 +72342,7 @@ zzzyk.com###Tinfo
 ||forkconnectinghead.com^
 ||forkinane.com^
 ||forkstrictly.com^
+||forkykabaka.shop^
 ||forlumineoner.com^
 ||form-submission-workspace.ajo-stage.srv.smart.com^
 ||form.e.silverfernfarms.com^
@@ -74988,6 +74999,7 @@ zzzyk.com###Tinfo
 ||gbnmd.dcoiwmnbfg.com^
 ||gbnxhz.ekstralys.no^
 ||gbotvisit.com^
+||gboz2k2ro4pb5jug8h.rest^
 ||gbphe.letswander.co^
 ||gbpmiboyasz.com^
 ||gbqofs.com^
@@ -83192,6 +83204,7 @@ zzzyk.com###Tinfo
 ||gwiryqwgylcdq.online^
 ||gwithearama.org^
 ||gwizal.yumbutter.com^
+||gwjbnsnlkckyq.space^
 ||gwjmfxgdooxdd.website^
 ||gwkmgkpw.mmstgg653.com^
 ||gwlqb.kiauraeyewear.com^
@@ -85033,6 +85046,7 @@ zzzyk.com###Tinfo
 ||hentaigold.net^
 ||hentaionline.net^
 ||hentent.stre4mplay.one^
+||hentscreens.com^
 ||henwilkson.com^
 ||henyardwrister.cfd^
 ||henzhuan.com^
@@ -86240,6 +86254,7 @@ zzzyk.com###Tinfo
 ||hmstats.com^
 ||hmte3qz7.engzai.com^
 ||hmthcqphqwppf.online^
+||hmtijvrtevxmo.site^
 ||hmtoday.com^
 ||hmtoday.com^$third-party
 ||hmtpj.splitflask.com^
@@ -87413,6 +87428,7 @@ zzzyk.com###Tinfo
 ||htxcds.2jh1l.com^
 ||htxcl.com.cn^
 ||htxz.yndushi.cn^
+||htyvvhfdnkbgv.site^
 ||hu-business.vodafone.com^
 ||hu-topgal.m-shop.me^
 ||hu.sharpmarketing.eu^
@@ -98219,6 +98235,7 @@ zzzyk.com###Tinfo
 ||kale28.xyz^
 ||kalesrussiaschuln.cyou^
 ||kalganscope.com^
+||kalianapremio.qpon^
 ||kaliansloftmenfun.cyou^
 ||kalitereklam.com^
 ||kallerupstone.viessmann.dk^
@@ -98877,6 +98894,7 @@ zzzyk.com###Tinfo
 ||kfpicimage.xyz^
 ||kfpuxzmsanfbb.website^
 ||kfpxthgobigqk.site^
+||kfpycikpacit.com^
 ||kfqbfenhkmizx.space^
 ||kfqjyh.govplanet.com^
 ||kfsniysgbauxo.space^
@@ -102588,6 +102606,7 @@ zzzyk.com###Tinfo
 ||levelpay.ru^
 ||levelsoutlie.shop^
 ||leveretsnitz.cyou^
+||levertirrlie.com^
 ||levexis.com^
 ||levfyrqglxvkl.space^
 ||levi247.levi.com^
@@ -102998,6 +103017,7 @@ zzzyk.com###Tinfo
 ||libs.tvmao.cn^
 ||libstat.com^
 ||libtl.com^
+||libxlykxs.com^
 ||licai-cdn.ghzq.com.cn^
 ||licai.ghzq.com.cn^
 ||licencias.compunethn.com^
@@ -114034,6 +114054,7 @@ zzzyk.com###Tinfo
 ||mamerstonto.com^
 ||mameyhelots.cyou^
 ||mamka.aviasales.ru^
+||mammasvari.shop^
 ||mammocksambos.com^
 ||mammoth-a.pro^
 ||mammothflow.pro^
@@ -124257,6 +124278,7 @@ zzzyk.com###Tinfo
 ||naedyudpxzmgs.online^
 ||naeeo.zogics.com^
 ||naegaitbestir.com^
+||naegrands.shop^
 ||naemailom.fun^
 ||naenidktmcjne.store^
 ||naesl.theinkeylist.com^
@@ -128725,6 +128747,7 @@ zzzyk.com###Tinfo
 ||odeuwdapukoxz.website^
 ||odewjqygsvtnhhl.com^
 ||odeybruslekoq.website^
+||odeyploxbxbti.site^
 ||odggnemsfoisv.online^
 ||odgljbx.com^
 ||odgmxwepbbfwe.online^
@@ -135139,6 +135162,7 @@ zzzyk.com###Tinfo
 ||pikvm.zoelev.com^
 ||pilafsbilliessambur.cyou^
 ||pilau.oddo-bhf.com^
+||pilaushinged.qpon^
 ||pileindodermkarluk.qpon^
 ||pilesteroidprogramming.com^
 ||pilfersspoon.qpon^
@@ -136812,6 +136836,7 @@ zzzyk.com###Tinfo
 ||poolprochem.com^
 ||poolsmusketocoroll.cfd^
 ||poonahimpers.com^
+||poopsgiblet.cyou^
 ||poor5zero.com^
 ||poorcommiserateexists.com^
 ||poorersamp.qpon^
@@ -141300,6 +141325,7 @@ zzzyk.com###Tinfo
 ||qqhuhu.com^
 ||qqhuwthhmxeuc.space^
 ||qqhvso.outiror.com^
+||qqidgsfbruknh.site^
 ||qqifefphpoord.site^
 ||qqifyplxschr.com^
 ||qqinrm.jagodo.vn^
@@ -143448,6 +143474,7 @@ zzzyk.com###Tinfo
 ||rebozosmatches.cyou^
 ||rebrandkaolins.cfd^
 ||rebukemusclesshark.com^
+||rebuylengest.cfd^
 ||rec.aiservice.vn^
 ||rec.banggood.com^
 ||rec.deezer.com^
@@ -145295,6 +145322,7 @@ zzzyk.com###Tinfo
 ||ridgepilotavalanche.com^
 ||ridgewherevertical.com^
 ||ridgeyelpastronomy.com^
+||ridhvzextzpmx.online^
 ||ridijnjzkdgry.website^
 ||ridingpertconquest.com^
 ||ridleyfriths.qpon^
@@ -184599,6 +184627,7 @@ zzzyk.com###Tinfo
 ||tcvlrtqsfqkbo.store^
 ||tcvnhomefic.com^
 ||tcwgmjsjgtsrm.space^
+||tcwzwdrhmwzhb.website^
 ||tcx-beacon.docs.aws.dev^
 ||tcx0wyp0nn.com^
 ||tcxjkoekoqvkj.website^
@@ -207160,6 +207189,7 @@ zzzyk.com###Tinfo
 ||worriedwine.com^
 ||worrisome-republic.com^
 ||worritrecocks.qpon^
+||worritschalehs.cyou^
 ||worrycuriositymafia.com^
 ||worryinginadmissible.com^
 ||worserharrid.cfd^
