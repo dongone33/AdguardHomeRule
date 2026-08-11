@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-11 20:28:08
-# 总规则数: 222572 (黑: 218264, 白: 4308)
+﻿# 更新时间: 2026-08-11 21:59:19
+# 总规则数: 222650 (黑: 218303, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -6066,7 +6066,10 @@ zzzyk.com###Tinfo
 ||*-*.ap-northeast-2.elb.amazonaws.com^
 ||*-*.ap-southeast-1.elb.amazonaws.com^
 ||*-99wanyou-com-idvkrgg.qiniudns.com^
+||*-ad-sign.byteimg.com^
+||*-ad-union-sdk.pglstatp-toutiao.com^
 ||*-ad.adbkwai.com^
+||*-ad.adkwai.com^
 ||*-ad.adukwai.com^
 ||*-ad.gskwai.com^
 ||*-ad.wtzw.com^
@@ -6083,6 +6086,7 @@ zzzyk.com###Tinfo
 ||*-ni57dn7z.c.2mdn-cn.net^
 ||*-pitaya-tos.pstatp.com^
 ||*-pitaya.bytetos.com^
+||*-reading-ad.qznovelvod.com^
 ||*-sdk.rum.aliyuncs.com^
 ||*-sign.dailygn.com^
 ||*.$image,rewrite=abp-resource:1x1-transparent-gif,third-party,domain=rmdown.com
@@ -6139,11 +6143,13 @@ zzzyk.com###Tinfo
 ||*._https.*.*^
 ||*.a1.initjj.com^
 ||*.a48962121.top^
+||*.ads.heytapmobi.com^
 ||*.aliyuncsslb.com^
 ||*.aliyuncsslbintl.com^
 ||*.amwexgj.com^
 ||*.anhuyj.cn^
 ||*.anythinktech.com^
+||*.applovin.com^
 ||*.arbyyu.com^
 ||*.asuj.cn^
 ||*.atvtkf.com^
@@ -6216,6 +6222,7 @@ zzzyk.com###Tinfo
 ||*.jjzemoc3ca.top^
 ||*.jomoxc.com^
 ||*.jqnljze.xyz^
+||*.juicyads.me^
 ||*.jvere.xyz^
 ||*.jwcnmta.top^
 ||*.kaiyun.com^
@@ -6300,6 +6307,7 @@ zzzyk.com###Tinfo
 ||*.v4v6v4.com^
 ||*.video.qq.com^
 ||*.vkomjd.com^
+||*.voiceads.cn^
 ||*.volcsiriusbd.com^
 ||*.w9k.cn^
 ||*.wacaoldy1.com^
@@ -6342,13 +6350,17 @@ zzzyk.com###Tinfo
 ||*ad*vivo*
 ||*ad*wtzw*
 ||*ad.adbkwai.com^
+||*ad.wtzw.com^
 ||*adapt-beacon.awsprodops.movetv.com^
+||*adintl.cn^
 ||*aio.ecombdimg.com^
 ||*applog.fqnovel.com^
 ||*cdn-settings.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
 ||*dns*.adobe.com
 ||*drcn*dbankcdn*
+||*googleads*^
+||*googleadsserving.cn^
 ||*gslb.qianxun.com^
 ||*item.ecombdimg.com^
 ||*ks.qm*.com^
@@ -6361,6 +6373,8 @@ zzzyk.com###Tinfo
 ||*mob.com^
 ||*normal.fqnovel.com^
 ||*novel.byteimg.com^
+||*pangolin*toutiao*.com^
+||*pglstatp-toutiao.com^
 ||*pull.yximgs.com^
 ||*reading*fqnovel*.com^
 ||*register.appsflyersdk.com^
@@ -6369,6 +6383,7 @@ zzzyk.com###Tinfo
 ||*tanx.com^
 ||*tsdk.vivo.com.cn^
 ||*two-gun-volley.pages.dev^
+||*unityads.unity3d.com^
 ||*us*watcab*.blob.core.windows.net^
 ||*video.baidu.com^
 ||*video.fqnovelvod.com^
@@ -7487,7 +7502,10 @@ zzzyk.com###Tinfo
 ||12.cookcai.com^
 ||120.195.94.11^
 ||120.220.191.55^
+||120.226.10.195^
 ||120.232.239.81^
+||120.232.58.157^
+||120.232.6.158^
 ||120.240.230.231^
 ||120.241.229.2^
 ||120.241.236.38^
@@ -19498,6 +19516,7 @@ zzzyk.com###Tinfo
 ||ad.wsod.com^
 ||ad.wtzw.com^
 ||ad.wurangxian.top^
+||ad.wx.com:12638^
 ||ad.wx.com^
 ||ad.wynk.in^
 ||ad.xdomain.ne.jp^
@@ -21224,13 +21243,17 @@ zzzyk.com###Tinfo
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
+||ads*-normal-lf.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
+||ads*-normal.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.cj.sina.com.cn^
+||ads*.papegames.com^
 ||ads*.production-public.tubi.io^
 ||ads*.textra.me^
 ||ads-*-nfl.yinzcam.com^
 ||ads-*.v.ssp.yahoo.com^
+||ads-*.xhscdn.com^
 ||ads-6686.top^
 ||ads-816899299.ap-southeast-1.elb.amazonaws.com^
 ||ads-abc.com^
@@ -27930,6 +27953,7 @@ zzzyk.com###Tinfo
 ||api*qm*com^
 ||api-*.hismarttv.com^
 ||api-a.op-mobile.opera.com^
+||api-access.pangolin-sdk-toutiao-*.com^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com.queniuyk.com^
 ||api-access.pangolin-sdk-toutiao.com^
@@ -33168,6 +33192,8 @@ zzzyk.com###Tinfo
 ||ayyaar.ir^
 ||ayybzhd.cn^
 ||ayyegtlbnqown.space^
+||az*-upload-js.gifshow.com^
+||az*-upload.ksapisrv.com^
 ||az-neverblock.aznude.workers.dev^
 ||az.appstore.vivo.com.cn^
 ||az.nzn.io^
@@ -42115,6 +42141,7 @@ zzzyk.com###Tinfo
 ||cdn-creatives.inmobi.cn^
 ||cdn-daikuan.xjietiao.com^
 ||cdn-dynamic.optimonk.com^
+||cdn-eu.configcat.com
 ||cdn-eu.usefathom.com^
 ||cdn-eu.voida.pl^
 ||cdn-f.adsmoloco.com^
@@ -60954,6 +60981,7 @@ zzzyk.com###Tinfo
 ||downknottily.com^
 ||downlaod.xiaocen.com^
 ||download*.ctrip.com^
+||download*.vzuu.com^
 ||download-juui-plugin.hismarttv.com^
 ||download-staging.planify.io^
 ||download-stats.mozilla.org^
@@ -102801,6 +102829,7 @@ zzzyk.com###Tinfo
 ||lf*-ad-union-sdk.pglstatp-toutiao.com^
 ||lf-event-manager.oceanengine.com^
 ||lf-fe.fqnovelstatic.com^
+||lf-leads-fe-scm.bytecdn.com.*.queniubg.com^
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-rc1.yhgfb-cn-static.com^
 ||lf-reward-video.bytedcdn.com^
@@ -109951,6 +109980,7 @@ zzzyk.com###Tinfo
 ||lofo3l15c674.platform.replai.io^
 ||lofter.httpdns.c.163.com^
 ||loftyknifeeducate.com^
+||log*-applog-lq.fqnovel.com^
 ||log*-misc-lf.amemv.com^
 ||log*-normal-*.tiktokv.com
 ||log*-normal-*.tiktokv.us^
@@ -117958,6 +117988,7 @@ zzzyk.com###Tinfo
 ||mesta.organicbeautylimited.com^
 ||mestkom.ru^
 ||mestreqa.com^
+||mesu.apple.com^
 ||mesure-pro.engie.fr^
 ||met-horn-log.dreport.meituan.net^
 ||met.hanser-automotive.de^
@@ -132072,12 +132103,14 @@ zzzyk.com###Tinfo
 ||p*-ad-sign.byteimg.com^
 ||p*-ad.adukwai.com^
 ||p*-ad.bytecdn.cn^
+||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-ecom-qualification-sign.ecombdimg.com^
 ||p*-ff.adkwai.com^
 ||p*-lm.adkwai.com^
 ||p*-lm.adukwai.com^
 ||p*-pro.a.yximgs.com^
 ||p*-webcast-sign.douyinpic.com^
+||p*.adkwai.com^
 ||p*.douyinpic.com^
 ||p-advg.com^
 ||p-analytics.life^
@@ -132584,6 +132617,8 @@ zzzyk.com###Tinfo
 ||page1monk.com^
 ||page2rss.com^
 ||page9awry.com^
+||pagead*.googleadservices-cn.com^
+||pagead*.googlesyndication-cn.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
 ||pagead.google.com^
@@ -136896,6 +136931,7 @@ zzzyk.com###Tinfo
 ||polarcdn-terrax.com^
 ||polarichip.com^
 ||polaris*-normal-*.zijieapi.com^
+||polaris*-normal-lq.zijieapi.com^
 ||polaris-sinfonlinea.zijieapi.com^
 ||polaris.truevault.com^
 ||polaris3-normal-hl.zijieapi.com^
@@ -147306,6 +147342,7 @@ zzzyk.com###Tinfo
 ||rtkyvd.xyz^
 ||rtlbetlcgd.com^
 ||rtlfqocrotlhz.website^
+||rtlog*-applog-lq.fqnovel.com^
 ||rtlog*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rtlog.byteoversea.com^
@@ -155885,6 +155922,7 @@ zzzyk.com###Tinfo
 ||sezixz.officesupply.com^
 ||sezkkb.cn^
 ||sezvc.com^
+||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sf-ads.io^
 ||sf-ifc.cn^
@@ -187850,6 +187888,7 @@ zzzyk.com###Tinfo
 ||tnc-sg.capcutapi.com^
 ||tnc-v2-boot.capcutapi.com^
 ||tnc-va*.capcutapi.com^
+||tnc0-*.zijieapi.com^
 ||tnc0-aliec2.zijieapi.com^
 ||tnc0-alisc1.zijieapi.com^
 ||tnc0-bjlgy.zijieapi.com^
@@ -218294,6 +218333,12 @@ zzzyk.com###Tinfo
 @@||*-novelapp.fqnovelvod.com^
 @@||*-open-sign.byteimg.com^
 @@||*-open.byteimg.com^
+@@||*-verify.captcha-open-b.aliyuncs.com^
+@@||*-verify.captcha-open-ga-web-b.aliyuncs.com^
+@@||*-verify.captcha-open-ga-web.aliyuncs.com^
+@@||*-verify.captcha-open-southeast-b.aliyuncs.com^
+@@||*-verify.captcha-open-southeast.aliyuncs.com^
+@@||*-verify.captcha-open.aliyuncs.com^
 @@||*-www.sway-cdn.com^
 @@||*-www.sway-extensions.com^
 @@||*.*.szbdyd.com^
@@ -218317,6 +218362,16 @@ zzzyk.com###Tinfo
 @@||*.azurerms.com^
 @@||*.bblmw.cn^
 @@||*.blob.core.windows.net^
+@@||*.captcha-open-b.aliyuncs.com^
+@@||*.captcha-open-dual-b.aliyuncs.com^
+@@||*.captcha-open-dual.aliyuncs.com^
+@@||*.captcha-open-ga-web-b.aliyuncs.com^
+@@||*.captcha-open-ga-web.aliyuncs.com^
+@@||*.captcha-open-southeast-b.aliyuncs.com^
+@@||*.captcha-open-southeast-dual-b.aliyuncs.com^
+@@||*.captcha-open-southeast-dual.aliyuncs.com^
+@@||*.captcha-open-southeast.aliyuncs.com^
+@@||*.captcha-open.aliyuncs.com^
 @@||*.cdninstagram.com^
 @@||*.cloud.microsoft^
 @@||*.compliance.microsoft.com^
@@ -218736,6 +218791,8 @@ zzzyk.com###Tinfo
 @@||aod.itunes.apple.com^$important
 @@||aod.itunes.g.aaplimg.com^$important
 @@||ap-*-*.agora.io^
+@@||ap-southeast-1-ga.device.saf.aliyuncs.com^
+@@||ap-southeast-1.device.saf.aliyuncs.com^
 @@||ap.6wz.co^
 @@||ap01.records.in.treasuredata.com^
 @@||ap6.ssl.msdk.qq.com^
@@ -219307,6 +219364,18 @@ zzzyk.com###Tinfo
 @@||cloud.realme.com^
 @@||cloud.video.taobao.com^
 @@||cloud.xunlei.com^
+@@||cloudauth-device-dualstack.ap-southeast-1.aliyuncs.com^
+@@||cloudauth-device-dualstack.cn-shanghai.aliyuncs.com^
+@@||cloudauth-device.aliyuncs.com^
+@@||cloudauth-device.ap-southeast-1.aliyuncs.com^
+@@||cloudauth-dualstack.aliyuncs.com^
+@@||cloudauth-dualstack.cn-beijing.aliyuncs.com^
+@@||cloudauth-dualstack.cn-shanghai.aliyuncs.com^
+@@||cloudauth-vpc.cn-beijing.aliyuncs.com^
+@@||cloudauth-vpc.cn-shanghai.aliyuncs.com^
+@@||cloudauth.aliyuncs.com^
+@@||cloudauth.cn-beijing.aliyuncs.com^
+@@||cloudauth.cn-shanghai.aliyuncs.com^
 @@||cloudcache.tencent-cloud.cn^
 @@||cloudcontrol.live.360.cn^
 @@||clouddrive-activity.uc.cn^
@@ -219331,6 +219400,7 @@ zzzyk.com###Tinfo
 @@||cmts.iqiyi.com^
 @@||cn-*.bilivideo.cn^
 @@||cn-*.bilivideo.com^
+@@||cn-shanghai.device.saf.aliyuncs.com^
 @@||cn.app.chat.xiaomi.net^
 @@||cn.bing.com^
 @@||cn.ekg.riotgames.com^
@@ -221686,6 +221756,8 @@ zzzyk.com###Tinfo
 @@||static-*.xvideos-cdn.com^
 @@||static-assets-prod.epicgames.com^$important
 @@||static-beta.curseforge.com^
+@@||static-captcha-sgp.aliyuncs.com^
+@@||static-captcha.aliyuncs.com^
 @@||static-cdn77.xnxx-cdn.com^
 @@||static-hw.xnxx-cdn.com^
 @@||static-l3.xnxx-cdn.com^
@@ -222029,6 +222101,12 @@ zzzyk.com###Tinfo
 @@||upload-bbs.miyoushe.com^
 @@||upload-images.jianshu.io^
 @@||upload.appleschoolcontent.com^$important
+@@||upload.captcha-open-b.aliyuncs.com^
+@@||upload.captcha-open-ga-web-b.aliyuncs.com^
+@@||upload.captcha-open-ga-web.aliyuncs.com^
+@@||upload.captcha-open-southeast-b.aliyuncs.com^
+@@||upload.captcha-open-southeast.aliyuncs.com^
+@@||upload.captcha-open.aliyuncs.com^
 @@||upload.jianshu.io^
 @@||upload.twitter.com^
 @@||upload.x.com^
