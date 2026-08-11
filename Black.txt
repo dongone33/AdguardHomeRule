@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-12 01:15:51
-# 总规则数: 222615 (黑: 218268, 白: 4347)
+﻿# 更新时间: 2026-08-12 02:13:33
+# 总规则数: 222618 (黑: 218270, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -56280,7 +56280,6 @@ zzzyk.com###Tinfo
 ||data.projectxcompetitions.com^
 ||data.projectxcompetitions.win^
 ||data.promo.casiocanada.com^
-||data.promo.timhortons.ca^
 ||data.promo.timhortons.com^
 ||data.promos.timsfinancial.ca^
 ||data.promotions.riolasvegas.com^
@@ -98391,6 +98390,7 @@ zzzyk.com###Tinfo
 ||kampanjat.atea.fi^
 ||kampanjer.yxvisa.no^
 ||kampyle.com^
+||kamseenkophs.com^
 ||kamsinsrhagon.cfd^
 ||kanaetorseldukker.cfd^
 ||kanasbasso.cfd^
@@ -200414,6 +200414,7 @@ zzzyk.com###Tinfo
 ||vbtwegnwgvhpr.site^
 ||vbudetbyofg.com^
 ||vbunpfvdn.com^
+||vbuozxgkfajcr.space^
 ||vbvng.pancheros.com^
 ||vbvwcpowriyyo.space^
 ||vbw3q6jxn.com^
@@ -209349,6 +209350,7 @@ zzzyk.com###Tinfo
 ||wzehmoil.com^
 ||wzelipmfuva.com^
 ||wzeocharram.com^
+||wzfbttjqtjygc.website^
 ||wzfjsh.cn^
 ||wzhagc.cn^
 ||wzj.ywrjgzs.com^
@@ -219522,6 +219524,7 @@ zzzyk.com###Tinfo
 @@||data.onelap.cn^
 @@||data.orders.costco.ca^
 @@||data.orders.costco.com^
+@@||data.promo.timhortons.ca^
 @@||data.sec*.miui.com^
 @@||data.sec.miui.com^
 @@||data.services.jetbrains.com^

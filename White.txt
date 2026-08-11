@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-12 01:15:51
-# 白名单规则数: 4347
+﻿# 更新时间: 2026-08-12 02:13:33
+# 白名单规则数: 4348
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -1254,6 +1254,7 @@
 @@||data.onelap.cn^
 @@||data.orders.costco.ca^
 @@||data.orders.costco.com^
+@@||data.promo.timhortons.ca^
 @@||data.sec*.miui.com^
 @@||data.sec.miui.com^
 @@||data.services.jetbrains.com^
