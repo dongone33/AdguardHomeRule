@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-11 15:45:22
-# 总规则数: 222488 (黑: 218181, 白: 4307)
+﻿# 更新时间: 2026-08-11 16:42:57
+# 总规则数: 222509 (黑: 218202, 白: 4307)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -61551,6 +61551,7 @@ zzzyk.com###Tinfo
 ||dsbdyr.com^
 ||dsbeglyl.buqyqxguxjxpkeq.top^
 ||dsbexk.com^
+||dsbhmq.com^
 ||dsbixe.com^
 ||dsbjdeh.cn^
 ||dsbmvn.com^
@@ -62227,6 +62228,7 @@ zzzyk.com###Tinfo
 ||duier.top^
 ||duihl.cn^
 ||duilin.me^
+||duisbmflblhyh.online^
 ||duiunmaigiqiy.space^
 ||duiwai.baidu.com^
 ||dujgiq.trendhim.pl^
@@ -65233,6 +65235,7 @@ zzzyk.com###Tinfo
 ||ejufwpkpikrgy.space^
 ||ejuk.720lu.com^
 ||ejunshi.com^
+||ejwghlzeeqhxz.site^
 ||ejwmc.cn^
 ||ejwxlplhgzzhf.store^
 ||ejxfetghjdmm.com^
@@ -94979,6 +94982,7 @@ zzzyk.com###Tinfo
 ||jatpmv.megacolchoes.com.br^
 ||jau.xdplt.com^
 ||jaukedhowfs.qpon^
+||jauntsjesuspalar.cfd^
 ||jauntyit.com^
 ||jauok.com^
 ||jaup0lake.com^
@@ -99635,6 +99639,7 @@ zzzyk.com###Tinfo
 ||klaushydra.com^
 ||klavjn.niawigs.com^
 ||klbvqqqj.com^
+||klcdoqvajycbg.site^
 ||klcevcy3ngug1pb9bv6.cfd^
 ||klcmq.cbdmd.com^
 ||kld666.com^
@@ -117115,6 +117120,7 @@ zzzyk.com###Tinfo
 ||me.zedcdn.me^
 ||me1294hlx.com^
 ||me390.life^
+||me3nwx8v.xyz^
 ||me4b65enw.com^
 ||me511.win^
 ||me99.club^
@@ -129316,6 +129322,7 @@ zzzyk.com###Tinfo
 ||oifyeldk.top^
 ||oifyyeiuwnpzc.space^
 ||oigep.tech.co.za^
+||oihemecfxews.com^
 ||oihjkobiyortd.space^
 ||oiismyzivtine.website^
 ||oijcphjwiabsg.online^
@@ -134606,6 +134613,7 @@ zzzyk.com###Tinfo
 ||petsfairy.com^
 ||petsheying.com^
 ||petsrulefondness.com^
+||pettiisotelyacraze.qpon^
 ||peueg.swankybadger.com^
 ||peugyiwmgvadr.space^
 ||peukasrsihavele.org^
@@ -146430,6 +146438,7 @@ zzzyk.com###Tinfo
 ||rpyztjadsbonh.store^
 ||rpzlvdgceixjx.online^
 ||rqapahxncfrik.website^
+||rqappiaoyoldd.website^
 ||rqbdyk.evo.com^
 ||rqblf.ttkqzixc.com^
 ||rqbvgm.aleupominek.pl^
@@ -159843,6 +159852,7 @@ zzzyk.com###Tinfo
 ||sjadkbbvcmdfd.website^
 ||sjaidu.com^
 ||sjanff.v-moda.com^
+||sjaoshejcdeuk.online^
 ||sjardw.footlocker.fr^
 ||sjarvis.taobao.com^
 ||sjbaiduadv1.redou.com^
@@ -178127,6 +178137,7 @@ zzzyk.com###Tinfo
 ||stats.jdheyburn.co.uk^
 ||stats.jeremygreenawalt.com^
 ||stats.jerickson.net^
+||stats.jerkmotion.com^
 ||stats.jessesquires.com^
 ||stats.jetzt-aktivieren.de^
 ||stats.jhsheridan.com^
@@ -193365,6 +193376,7 @@ zzzyk.com###Tinfo
 ||trh64a.top^
 ||trhccn.cn^
 ||trhfq.rimli.in^
+||tri-table.com^
 ||tri.media^
 ||triad.technorati.com^
 ||trial.alcohol-soft.com^
@@ -197109,6 +197121,7 @@ zzzyk.com###Tinfo
 ||umlyyoggkgxbk.site^
 ||umlzk.xyz^
 ||umm6.cn^
+||ummmaqpsvccd.com^
 ||ummsyogyankeg.website^
 ||umnnjpcfdcegy.website^
 ||umnoho.bazaarmall.co.kr^
@@ -198221,6 +198234,7 @@ zzzyk.com###Tinfo
 ||urningcense.qpon^
 ||urnki.pjsalvage.com^
 ||urnooiew.com^
+||urnvloeigdtzk.site^
 ||urnwhereabouts.com^
 ||urocystfoozler.cyou^
 ||urogrambaskets.cyou^
@@ -202654,6 +202668,7 @@ zzzyk.com###Tinfo
 ||volumesundue.com^
 ||volumntime.com^
 ||voluntaryboy.com^
+||volutedoda.cyou^
 ||volutehewgag.cfd^
 ||voluumtlkrnarketing.com^
 ||voluumtrk.com^
@@ -209216,6 +209231,7 @@ zzzyk.com###Tinfo
 ||wyominghicky.com^
 ||wyovhzs.cn^
 ||wyplmjufd.live^
+||wypzilhkesnhs.site^
 ||wyq3rum.icu^
 ||wyqaafplm.live^
 ||wyqikvlslnuuf.space^
@@ -209632,6 +209648,7 @@ zzzyk.com###Tinfo
 ||xbhoylaadarbq.website^
 ||xbiicstjgsqpr.website^
 ||xbiywrtuqbels.space^
+||xbjvmbmhtppqmim.com^
 ||xbjy123.com^
 ||xbjzqknhajwyw.website^
 ||xbkcaouzpdgpb.site^
@@ -209873,6 +209890,7 @@ zzzyk.com###Tinfo
 ||xedo.me^
 ||xeducmvlja.com^
 ||xedvuqcniuwth.website^
+||xeehvosxtrv.com^
 ||xefb7ocy0hvqd.top^
 ||xefhktqktlwar.space^
 ||xeghes.fun^
@@ -210086,6 +210104,7 @@ zzzyk.com###Tinfo
 ||xhowfogabl.com^
 ||xhpghv.xyz^
 ||xhpqpq.cn^
+||xhpygriykcgib.site^
 ||xhqdvrbaoybgw.site^
 ||xhqgymmb.com^
 ||xhqmvu.k-uno.co.jp^
@@ -213344,6 +213363,7 @@ zzzyk.com###Tinfo
 ||yfiucflgsgbry.site^
 ||yfjkqpdwlimuh.space^
 ||yfjq.a6ntv.cn^
+||yfjynoteuipez.space^
 ||yfkbdckdvrjvm.space^
 ||yfkclv.asianetnews.com^
 ||yfks17.1law.vip^
@@ -215298,6 +215318,7 @@ zzzyk.com###Tinfo
 ||yywdph.multu.pl^
 ||yywflujrcwrcrio.net^
 ||yywridi.cn^
+||yyxnoegkqkavu.space^
 ||yyxpearkrincp.site^
 ||yyxrm.com^
 ||yyxsjshdkhd-6-2137516705.ap-east-1.elb.amazonaws.com^
