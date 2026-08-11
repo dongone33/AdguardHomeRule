@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-12 00:13:21
-# 总规则数: 222587 (黑: 218240, 白: 4347)
+﻿# 更新时间: 2026-08-12 01:15:51
+# 总规则数: 222615 (黑: 218268, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -20728,6 +20728,7 @@ zzzyk.com###Tinfo
 ||administersurlyunbelievable.com^
 ||administrator.pnclassaction.com^
 ||adminspace.carte-gr.total.fr^
+||admirable-nurse.com^
 ||admirableinstance.com^
 ||admiral.pub^
 ||admiralproxied.com^
@@ -38466,6 +38467,7 @@ zzzyk.com###Tinfo
 ||bright.mailstrom.co^
 ||brightadnetwork.com^
 ||brightcloudridge.com^
+||brightcloudvalley.com^
 ||brightcoremind.com^
 ||brightdata.com^
 ||brightdata.de^
@@ -39228,6 +39230,7 @@ zzzyk.com###Tinfo
 ||burblycatted.com^
 ||burdaffi.burdadigital.pl^
 ||burdenspinards.qpon^
+||burdieahmed.cyou^
 ||bureaubittercomic.com^
 ||bureauxcope.casa^
 ||burette34.com^
@@ -41523,6 +41526,7 @@ zzzyk.com###Tinfo
 ||caspionlog.appspot.com^
 ||casquestreendraying.cyou^
 ||cassatp.roadcases.com^
+||cassebreathe.cfd^
 ||casserole59.top^
 ||casserolerehabilitationgradual.com^
 ||cassette.planetecycle.com^
@@ -41658,7 +41662,6 @@ zzzyk.com###Tinfo
 ||cautiocorema.shop^
 ||cautionpepraising.com^
 ||cautious60.com^
-||cautiouscamera.com^
 ||cautiouscherries.com^
 ||cautiouscrate.com^
 ||cautiouscredit.com^
@@ -57507,7 +57510,6 @@ zzzyk.com###Tinfo
 ||deadlinescreechvisit.com^
 ||deadly-nail.pro^
 ||deadlyfeasible.com^
-||deafeningdock.com^
 ||deafeningphone.com^
 ||deafnitrogen.com^
 ||deagroup-ks.com^
@@ -66083,6 +66085,7 @@ zzzyk.com###Tinfo
 ||embalageral.hospedagemdesites.ws^
 ||emban.site^
 ||embankmentinscriptioneventful.com^
+||embargoapertly.com^
 ||embargosensor.com^
 ||embarkvision.top^
 ||embarrassed-bridge.com^
@@ -68446,6 +68449,7 @@ zzzyk.com###Tinfo
 ||evulseraring.qpon^
 ||evupmg.olehenriksen.com^
 ||evuuiytrdkshg.website^
+||evwpjhqygpz.com^
 ||evxtwhslqddyy.website^
 ||evxxkaaecmwgz.online^
 ||evycvuy.icu^
@@ -77670,7 +77674,9 @@ zzzyk.com###Tinfo
 ||go.mktinfonetwork.com^
 ||go.mmodragon.com^
 ||go.mmstat.com^
+||go.mobisla.com^
 ||go.mobstitialtag.com^
+||go.mobtrks.com^
 ||go.moka.ai^
 ||go.morningstar.com.au^
 ||go.morningstar.com^
@@ -83417,6 +83423,7 @@ zzzyk.com###Tinfo
 ||gxvdzkmvwmgua.online^
 ||gxvf.cn^
 ||gxvlkzwimkiyb.site^
+||gxwjm9n447l8rgpi.cfd^
 ||gxwlzz.baiduspider1.cn^
 ||gxx.88636126.com^
 ||gxxcbj.com^
@@ -91296,6 +91303,7 @@ zzzyk.com###Tinfo
 ||inconelcatalos.com^
 ||inconsequential-belt.pro^
 ||inconsequential-working.com^
+||inconsequentialdear.com^
 ||inconsequentialsir.com^
 ||inconsistencygasdifficult.com^
 ||inconsistentoverflowscan.com^
@@ -96768,6 +96776,7 @@ zzzyk.com###Tinfo
 ||jpvcwiqqc.com^
 ||jpvijgojgkgyk.online^
 ||jpvrbt.xyz^
+||jpwasxhgyrzjy.online^
 ||jpwcijkiobukr.site^
 ||jpwfkn.besthotels.es^
 ||jpwfrl.mona.de^
@@ -111626,6 +111635,7 @@ zzzyk.com###Tinfo
 ||luaqxb.rainso.com^
 ||luassane.cn^
 ||lub-links.eyecue.io^
+||lubbardshauled.com^
 ||lubjakntiafcl.space^
 ||lubosheng.cn^
 ||lubowitz.biz^
@@ -138912,6 +138922,7 @@ zzzyk.com###Tinfo
 ||pstun.kugou.com^
 ||pstvvb.xyz^
 ||psuhofevzdnyz.online^
+||psujkvhtymfwc.website^
 ||psuqcrvrchbbv.space^
 ||psvpromo.psvgamestudio.com^
 ||psvylueenmhpc.website^
@@ -139267,6 +139278,7 @@ zzzyk.com###Tinfo
 ||puja.amardeeprawat.com^
 ||pujunancerer.cfd^
 ||puk9mpb8dm.com^
+||pukachousedexdie.cfd^
 ||pukekoassent.com^
 ||pukerrevisitassalto.cfd^
 ||pukri.climit.com^
@@ -140714,6 +140726,7 @@ zzzyk.com###Tinfo
 ||qhaqlvdbyjwdc.website^
 ||qhaqrwrsfjiev.site^
 ||qhbetzsrzzslg.site^
+||qhbnrdsyzoygd.website^
 ||qhbnu.sokolovelaw.com^
 ||qhchh.com^
 ||qhcksjb.com^
@@ -142420,6 +142433,7 @@ zzzyk.com###Tinfo
 ||qycjrkfzx.com^
 ||qyctj.com^
 ||qyczmtalenlnc.store^
+||qyeavpkdevzzc.site^
 ||qyel.cn^
 ||qygpcxfqqvfhr.online^
 ||qygvip410.com^
@@ -145231,6 +145245,7 @@ zzzyk.com###Tinfo
 ||rfytbwblzrznd.website^
 ||rfzjyoayftjgb.website^
 ||rfzmu.genseebeauty.com^
+||rfzyhhqbcpgwm.online^
 ||rg-3tn.pages.dev^
 ||rg-be.ru^
 ||rg.colaaquifestas.com.br^
@@ -147624,6 +147639,7 @@ zzzyk.com###Tinfo
 ||rutkz.bugmd.com^
 ||rutrk.org^
 ||rutseasickmunch.com^
+||rutspartans.com^
 ||rutthe-mpos.com^
 ||rutthempos-vn.com^
 ||rutthetindungmpos247.com^
@@ -150770,7 +150786,9 @@ zzzyk.com###Tinfo
 ||scented-leather.com^
 ||scentedkindly.com^
 ||scentwerthermetring.cfd^
+||scepsisnaebody.com^
 ||scepticalomnipresentmelody.com^
+||scexobuykkhgf.com^
 ||scfans.cn^
 ||scfatao.com^
 ||scfhwp.ski-express.com^
@@ -152547,6 +152565,7 @@ zzzyk.com###Tinfo
 ||septanepoints.com^
 ||septbajri.com^
 ||septemberbrightest.com^
+||septierpranker.com^
 ||septumssunyata.qpon^
 ||seputartuban.com^
 ||sepvbm.fromyouflowers.com^
@@ -164906,6 +164925,7 @@ zzzyk.com###Tinfo
 ||softonic-analytics.net^
 ||softonicads.com^
 ||softpopads.com^
+||softscales.com^
 ||softstart.kugou.com^
 ||softsunpath.com^
 ||softtrack08.com^
@@ -166304,6 +166324,7 @@ zzzyk.com###Tinfo
 ||sportradarserving.com^
 ||sports.iqiyi.com^
 ||sports.sportszone.com.bd^
+||sportsclubstat.com^
 ||sportsdream.top^
 ||sportsnearby.com^
 ||sportstoday.pro^
@@ -169363,6 +169384,7 @@ zzzyk.com###Tinfo
 ||ssga4gads.veryspecialgames.com^
 ||ssgamf.stories.com^
 ||ssgan.tera.ma^
+||ssgbvvjwukjfa.website^
 ||ssgfvaiormcuz.online^
 ||ssgg.chazidian.com^
 ||ssgi.roserx.health^
@@ -184793,6 +184815,7 @@ zzzyk.com###Tinfo
 ||tck.fr.transavia.com^
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
+||tckbqxhomsuif.online^
 ||tckfq4qoqbmfx4.cfd^
 ||tckn-code.com^
 ||tclient.opensourcebrokers.ca^
@@ -185470,6 +185493,7 @@ zzzyk.com###Tinfo
 ||tendencystrangely.com^
 ||tendencyvalleysrod.com^
 ||tendertest.com^
+||tendrelbeddedovality.qpon^
 ||tendrelkoelsbraider.cfd^
 ||tenekslu.com^
 ||tengbt.healthhelper.kr^
@@ -194801,6 +194825,7 @@ zzzyk.com###Tinfo
 ||ttc.highlandexplorertours.com^
 ||ttcdn.cn^
 ||ttchengyu.qingyougames.com^
+||ttctufawxqxll.website^
 ||ttcyslxwwwvhl.space^
 ||ttdaomggbigdg.space^
 ||ttdbj.com^
@@ -200526,6 +200551,7 @@ zzzyk.com###Tinfo
 ||vdbank.com.vn^
 ||vdbbiwvxvhzdt.online^
 ||vdbedxruxhcdm.website^
+||vdbrxbbtwyiphn.com^
 ||vdc.zoomph.com^
 ||vddf0.club^
 ||vde1.voyage-prive.de^
@@ -212163,6 +212189,7 @@ zzzyk.com###Tinfo
 ||xuefenxi.com^
 ||xuehelei.com^
 ||xuehjpsirhyol.space^
+||xuehqnyvkwewdr.com^
 ||xueliedu.tech^
 ||xuenengyoujiaoyu.com^
 ||xuenpasqvdt.net^
@@ -214492,6 +214519,7 @@ zzzyk.com###Tinfo
 ||yp.shuhuangge.org^
 ||yp0loy5lcl.com^
 ||yp333.top^
+||yp43k2ecmiill2bbhw12kh.rest^
 ||ypa.focusoftime.com^
 ||ypbfjo.paulsmith.co.jp^
 ||ypbvyc.mpa-pro.fr^
