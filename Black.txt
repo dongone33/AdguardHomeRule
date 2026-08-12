@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-08-12 16:57:43
+﻿# 更新时间: 2026-08-12 18:13:02
 # 总规则数: 222917 (黑: 218570, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
@@ -21263,7 +21263,6 @@ zzzyk.com###Tinfo
 ||ads-bid.leadmoad.com^
 ||ads-bidder-api.twitter.com^
 ||ads-bitcoin.com^
-||ads-blocker-1.static-cloudflare.workers.dev^
 ||ads-blocker.app^
 ||ads-blocker.pro^
 ||ads-bridge.pixocial.com^
@@ -52927,6 +52926,7 @@ zzzyk.com###Tinfo
 ||dashaowu.com^
 ||dashbida.com^
 ||dashboard.alcancemg.com^
+||dashboard.andbeyond.media^
 ||dashboard.boostads.ru^
 ||dashboard.branch.io^
 ||dashboard.digita.media^
@@ -87889,6 +87889,7 @@ zzzyk.com###Tinfo
 ||humiliatingparking.com^
 ||humiliatingregion.com^
 ||huminfakt.ru^
+||hummerleaked.cyou^
 ||hummingbird.mavencoalition.io^
 ||hummingexam.com^
 ||humongousconnection.com^
@@ -87923,6 +87924,7 @@ zzzyk.com###Tinfo
 ||hunggg.life^
 ||hungry-exit.com^
 ||hungry-fan.pro^
+||hungrysurrenderdevastated.com^
 ||hunkal.com^
 ||hunkhideliability.com^
 ||hunksoon.com^
@@ -125802,7 +125804,6 @@ zzzyk.com###Tinfo
 ||new-programmatic.com^
 ||new-sentry.digikala.com^
 ||new-service.biliapi.net^
-||new-twinks.com^
 ||new-vietcombank.com^
 ||new-vietcombank.info^
 ||new-vietcombank.net^
@@ -159812,7 +159813,6 @@ zzzyk.com###Tinfo
 ||simmeringsuitableunwoven.com^
 ||simon184.cn^
 ||simonsignal.com^
-||simonzody.com^
 ||simoondinge.shop^
 ||simpasa.cn^
 ||simpio.com^
