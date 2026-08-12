@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-13 00:43:57
-# 白名单规则数: 4347
+﻿# 更新时间: 2026-08-13 01:48:21
+# 白名单规则数: 4348
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -2861,6 +2861,7 @@
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
+@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
