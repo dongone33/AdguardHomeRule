@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-12 07:59:42
-# 总规则数: 222811 (黑: 218463, 白: 4348)
+﻿# 更新时间: 2026-08-12 10:33:27
+# 总规则数: 222813 (黑: 218466, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -47686,6 +47686,7 @@ zzzyk.com###Tinfo
 ||control.wirkaufens.at^
 ||control.wirkaufens.de^
 ||controlaffliction.com^
+||controlcola.com^
 ||controlcookies.com^
 ||controlemeta.orodrigogurgel.com.br^
 ||controlexpenses.adp.ca^
@@ -65017,6 +65018,7 @@ zzzyk.com###Tinfo
 ||efgyef2.qiusu36.cc^
 ||efh2rahxxq.com^
 ||efilli.com^
+||efizkocjhjxls.space^
 ||efjsvt.patyka.com^
 ||efjx.880.net^
 ||efk.etwlt.com^
@@ -70360,6 +70362,7 @@ zzzyk.com###Tinfo
 ||febcyv.joshi-spa.jp^
 ||febeb.xyz^
 ||febflqfojuqdqm.com^
+||febihiaseubuc.online^
 ||febr.8890.com^
 ||febriletanzy.shop^
 ||februarybogus.com^
@@ -87863,7 +87866,6 @@ zzzyk.com###Tinfo
 ||humiliatingparking.com^
 ||humiliatingregion.com^
 ||huminfakt.ru^
-||hummerleaked.cyou^
 ||hummingbird.mavencoalition.io^
 ||hummingexam.com^
 ||humongousconnection.com^
@@ -87898,7 +87900,6 @@ zzzyk.com###Tinfo
 ||hunggg.life^
 ||hungry-exit.com^
 ||hungry-fan.pro^
-||hungrysurrenderdevastated.com^
 ||hunkal.com^
 ||hunkhideliability.com^
 ||hunksoon.com^
@@ -126279,6 +126280,7 @@ zzzyk.com###Tinfo
 ||ngvptqydvxpfa.website^
 ||ngvrtj.icu^
 ||ngvti.thelovery.co^
+||ngvvzcemgmucl.space^
 ||ngwadzu.cn^
 ||ngwdljgbshhof.site^
 ||ngwgkhtdykzzz.online^
@@ -134216,6 +134218,7 @@ zzzyk.com###Tinfo
 ||pcfsm.villageinn.com^
 ||pcftn.moonbrew.co^
 ||pcgkg.beaudindesigns.com^
+||pchmkqbkyupsn.site^
 ||pchtkxbomdohto.com^
 ||pchur.belkin.com^
 ||pchznf.xyz^
@@ -221324,7 +221327,6 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
