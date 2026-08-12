@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-13 03:55:41
-# 总规则数: 223014 (黑: 218666, 白: 4348)
+﻿# 更新时间: 2026-08-13 04:53:31
+# 总规则数: 223030 (黑: 218682, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -23075,6 +23075,7 @@ zzzyk.com###Tinfo
 ||aeros12.tk^
 ||aerserv.com^
 ||aes01.com^
+||aescocherwhither.qpon^
 ||aeshopvn.com^
 ||aespmnbpqhpvu.space^
 ||aesrfmkkyhlei.online^
@@ -83275,6 +83276,7 @@ zzzyk.com###Tinfo
 ||guq9.vente-unique.it^
 ||guqpe.oceanmosaics.com^
 ||guqsqfmi.com^
+||guqwjxedurdjv.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||gurgleupstandingexist.com^
@@ -102575,6 +102577,7 @@ zzzyk.com###Tinfo
 ||leanplum.com^
 ||leapedspam.com^
 ||leapedunarmed.com^
+||leaperskcmalist.qpon^
 ||leapingkhaya.cfd^
 ||leaplunchroom.com^
 ||leapretrieval.com^
@@ -104625,6 +104628,7 @@ zzzyk.com###Tinfo
 ||linterjabots.cfd^
 ||lintey.com^
 ||lintheirbrightscarletc.org^
+||lintolmarquee.shop^
 ||lintyahimsas.com^
 ||lintyone.top^
 ||linuozhiyao.xyz^
@@ -134349,6 +134353,7 @@ zzzyk.com###Tinfo
 ||pcidata.cn^
 ||pcidcacaroff.in^
 ||pciidk.shopee.vn^
+||pcimbyicebtyeuw.com^
 ||pciokm.glamuse.com^
 ||pcitaaeimgifl.online^
 ||pcjmyu.univeramall.com^
@@ -199734,6 +199739,7 @@ zzzyk.com###Tinfo
 ||uwkxicztqhntk.space^
 ||uwlcxw.mentionee.uodbsly.com^
 ||uwlgobzldxdun.space^
+||uwlitnoopxqmb.online^
 ||uwlovullbg.com^
 ||uwnvcxb.cn^
 ||uwoaptee.com^
@@ -199878,6 +199884,7 @@ zzzyk.com###Tinfo
 ||uzapgolabdiyl.site^
 ||uzasjoeoqwruj.site^
 ||uzawebaho.sbs^
+||uzcdyxkzovjyn.website^
 ||uzd1.madeindesign.com^
 ||uzdbd.iv-active.com^
 ||uzdpzjmscmlgz.website^
@@ -202657,6 +202664,7 @@ zzzyk.com###Tinfo
 ||vmd.legally.io^
 ||vmdlxj.xyz^
 ||vmdwuq.chadotel.com^
+||vmdyyhajbvpin.website^
 ||vmeacwefprekg.website^
 ||vmecbdkpvugpj.website^
 ||vmenlgdowysab.website^
@@ -204657,6 +204665,7 @@ zzzyk.com###Tinfo
 ||wap3.ucweb.com^
 ||wapadv.com^
 ||wapbaze.com^
+||wapcqhzqvitlh.website^
 ||wapempire.com^
 ||wapforum.org^
 ||waphn.189.cn^
@@ -205095,6 +205104,7 @@ zzzyk.com###Tinfo
 ||wdadad.cn
 ||wdagsdtshldmg.online^
 ||wdavsaljbdlqj.online^
+||wdaybyzzjnpri.online^
 ||wdb.cn.miaozhen.com^
 ||wdbecodqxlyuu.site^
 ||wdbtiwn.cn^
@@ -206541,6 +206551,7 @@ zzzyk.com###Tinfo
 ||wheybkethenic.qpon^
 ||wheyeymesial.cfd^
 ||whfambxpjlyos.online^
+||whfeiacex.com^
 ||whfpbc.99.com.cn^
 ||whfyhouse.com^
 ||whglicfodltns.space^
@@ -207963,6 +207974,7 @@ zzzyk.com###Tinfo
 ||wpyvue.idealwine.com^
 ||wpzfds.glamira.be^
 ||wpzffweq.remorqueshop.fr^
+||wpzqienjqrgyk.website^
 ||wq26xa0tr.com^
 ||wq9t.011.com^
 ||wqbapi.veredloanweb.com^
@@ -209733,6 +209745,7 @@ zzzyk.com###Tinfo
 ||wzl02.xyz^
 ||wzl03.xyz^
 ||wzl05.xyz^
+||wzlxdodimkqef.online^
 ||wzn4.cn^
 ||wznhwz.benz24.de^
 ||wzo5.yide.com^
@@ -210141,6 +210154,7 @@ zzzyk.com###Tinfo
 ||xcclzs.com^
 ||xcdf.cn^
 ||xcdf2vbgty.zx.arcchiexpo.com^
+||xcdfoveggqqlw.website^
 ||xcdizpnjkxwsc.website^
 ||xcdn.rltdxt.com^
 ||xcdntp.vip^
@@ -210173,6 +210187,7 @@ zzzyk.com###Tinfo
 ||xck31.cn^
 ||xckj0623.com^
 ||xckmiovstahqy.website^
+||xckmixodejzep.online^
 ||xckxrn.endriss.de^
 ||xckyqq.com^
 ||xclaimwords.net^
@@ -210716,6 +210731,7 @@ zzzyk.com###Tinfo
 ||xibvdjz2x2.com^
 ||xicairencs.cn^
 ||xicakemoter.cyou^
+||xicvwcqmqwkrm.website^
 ||xidxktydwzica.website^
 ||xiedao.hk^
 ||xieduajahaonu.space^
