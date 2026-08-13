@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-14 05:04:40
-# 总规则数: 223360 (黑: 219012, 白: 4348)
+﻿# 更新时间: 2026-08-14 06:02:53
+# 总规则数: 223366 (黑: 219018, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -25766,6 +25766,7 @@ zzzyk.com###Tinfo
 ||amydri.jetcost.no^
 ||amylhg0412dt1.iuemr7gu5.bar^
 ||amynx.com^
+||amyrinamirayspa.cyou^
 ||amz.steamprices.com^
 ||amzbr.com^
 ||amzelathold.cfd^
@@ -38670,6 +38671,7 @@ zzzyk.com###Tinfo
 ||brokerbabe.com^
 ||brokingcutheal.qpon^
 ||brom6cffuh5k1b.cfd^
+||bromesrovers.shop^
 ||brominer.com^
 ||bromingigaton.com^
 ||bromoilnapalms.com^
@@ -64358,6 +64360,7 @@ zzzyk.com###Tinfo
 ||ebmhpt.sneakscloud.com^
 ||ebmjaufmqljbw.site^
 ||ebnpqi.carrefourlocation.fr^
+||ebonisegorhenssnottie.cyou^
 ||ebonizerebake.com^
 ||ebony.black.news^
 ||eboobuv0rk.com^
@@ -70618,6 +70621,7 @@ zzzyk.com###Tinfo
 ||fellowearnwave.com^
 ||fellowshiplyricsceasless.com^
 ||fellowshipvillage.fellowshiplifeinc.org^
+||felonesbeman.com^
 ||felonspicuda.cfd^
 ||felor.xyz^
 ||felterprefet.qpon^
@@ -78707,6 +78711,7 @@ zzzyk.com###Tinfo
 ||gou1zhe.com^
 ||goucurl.cyou^
 ||goufanli100.com^
+||gougingskillo.shop^
 ||gougou88.xyz^
 ||gouikrywyxnmo.store^
 ||goujayunwind.qpon^
@@ -205162,6 +205167,7 @@ zzzyk.com###Tinfo
 ||wavtcdqwbuhiw.space^
 ||wavzlt.michaelstars.com^
 ||wawe.in^
+||wawebuhkeq.com^
 ||wawledmetreza.cyou^
 ||wax.weibo.com.cn^
 ||wax.weibo.com^
