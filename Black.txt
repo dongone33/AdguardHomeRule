@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-15 00:34:15
-# 总规则数: 223716 (黑: 219369, 白: 4347)
+﻿# 更新时间: 2026-08-15 01:39:31
+# 总规则数: 223718 (黑: 219371, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18947,7 +18947,6 @@ zzzyk.com###Tinfo
 ||ad-dp-drcn.cloud.huawei.com.cn^
 ||ad-drop.jp^
 ||ad-drs-ipv6.52qumao.com^
-||ad-drs.52qumao.com
 ||ad-drs.52qumao.com^
 ||ad-dsp-1251779293.file.myqcloud.com^
 ||ad-ebis.bookpass.auone.jp^
@@ -41396,6 +41395,7 @@ zzzyk.com###Tinfo
 ||capisgtm.joudicargo.com^
 ||capiss.nyralondon.com^
 ||capisvr.falaqfood.com^
+||capital-order.pro^
 ||capitalistsplitting.com^
 ||capitalopera.com^
 ||capitfes.andrefilipe.com.br^
@@ -121313,6 +121313,7 @@ zzzyk.com###Tinfo
 ||misdlgenddd.com^
 ||miserableconcept.com^
 ||miserly-apple.pro^
+||miserly-wrap.com^
 ||miseshogglerstrit.cyou^
 ||miseventos.orem.com.mx^
 ||misguidedconclusion.com^
@@ -165698,6 +165699,7 @@ zzzyk.com###Tinfo
 ||socialbakers.com^
 ||socialbars-web1.com^
 ||socialcompletelydefrost.com^
+||socialconventcontext.com^
 ||socialdate.me^
 ||socialelective.com^
 ||sociallist.org^
