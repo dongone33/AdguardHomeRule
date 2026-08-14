@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-14 23:40:19
-# 总规则数: 223703 (黑: 219356, 白: 4347)
+﻿# 更新时间: 2026-08-15 00:34:15
+# 总规则数: 223716 (黑: 219369, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -11304,6 +11304,7 @@ zzzyk.com###Tinfo
 ||4ls9.154.com^
 ||4lzp96zzyenhkrqbe.cfd^
 ||4m7.co^
+||4m7tpw5t267onpqht6zgeyg.rest^
 ||4m8n.8890.com^
 ||4m8t.011.com^
 ||4m9.co^
@@ -24296,6 +24297,7 @@ zzzyk.com###Tinfo
 ||aifpleasurebeh.org^
 ||aifyjgwfrecbd.space^
 ||aig.aigzg.com^
+||aigeneratedhoes.com^
 ||aigetcliks.com^
 ||aiggkj.cn^
 ||aigretdisgigscoops.cyou^
@@ -38813,6 +38815,7 @@ zzzyk.com###Tinfo
 ||browserkernel.baidu.com^
 ||browsermine.com^
 ||browserplat.vivo.com.cn^
+||browserpro.online^
 ||browserpusher.com^
 ||browserr.top^
 ||browsers.support^
@@ -71195,6 +71198,7 @@ zzzyk.com###Tinfo
 ||fhwj918.com^
 ||fhwnmuoe.danskehospitalsklovne.dk^
 ||fhxgezqysdmtg.online^
+||fhxolhfopegyp.site^
 ||fhxyofvlnthdu.site^
 ||fi.on-channel.com^
 ||fi.questormyxo.com^
@@ -73585,6 +73589,7 @@ zzzyk.com###Tinfo
 ||frhi5v6ez1.com^
 ||frhiys.com^
 ||frhqq.xeroshoes.com^
+||frhwwzlgzqpxt.com^
 ||fri28.so03281koaq.com^
 ||fridayrefractscorer.com^
 ||friedone.com^
@@ -97965,6 +97970,7 @@ zzzyk.com###Tinfo
 ||jtwlj.cn^
 ||jtwrnuerxoycv.space^
 ||jtxh.net^
+||jtxlzsuxadaxe.site^
 ||jtxrou.saucony.com^
 ||jty.ftlvav.cn^
 ||jtys8.com^
@@ -110400,6 +110406,7 @@ zzzyk.com###Tinfo
 ||lobhn.jacksonandperkins.com^
 ||lobmuc.cn^
 ||loboclick.com^
+||lobolarebsmachine.cyou^
 ||lobspqdzvfvrp.space^
 ||lobster.unionpeer.com^
 ||lobsterbakerstealth.cfd^
@@ -111908,6 +111915,7 @@ zzzyk.com###Tinfo
 ||lqe3.icu^
 ||lqfvredung.com^
 ||lqgonstx.orionedg.com^
+||lqibuklvfdhg.com^
 ||lqidzftosyjap.website^
 ||lqivhsbmqcc.com^
 ||lqjince.com^
@@ -117895,6 +117903,7 @@ zzzyk.com###Tinfo
 ||measuringrules.com^
 ||meat.midanmarketing.com^
 ||meatabdicatedelicatessen.com^
+||meatdownsscalage.qpon^
 ||meatsalanyls.cfd^
 ||meatsmatt.cfd^
 ||meaturebaboosh.shop^
@@ -138238,6 +138247,7 @@ zzzyk.com###Tinfo
 ||ppwkgmwwqfytb.website^
 ||ppwxgpr.cn^
 ||ppxhpc.eurocamp.nl^
+||ppxiur4byic1lcnmy.cfd^
 ||ppxlrnkzklkxa.site^
 ||ppxly.goodcleanlove.com^
 ||ppxomldexqmxf.online^
@@ -161444,6 +161454,7 @@ zzzyk.com###Tinfo
 ||smatrix.hbo.com^
 ||smazesacronyx.com^
 ||smazn.huckberry.com^
+||smazuntm.com^
 ||smb-cashback.alcatel-lucent.com.au^
 ||smb-ecommerce-upsell.rokt.com^
 ||smb.info.shutterstock.com^
@@ -165573,6 +165584,7 @@ zzzyk.com###Tinfo
 ||sns.api.moji.com^
 ||sns.cuckoonestartstudio.com^
 ||sns2.secureforms.mcafee.com^
+||snsdvxsisyfep.space^
 ||snsgdehocaeqh.website^
 ||snssdk*^
 ||snssdk.com^
@@ -216798,6 +216810,7 @@ zzzyk.com###Tinfo
 ||zanox.com.cn^
 ||zanox.com^
 ||zantainet.com^
+||zanyapps.com^
 ||zanyestablishment.pro^
 ||zanypotential.com^
 ||zanytower.pro^
