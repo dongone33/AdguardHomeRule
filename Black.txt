@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-14 21:47:16
-# 总规则数: 223569 (黑: 219222, 白: 4347)
+﻿# 更新时间: 2026-08-14 22:45:00
+# 总规则数: 223599 (黑: 219252, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -11248,6 +11248,7 @@ zzzyk.com###Tinfo
 ||4go.cc^
 ||4gq.cn^
 ||4grj0oaosle.vns1263414.cc^
+||4grqz7x6z3.com^
 ||4gustis.xyz^
 ||4h44.com^
 ||4h87y9pc59.com^
@@ -25746,6 +25747,7 @@ zzzyk.com###Tinfo
 ||amtrakcitee.com^
 ||amtropiusr.com^
 ||amtvgfz.veneera.de^
+||amtyaqona.cfd^
 ||amuckafternoon.com^
 ||amueqxezmlmht.site^
 ||amuletshaped.com^
@@ -33804,6 +33806,7 @@ zzzyk.com###Tinfo
 ||baboonitovah.cyou^
 ||babuariddlerdrifty.cfd^
 ||babulssox.com^
+||babumainvect.qpon^
 ||baby.babybondhon.com^
 ||baby.yf898.com^
 ||babyboomboomads.com^
@@ -34535,6 +34538,7 @@ zzzyk.com###Tinfo
 ||bat.r.msn.com^
 ||bat31.gimmeporn.xyz^
 ||bat32.gimmeporn.xyz^
+||batbwkbxpd.com^
 ||batch.com^
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
@@ -35897,6 +35901,7 @@ zzzyk.com###Tinfo
 ||bewnfl.houseoftents.co.uk^
 ||bewormspumpman.cyou^
 ||bewreakaglossaberchta.cyou^
+||bewreakswinishshoal.cyou^
 ||bewsgxy.solidandstriped.com^
 ||beyanmaan.com^
 ||beydomenamels.shop^
@@ -37837,6 +37842,7 @@ zzzyk.com###Tinfo
 ||booktiturel.com^
 ||booli-logger.prod.booli.se^
 ||boolylipases.com^
+||boolyskeeter.cyou^
 ||boomads.com^
 ||boomboomcloud.com^
 ||boomboxbecuna.cyou^
@@ -46680,6 +46686,7 @@ zzzyk.com###Tinfo
 ||comalonger.com^
 ||comanicilikeiste.com^
 ||comarind.com^
+||comartobeah.qpon^
 ||combativedetail.com^
 ||combbicyclelistworth.com^
 ||combbit.com^
@@ -48129,6 +48136,7 @@ zzzyk.com###Tinfo
 ||coqivmhwkcywq.online^
 ||cor8ni3shwerex.com^
 ||coragefugging.shop^
+||corajigustful.qpon^
 ||coral-task.uc.cn^
 ||coral.bladestudy.net^
 ||coral.defygravity.co^
@@ -48246,6 +48254,7 @@ zzzyk.com###Tinfo
 ||cortellisconnections.thomsonreuters.com^
 ||cortinegyral.cfd^
 ||corulercled.shop^
+||corveesleges.cfd^
 ||corvinapont.cyou^
 ||corycj.top^
 ||coryphstoma.com^
@@ -53009,6 +53018,7 @@ zzzyk.com###Tinfo
 ||darki.sokolovelaw.com^
 ||darkmfbipedjt.space^
 ||darkpetalia.com^
+||darlingyechs.qpon^
 ||darlix.top^
 ||darnobedienceupscale.com^
 ||darnuid.netflix.com^
@@ -101161,6 +101171,7 @@ zzzyk.com###Tinfo
 ||kumo.network-n.com^
 ||kumphurwyr.com^
 ||kumpulblogger.com^
+||kumrahneese.cyou^
 ||kumvrxoewxdsr.online^
 ||kunde.danskespil.dk^
 ||kunjia.org^
@@ -105135,6 +105146,7 @@ zzzyk.com###Tinfo
 ||livejs.ksapisrv.com^
 ||livelumber.com^
 ||lively-collect-elb-*.amazonaws.com^
+||livelybreast.cfd^
 ||livelyhelp.chat^
 ||livelylaugh.com^
 ||livelymatter.com^
@@ -114120,6 +114132,7 @@ zzzyk.com###Tinfo
 ||m367.michigansthumb.com^
 ||m3bnqqqw.com^
 ||m3cqjc3og6.com^
+||m3crgmeycmu51hk5hq87b4r.rest^
 ||m3ds.subarumetropolitain.com^
 ||m3hual.89doc.com^
 ||m3j1pkrjg3.com^
@@ -128811,6 +128824,7 @@ zzzyk.com###Tinfo
 ||nyfpt.cuddleandkind.com^
 ||nyfwoxdfhgufr.online^
 ||nygcwpskctfwq.space^
+||nygidnqwvcmeu.space^
 ||nyhed.danskespil.dk^
 ||nyhhwhokdnibh.online^
 ||nyhopgjjlgmyo.space^
@@ -132567,6 +132581,7 @@ zzzyk.com###Tinfo
 ||oylblokar.com^
 ||oylg7.com^
 ||oyllhwxhhwlir.site^
+||oyluepai.com^
 ||oylyaz.mrkoll.se^
 ||oymfopsxkdygv.online^
 ||oyn79g2o8y6ekubntoomr.rest^
@@ -135282,6 +135297,7 @@ zzzyk.com###Tinfo
 ||pettiisotelyacraze.qpon^
 ||peueg.swankybadger.com^
 ||peugyiwmgvadr.space^
+||peuhlwarine.cyou^
 ||peukasrsihavele.org^
 ||peuwacvgrvtrg.space^
 ||pevdwb.cn^
@@ -135579,6 +135595,7 @@ zzzyk.com###Tinfo
 ||phimhaykiemtien24h.com^
 ||phimtronbo.pro^
 ||phinnk.airtrip.jp^
+||phirozepilau.cyou^
 ||phixls.uaubox.com.br^
 ||phizesmonture.cyou^
 ||phjelnacnkkli.website^
@@ -144654,6 +144671,7 @@ zzzyk.com###Tinfo
 ||redwingmagazine.com^
 ||redwolfmoon.com^
 ||redwudsabana.com^
+||reeboksyd.cfd^
 ||reebr.com^
 ||reedbusiness.net^
 ||reedsbullyingpastel.com^
@@ -148642,6 +148660,7 @@ zzzyk.com###Tinfo
 ||rzmpg.elderlifefinancial.com^
 ||rzneekilff.com^
 ||rznjt.hhc-org.com^
+||rznkohtdshknm.site^
 ||rznscya.cn^
 ||rzoevr.qvc.de^
 ||rzojvqmbqhigv.website^
@@ -151002,6 +151021,7 @@ zzzyk.com###Tinfo
 ||sargonould.cyou^
 ||sarksyour.cyou^
 ||sarlykidlesse.shop^
+||sarodsleechy.cfd^
 ||sarodtoluyls.cfd^
 ||sarov.ws^
 ||sarpohectare.qpon^
@@ -151054,6 +151074,7 @@ zzzyk.com###Tinfo
 ||satinslapilliloot.cyou^
 ||satinwood84.com^
 ||satinyrognons.com^
+||satiricursolichuk.cyou^
 ||satisfactioncooking.com^
 ||satisfactionsaltyunite.com^
 ||satisfactorybroadformidable.com^
@@ -151828,6 +151849,7 @@ zzzyk.com###Tinfo
 ||scw0.com^
 ||scwinfo.secondcity.com^
 ||scwmllkshdfug.website^
+||scwnhwhphhapp.space^
 ||scws.120ask.com^
 ||scwuufxvjvcoy.website^
 ||scwuyu.build.co.kr^
@@ -158679,6 +158701,7 @@ zzzyk.com###Tinfo
 ||sgweu.cablemod.com^
 ||sgwhvw.alura.com.br^
 ||sgwqoz.toddsnyder.com^
+||sgwscuhzsqgey.online^
 ||sgwss-mix-wx-xxcs.we4399.com^
 ||sgwszqb.cc^
 ||sgxcoin.net^
@@ -166305,6 +166328,7 @@ zzzyk.com###Tinfo
 ||sorrowful-control.pro^
 ||sorrowfulpsychology.com^
 ||sorryfearknockout.com^
+||sortallav.com^
 ||sortext.com^
 ||sorthurry.com^
 ||sortie-shop.com^
@@ -180134,6 +180158,7 @@ zzzyk.com###Tinfo
 ||stoppagebertram.com^
 ||stoppedcrag.com^
 ||stoppedgipsyundoubtedly.com^
+||stoppedvapour.cfd^
 ||stopperbarristerforecast.com^
 ||stopperscared.com^
 ||stoppitcinemas.cyou^
@@ -181189,6 +181214,7 @@ zzzyk.com###Tinfo
 ||sumptuousunwindassigned.com^
 ||sums.suning.com^
 ||sums.suning.com^$third-party
+||sumugwdriwrsf.site^
 ||sun.solar-haus.de^
 ||sun.sunnahersopan.com^
 ||sun66387567606.online^
@@ -188524,6 +188550,7 @@ zzzyk.com###Tinfo
 ||tmko2.com^
 ||tmko3.com^
 ||tmlfunrthtnff.online^
+||tmlhmihwqzcfmoonp9gw.cfd^
 ||tmluyaszhetwu.online^
 ||tmlyhh.icu^
 ||tmmjwelxryxod.site^
@@ -197809,6 +197836,7 @@ zzzyk.com###Tinfo
 ||uldtqa.weekendmaxmara.com^
 ||ulerkr.ukrzoloto.ua^
 ||ulesxbo.com^
+||ulexsporule.qpon^
 ||ulfoncgvmenpe.site^
 ||ulfze.thevintagepearl.com^
 ||ulgmucrlctvsl.store^
@@ -208750,6 +208778,7 @@ zzzyk.com###Tinfo
 ||wshd.wangsu20dh5.cc^
 ||wshesd.lianghao666.vip^
 ||wshlcgj.com^
+||wshohxivblqwv.website^
 ||wshufa.com^
 ||wshufa.com^$third-party
 ||wshz.getui.net^
@@ -214227,6 +214256,7 @@ zzzyk.com###Tinfo
 ||yellowishgather.com^
 ||yellowjm.com^
 ||yellowprotection.com^
+||yellowscissors.com^
 ||yellowto.com^
 ||yelpedtertii.shop^
 ||yema.shop^
