@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-15 13:48:32
-# 总规则数: 223848 (黑: 219501, 白: 4347)
+﻿# 更新时间: 2026-08-15 14:16:13
+# 总规则数: 223875 (黑: 219528, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18212,6 +18212,7 @@ zzzyk.com###Tinfo
 ||abxvr.ndkp.tech^
 ||abxxbixzzbbjq.website^
 ||abyss.poupettestore.fr^
+||abyssclued.qpon^
 ||abyssfar.com^
 ||abz.latelust.site^
 ||abzadd.com^
@@ -33255,6 +33256,7 @@ zzzyk.com###Tinfo
 ||ayhnnqidbjxep.online^
 ||ayhtyuwusyvod.space^
 ||ayidaye.m.zwdu.com^
+||ayinstrikes.cfd^
 ||ayintothefre.org^
 ||ayitkkxrctkia.online^
 ||ayittd.goldmoondnc.com^
@@ -35378,6 +35380,7 @@ zzzyk.com###Tinfo
 ||beavertron.com^
 ||bebangcaromel.com^
 ||bebasads.com^
+||bebasteshogs.shop^
 ||bebayahir.shop^
 ||bebaydeglory.cyou^
 ||bebb6fb79c.f34aabcc0e.com^
@@ -35522,6 +35525,7 @@ zzzyk.com###Tinfo
 ||behelddialectextract.com^
 ||behinava.com^
 ||behindcanary.com^
+||behkfu2mplp8y5.cfd^
 ||beholdsresinsimprevu.cfd^
 ||behovepimp.qpon^
 ||behowlbasongo.qpon^
@@ -37605,6 +37609,7 @@ zzzyk.com###Tinfo
 ||bnhxxj.xyz^
 ||bnijec.colorfulimages.com^
 ||bnikrjpiirjth.website^
+||bniojznwonvfk.com^
 ||bnk.wolterskluwerfs.com^
 ||bnkofmbmxc.com^
 ||bnkpgjw.cn^
@@ -38004,6 +38009,7 @@ zzzyk.com###Tinfo
 ||bossagedashers.shop^
 ||bossaudioandcomic-1252317822.file.myqcloud.com^
 ||bosselinorrummage.com^
+||bossierreek.qpon^
 ||bosspush.com^
 ||bossy-future.com^
 ||bossy-hat.com^
@@ -38677,6 +38683,7 @@ zzzyk.com###Tinfo
 ||brilliantpiece.com^
 ||brilllantsdates.net^
 ||brimhugo.qpon^
+||brimmedsclereyemen.qpon^
 ||brimsesugarer.cyou^
 ||bringalzolaist.qpon^
 ||bringertrustle.cfd^
@@ -48284,6 +48291,7 @@ zzzyk.com###Tinfo
 ||cornychicken.pro^
 ||coro.benbaisteel.com^
 ||corocksi.com^
+||corojohusband.com^
 ||coronaehavance.shop^
 ||coronappzz.com^
 ||coronetbaying.cyou^
@@ -50088,6 +50096,7 @@ zzzyk.com###Tinfo
 ||culledmyosin.cyou^
 ||cullemple-motline.com^
 ||cullersredealt.shop^
+||culmchidden.shop^
 ||culmedpasses.cam^
 ||culnas.click^
 ||culotankoli.shop^
@@ -50638,6 +50647,7 @@ zzzyk.com###Tinfo
 ||cycytea.cn^
 ||cydoniacavorts.qpon^
 ||cydonialah.qpon^
+||cydonrespelt.cyou^
 ||cydontopply.shop^
 ||cyeabs.luxyhair.com^
 ||cyecmyrbfvvcy.website^
@@ -57894,6 +57904,7 @@ zzzyk.com###Tinfo
 ||declarepainfullyswat.com^
 ||declk.com^
 ||decoctionembedded.com^
+||decollhertzes.cfd^
 ||decomposebosscumbersome.com^
 ||decomposeconversionpattern.com^
 ||decomposemanly.com^
@@ -59095,6 +59106,7 @@ zzzyk.com###Tinfo
 ||diaoguoshi.mobi^
 ||diaojiaoji168.com^
 ||diaopic.14bobo.com^
+||diaperflavedo.qpon^
 ||diaplexale.cyou^
 ||diapsidbuchloe.com^
 ||diarizedeploy.cyou^
@@ -73593,6 +73605,7 @@ zzzyk.com###Tinfo
 ||fregatabromoil.cyou^
 ||fregvoxmietix.website^
 ||freighter-prod01.narvar.com^
+||frenumshearth.shop^
 ||frenumsveined.cfd^
 ||frequentday.com^
 ||frequentflesh.com^
@@ -85292,6 +85305,7 @@ zzzyk.com###Tinfo
 ||hdnagl.womensecret.com^
 ||hdns.k-dyn.com^
 ||hdnse.newtonbaby.com^
+||hdo0zseqy.com^
 ||hdpaaaidikjlf.site^
 ||hdpdrandpd.xyz^
 ||hdppc.com^
@@ -87204,6 +87218,7 @@ zzzyk.com###Tinfo
 ||honorableland.com^
 ||honourcountry.com^
 ||honoureddiscernible.com^
+||honouredphrasemildly.com^
 ||honourrib.com^
 ||honoursdashed.com^
 ||hoo1luha.com^
@@ -91964,6 +91979,7 @@ zzzyk.com###Tinfo
 ||infectedrepentearl.com^
 ||infectiontuition.com^
 ||infectiousmedia.com^
+||infectshrimpi.cfd^
 ||infectswheeze.cfd^
 ||inferbrevityoption.com^
 ||inferclick.com^
@@ -99099,6 +99115,7 @@ zzzyk.com###Tinfo
 ||kazrlfgd.chopar.fi^
 ||kazrlfgd.chopar.no^
 ||kazrlfgd.chopar.se^
+||kaztuxcaw.in^
 ||kb-render.alicdn.com^
 ||kb.13pv.top^
 ||kb1ve043.top^
@@ -101405,6 +101422,7 @@ zzzyk.com###Tinfo
 ||kvnbryoywfjcp.space^
 ||kvnkjd.kaigoshoku.mynavi.jp^
 ||kvno4qgv8n.com^
+||kvob6ulzz5n7gmpji7wn4j.rest^
 ||kvoltomolbbxg.store^
 ||kvomsq.packoplock.se^
 ||kvoqd.madeincookware.co.uk^
@@ -103152,6 +103170,7 @@ zzzyk.com###Tinfo
 ||legder.com-softwares.com^
 ||legenhit.com^
 ||leggedgoajiro.shop^
+||leggieruncrest.qpon^
 ||leggyenglishdemonstration.com^
 ||leggyintimidatebullying.com^
 ||leggymomme.top^
@@ -129005,6 +129024,7 @@ zzzyk.com###Tinfo
 ||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nymllqnuvxbsz.online^
+||nymphadustbox.qpon^
 ||nymphszymosis.qpon^
 ||nympl.cwspirits.com^
 ||nymsdhtpngjip.space^
@@ -139496,6 +139516,7 @@ zzzyk.com###Tinfo
 ||prosperent.com^
 ||prospermacaroni.com^
 ||prospershave.com^
+||prossbiacuru.shop^
 ||prostoimya.kino-o-voine.ru^
 ||prostosite.club^
 ||prostrikemagazine.com^
@@ -150157,6 +150178,7 @@ zzzyk.com###Tinfo
 ||s96.cnzz.com^
 ||s97.cnzz.com^
 ||s98.cnzz.com^
+||s99s.net^
 ||s9dik0ydj.com^
 ||s9oi.ag8.com^
 ||s9w.cc^
@@ -151213,6 +151235,7 @@ zzzyk.com###Tinfo
 ||sare25.com^
 ||sargomiaul.qpon^
 ||sargonould.cyou^
+||sarkinekelter.shop^
 ||sarksyour.cyou^
 ||sarlykidlesse.shop^
 ||sarodsleechy.cfd^
@@ -186783,6 +186806,7 @@ zzzyk.com###Tinfo
 ||testtackleclergy.com^
 ||testtarget.jeep.com^
 ||testtubeabilityinvited.com^
+||testudodrivers.cfd^
 ||testwn.baidu.com^
 ||tet-lienquangarenavn.com^
 ||tet2023.shop^
@@ -188009,6 +188033,7 @@ zzzyk.com###Tinfo
 ||tipstats.onepagelove.com^
 ||tiptailmannie.com^
 ||tiptoeskilldetectives.com^
+||tiptopboubouslisle.cfd^
 ||tipuh.themillionroses.com^
 ||tipulidburling.com^
 ||tiq.espritshop.pl^
@@ -214158,6 +214183,7 @@ zzzyk.com###Tinfo
 ||yapfairmark.com^
 ||yapi.youlove.com.cn^
 ||yapmanrehears.cyou^
+||yappingptoses.cyou^
 ||yapplanetsterritory.com^
 ||yapthsxetvebmx.com^
 ||yapusheji.com^
@@ -216554,6 +216580,7 @@ zzzyk.com###Tinfo
 ||yylys.com^
 ||yymmsd.cn^
 ||yymowvdy0.com^
+||yymupayhgc.com^
 ||yymybiufjvunbmr.com^
 ||yynncbn.cn^
 ||yyottieqtt.com^
