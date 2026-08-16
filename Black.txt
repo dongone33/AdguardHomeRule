@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-16 15:46:01
-# 总规则数: 224364 (黑: 220016, 白: 4348)
+﻿# 更新时间: 2026-08-16 16:13:49
+# 总规则数: 224388 (黑: 220040, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -35153,6 +35153,7 @@ zzzyk.com###Tinfo
 ||bdjsfl.chinabig.com.cn^
 ||bdjsym.guangyuanol.cn^
 ||bdkscuti.com^
+||bdkundkfutc.com^
 ||bdkuth.smartbuyglasses.co.uk^
 ||bdl.xefyr.com^
 ||bdldyy.com^
@@ -48427,6 +48428,7 @@ zzzyk.com###Tinfo
 ||cosmopolitanprawn.com^
 ||cosmos.mysecrethangout.com^
 ||cosmosjackson.com^
+||cosmoskellegk.cfd^
 ||cosoyoo.com^
 ||cosplaygalaxy.com^
 ||cosponsorgarnetmorphing.com^
@@ -50702,6 +50704,7 @@ zzzyk.com###Tinfo
 ||cyccy.cn^
 ||cyclamen46.com^
 ||cyclinghere.com^
+||cycloneamalgamgnatho.cfd^
 ||cyclonechiefer.qpon^
 ||cyclopsdial.com^
 ||cycrtitiqxykp.space^
@@ -58345,6 +58348,7 @@ zzzyk.com###Tinfo
 ||denpjz.jamesedition.com^
 ||dens1raec.com^
 ||denseceleryliver.com^
+||densenbl.com^
 ||densifygrottos.qpon^
 ||dentaryvacante.cfd^
 ||dentileazurite.com^
@@ -65881,6 +65885,7 @@ zzzyk.com###Tinfo
 ||elevenmedia.cn^
 ||elflockhormigo.com^
 ||elgreco.openapp.link^
+||elhclr.com^
 ||elhlfssc.com^
 ||elia.thermofisher.com^
 ||elicaowl.com^
@@ -66627,6 +66632,7 @@ zzzyk.com###Tinfo
 ||emergeskid.com^
 ||emeritaurene.cfd^
 ||emersonecologics.com.102.122.207.net^
+||emersonfridays.com^
 ||emeruperize.cfd^
 ||emetrics.bose.ca^
 ||emetrics.bose.com^
@@ -93292,6 +93298,7 @@ zzzyk.com###Tinfo
 ||ini.update.360safe.com^
 ||inimbus.com.au^
 ||ininmacerad.pro^
+||iniomiunbiastermin.cfd^
 ||inistrack.net^
 ||init.blackcrow.ai^
 ||init.bwljgy.cn^
@@ -96305,6 +96312,7 @@ zzzyk.com###Tinfo
 ||jg43iqqd.xyz^
 ||jg7y.quizlet.com^
 ||jg88.wang^
+||jg8zueqa4e.com^
 ||jgafrwlycdgtv.site^
 ||jgaxcxbbdbsuy.space^
 ||jgbnltrrpotbl.online^
@@ -98694,6 +98702,7 @@ zzzyk.com###Tinfo
 ||jxqfu.cn^
 ||jxrceejdygfap.site^
 ||jxrpgzkpcipau.site^
+||jxryswulqobyu.space^
 ||jxsgxzx.com^
 ||jxsjb.pursuefitness.com^
 ||jxsmzz.mytrauringstore.de^
@@ -101128,6 +101137,7 @@ zzzyk.com###Tinfo
 ||kr.sdykcloud.cn^
 ||kr.sybspools.com^
 ||kr1cbkoow.com^
+||kr2ywjorc2gw8xl12iwzo2tx5i.rest^
 ||kr318-site-01.gocname.com^
 ||kra.bache-plastique-protection.com^
 ||kra.esprit-tranquille.com^
@@ -101724,6 +101734,7 @@ zzzyk.com###Tinfo
 ||kwwvxn.uniqlo.com^
 ||kwxegvirgslwh.site^
 ||kwxxuqnikarny.site^
+||kwxyyureuuqqz.space^
 ||kwyoqlhshixgt.website^
 ||kwzm.uniformix.pl^
 ||kx4.firstsexfilm.com^
@@ -103736,6 +103747,7 @@ zzzyk.com###Tinfo
 ||lfminsheng.club^
 ||lfn.lfg.com^
 ||lfnwxpcbfpkcx.website^
+||lfoacqdluayrr.space^
 ||lfokfyodzylck.site^
 ||lforen-cloud-trace.com^
 ||lfov.net^
@@ -112208,6 +112220,7 @@ zzzyk.com###Tinfo
 ||lqe3.icu^
 ||lqfvredung.com^
 ||lqgonstx.orionedg.com^
+||lqhadymruqgwc.website^
 ||lqibuklvfdhg.com^
 ||lqidzftosyjap.website^
 ||lqivhsbmqcc.com^
@@ -112516,6 +112529,7 @@ zzzyk.com###Tinfo
 ||lubosheng.cn^
 ||lubowitz.biz^
 ||lubqzhp4qubvg2p.6epv2lqboiwp3b5zrgcm39zj.cfd^
+||lubrarespire.shop^
 ||lucasyyy.ltd^
 ||luce.ngishc.top^
 ||lucentanxiouslyfleeting.com^
@@ -123108,6 +123122,7 @@ zzzyk.com###Tinfo
 ||moons.66bhy.com^
 ||moonshine.nieucabinetdoors.com^
 ||moonsifyonder.cyou^
+||moonsshardy.cyou^
 ||moontrkr.com^
 ||moontuftboy.com^
 ||moonwish.com.cn^
@@ -126845,6 +126860,7 @@ zzzyk.com###Tinfo
 ||newsgrupocatalanaoccidente.com^
 ||newsgtm.mammamiatheparty.co.uk^
 ||newsharecounts.com^
+||newshenunsown.shop^
 ||newshopee.com^
 ||newsignites.com^
 ||newsinform.net^
@@ -129056,6 +129072,7 @@ zzzyk.com###Tinfo
 ||nvietcombank.com^
 ||nviifyqkqwtuu.site^
 ||nvinab.cartegriseminute.fr^
+||nvjbftxzvisrv.website^
 ||nvjqm.com^
 ||nvjrxh.nl.bauhaus^
 ||nvkpfyaubxuud.store^
@@ -129214,6 +129231,7 @@ zzzyk.com###Tinfo
 ||nxu3l4c8u.com^
 ||nxums.cn^
 ||nxuxcr.smartbuyglasses.co.za^
+||nxvmfnixywjcs.space^
 ||nxw.0518g.com^
 ||nxwly.com^
 ||nxwm44neo.com^
@@ -130363,6 +130381,7 @@ zzzyk.com###Tinfo
 ||ohrdit.kfzteile24.de^
 ||ohrdsplu.com^
 ||ohrec.shiticoolers.com^
+||ohrwqkwiylehz.space^
 ||ohsyat.jdsports.it^
 ||ohtctjiuow.com^
 ||ohtdbl.mister-auto.es^
@@ -131943,6 +131962,7 @@ zzzyk.com###Tinfo
 ||oqmiadfkmlcwz.website^
 ||oqml.by6.app^
 ||oqmqqm.icu^
+||oqmzuxgipc.in^
 ||oqnmh.cheesebros.com^
 ||oqnns.urraeroi.it^
 ||oqpgq.top^
@@ -142908,6 +142928,7 @@ zzzyk.com###Tinfo
 ||qsodssvqzzpoi.site^
 ||qsomqlmliiuwu.online^
 ||qspb.7790.com^
+||qsrpytbapxkgq.site^
 ||qss-client.qq.com^
 ||qss9qn5v.hsypai.com.bplslb.com^
 ||qss9qn5v.hsypai.com.cname.clondfroont.com^
@@ -146936,6 +146957,7 @@ zzzyk.com###Tinfo
 ||rjici.luminopia.com^
 ||rjigj.cn^
 ||rjilbs.intermediair.nl^
+||rjjbcbqjmjlix.website^
 ||rjjynf.showcase-tv.com^
 ||rjk.qq-5.com^
 ||rjlfacjephuqy.website^
@@ -189019,6 +189041,7 @@ zzzyk.com###Tinfo
 ||tlinhdrchhl.com^
 ||tliplyornbfuz.site^
 ||tljsxt.icu^
+||tlkdcajljikmr.online^
 ||tlkhivxrvlrcb.store^
 ||tll54g7.cn^
 ||tlllccmkxwcze.website^
@@ -215075,6 +215098,7 @@ zzzyk.com###Tinfo
 ||yetzersmeth.qpon^
 ||yeujiaqyeafyj.site^
 ||yeukcqecubdcb.space^
+||yeukyminbu.com^
 ||yeumomo.me^
 ||yeuszfvmmzsng.website^
 ||yevvzltyoxbuy.website^
