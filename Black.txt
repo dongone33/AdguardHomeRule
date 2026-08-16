@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-16 16:13:49
-# 总规则数: 224388 (黑: 220040, 白: 4348)
+﻿# 更新时间: 2026-08-16 16:53:14
+# 总规则数: 224389 (黑: 220041, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -98899,6 +98899,7 @@ zzzyk.com###Tinfo
 ||k-words.io^
 ||k.16vcd.com^
 ||k.85wa.cn^
+||k.bloblohub.com^
 ||k.brandalley.be^
 ||k.brandalley.co.nl^
 ||k.brandalley.de^
