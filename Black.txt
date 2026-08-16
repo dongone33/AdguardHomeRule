@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 00:58:01
-# 总规则数: 224497 (黑: 220149, 白: 4348)
+﻿# 更新时间: 2026-08-17 01:25:50
+# 总规则数: 224502 (黑: 220154, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -13417,6 +13417,7 @@ zzzyk.com###Tinfo
 ||7yy69rrqpz.com^
 ||7z3mn9x7i.com^
 ||7z66.com^
+||7z6yvct8-u.turzeg.cn^
 ||7zivoy6qs.com^
 ||7znpl4sa.top^
 ||7zr.cn^
@@ -14246,6 +14247,7 @@ zzzyk.com###Tinfo
 ||93165.net^
 ||93166s.com^
 ||932bd27cf7.6e64d84de7.com^
+||93300cb.scdn.91dun.vip^
 ||9333s.com^
 ||933900.com^
 ||93423fa56d.com^
@@ -79940,6 +79942,7 @@ zzzyk.com###Tinfo
 ||gsyndication.com^
 ||gszau.thefryecompany.com^
 ||gszipwrttnsxu.website^
+||gszpyqkktlsw.ssuyrzj.top^
 ||gt.boxmove.es^
 ||gt.drink-mana.com^
 ||gt.drink-mana.de^
@@ -88691,6 +88694,7 @@ zzzyk.com###Tinfo
 ||hvqwjvoisrnhx.website^
 ||hvqyf.cn^
 ||hvr.tjkfcnn.cn^
+||hvr4ub6p.n.turzeg.cn^
 ||hvrhgt.the-sun.com^
 ||hvrhgt.thescottishsun.co.uk^
 ||hvrhgt.thesun.co.uk^
@@ -112283,6 +112287,7 @@ zzzyk.com###Tinfo
 ||lqopyc.beermachines.ru^
 ||lqpvvd.naadam.co^
 ||lqpzdi.coppel.com^
+||lqq37.d2x2whz0.top^
 ||lqskzxzoerxjm.website^
 ||lqsowt.mona-mode.fr^
 ||lqsw2.top^
@@ -117923,7 +117928,6 @@ zzzyk.com###Tinfo
 ||mdokua.shiseido.co.jp^
 ||mdoomngnidelo.store^
 ||mdotm.com^
-||mdp-appconf-cn.heytapdownload.com^
 ||mdp-usertrace-cn.heytapdownload.com^
 ||mdp-usertrace-cn.heytapmobi.com^
 ||mdpgd.oasis-land.com^
@@ -131710,7 +131714,6 @@ zzzyk.com###Tinfo
 ||openai.qualtrics.com^
 ||openapi-gy.getui.com^
 ||openapi-news.meizu.com^
-||openapi-slp.heytapmobi.com^
 ||openapi-smsp.getui.com^
 ||openapi.guanjia.qq.com^
 ||openapi.toponad.com^
@@ -137544,6 +137547,7 @@ zzzyk.com###Tinfo
 ||play.xtqnr.com^
 ||play2.laoyacdn.com^
 ||playable.oceanengine.com^
+||playable.qpic.cn^
 ||playad.xjmg.com^
 ||playafterdark.com^
 ||playamedia.com^
@@ -202281,6 +202285,7 @@ zzzyk.com###Tinfo
 ||vdvefaheagcdd.space^
 ||vdvho.theshoecareshop.com^
 ||vdvqtappes.com^
+||vdwyj6xw6hd5.7ua3cf7su5e2.dbmtei.cn^
 ||vdxagufwubpfb.space^
 ||vdxaxf.com^
 ||vdxbpy.ozie.co.jp^
