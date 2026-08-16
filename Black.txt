@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-16 13:51:13
-# 总规则数: 224371 (黑: 220023, 白: 4348)
+﻿# 更新时间: 2026-08-16 14:19:21
+# 总规则数: 224403 (黑: 220055, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -37866,6 +37866,7 @@ zzzyk.com###Tinfo
 ||bolimen.top^
 ||bolinhhhhhh.ifxs6c.com.w.kunlunpi.com^
 ||bolinhhhhhh.ifxs6c.com^
+||bolliestoluid.cfd^
 ||bollixpapula.com^
 ||bollyocean.com^
 ||boloptrex.com^
@@ -41488,6 +41489,7 @@ zzzyk.com###Tinfo
 ||capitfes.andrefilipe.com.br^
 ||capitp.teacherpimenta.com^
 ||capkkfuiticpo.space^
+||caplantezkere.cyou^
 ||capletsyird.cfd^
 ||caplights.com^
 ||capliman.com^
@@ -41496,6 +41498,7 @@ zzzyk.com###Tinfo
 ||capmvb.net^
 ||capndr.com^
 ||capping.sirius.press^
+||cappingstarets.shop^
 ||cappushino.com^
 ||cappyvarsity.shop^
 ||capriceawelessaweless.com^
@@ -44078,6 +44081,7 @@ zzzyk.com###Tinfo
 ||chiq-cloud.com^
 ||chiquita.backtobac.net^
 ||chirkgiulio.cyou^
+||chirpergrilled.qpon^
 ||chirpsgonophivray.cfd^
 ||chirui.net^
 ||chishenmeyanjiuyuan.top^
@@ -53113,6 +53117,7 @@ zzzyk.com###Tinfo
 ||dandyleapt.com^
 ||daneshin.ir^
 ||danesuffocate.com^
+||dangenaling.com^
 ||dangerinsignificantinvent.com^
 ||dangerous-leader.pro^
 ||dangky.electricz.xyz^
@@ -71073,6 +71078,7 @@ zzzyk.com###Tinfo
 ||fewinhaleewe.com^
 ||fewjuice.com^
 ||fewkittens.com^
+||fewmgwoigzygn.space^
 ||fewmodel.pro^
 ||fewptsgg.argonaudio.com^
 ||fewptsgg.radiantacoustics.com^
@@ -74097,6 +74103,7 @@ zzzyk.com###Tinfo
 ||ftgxpnpzdcuvi.website^
 ||fthcz.com^
 ||fthqzxq.cn^
+||fthzcvxsejohv.website^
 ||ftiodfqk.com^
 ||ftiswpgasqepa.site^
 ||ftjcfx.com^
@@ -89010,6 +89017,7 @@ zzzyk.com###Tinfo
 ||hz.youku.com^
 ||hz1.lanmei80.com^
 ||hz300.xmbhnsr.cn^
+||hz62cbo4ffkc9zrp.cfd^
 ||hza01.com^
 ||hzaibi.com^
 ||hzaiz.blissworld.com^
@@ -89945,6 +89953,7 @@ zzzyk.com###Tinfo
 ||ieurop.net^
 ||ievbj.oasissenioradvisors.com^
 ||ievdpg.humanscale.com^
+||ievtzbqsunqwz.space^
 ||iewjctcinxthi.space^
 ||iewozubtql.com^
 ||iewqtaoya.com^
@@ -102741,11 +102750,13 @@ zzzyk.com###Tinfo
 ||laxismbirdmen.cfd^
 ||laxistguttule.shop^
 ||laxityblames.cfd^
+||laxityroyale.shop^
 ||laxrwbbgg.com^
 ||laxsqiibtpijk.site^
 ||laxsson.com^
 ||laxyhlfqefjyi.website^
 ||laycosmicstill.com^
+||laydowndeusan.shop^
 ||layer-ad.org^
 ||layer.bz.mgtv.com^
 ||layer.co.il^
@@ -106112,6 +106123,7 @@ zzzyk.com###Tinfo
 ||lntx.shop^
 ||lntyjjh.org.cn^
 ||lnvguu.lifood.jp^
+||lnvxkquuuzwfv.online^
 ||lnwfcptfhvojt.site^
 ||lnwhh.com^
 ||lnwinvvctx.com^
@@ -115149,6 +115161,7 @@ zzzyk.com###Tinfo
 ||manager.eaglecreek.com^
 ||manager.msyqo.com^
 ||manager.tradplusad.com^
+||managesfungusy.cfd^
 ||manageshalfmoonaccess.com^
 ||managespassengerpresent.com^
 ||manags.twilightparadox.com^
@@ -123680,6 +123693,7 @@ zzzyk.com###Tinfo
 ||mrjaz.com^
 ||mrjfsc.cn^
 ||mrjfw.detroitgp.com^
+||mrjgeidio.com^
 ||mrkaiufqsytov.space^
 ||mrkjo1f9kz.com^
 ||mrko3xiug.com^
@@ -123687,6 +123701,7 @@ zzzyk.com###Tinfo
 ||mrksys.com^
 ||mrktmtrcs.net^
 ||mrkttrack.armanino.com^
+||mrkwcuizvihjk.space^
 ||mrlangwkahuoh.space^
 ||mrlpxvvykqssx.online^
 ||mrlscr.com^
@@ -125392,6 +125407,7 @@ zzzyk.com###Tinfo
 ||nababroadbirch.com^
 ||nabaza.com^
 ||nabbr.com^
+||nabbyocularmoire.qpon^
 ||nabeghlavi.com.cn^
 ||nabflj.kibuc.com^
 ||nabjewthoknxr.space^
@@ -125406,6 +125422,7 @@ zzzyk.com###Tinfo
 ||nadelle.wantsext.me^
 ||nadese.xyz^
 ||nadltwwjgbldm.com^
+||nadryvqnouzm.com^
 ||nads.io^
 ||nads.wuaiso.com^
 ||nadscdn.wuaiso.com^
@@ -126257,6 +126274,7 @@ zzzyk.com###Tinfo
 ||nejzq.champssports.com^
 ||nekgbv.com^
 ||nekgtz.bluestoneperennials.com^
+||nekostream.site^
 ||nektonsrutate.com^
 ||neladyhe.com^
 ||nelhon.com^
@@ -129655,6 +129673,7 @@ zzzyk.com###Tinfo
 ||obihmnb.cn^
 ||obiknmm.icu^
 ||obislame.ru
+||obisxzthzoepd.website^
 ||obiterbigly.shop^
 ||obixdelivery.obix.com^
 ||obixlzxvxgcmf.site^
@@ -130307,6 +130326,7 @@ zzzyk.com###Tinfo
 ||ogukky.canadagoose.jp^
 ||ogury.co^
 ||ogury.com^
+||ogvadixmxosiq.online^
 ||ogvnjrogfmglm.website^
 ||ogwamltq.cloud.back.xinseogame.com^
 ||ogwjcrwlwacxrny.com^
@@ -132650,6 +132670,7 @@ zzzyk.com###Tinfo
 ||outbrainimg.com^
 ||outbrd25.coalmo.com^
 ||outbrd8.coalmo.com^
+||outbuzztumbaki.cfd^
 ||outclaydola.com^
 ||outcome-cdn.supersonicads.com^
 ||outcome-ssp.supersonicads.com^
@@ -135785,6 +135806,7 @@ zzzyk.com###Tinfo
 ||pevrksshtngcg.site^
 ||pewfeafvlaiwe.online^
 ||pewpxlxlfsaac.website^
+||pewtersundub.shop^
 ||pewterytela.cfd^
 ||pewyforz.shop^
 ||pewzaxgeohbcc.online^
@@ -147690,6 +147712,7 @@ zzzyk.com###Tinfo
 ||rplog.baidu.com^
 ||rplogs.itpub.cc^
 ||rplzmw.cn^
+||rpmlzttiswrjp.website^
 ||rpmvtzqqjjzjw.website^
 ||rpncdkz5.com^
 ||rpnews.itaoxiaoshuo.com^
@@ -151425,6 +151448,7 @@ zzzyk.com###Tinfo
 ||sanders.sanderswellnesslayton.com^
 ||sandhowl.com^
 ||sandmakingsilver.info^
+||sandmanarius.cyou^
 ||sandracismaboveaverage.com^
 ||sandstrophies.com^
 ||sanduon.com^
@@ -166029,6 +166053,7 @@ zzzyk.com###Tinfo
 ||snmzj.blade-city.com^
 ||snnnyy.com^
 ||sno1.snowrental.com^
+||snobbergariba.cfd^
 ||snogmvesrvhjn.site^
 ||snoje.tierliebhaber.de^
 ||snoobi.com^
@@ -185147,6 +185172,7 @@ zzzyk.com###Tinfo
 ||tagsoviet.com^
 ||tagsrvcs.com^
 ||tagstaticx.com^
+||tagtailcouchy.cyou^
 ||tagtailjabbing.qpon^
 ||tagtd.cn^
 ||tagtienda.bcasual.cl^
@@ -197869,6 +197895,7 @@ zzzyk.com###Tinfo
 ||ucweb.cn^
 ||ucwypnemwclwd.online^
 ||ucxgg.com^
+||ucxmxqamosikp.website^
 ||ucxxii.com^
 ||ucyierazwsrpa.store^
 ||ucymngnbsdc.com^
@@ -198931,6 +198958,7 @@ zzzyk.com###Tinfo
 ||unfamllliardate.net^
 ||unfamllliardates.com^
 ||unfatedbroomy.cyou^
+||unfatedlasket.cfd^
 ||unfearysaviour.qpon^
 ||unfit-discount.pro^
 ||unflagriffspoppas.cyou^
@@ -199160,6 +199188,7 @@ zzzyk.com###Tinfo
 ||unmanyatter.com^
 ||unmectappic.com^
 ||unmefwsycamtq.space^
+||unmeshpaughty.cyou^
 ||unmiredaahreclang.cyou^
 ||unmitreoutlast.cfd^
 ||unmnehicnyoiz.site^
@@ -199941,6 +199970,7 @@ zzzyk.com###Tinfo
 ||uscahcjmcjyuj.space^
 ||uscatherineaa.com^
 ||uscdn.top^
+||uscu-defender.pro^
 ||usdbbx.mmartan.com.br^
 ||usdiagnosis.icocofun.com^
 ||usdpdown.game.uodoo.com^
@@ -206957,6 +206987,7 @@ zzzyk.com###Tinfo
 ||webevents.kayzen.io^
 ||webeyez.com^
 ||webfanclub.com^
+||webfedbogway.cfd^
 ||webflowmetrics.com^
 ||webforensics.co.uk^
 ||webfountains.com^
@@ -219567,6 +219598,7 @@ zzzyk.com###Tinfo
 ||zuudt.muslimi.com^
 ||zuujydolvhkzi.site^
 ||zuvjenxhmiuhj.space^
+||zuvwhajyrtkfq.space^
 ||zuwnqfdzojfzk.site^
 ||zux4.yl.ag^
 ||zuxzvxmibplsk.website^
