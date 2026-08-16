@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-16 23:54:12
-# 总规则数: 224481 (黑: 220133, 白: 4348)
+﻿# 更新时间: 2026-08-17 00:32:25
+# 总规则数: 224497 (黑: 220149, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -24011,6 +24011,7 @@ zzzyk.com###Tinfo
 ||agreedairdalton.com^
 ||agreementdaily.com^
 ||agrep.reneecosmetics.in^
+||agriasdustingmobile.qpon^
 ||agrib-vn.com^
 ||agribank.dangkyungtuyen.com^
 ||agribank.info^
@@ -44281,6 +44282,7 @@ zzzyk.com###Tinfo
 ||cibleclick.com^
 ||cic.umeng.com^
 ||cic.webank.com^
+||cicaleogdoas.com^
 ||cicdserver.com^
 ||cicfbo.yt-hgs.de^
 ||ciclagmbabdin.online^
@@ -47942,7 +47944,6 @@ zzzyk.com###Tinfo
 ||control.wirkaufens.at^
 ||control.wirkaufens.de^
 ||controlaffliction.com^
-||controlcola.com^
 ||controlcookies.com^
 ||controlemeta.orodrigogurgel.com.br^
 ||controlexpenses.adp.ca^
@@ -49047,6 +49048,7 @@ zzzyk.com###Tinfo
 ||cqjjlsy.com^
 ||cqjoxvzv.kikakortebroek.nl^
 ||cqjrs.jjill.com^
+||cqkjpsnluoblh.space^
 ||cqkpoxtlakibf.space^
 ||cqkzgchjtlllo.store^
 ||cqlijie.cn^
@@ -57540,6 +57542,7 @@ zzzyk.com###Tinfo
 ||dcapps.disney.go.com^
 ||dcapugcaiirxs.site^
 ||dcavixmtxjxra.site^
+||dcaynjhiywz.com^
 ||dcazkddmpuwkw.website^
 ||dcbbwymp1bhlf.cloudfront.net^
 ||dcbnameendplay.qpon^
@@ -101127,6 +101130,7 @@ zzzyk.com###Tinfo
 ||kqcidwipqpnmd.space^
 ||kqdk1.petheaven.co.za^
 ||kqdqrj.traktorpool.de^
+||kqdzzzaqvbgot.site^
 ||kqefj.clearstem.com^
 ||kqfjrwzx.com^
 ||kqfkauld.trulyengaging.com^
@@ -112843,6 +112847,7 @@ zzzyk.com###Tinfo
 ||lvula.4joypaddles.com^
 ||lvvbqeaqvrmvy.top^
 ||lvvhp.focl.com^
+||lvvjsnuqhalcx.space^
 ||lvwhw.moji.com^
 ||lvwytobyemady.online^
 ||lvxingxian.cn^
@@ -122263,6 +122268,7 @@ zzzyk.com###Tinfo
 ||mmismm.com^
 ||mmjpvdrhgjfyj.space^
 ||mmjs.adutp.com^
+||mmjytuhyxkcje.space^
 ||mmkhhxfkjkcgt.online^
 ||mmkkhhnn.cn^
 ||mmkkiivv.com^
@@ -130111,6 +130117,7 @@ zzzyk.com###Tinfo
 ||oestpq.com^
 ||oesxlp.atlasformen.co.uk^
 ||oeszxeerssjsn.site^
+||oetqvicnhifip.site^
 ||oetremlyfmekm.site^
 ||oetvmdsvpckci.site^
 ||oeu3it2m.xyz^
@@ -130617,6 +130624,7 @@ zzzyk.com###Tinfo
 ||ojvgrxtyje.com^
 ||ojvxtz.junonline.jp^
 ||ojwebb.vivaaerobus.com^
+||ojwkmgtrygxra.space^
 ||ojyneijlxlekv.site^
 ||ojzgnfxidbjur.space^
 ||ojzpcvipynqhw.online^
@@ -132871,6 +132879,7 @@ zzzyk.com###Tinfo
 ||ovgpljyqpochn.store^
 ||ovhq.yl.ag^
 ||ovhrismxnkmdc.online^
+||ovisacscapashantih.cyou^
 ||ovjocjgro.in^
 ||ovkwiz.xyz^
 ||ovlfuwrcekghx.site^
@@ -152119,6 +152128,7 @@ zzzyk.com###Tinfo
 ||scdown.qq.com^
 ||scdzsazeeqmta.online^
 ||sce.ujn.edu.cn^
+||sceatorthid.qpon^
 ||scedla.dietbon.fr^
 ||scenarycareme.com^
 ||scenaryrithe.cfd^
@@ -188752,6 +188762,7 @@ zzzyk.com###Tinfo
 ||tjv260529xxx.com^
 ||tjvpnh.icu^
 ||tjwpfr.unitrailer.de^
+||tjwrauutwtbdc.online^
 ||tjwsg.com^
 ||tjwveazohmjzd.online^
 ||tjwzyjx.icu^
@@ -195952,6 +195963,7 @@ zzzyk.com###Tinfo
 ||truismlodge.cfd^
 ||truliantfcu.fmservice.com^
 ||trulysuitedcharges.com^
+||trumanopes.shop^
 ||trumbem.com^
 ||trumbemmomo.club^
 ||trumcltx.vip^
@@ -200150,6 +200162,7 @@ zzzyk.com###Tinfo
 ||usingde.com^
 ||usingstrikingindoors.com^
 ||usingyourcard.americanexpress.co.uk^
+||usiyyeuvirl.com^
 ||usjbwvtqwv.com^
 ||usjeardahfoqc.online^
 ||usjjt.belfurniture.com^
@@ -202281,6 +202294,7 @@ zzzyk.com###Tinfo
 ||ve001nz.com^
 ||ve41.tz.app^
 ||ve5fnmn8cx.80154444.cc^
+||ve8wil7nvknmvkobvtiebepppj7xfqyn.cfd^
 ||ve99cncwycr8pwep5y4tzj.rest^
 ||vealerwiver.cfd^
 ||vebadu.com^
@@ -208740,6 +208754,7 @@ zzzyk.com###Tinfo
 ||wlqnhqufcicpa.space^
 ||wlqtte.misterspex.at^
 ||wlr8yw8.cn^
+||wlrbsqgjlvxwm.space^
 ||wlsmeu.soundpure.com^
 ||wlsyuule.cam^
 ||wlt-alice.de^
@@ -216614,6 +216629,7 @@ zzzyk.com###Tinfo
 ||ytop8.com^
 ||ytouvy.arezzo.com.br^
 ||ytpfbbg6hl.com^
+||ytqe4iezptbuily1qetmnxrkizm1o.rest^
 ||ytqeavc.icu^
 ||ytqlqvguttjuf.store^
 ||ytqlyw.xyz^
