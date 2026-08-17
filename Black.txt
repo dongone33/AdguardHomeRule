@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 20:53:58
-# 总规则数: 224456 (黑: 220101, 白: 4355)
+﻿# 更新时间: 2026-08-17 21:44:52
+# 总规则数: 224471 (黑: 220116, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -31248,6 +31248,7 @@ zzzyk.com###Tinfo
 ||arif.nafee.shop^
 ||arif.nextgen3dcrafts.com^
 ||arigng.door.ac^
+||arijhpvidfqkk.online^
 ||arikiculls.cyou^
 ||arimaspdeek.com^
 ||arincol.arin-innovation.com^
@@ -36942,6 +36943,7 @@ zzzyk.com###Tinfo
 ||bknegcvfkxvsm.space^
 ||bkngknjwvclfi.space^
 ||bknqpb.dobredomy.pl^
+||bkobvbznffrqy.website^
 ||bkogtr.vacationsbyrail.com^
 ||bkpmmpsqgluwj.online^
 ||bkpoef.jules.com^
@@ -44422,6 +44424,7 @@ zzzyk.com###Tinfo
 ||cj.qidian.com^
 ||cj2015.drywear.dk^
 ||cj2550.com^
+||cj6rg2tyiqlte4hpxp1.cfd^
 ||cj7fy.anoukverdonk.com^
 ||cj81gcvm2.com^
 ||cj99fbulb4.com^
@@ -62015,6 +62018,7 @@ zzzyk.com###Tinfo
 ||dsehdh.com^
 ||dseiqr.com^
 ||dseisg.com^
+||dseivh.com^
 ||dsejee.com^
 ||dsejzd.com^
 ||dsekhf.com^
@@ -65614,6 +65618,7 @@ zzzyk.com###Tinfo
 ||eiledstevermotorie.org^
 ||eileenjaney.com^
 ||eiljtxtpaajoh.website^
+||eilkgqllsjgru.space^
 ||eilloupnjlzoj.site^
 ||eim.pingan.com.cn^
 ||eimbrxlb.com^
@@ -68180,6 +68185,7 @@ zzzyk.com###Tinfo
 ||etzfcwsafuw.com^
 ||etznkn.ec-store.net^
 ||etzqwj.canevas.com^
+||etzuqprynhyfx.site^
 ||eu-1-id5-sync.com^
 ||eu-cdn.kgm-motors.co.uk^
 ||eu-data.kameleoon.io^
@@ -86251,6 +86257,7 @@ zzzyk.com###Tinfo
 ||hibiscus76.com^
 ||hibixin.com^
 ||hiboardng.hicloud.com^
+||hibofgpudxxdv.com^
 ||hiboowbrkegop.site^
 ||hibuncishawy.shop^
 ||hica.ren^
@@ -87213,6 +87220,7 @@ zzzyk.com###Tinfo
 ||hocsinhthanhlich2022.weebly.com^
 ||hocsinhthanhlich21.xyz^
 ||hoctor-pharity.xyz^
+||hocusedasaphiccourter.cyou^
 ||hocusesfifer.qpon^
 ||hod.asphalte.com^
 ||hoddenaccinge.cyou^
@@ -96697,6 +96705,7 @@ zzzyk.com###Tinfo
 ||jipinluoshendec1314.fendou888.top^
 ||jiprgfzcpdjmp.online^
 ||jiptcrzamhujz.space^
+||jipvbuzyci.com^
 ||jiqgsh.com^
 ||jira.vpon.com^
 ||jirafe.com^
@@ -132115,6 +132124,7 @@ zzzyk.com###Tinfo
 ||orenthelabel.com^
 ||ores-fixed.mno.link^
 ||orest-vlv.com^
+||oresyipqzckyl.site^
 ||orexincrake.cyou^
 ||orfa1st5.de^
 ||orfy.bevopizza.com^
@@ -142087,6 +142097,7 @@ zzzyk.com###Tinfo
 ||qihehuo.cn^
 ||qihnajipjpmii.online^
 ||qihpwojcazrje.website^
+||qihtlrigu.com^
 ||qihzz.erincondren.com^
 ||qiix78.net^
 ||qiji1.jdwx.info^
@@ -200195,6 +200206,7 @@ zzzyk.com###Tinfo
 ||uswvvrisswcbd.site^
 ||usybvizjdfyur.website^
 ||usync.aws.rubiconproject.com^
+||usyuqcezbvhqr.online^
 ||usyyzz.winparts.nl^
 ||uszr.720lu.com^
 ||usztct.gang.com.br^
@@ -203786,6 +203798,7 @@ zzzyk.com###Tinfo
 ||vk-ads.ru^
 ||vk-analytics.ru^
 ||vk.phonevilla.in^
+||vkaabtxifs.in^
 ||vkanalytics.net^
 ||vkaszkwyibcwl.site^
 ||vkatqrbcrdyta.site^
@@ -213882,6 +213895,7 @@ zzzyk.com###Tinfo
 ||xtpmpp.cruisewinkel.nl^
 ||xtpselfqfeeui.space^
 ||xtpwfb.xyz^
+||xtqcxzztrjbsx.site^
 ||xtqwodezfpfbv.space^
 ||xtr.tos.sktelecom.com^
 ||xtractor.no^
@@ -214421,6 +214435,7 @@ zzzyk.com###Tinfo
 ||xz0wefju.fun^
 ||xz518.cn^
 ||xz6d.com^
+||xz6ogoi12.com^
 ||xz8.ru^
 ||xzafpowu.in^
 ||xzblht.icu^
