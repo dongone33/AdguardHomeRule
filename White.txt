@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-18 00:12:47
-# 白名单规则数: 4349
+﻿# 更新时间: 2026-08-18 00:49:09
+# 白名单规则数: 4355
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -707,6 +707,7 @@
 @@||audiocontentdownload.apple.com^$important
 @@||audiopay.pcdn.xmcdn.com^
 @@||audiopaydl.pcdn.xmcdn.com^
+@@||auditude.com^
 @@||auth.gfx.ms^$important
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
@@ -1484,6 +1485,7 @@
 @@||epicgames-download1.akamaized.net^$important
 @@||epochtimes.com^
 @@||ereg.adobe.com^
+@@||ereg.wip3.adobe.com^
 @@||erp.jd.com^
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^
@@ -1805,6 +1807,7 @@
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
 @@||hpplay.cn^
+@@||hpyrdr.com^
 @@||hr.163.com^
 @@||href.li^
 @@||hsforms.net^
@@ -2629,6 +2632,7 @@
 @@||nineto5mac-d.openx.net^
 @@||niotv.com^$generichide
 @@||nishub1.10010.com^
+@@||niuaniua.com^
 @@||njavtv.com^
 @@||nmobi.kuwo.cn^
 @@||nobugin.com^$generichide
@@ -3610,6 +3614,7 @@
 @@||taiga.maven.io^
 @@||tangram.e.qq.com^
 @@||tangsanbooks.com^$generichide
+@@||tanx.com^
 @@||taobao.com^
 @@||target.clickfunnels.com^
 @@||taskofdeity.netlify.app^
@@ -4269,6 +4274,7 @@
 @@||xidian.edu.cn^$generichide
 @@||xifuquan.com^
 @@||xiuren.org^$generichide
+@@||xj-n-tax.gov.cn^
 @@||xlivesex.com^
 @@||xmpush.xiaomi.com^
 @@||xn--cp3a08l.com^

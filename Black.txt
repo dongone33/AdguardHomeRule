@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-18 00:12:47
-# 总规则数: 224572 (黑: 220223, 白: 4349)
+﻿# 更新时间: 2026-08-18 00:49:09
+# 总规则数: 224575 (黑: 220220, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -87851,7 +87851,6 @@ zzzyk.com###Tinfo
 ||hpygame.com^
 ||hpyjmp.com^
 ||hpymkg.air-austral.com^
-||hpyrdr.com^
 ||hpyrgd.mentalup.net^
 ||hpytwtfbbkqtq.space^
 ||hpyx365.cn^
@@ -127638,7 +127637,6 @@ zzzyk.com###Tinfo
 ||nitsulquj.com^
 ||nitupic.com^
 ||niu.e.kuaishou.com^
-||niuaniua.com^
 ||niubiba.com^
 ||niuer-req.xy.huijitrans.com^
 ||niuguwang.net.cn^
@@ -185561,7 +185559,6 @@ zzzyk.com###Tinfo
 ||tanvvybruhuju.website^
 ||tanwan.com^
 ||tanwanyx.com^
-||tanx.com^
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
 ||tanxlog.istreamsche.com^
 ||tanyardfurcae.shop^
@@ -220930,6 +220927,7 @@ zzzyk.com###Tinfo
 @@||audiocontentdownload.apple.com^$important
 @@||audiopay.pcdn.xmcdn.com^
 @@||audiopaydl.pcdn.xmcdn.com^
+@@||auditude.com^
 @@||auth.gfx.ms^$important
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
@@ -221707,6 +221705,7 @@ zzzyk.com###Tinfo
 @@||epicgames-download1.akamaized.net^$important
 @@||epochtimes.com^
 @@||ereg.adobe.com^
+@@||ereg.wip3.adobe.com^
 @@||erp.jd.com^
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^
@@ -222028,6 +222027,7 @@ zzzyk.com###Tinfo
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
 @@||hpplay.cn^
+@@||hpyrdr.com^
 @@||hr.163.com^
 @@||href.li^
 @@||hsforms.net^
@@ -222852,6 +222852,7 @@ zzzyk.com###Tinfo
 @@||nineto5mac-d.openx.net^
 @@||niotv.com^$generichide
 @@||nishub1.10010.com^
+@@||niuaniua.com^
 @@||njavtv.com^
 @@||nmobi.kuwo.cn^
 @@||nobugin.com^$generichide
@@ -223833,6 +223834,7 @@ zzzyk.com###Tinfo
 @@||taiga.maven.io^
 @@||tangram.e.qq.com^
 @@||tangsanbooks.com^$generichide
+@@||tanx.com^
 @@||taobao.com^
 @@||target.clickfunnels.com^
 @@||taskofdeity.netlify.app^
@@ -224492,6 +224494,7 @@ zzzyk.com###Tinfo
 @@||xidian.edu.cn^$generichide
 @@||xifuquan.com^
 @@||xiuren.org^$generichide
+@@||xj-n-tax.gov.cn^
 @@||xlivesex.com^
 @@||xmpush.xiaomi.com^
 @@||xn--cp3a08l.com^
