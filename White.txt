@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-08-17 23:16:01
+﻿# 更新时间: 2026-08-17 23:47:46
 # 白名单规则数: 4333
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
@@ -47,10 +47,12 @@
 @@||*.activity.windows.com^
 @@||*.akamai-cdn-content.com^
 @@||*.allawntech.com^
+@@||*.anjuke.com$important
 @@||*.anjuke.com^
 @@||*.appex-rf.msn.com^
 @@||*.appex.bing.com^
 @@||*.aria.microsoft.com^
+@@||*.assets-yammer.com
 @@||*.auth.microsoft.com^
 @@||*.azure-apim.net^
 @@||*.azureedge.net^
@@ -93,11 +95,13 @@
 @@||*.hip.live.com^
 @@||*.img.mobile.sina.cn^
 @@||*.in-addr.arpa^
+@@||*.informationprotection.azure.com
 @@||*.ke.com^
 @@||*.keydelivery.mediaservices.windows.net^
 @@||*.lianjia.com^
 @@||*.lol.qq.com^
 @@||*.lync.com^
+@@||*.mail.protection.outlook.com
 @@||*.market.mi-img.com^
 @@||*.market.xiaomi.com^
 @@||*.mcdn.bilivideo.cn^
@@ -136,6 +140,7 @@
 @@||*.powerapps.com^
 @@||*.powerautomate.com^
 @@||*.protection.office.com^
+@@||*.protection.outlook.com
 @@||*.public-trust.com^
 @@||*.qooqlevideo.com^
 @@||*.rdt.tfogc.com^
@@ -249,6 +254,7 @@
 @@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net^$elemhide
+@@||Linux.do^
 @@||a.9game.cn^
 @@||a.adwolf.ru^
 @@||a.game.163.com^
@@ -366,7 +372,6 @@
 @@||adm.crowdicity.com^
 @@||admin-oss-xlvip.a.88cdn.com^
 @@||admin.dable.io^
-@@||admin.mailchimp.com^
 @@||admin.microsoft.com^$important
 @@||admin.onedrive.com^$important
 @@||adminwebservice.microsoftonline.com^$important
@@ -432,7 +437,6 @@
 @@||akamaized.net^
 @@||akashio.com^$generichide
 @@||aks.jdpay.com^
-@@||al-aqsanews.com
 @@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
 @@||albert.apple.com^$important
 @@||ali-gamezone.static.yximgs.com^
@@ -705,8 +709,8 @@
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
 @@||auth.zijieapi.com^
-@@||auto-api.yelp.com
 @@||autocomplete.clearbit.com^
+@@||autodiscover.*.onmicrosoft.com
 @@||autologon.microsoftazuread-sso.com^$important
 @@||avatar.bdstatic.com^
 @@||avatar.coolapk.com^
@@ -749,6 +753,7 @@
 @@||bbs.tampermonkey.net.cn^
 @@||bbs.tgfcer.com^$generichide
 @@||bce.baidu.com^
+@@||bcebos.com^
 @@||bcebos.com^$script,domain=jingwubook.com
 @@||bcelive.com^
 @@||bcicl.*.evergage.com^
@@ -837,6 +842,7 @@
 @@||c1.skype.com^
 @@||cacerts.digicert.com^$important
 @@||cache.ip138.com^
+@@||cache.umengcn.org^
 @@||cache.video.iqiyi.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||calendars.icloud.com^
@@ -890,7 +896,6 @@
 @@||cdn.bootcss.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
 @@||cdn.cnbj1.fds.api.mi-img.com^
-@@||cdn.datatables.net^
 @@||cdn.deepseek.com^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.exp.xiaomi.com^
@@ -1360,7 +1365,6 @@
 @@||download-cdn.clf.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
-@@||download.adguard.com^
 @@||download.alicdn.com^
 @@||download.bitcomet.com^
 @@||download.deepseek.com^
@@ -1738,6 +1742,7 @@
 @@||h5s.kuwo.cn^
 @@||h5static.cc.163.com^
 @@||h5static.kuwo.cn^
+@@||h5vv6.video.qq.com^
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||hanime1.me^
@@ -1898,6 +1903,7 @@
 @@||images1-focus-opensocial.googleusercontent.com^
 @@||images2.imgbox.com^
 @@||imagex.bytedanceapi.com^
+@@||imapi5-oth-*.zijieapi.com^
 @@||imasdk.googleapis.com^
 @@||ime-igw.doubao.com^
 @@||ime-res-download.xfinfr.com^
@@ -1970,7 +1976,6 @@
 @@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||init.itunes.apple.com^
-@@||injections.adguard.org^
 @@||inoreader.com^$genericblock,generichide
 @@||inporn.com^
 @@||input.shouji.sogou.com^
@@ -2106,7 +2111,6 @@
 @@||knicks.jd.com^
 @@||knowsex.net^
 @@||konachan.com^
-@@||krebsonsecurity.com
 @@||ku.dk^
 @@||kubernetes.io^
 @@||kugou.com^
@@ -2235,7 +2239,6 @@
 @@||lnk2.cc^$generichide
 @@||loadingbaycn.webapp.163.com^
 @@||loc.map.baidu.com^
-@@||local.adguard.org^
 @@||localads.chengzijianzhan.cn^
 @@||lockororder.netlify.app^
 @@||log-api.pangolin-sdk-toutiao-b.com^
@@ -2251,7 +2254,6 @@
 @@||login-sh.aki-game.com^
 @@||login-us.microsoftonline.com^$important
 @@||login-user.kugou.com^
-@@||login.gaijin.net^
 @@||login.live.com^
 @@||login.live.com^$important
 @@||login.m.taobao.com^
@@ -2553,6 +2555,7 @@
 @@||msgacs.m.taobao.com^
 @@||msn.yidianzixun.com^
 @@||mss0.bdstatic.com^
+@@||mssdk3-normal-*.zijieapi.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||msync-im1-vip6-std.easemob.com^
 @@||mumu.163.com^
@@ -2850,7 +2853,6 @@
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
@@ -2925,7 +2927,6 @@
 @@||pg-bootstrap.itunes.apple.com^$important
 @@||pg-wuming.com^$generichide
 @@||pgdt.gtimg.cn^
-@@||pgpartner.com^
 @@||phobos.apple.com^
 @@||phonecallapi.micloud.xiaomi.net^
 @@||photocdn.tv.sohu.com^
@@ -2935,10 +2936,10 @@
 @@||pic*.zhimg.com^
 @@||pic.baike.soso.com^
 @@||pic.iask.com.cn^
-@@||pic.imgdb.cn
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
+@@||pic1.zhimg.com
 @@||pic1.zhuanstatic.com^
 @@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
@@ -2953,9 +2954,10 @@
 @@||pic640.weishi.qq.com^
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
+@@||pica.zhimg.com
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
-@@||pics.porndroids.com^
+@@||picx.zhimg.com
 @@||pifa.pinduoduo.com^
 @@||pingjs.qq.com^
 @@||pingjs.qq.com^$~third-party
@@ -3043,7 +3045,6 @@
 @@||pull-m1.wxlivecdn.com^
 @@||pull.yximgs.com^
 @@||pull2.91cloud.net^
-@@||puma.112.2o7.net^
 @@||puser.funshion.com^
 @@||push.apple.com^
 @@||push.apple.com^$important
@@ -3210,7 +3211,6 @@
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
 @@||s1.voicecloud.cn^
-@@||s1.wp.com^
 @@||s1.zhuanstatic.com^
 @@||s2.hdslb.com^
 @@||s2.kskwai.com^
@@ -3276,6 +3276,7 @@
 @@||search.kuwo.cn^
 @@||search.mcmod.cn^
 @@||search.sogoucdn.com^
+@@||search.umengcn.org^
 @@||search.ximalaya.com^
 @@||search.youku.com^
 @@||searchrec.marketplace-intl.huaweicloud.com^
@@ -3949,7 +3950,6 @@
 @@||webcast.amemv.com^
 @@||webfiles.gamebanana.com^
 @@||webstatic.hoyoverse.com^
-@@||webstatic.nero.com^
 @@||webtoonscan.com^
 @@||webtor.io^
 @@||webzjcaptcha.reg.163.com^
