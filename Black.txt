@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 19:56:53
-# 总规则数: 224448 (黑: 220100, 白: 4348)
+﻿# 更新时间: 2026-08-17 20:53:58
+# 总规则数: 224456 (黑: 220101, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -86805,6 +86805,7 @@ zzzyk.com###Tinfo
 ||hkkfbxwzlbjgt.space^
 ||hkkhsppnknkoy.space^
 ||hkkxsnav.com^
+||hkl.xiuseab222.vip^
 ||hkl4h1trk.com^
 ||hkmqp.com^
 ||hknztzqlkjzhc.space^
@@ -132231,6 +132232,7 @@ zzzyk.com###Tinfo
 ||orurf.nuudcare.co.uk^
 ||oruxmvyydrvkr.website^
 ||orvamgdjbijvb.space^
+||orvexlumin.698518.xyz^
 ||orvgpjjyagvfn.site^
 ||orvietnmqxcgm.online^
 ||orwscatte.in^
@@ -133474,7 +133476,6 @@ zzzyk.com###Tinfo
 ||p3-stone-tv.byteimg.com^
 ||p3-yx.adkwai.com^
 ||p3.adkwai.com^
-||p3.bdxiguaimg.com^
 ||p3.l.qq.com^
 ||p3.ssl.qhimgs0.com^
 ||p3.toutiaoimg.com^
@@ -220612,6 +220613,7 @@ zzzyk.com###Tinfo
 @@||api-novel.uc.cn^$important
 @@||api-pay.soulapp.cn^
 @@||api-pda.jdl.com^
+@@||api-play.amemv.com^
 @@||api-push.meizu.com^
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^
@@ -221746,6 +221748,7 @@ zzzyk.com###Tinfo
 @@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
+@@||getbootstrap.com^
 @@||gg.apple.com^$important
 @@||ggg50.pw^$generichide
 @@||ggpht.com^
@@ -222284,6 +222287,7 @@ zzzyk.com###Tinfo
 @@||lf1-cdn-tos.bytegoofy.com^
 @@||lf1-cdn-tos.bytescm.com^
 @@||lf3-card-system.searchpstatp.com^
+@@||lf3-cdn-tos.bdxiguastatic.com^
 @@||lf3-cdn-tos.bytecdntp.com^
 @@||lf3-cdn-tos.bytegoofy.com^
 @@||lf3-cdn-tos.bytescm.com^
@@ -222414,6 +222418,7 @@ zzzyk.com###Tinfo
 @@||m.intl.taobao.com^
 @@||m.ip138.com^
 @@||m.iqiyi.com^
+@@||m.ixigua.com^
 @@||m.jd.com^
 @@||m.jdjygold.com^
 @@||m.jf.10010.com^
@@ -222935,6 +222940,7 @@ zzzyk.com###Tinfo
 @@||p3-tt.byteimg.com^
 @@||p3-webcast-sign.douyinpic.com^
 @@||p3-webcast.douyinpic.com^
+@@||p3.bdxiguaimg.com^
 @@||p3.dcarimg.com^
 @@||p3.douyinpic.com^
 @@||p4-ad.adukwai.com^
@@ -224223,6 +224229,7 @@ zzzyk.com###Tinfo
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.itools.info^
+@@||www.ixigua.com^
 @@||www.javbangers.com^
 @@||www.jd.com^
 @@||www.jdoqocy.com^
@@ -224424,6 +224431,7 @@ zzzyk.com###Tinfo
 @@||yygsz.com^$generichide
 @@||yys.163.com^
 @@||yzg.wavee.cn^
+@@||z.ixigua.com^
 @@||z.weixin.qq.com^
 @@||z3.cnzz.com^
 @@||zaixianjisuan.com^$generichide
