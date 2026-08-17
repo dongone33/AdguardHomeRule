@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 15:05:37
-# 总规则数: 224388 (黑: 220041, 白: 4347)
+﻿# 更新时间: 2026-08-17 16:07:21
+# 总规则数: 224389 (黑: 220042, 白: 4347)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18,7 +18,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -1429,6 +1429,7 @@ bing.com###bingBrand
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
+bing.com##.b_algo:has(.sb_adTA_title_link_cn)
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bingfeng.tw###adbt
 bingfeng.tw##.wow-ad-link
