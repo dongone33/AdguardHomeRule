@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 16:07:21
-# 总规则数: 224389 (黑: 220042, 白: 4347)
+﻿# 更新时间: 2026-08-17 16:57:56
+# 总规则数: 224409 (黑: 220061, 白: 4348)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18,7 +18,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,third-party,domain=xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
@@ -1429,7 +1429,6 @@ bing.com###bingBrand
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
-bing.com##.b_algo:has(.sb_adTA_title_link_cn)
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bingfeng.tw###adbt
 bingfeng.tw##.wow-ad-link
@@ -13351,6 +13350,7 @@ zzzyk.com###Tinfo
 ||7q2701vx8e.com^
 ||7q67.880.net^
 ||7qi2.fowebsiqa.shop^
+||7qkm33t55.com^
 ||7qo2met.com^
 ||7qxv9s5q16.com^
 ||7r227ut.cn^
@@ -21225,7 +21225,6 @@ zzzyk.com###Tinfo
 ||adriftventilatormeatloaf.com^
 ||adright.co^
 ||adright.com^
-||adring.net^
 ||adrino.cloud^
 ||adrino.io^
 ||adrino.pl^
@@ -21338,6 +21337,7 @@ zzzyk.com###Tinfo
 ||ads-lite2.net^
 ||ads-log.huolala.cn^
 ||ads-lot.ru^
+||ads-marketing-vivofs.vivo.com.cn
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-media.gameforge.com^
 ||ads-media.wildberries.ru^
@@ -31605,6 +31605,7 @@ zzzyk.com###Tinfo
 ||asgsd.s5f4aq29.top^
 ||asgukrpapiiyp.online^
 ||ashamed-diamond.com^
+||ashamed-employer.com^
 ||ashamed-temperature.com^
 ||ashamedleague.pro^
 ||ashamedresist.com^
@@ -33050,6 +33051,7 @@ zzzyk.com###Tinfo
 ||axitesassot.qpon^
 ||axiteszings.cfd^
 ||axiwyni.cn^
+||axixqhzuycmgz.space^
 ||axjfkc.kobayashi.co.jp^
 ||axjndvucr.com^
 ||axkcmb.mosigra.ru^
@@ -37834,6 +37836,7 @@ zzzyk.com###Tinfo
 ||bolt-gcdn.sc-cdn.net.iberostar.com^
 ||bolt.jebe.renren.com^
 ||bolt8snap.com^
+||boltedacyetic.cfd^
 ||boltepse.com^
 ||bolussprugpupulo.qpon^
 ||bom-soft.com.cn^
@@ -44364,6 +44367,7 @@ zzzyk.com###Tinfo
 ||citadelpathstatue.com^
 ||citatumpity.com^
 ||citerviperan.shop^
+||citharamiring.shop^
 ||citi-vietnam.com^
 ||citiservi.es^
 ||citivay.org^
@@ -61652,6 +61656,7 @@ zzzyk.com###Tinfo
 ||dramaticsalad.com^
 ||drammercheng.com^
 ||drankclosed.com^
+||drankexpertstroll.com^
 ||drankinjectioncircumference.com^
 ||draperyrevolvertiara.com^
 ||dratbeyond.com^
@@ -62284,6 +62289,7 @@ zzzyk.com###Tinfo
 ||dstaca.com^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dstdff.com^
 ||dstfrx.com^
 ||dstha9.com^
 ||dstillery.com^
@@ -87753,6 +87759,7 @@ zzzyk.com###Tinfo
 ||hpslbgjvyrtrm.website^
 ||hptechnology.arrow.com^
 ||hpthoght.qpon^
+||hptndhqwxyfrd.site^
 ||hpvcrluqolote.website^
 ||hpvl2kb.icu^
 ||hpvwdkn.cn^
@@ -96895,6 +96902,7 @@ zzzyk.com###Tinfo
 ||jkxlzrxhtqrdr.online^
 ||jkxtd77.com^
 ||jkykczdwuchq.com^
+||jkyufkwlymqxo.space^
 ||jkzakzazloavb.top^
 ||jkzakzazlojvz.top^
 ||jkzbjv.xyz^
@@ -101319,6 +101327,7 @@ zzzyk.com###Tinfo
 ||kswk.kol.top^
 ||ksxb.ltd^
 ||ksxdvyyzyswvs.website^
+||ksxqznsgtwfiz.space^
 ||ksxteldtlbtss.website^
 ||ksyrium0014.com^
 ||kszhmzp.cn^
@@ -129186,6 +129195,7 @@ zzzyk.com###Tinfo
 ||nxevzsd954.vip^
 ||nxf248s5.com^
 ||nxggwx.ideasoft.com.tr^
+||nxhdyfktkfhal.space^
 ||nxhkagcslidhv.website^
 ||nxhqso.nordicnest.se^
 ||nxhwvt.xyz^
@@ -130400,6 +130410,7 @@ zzzyk.com###Tinfo
 ||oicode.com^
 ||oidgctozcfsrr.site^
 ||oidnnfoxzhbkm.online^
+||oidwlferipierredfoot.qpon^
 ||oidzrvnbsbgmx.online^
 ||oiewpw.com^
 ||oifeqfiurelhe.site^
@@ -133017,6 +133028,7 @@ zzzyk.com###Tinfo
 ||oy240.cn^
 ||oy31227omkvlegc3vyr.cfd^
 ||oyaswl.manor.ch^
+||oyawjfnkbyawy.website^
 ||oyazrojxnntsc.site^
 ||oyb2ev9lqn.com^
 ||oyb3.xyz^
@@ -165678,6 +165690,7 @@ zzzyk.com###Tinfo
 ||smmx3.cn^
 ||smn.dankore.jp^
 ||smncden.cn^
+||smniumcylko.com^
 ||smnnij.gate-to-the-games.de^
 ||smnrj.lifestylecrave.com^
 ||smobile.wotif.com^
@@ -181090,6 +181103,7 @@ zzzyk.com###Tinfo
 ||strangputchuk.shop^
 ||strape.weboldalnet.hu^
 ||strapi.clickjogos.com.br^
+||strassmissitbungler.cyou^
 ||strataview.co.in^
 ||strategy.beacon.qq.com^
 ||stratos.blue^
@@ -181275,6 +181289,7 @@ zzzyk.com###Tinfo
 ||stts.sgab-srfp.ch^
 ||stts.swisshranalytics.ch^
 ||sttshub.tipmanager.net^
+||stubbererupts.com^
 ||stubblybiased.qpon^
 ||stubborn80.top^
 ||stubisects.qpon^
@@ -186422,6 +186437,7 @@ zzzyk.com###Tinfo
 ||tdns.l3.sched.dcloudlive.com^
 ||tdor-smetrics.td.com^
 ||tdoup.com^
+||tdoxvlhvoyfld.site^
 ||tdp.loja.terradepeao.com.br^
 ||tdp1.vivabox.es^
 ||tdpfe.lalignenyc.com^
@@ -204120,6 +204136,7 @@ zzzyk.com###Tinfo
 ||vnietinbank.com^
 ||vnijzahxlejop.website^
 ||vnjazjelnhbjq.online^
+||vnkpcielaguki.online^
 ||vnkzpvmaximaz.website^
 ||vnl1.voyage-prive.nl^
 ||vnlaqu.site^
@@ -205576,6 +205593,7 @@ zzzyk.com###Tinfo
 ||w9ez.cl.app^
 ||w9g7dlhw3kaank.www.eldorado.gg^
 ||w9if.hikedj.com^
+||w9p70nort.com^
 ||w9r9.143.cc^
 ||w9t.cn^
 ||wa.airexperience.dk^
@@ -215029,6 +215047,7 @@ zzzyk.com###Tinfo
 ||yenbackfi.mo6i2p.com^
 ||yengo.com^
 ||yenlm.com^
+||yensaegprzkzl.online^
 ||yenyshy.com^
 ||yeoa.011.com^
 ||yepbf1368.com^
@@ -222903,6 +222922,7 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
+@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
