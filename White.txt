@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-17 22:16:50
-# 白名单规则数: 4344
+﻿# 更新时间: 2026-08-17 22:52:15
+# 白名单规则数: 4331
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -46,6 +46,7 @@
 @@||*.activity.windows.com^
 @@||*.akamai-cdn-content.com^
 @@||*.allawntech.com^
+@@||*.anjuke.com$important
 @@||*.anjuke.com^
 @@||*.appex-rf.msn.com^
 @@||*.appex.bing.com^
@@ -252,6 +253,7 @@
 @@||99wbwc.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net^$elemhide
+@@||Linux.do^
 @@||a.9game.cn^
 @@||a.adwolf.ru^
 @@||a.game.163.com^
@@ -703,7 +705,6 @@
 @@||audiocontentdownload.apple.com^$important
 @@||audiopay.pcdn.xmcdn.com^
 @@||audiopaydl.pcdn.xmcdn.com^
-@@||auditude.com^
 @@||auth.gfx.ms^$important
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
@@ -753,7 +754,6 @@
 @@||bbs.tampermonkey.net.cn^
 @@||bbs.tgfcer.com^$generichide
 @@||bce.baidu.com^
-@@||bcebos.com^
 @@||bcebos.com^$script,domain=jingwubook.com
 @@||bcelive.com^
 @@||bcicl.*.evergage.com^
@@ -842,7 +842,6 @@
 @@||c1.skype.com^
 @@||cacerts.digicert.com^$important
 @@||cache.ip138.com^
-@@||cache.umengcn.org^
 @@||cache.video.iqiyi.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||calendars.icloud.com^
@@ -1479,7 +1478,6 @@
 @@||epicgames-download1.akamaized.net^$important
 @@||epochtimes.com^
 @@||ereg.adobe.com^
-@@||ereg.wip3.adobe.com^
 @@||erp.jd.com^
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^
@@ -1743,7 +1741,6 @@
 @@||h5s.kuwo.cn^
 @@||h5static.cc.163.com^
 @@||h5static.kuwo.cn^
-@@||h5vv6.video.qq.com^
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||hanime1.me^
@@ -1801,7 +1798,6 @@
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
 @@||hpplay.cn^
-@@||hpyrdr.com^
 @@||hr.163.com^
 @@||href.li^
 @@||hsforms.net^
@@ -1905,7 +1901,6 @@
 @@||images1-focus-opensocial.googleusercontent.com^
 @@||images2.imgbox.com^
 @@||imagex.bytedanceapi.com^
-@@||imapi5-oth-*.zijieapi.com^
 @@||imasdk.googleapis.com^
 @@||ime-igw.doubao.com^
 @@||ime-res-download.xfinfr.com^
@@ -2559,7 +2554,6 @@
 @@||msgacs.m.taobao.com^
 @@||msn.yidianzixun.com^
 @@||mss0.bdstatic.com^
-@@||mssdk3-normal-*.zijieapi.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||msync-im1-vip6-std.easemob.com^
 @@||mumu.163.com^
@@ -2624,7 +2618,6 @@
 @@||nineto5mac-d.openx.net^
 @@||niotv.com^$generichide
 @@||nishub1.10010.com^
-@@||niuaniua.com^
 @@||njavtv.com^
 @@||nmobi.kuwo.cn^
 @@||nobugin.com^$generichide
@@ -2947,7 +2940,6 @@
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
-@@||pic1.zhimg.com
 @@||pic1.zhuanstatic.com^
 @@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
@@ -2962,11 +2954,9 @@
 @@||pic640.weishi.qq.com^
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
-@@||pica.zhimg.com
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
 @@||pics.porndroids.com^
-@@||picx.zhimg.com
 @@||pifa.pinduoduo.com^
 @@||pingjs.qq.com^
 @@||pingjs.qq.com^$~third-party
@@ -3285,7 +3275,6 @@
 @@||search.kuwo.cn^
 @@||search.mcmod.cn^
 @@||search.sogoucdn.com^
-@@||search.umengcn.org^
 @@||search.ximalaya.com^
 @@||search.youku.com^
 @@||searchrec.marketplace-intl.huaweicloud.com^
@@ -3603,7 +3592,6 @@
 @@||taiga.maven.io^
 @@||tangram.e.qq.com^
 @@||tangsanbooks.com^$generichide
-@@||tanx.com^
 @@||taobao.com^
 @@||target.clickfunnels.com^
 @@||taskofdeity.netlify.app^
@@ -4263,7 +4251,6 @@
 @@||xidian.edu.cn^$generichide
 @@||xifuquan.com^
 @@||xiuren.org^$generichide
-@@||xj-n-tax.gov.cn^
 @@||xlivesex.com^
 @@||xmpush.xiaomi.com^
 @@||xn--cp3a08l.com^
