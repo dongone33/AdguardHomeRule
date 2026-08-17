@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-18 06:02:03
-# 总规则数: 245038 (黑: 240683, 白: 4355)
+﻿# 更新时间: 2026-08-18 06:37:10
+# 总规则数: 245068 (黑: 240713, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -13386,6 +13386,7 @@ zzzyk.com###Tinfo
 ||85d6890e34.0ed35fac92.com^
 ||85dcec5317.b8763ae795.com^
 ||85k4t1xzc9c8rzn3.cfd^
+||85ltu28733cczn175evkqt2vmr5.cfd^
 ||85n9.k8.com^
 ||85tgw.com^
 ||85un.com^
@@ -35939,6 +35940,7 @@ zzzyk.com###Tinfo
 ||beautify.shanhutech.cn^
 ||beauty1.xyz^
 ||beautylamp.cn^
+||beautylulu.com^
 ||beaver.bluebunnypaper.com^
 ||beaver.brush.ninja^
 ||beaver.livechatlabs.com^
@@ -37153,6 +37155,7 @@ zzzyk.com###Tinfo
 ||bighearted-wedding.pro^
 ||bigheartedbeard.com^
 ||bigheartedregular.com^
+||bighornbasin.net^
 ||bigidcmp.cloud^
 ||bigincomplete.com^
 ||bigleads.ru^
@@ -38550,6 +38553,7 @@ zzzyk.com###Tinfo
 ||boguingmowra.cfd^
 ||bogustrouble.com^
 ||bogwortviews.cyou^
+||bohaiwljqaogu.space^
 ||bohanhengtian.cn^
 ||bohawnhating.qpon^
 ||bohcgusfdrmyt.site^
@@ -39029,6 +39033,7 @@ zzzyk.com###Tinfo
 ||bps.ricoh.co.uk^
 ||bps.ricoh.ie^
 ||bpsemea.hilton.com^
+||bpsimmhpzriyh.online^
 ||bpsxld.meutudo.com.br^
 ||bpszbbfq.peptides.com^
 ||bpt.webedia-group.com^
@@ -44336,6 +44341,7 @@ zzzyk.com###Tinfo
 ||cee2.iteye.com^
 ||cee332cc1f.com^
 ||ceerrvzdgucqs.online^
+||ceesequiped.qpon^
 ||ceeyuofq.com^
 ||cefazaaycjdqi.store^
 ||ceget.xyz^
@@ -46774,6 +46780,7 @@ zzzyk.com###Tinfo
 ||cloron.net^
 ||closablemardistiffness.com^
 ||closedferallag.com^
+||closedflower.pro^
 ||closefracture.com^
 ||closercopy.cfd^
 ||closerswusser.cfd^
@@ -51944,6 +51951,7 @@ zzzyk.com###Tinfo
 ||cupqkf.laimprentacg.com^
 ||cupra.euroshop.com.pe^
 ||cups.republicoftea.com^
+||cupsligase.qpon^
 ||cuqkju.under70.kr^
 ||cuqpi.cn^
 ||cuqtrlibylbiv.website^
@@ -52540,6 +52548,7 @@ zzzyk.com###Tinfo
 ||cymuig.assem.nl^
 ||cynem.xyz^
 ||cyntgd.anticipazionitv.it^
+||cynthiacnicus.shop^
 ||cynzybmckvjxg.store^
 ||cyohmj.catawiki.com^
 ||cyp889.cn^
@@ -65787,6 +65796,7 @@ zzzyk.com###Tinfo
 ||dsxpzd.com^
 ||dsxsyt.com^
 ||dsxtea.com^
+||dsxtny.com^
 ||dsxy.jgpyedu.com^
 ||dsyaae.com^
 ||dsyatr.com^
@@ -66160,6 +66170,7 @@ zzzyk.com###Tinfo
 ||duiunmaigiqiy.space^
 ||duiwai.baidu.com^
 ||dujgiq.trendhim.pl^
+||dujmhxypzptan.space^
 ||dujucrgeabijh.website^
 ||duk.devolkitchens.co.uk^
 ||dukea.alice.camera^
@@ -69608,6 +69619,7 @@ zzzyk.com###Tinfo
 ||eland-tech.com^
 ||eland.doublemax.net^
 ||elapoidfermal.shop^
+||elapsehorsier.cyou^
 ||elarekcrmtoed.online^
 ||elastic-sync.xyz^
 ||elasticad.net^
@@ -69737,6 +69749,7 @@ zzzyk.com###Tinfo
 ||elkintwsgtmnabu.com^
 ||elkkvjrmxl.com^
 ||elkony.xyz^
+||elkscyton.cfd^
 ||elkunbalanceunfounded.com^
 ||elladafb.grekisklivs.se^
 ||ellenhilary.com^
@@ -84332,6 +84345,7 @@ zzzyk.com###Tinfo
 ||grapheffect.com^
 ||graphicspikedisaster.com^
 ||graphqletsy.edge46.testandtarget.omniture.com^
+||grapieruptosscrumbed.cyou^
 ||graplinspark.qpon^
 ||grapo.doomlings.com^
 ||grapsusfeather.qpon^
@@ -90978,6 +90992,7 @@ zzzyk.com###Tinfo
 ||gvbhae0.com^
 ||gvcgbd.byggshop.se^
 ||gvdhl.kingdomkratom.com^
+||gvdkkbmzsdvmr.space^
 ||gvdmkf.major-expert.ru^
 ||gvdqzy.milanoo.com^
 ||gvdxudyoswyfp.online^
@@ -96933,6 +96948,7 @@ zzzyk.com###Tinfo
 ||ibns3ibgf.com^
 ||ibnxviddjsqgq.store^
 ||ibo.6il4mhir5wk7t6fgvybie4o9p559exj2ix.cyou^
+||iboepinaos.cyou^
 ||iboliumviolety.shop^
 ||ibotaburny.cfd^
 ||iboxs.xyz^
@@ -97102,6 +97118,7 @@ zzzyk.com###Tinfo
 ||icqpgnbeifefi.website^
 ||icqwindow.
 ||icreate-campaign.com^
+||icrsizyqeiriy.online^
 ||icslearn.actonsoftware.com^
 ||icsmaiztgpvgn.space^
 ||icstats.nl^
@@ -102614,6 +102631,7 @@ zzzyk.com###Tinfo
 ||itgb.kiuyrsebgrjythyt.today^
 ||itgiblean.com^
 ||itgv2p14ixtfhroge341pp1mzh5o8.cfd^
+||ithandpyemia.qpon^
 ||itheatmoran.com^
 ||ithertahgook.cfd^
 ||ithinkthereforeiam.net^
@@ -105022,6 +105040,7 @@ zzzyk.com###Tinfo
 ||jofyaljkygvbqh.com^
 ||jogbxpg.cn^
 ||jogca.nautica.com^
+||joggeddefoam.com^
 ||joggingavenge.com^
 ||jogoforte.com^
 ||jogryvgycqjph.store^
@@ -112445,6 +112464,7 @@ zzzyk.com###Tinfo
 ||lingdian98.com^
 ||lingdong.biz.weibo.com^
 ||lingercatchpyramid.com^
+||lingetawols.cyou^
 ||linghangshouji.com^
 ||lingke05.top^
 ||linglingccc.xyz^
@@ -126624,6 +126644,7 @@ zzzyk.com###Tinfo
 ||maysham-com-idvr3ok.www.qiniudns.com^
 ||maysunmedia.com^
 ||mayuting0821.ltd^
+||mayworthutlike.shop^
 ||mayxanhsg.com^
 ||mayxanhsupport.com^
 ||mayyadc.cfd^
@@ -163653,6 +163674,7 @@ zzzyk.com###Tinfo
 ||savttuegxztst.site^
 ||savvysource.com^
 ||sawadeca.com^
+||sawahverminy.qpon^
 ||sawap.equifax.com^
 ||sawbuckpilule.shop^
 ||sawfish.hxd-lab.de^
@@ -163975,6 +163997,7 @@ zzzyk.com###Tinfo
 ||scanner-link.covve.com^
 ||scanscout.com^
 ||scantosystems.com^
+||scantsplasmon.shop^
 ||scantyinherited.com^
 ||scanverify.com^
 ||scaoeteqn.com^
@@ -200652,6 +200675,7 @@ zzzyk.com###Tinfo
 ||swagehowdie.cyou^
 ||swailsrecoal.com^
 ||swak-adguard.pro^
+||swalcd.qpon^
 ||swalessidi.com^
 ||swaljol72dgv.controlconceptsusa.com^
 ||swallow.kakamobi.cn^
@@ -207464,6 +207488,7 @@ zzzyk.com###Tinfo
 ||tkavurbmhzrlj.space^
 ||tkb.taximarc-knokke.be^
 ||tkbo.com^
+||tkbtgedqqopnz.site^
 ||tkcatrun.aotter.net^
 ||tkcatwalk.aotter.net^
 ||tkcbwtgdxiezd.space^
@@ -218747,6 +218772,7 @@ zzzyk.com###Tinfo
 ||uns.comunicaciones.santander.com.ar^
 ||uns.soarfi.cn^
 ||uns.stageegift.giftcards.com^
+||unsafebernice.cyou^
 ||unsaltyrisala.qpon^
 ||unsawedetypicbevies.cyou^
 ||unseenprovisionsparts.com^
@@ -219041,6 +219067,7 @@ zzzyk.com###Tinfo
 ||upflyhippy.cyou^
 ||upfmqr.carmensteffens.com.br^
 ||upfpaqonqddtd.website^
+||upfrbpqkvbewi.online^
 ||upgbmubhzrmyn.site^
 ||upglidetectona.cfd^
 ||upgocauda.cfd^
@@ -219398,6 +219425,7 @@ zzzyk.com###Tinfo
 ||urr.kumamoto-food.com^
 ||urs.metacritic.com^
 ||ursegreatm.fun^
+||ursidaehairif.cyou^
 ||urssjrxrosknm.website^
 ||urstats.de^
 ||urthsdgdr45-1292969767.ap-northeast-2.elb.amazonaws.com^
@@ -233868,6 +233896,7 @@ zzzyk.com###Tinfo
 ||xq12.com^
 ||xq199.com^
 ||xq1n.yl.ag^
+||xq2f7j8not6gmriz39t4r4eop4k.rest^
 ||xq2ynfgv.n.fly8899.com^
 ||xq6.co^
 ||xqblnei.cn^
@@ -236467,6 +236496,7 @@ zzzyk.com###Tinfo
 ||yonhelioliskor.com^
 ||yonicjumfru.com^
 ||yonicsilpha.qpon^
+||yonivielle.shop^
 ||yonmewon.com^
 ||yonsandileer.com^
 ||yoo.gtimg.com^
