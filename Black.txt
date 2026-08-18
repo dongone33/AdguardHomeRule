@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 00:15:47
-# 总规则数: 247436 (黑: 243082, 白: 4354)
+﻿# 更新时间: 2026-08-19 00:56:02
+# 总规则数: 247436 (黑: 243083, 白: 4353)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -97236,6 +97236,7 @@ zzzyk.com###Tinfo
 ||hurricane.tinybird.co^
 ||hurriedly18.com^
 ||hurriedlyslumremiss.com^
+||hurrocktript.com^
 ||hurtful-job.com^
 ||hurtful-message.com^
 ||hurtfulonly.com^
@@ -245948,7 +245949,6 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
