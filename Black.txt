@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 04:56:02
-# 总规则数: 247482 (黑: 243129, 白: 4353)
+﻿# 更新时间: 2026-08-19 05:31:04
+# 总规则数: 247495 (黑: 243142, 白: 4353)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -33260,6 +33260,7 @@ zzzyk.com###Tinfo
 ||auhgh.ribboncheckup.com^
 ||auibdnglnixan.space^
 ||auikeilhosl.com^
+||aujdoisblpboq.online^
 ||auk.muc-off.com^
 ||aukana.jp^
 ||aukgiecbioahe.website^
@@ -35367,6 +35368,7 @@ zzzyk.com###Tinfo
 ||bartender.cc^
 ||bartererfaxtingling.com^
 ||bartonpriority.com^
+||baryonslimma.com^
 ||bas.boshi.tv^
 ||bas1.dcloud.net.cn^
 ||basallyremetalflecker.cfd^
@@ -68658,6 +68660,7 @@ zzzyk.com###Tinfo
 ||earth.cointelegraph.com^
 ||earthahedda.com^
 ||earthlybuzz.com^
+||earthsauce.com^
 ||earthups.com^
 ||earthworm.creatifmediagroup.com^
 ||earthworm.elenabirkenwald.com^
@@ -70233,6 +70236,7 @@ zzzyk.com###Tinfo
 ||ejpcuw.mitsubishilaval.com^
 ||ejpeyuforzksu.online^
 ||ejppcrwl.drinkcanabzy.com^
+||ejpypnxslomgz.site^
 ||ejqmzpbhebimq.website^
 ||ejrbgi.tous.com^
 ||ejretpiytkcna.website^
@@ -74356,6 +74360,7 @@ zzzyk.com###Tinfo
 ||extralocker.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||extramonies.com^
+||extrasmall-permission.pro^
 ||extrawatch.com^
 ||extreme-dm.com^
 ||extreme-ip-lookup.com^
@@ -75685,6 +75690,7 @@ zzzyk.com###Tinfo
 ||fcone.fidelity.com^
 ||fcone.fidelitycharitable.org^
 ||fcopqjfgfdzvv.online^
+||fcpeylkojizxb.online^
 ||fcpnxx.xyz^
 ||fcpszk.telestream.net^
 ||fcqrzagadhlvn.online^
@@ -115506,6 +115512,7 @@ zzzyk.com###Tinfo
 ||llbsj.hqbang.com^
 ||llbtqlrqrfhjc.space^
 ||llcjvpltyotdi.site^
+||llckaohcaitsy.online^
 ||lldmuevvzmefo.space^
 ||lldnn.aaronchang.com^
 ||lldpz.footlocker.com^
@@ -122828,6 +122835,7 @@ zzzyk.com###Tinfo
 ||lsjne.com^
 ||lsjrlnwssqpm.com^
 ||lsjxzplvdpgaa.website^
+||lskecfqgpgrpz.online^
 ||lskfoejs.brandwerk-digital.com^
 ||lskmipb.icu^
 ||lskug.outdoorcookingpros.com^
@@ -147663,6 +147671,7 @@ zzzyk.com###Tinfo
 ||patronagemaestroforestall.com^
 ||pattenauntle.cyou^
 ||pattervigourblend.com^
+||pattsubgapecubbing.cyou^
 ||pattycolourful.com^
 ||pattyponderstuffy.com^
 ||patuv.aroma360.no^
@@ -149857,6 +149866,7 @@ zzzyk.com###Tinfo
 ||pjkyxrd15e.ru^
 ||pjlcrab.top^
 ||pjlvhk.winkbottle.com^
+||pjmjzpntmqdux.site^
 ||pjmqwqsw.com^
 ||pjmryh.zapatos.es^
 ||pjnhls.gazel.it^
@@ -154690,6 +154700,7 @@ zzzyk.com###Tinfo
 ||qcgnhtagxehtg.website^
 ||qcgt.qciano.com.br^
 ||qcgtoz.cwjobs.co.uk^
+||qcgyzzupzigmh.online^
 ||qcgzvywnvubee.online^
 ||qchannel*.cn^
 ||qchannel01.cn^
@@ -160035,6 +160046,7 @@ zzzyk.com###Tinfo
 ||rhyminglrecl.shop^
 ||rhynhmifegimi.site^
 ||rhythmclamour.com^
+||rhythmmousmee.shop^
 ||rhythmrule.com^
 ||rhzmwkiqjjfjv.website^
 ||riamiavid.com^
@@ -239631,6 +239643,7 @@ zzzyk.com###Tinfo
 ||yvtgva.casa.it^
 ||yvtlq.top^
 ||yvvqrfiwpmvvj.site^
+||yvvrsdlvkurcd.space^
 ||yvywmoezamcsk.space^
 ||yvzgazds6d.com^
 ||yvzpacgrjzrra.site^
