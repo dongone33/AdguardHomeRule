@@ -1,4 +1,4 @@
-﻿# 更新时间: 2026-08-18 15:54:41
+﻿# 更新时间: 2026-08-18 16:44:32
 # 白名单规则数: 4354
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
@@ -2866,6 +2866,7 @@
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
+@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
@@ -3061,7 +3062,6 @@
 @@||pull-m1.wxlivecdn.com^
 @@||pull.yximgs.com^
 @@||pull2.91cloud.net^
-@@||puma.112.2o7.net^
 @@||puser.funshion.com^
 @@||push.apple.com^
 @@||push.apple.com^$important
