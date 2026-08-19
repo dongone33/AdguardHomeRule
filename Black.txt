@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 19:47:48
-# 总规则数: 247676 (黑: 243322, 白: 4354)
+﻿# 更新时间: 2026-08-19 20:18:00
+# 总规则数: 247692 (黑: 243338, 白: 4354)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -34141,6 +34141,7 @@ zzzyk.com###Tinfo
 ||azcfnbfhxfytj.online^
 ||azcoct.bikkembergs.com^
 ||azcpz.ordolife.com^
+||azdevzhgilgze.space^
 ||azdsaiemqwjdr.site^
 ||azdvq.igkhair.com^
 ||azdwxoztaualz.site^
@@ -39113,6 +39114,7 @@ zzzyk.com###Tinfo
 ||borh1pxlp.com^
 ||borhnock.cyou^
 ||boringberry.com^
+||boringcomparison.pro^
 ||boringegotistical.com^
 ||boringherbalprewashed.com^
 ||boringlength.com^
@@ -47721,6 +47723,7 @@ zzzyk.com###Tinfo
 ||cmmqmezg.goodlabs.com^
 ||cmmqq.modgents.com^
 ||cmmwpkihpyefy.website^
+||cmnawxkwkvlbh.website^
 ||cmnoe.saadaa.in^
 ||cmnxd.kontrolledinsanity.com^
 ||cmo.go-static.info^
@@ -79245,6 +79248,7 @@ zzzyk.com###Tinfo
 ||freeyue.xyz^
 ||freezeassets.com^
 ||freezesidiasm.shop^
+||freezestumpsjo.cfd^
 ||freezingbuilding.com^
 ||fregatabromoil.cyou^
 ||fregvoxmietix.website^
@@ -86219,6 +86223,7 @@ zzzyk.com###Tinfo
 ||gteut.bareperformancenutrition.com^
 ||gtfccewpo.com^
 ||gtfcy.oddmuse.co.uk^
+||gtfzlpzgoydqv.site^
 ||gtg.cargoloop.com^
 ||gtg.eurosportscamps.com^
 ||gtg.gtm-sandbox.org^
@@ -93509,6 +93514,7 @@ zzzyk.com###Tinfo
 ||haslockvayuunsing.cyou^
 ||haspingplovers.cfd^
 ||hasqg.swarm.com^
+||hassarbettas.shop^
 ||hassarrespeak.qpon^
 ||hasslefree.redwingshoes.com^
 ||hastediminutiondoes.com^
@@ -105915,6 +105921,7 @@ zzzyk.com###Tinfo
 ||jilqkcyylzxrh.online^
 ||jilqtoodfo.in^
 ||jiltsbagle.qpon^
+||jilwueaoshhby.site^
 ||jim.dtyd.com.cn^
 ||jimbm.charlestyrwhitt.com^
 ||jimeilm.com^
@@ -128505,6 +128512,7 @@ zzzyk.com###Tinfo
 ||mbxsku.cn^
 ||mbxt.net^
 ||mbxw.xyz^
+||mbytyeonamnqc.space^
 ||mbzkvc.junghanswolle.de^
 ||mbzpulstssjhc.website^
 ||mc-live.online^
@@ -148167,6 +148175,7 @@ zzzyk.com###Tinfo
 ||pdhhmf.cn^
 ||pdhkjnndwzwys.site^
 ||pdhsturqsejda.space^
+||pdhvdvqwpewda.site^
 ||pdhwgryymgvyr.website^
 ||pdhwzl.icu^
 ||pdiabbi.cn^
@@ -154082,6 +154091,7 @@ zzzyk.com###Tinfo
 ||puwxbcb.cn^
 ||puxapklakozg.in^
 ||puxb.720lu.com^
+||puxypdnfammzb.online^
 ||puxyreindue.qpon^
 ||puy2.cn^
 ||puysis.com^
@@ -215890,6 +215900,7 @@ zzzyk.com###Tinfo
 ||trapezium69.top^
 ||trapishmeeth.cyou^
 ||trappcloudservices.trapptechnology.com^
+||trapperdivan.shop^
 ||trappush.com^
 ||traq.li^
 ||traqueamento.mirnaborges.com.br^
@@ -230391,6 +230402,7 @@ zzzyk.com###Tinfo
 ||wietcombank.com^
 ||wiezhjlxc.com^
 ||wifelovers.com^
+||wifelyenlace.com^
 ||wifi-api-cdn.csshuqu.cn^
 ||wifi.com^
 ||wifi.senkeyou.cn^
@@ -230452,6 +230464,7 @@ zzzyk.com###Tinfo
 ||wildebeest.quarva.dev^
 ||wildedbarley.com^
 ||wildernessperformpulp.com^
+||wildersbistro.shop^
 ||wildestbisabol.qpon^
 ||wildestgraciousunpack.com^
 ||wildhookups.com^
@@ -230560,6 +230573,7 @@ zzzyk.com###Tinfo
 ||wingymallees.com^
 ||winingcpi.cn^
 ||winitout.com^
+||winksieniteretired.qpon^
 ||winksullenwaistcoat.com^
 ||winlinebet.ru^
 ||winmomo.com^
@@ -239797,6 +239811,7 @@ zzzyk.com###Tinfo
 ||yvgpj.keenfragrances.com^
 ||yvipfjvniaonh.space^
 ||yviswt.lamaisonduchocolat.com^
+||yviyxdynlmaxs.site^
 ||yvjiqp.gemer.jp^
 ||yvkjzpfqgbgxl.space^
 ||yvlbuyorhdlt.com^
@@ -242140,6 +242155,7 @@ zzzyk.com###Tinfo
 ||znfjejuvhkuuz.site^
 ||znfkbi1lyxrm.poltech3.com^
 ||zngaaixe.fit1.hu^
+||zngkzslgifgon.space^
 ||zngvqwp.icu^
 ||znhwzima-cmcivoowkr.cn-shenzhen.fcapp.run^
 ||znigpcayzsxyp.site^
