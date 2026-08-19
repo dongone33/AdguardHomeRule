@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 13:53:25
-# 总规则数: 247470 (黑: 243117, 白: 4353)
+﻿# 更新时间: 2026-08-19 14:52:54
+# 总规则数: 247500 (黑: 243147, 白: 4353)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -13466,6 +13466,7 @@ zzzyk.com###Tinfo
 ||82d36b5fc4.com^
 ||82e9ac3c1.com^
 ||82fpljhwq5vbon1mrec.cfd^
+||82jenm8qpjyhc9l.cfd^
 ||82meu8tr.f8pt84u4klm9mxnb6el.cyou^
 ||82o9v830.com^
 ||82query.com^
@@ -13863,6 +13864,7 @@ zzzyk.com###Tinfo
 ||8hx7k0211.com^
 ||8hykthze.cricket^
 ||8i2m.yl.ag^
+||8i5vcoebxjv5bw.rest^
 ||8iav2fuiy.com^
 ||8imo7.ghlp5h7y28qbq74oq.cyou^
 ||8inhjmd.usefathom.com^
@@ -18073,6 +18075,7 @@ zzzyk.com###Tinfo
 ||abrakadabra.zensim.com.au^
 ||abram.xin^
 ||abrasiveslayerrequires.com^
+||abrazossiloed.shop^
 ||abre.ai^
 ||abrisrending.qpon^
 ||abrmcbgt.traffictoday.nl^
@@ -27879,6 +27882,7 @@ zzzyk.com###Tinfo
 ||annons.turist.se^
 ||annonser.snoap.no^
 ||annonsserver.se^
+||annotcarvels.cfd^
 ||announcement.lyreco.com^
 ||announceproposition.com^
 ||announcingmyrtleusual.com^
@@ -28258,6 +28262,7 @@ zzzyk.com###Tinfo
 ||apaclandingpage.ajo1apac.adls.adobevlab.com^
 ||apaclandingpage.ajoplatformapac.adobevlab.com^
 ||apaff.oneplus.com^
+||apansudigytcy.online^
 ||apapuacauthong.com^
 ||aparvibices.com^
 ||apas.aipai.com^
@@ -31958,6 +31963,7 @@ zzzyk.com###Tinfo
 ||arincol.arin-innovation.com^
 ||ariotgribble.com^
 ||arisefeistyleery.com^
+||arisingvinage.cyou^
 ||aristolsah.cfd^
 ||arithmetic48.top^
 ||arithpouted.com^
@@ -32483,6 +32489,7 @@ zzzyk.com###Tinfo
 ||aspignitean.com^
 ||aspirationprogrammecontains.com^
 ||aspiredemeaningmarvelous.com^
+||aspireepolicy.cfd^
 ||aspirincountryprofound.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
@@ -33590,6 +33597,7 @@ zzzyk.com###Tinfo
 ||avoirmockerspotto.cfd^
 ||avouchuramil.com^
 ||avowcosmo.cfd^
+||avowterpoyous.shop^
 ||avp.labanquepostale.fr^
 ||avpa.dzone.com^
 ||avpgm.queencosmetics.store^
@@ -39181,6 +39189,7 @@ zzzyk.com###Tinfo
 ||botsvisit.com^
 ||botsxlhhjdvnp.online^
 ||botta.hostnin.com^
+||bottierpeseta.cfd^
 ||bottierrangleneavil.cfd^
 ||bottle.irs01.com^
 ||bottleddictionary.com^
@@ -39896,6 +39905,7 @@ zzzyk.com###Tinfo
 ||brjmzj.niceioi.com.tw^
 ||brknsixyyhw.com^
 ||brkoev.minfin.com.ua^
+||brlczidbyifhs.space^
 ||brldassustitucion.eccocar.com^
 ||brlesrochesmarbella.eccocar.com^
 ||brlikecarsharing.eccocar.com^
@@ -52364,6 +52374,7 @@ zzzyk.com###Tinfo
 ||cucuyflytrap.cyou^
 ||cudaojia.com^
 ||cuddlecoveragehiss.com^
+||cuddledstearyl.qpon^
 ||cuddlethehyena.com^
 ||cuddlycake.com^
 ||cuddlylab.com^
@@ -64007,6 +64018,7 @@ zzzyk.com###Tinfo
 ||divergekokowailustrum.qpon^
 ||divergentld.com^
 ||diverhaul.com^
+||divesttreeingtenail.qpon^
 ||dividedmidsummer.com^
 ||dividedrejoins.cyou^
 ||dividedscientific.com^
@@ -75091,6 +75103,7 @@ zzzyk.com###Tinfo
 ||falseframe.com^
 ||falsehood67.top^
 ||falseopening.pro^
+||falsepileata.cfd^
 ||falsesight.com^
 ||falsifymagpieopenminded.com^
 ||falsifyprobable.com^
@@ -82044,6 +82057,7 @@ zzzyk.com###Tinfo
 ||germlesslukewarmmold.com^
 ||gerpqa.bogsboots.de^
 ||gerundscovings.qpon^
+||gervaisnatrons.cfd^
 ||gervaorix.cyou^
 ||geryi.com^
 ||geryonshudder.cyou^
@@ -92423,6 +92437,7 @@ zzzyk.com###Tinfo
 ||gxyrml.drdifferent.com^
 ||gxzg.org.cn^
 ||gxzjzg.com^
+||gxzncsudgxoax.online^
 ||gxzpx.collegefootballplayoff.com^
 ||gxzxiww.com^
 ||gy.gepush.com^
@@ -94283,6 +94298,7 @@ zzzyk.com###Tinfo
 ||hengtengds.com^
 ||hengxueedu.com^
 ||hengyisoft.vip^
+||henismjoypop.cfd^
 ||hennaedredeyes.qpon^
 ||henryaveloz.qpon^
 ||henrybrusure.shop^
@@ -122217,6 +122233,7 @@ zzzyk.com###Tinfo
 ||louse.sigle.io^
 ||lousivency.com.cn^
 ||louthermate.cyou^
+||loutingkalif.cfd^
 ||louxoxo.com^
 ||lovableprofile.com^
 ||lovableswing.pro^
@@ -132950,6 +132967,7 @@ zzzyk.com###Tinfo
 ||mhyacjinulgvu.store^
 ||mhydndfvgzvwu.site^
 ||mhygfmwlfclki.online^
+||mhyjkehtotssq.space^
 ||mhysbwo.xyz^
 ||mhzs9.top^
 ||mhzscs.inthecompanyofdogs.com^
@@ -135707,6 +135725,7 @@ zzzyk.com###Tinfo
 ||msdsd2.cn^
 ||msdtqofattbqv.website^
 ||msdvu.barefootdreams.com^
+||msechzfybtgfl.online^
 ||msecure108.com^
 ||mseeru.faz.net^
 ||mseupkcziqzzj.website^
@@ -139934,6 +139953,7 @@ zzzyk.com###Tinfo
 ||nlezowlzrllro.site^
 ||nlfhlc.careofcarl.com^
 ||nlfmf.cn^
+||nlglokvwajqxo.site^
 ||nlgsc.jessicalondon.com^
 ||nlgzhd.yoox.com^
 ||nlhdswomqdoux.site^
@@ -151338,6 +151358,7 @@ zzzyk.com###Tinfo
 ||posopts.com^
 ||possessedrehearsal.com^
 ||possessvampire.com^
+||possetssoorky.com^
 ||possibilities.theajinetwork.com^
 ||possibilityfoundationwallpaper.com^
 ||possibilityteddefensive.com^
@@ -156893,6 +156914,7 @@ zzzyk.com###Tinfo
 ||qyogcr.amscope.com^
 ||qypaizhuo.com^
 ||qyplvnzcm1.com^
+||qypqafuymygkj.online^
 ||qypuezrjzraew.site^
 ||qypuqv.costcuttersuk.com^
 ||qypvnb.24mx.it^
@@ -160167,6 +160189,7 @@ zzzyk.com###Tinfo
 ||rightstats.com^
 ||rightymatch.com^
 ||rigi9bury.com^
+||rigid-negative.pro^
 ||rigidrobin.com^
 ||rigidstiffnesszoning.com^
 ||rigidveil.com^
@@ -160198,6 +160221,7 @@ zzzyk.com###Tinfo
 ||rimhysterical.com^
 ||rimiertittup.qpon^
 ||rimlmxppmfvcq.space^
+||rimousupwax.shop^
 ||rims.aig.com^
 ||rimsha.viralof.online^
 ||rimwtv.theclassictshirt.com^
@@ -160377,6 +160401,7 @@ zzzyk.com###Tinfo
 ||rjtzqgeltwaep.store^
 ||rjvggbskx.com^
 ||rjvgkmahuzded.site^
+||rjvsnwnsxwxxo.site^
 ||rjw4obbw.com^
 ||rjwfblvovs.com^
 ||rjx.yltnlbh.xyz^
@@ -183726,6 +183751,7 @@ zzzyk.com###Tinfo
 ||sparrowcanned.com^
 ||spartasheafedonker.cfd^
 ||sparteo.com^
+||spasmedschofleuret.cyou^
 ||spatacquaint.com^
 ||spatlumyawyreputes.cyou^
 ||spatula91.com^
@@ -201650,6 +201676,7 @@ zzzyk.com###Tinfo
 ||sudsesusuarycoman.qpon^
 ||sudupan.com^
 ||suedai.com^
+||suedinepredate.cfd^
 ||suejvtxdvjtqc.website^
 ||suevicnettie.com^
 ||suezbonuses.shop^
@@ -217001,6 +217028,7 @@ zzzyk.com###Tinfo
 ||trognoi.com^
 ||trogvyfzbmtq.com^
 ||trojanbawty.cyou^
+||trokerunlid.cfd^
 ||troll-bridge.goasrv.com^
 ||trolleyincreasingly.com^
 ||trolleyjackpotbummer.com^
@@ -220759,6 +220787,7 @@ zzzyk.com###Tinfo
 ||unsmartbatteau.cfd^
 ||unsmokyhashing.cfd^
 ||unsnugdioritekinks.qpon^
+||unspeednoddi.cyou^
 ||unsrzlaqfttxa.website^
 ||unstableshakenspecimen.com^
 ||unstablesurroundingpowerfully.com^
@@ -243099,6 +243128,7 @@ zzzyk.com###Tinfo
 ||zzzfba.thecolvinco.com^
 ||zzzjhkyprpsvl.store^
 ||zzzmjfixezere.site^
+||zzzmxvoxooaat.site^
 ||zzzoraclecloudsupportp01e10-app-hs.eloquademos.com^
 ||zzzoraclecloudsupportp02e10-app-hs.eloquademos.com^
 ||zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com^
