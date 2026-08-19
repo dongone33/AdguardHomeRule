@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-20 00:43:36
-# 总规则数: 247746 (黑: 243392, 白: 4354)
+﻿# 更新时间: 2026-08-20 01:20:31
+# 总规则数: 247781 (黑: 243426, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -8012,6 +8012,7 @@ zzzyk.com###Tinfo
 ||16dd-advertise-1252317822.file.myqcloud.com^
 ||16dd-advertise-1252317822.image.myqcloud.com^
 ||16h*.com^
+||16h412857.cc^
 ||16h42.cc^
 ||16h82.com^
 ||16hd.4393.cc^
@@ -11107,6 +11108,7 @@ zzzyk.com###Tinfo
 ||4a75c45821.com^
 ||4a9.cn^
 ||4a953a3361.33fd1ab248.com^
+||4aa8636f.itjnziwe.com^
 ||4ac38e317e.com^
 ||4affiliate.net^
 ||4armn.com^
@@ -12021,6 +12023,7 @@ zzzyk.com###Tinfo
 ||5mn041cdz.com^
 ||5mn7cf73.xyz^
 ||5moxhf6z8c.ru^
+||5myjfi.cdn.nkvybmrj.com^
 ||5namlienquan-giftcode.com^
 ||5nfc.net^
 ||5nt1gx7o57.com^
@@ -13840,6 +13843,7 @@ zzzyk.com###Tinfo
 ||8f1s.mm51-tneb1555.cc^
 ||8f4c607ea0.com^
 ||8f74a52456.com^
+||8f76c96b.nkvybmrj.com^
 ||8f7cd5dfad.com^
 ||8f866.top^
 ||8f998710bd.com^
@@ -15151,7 +15155,6 @@ zzzyk.com###Tinfo
 ||a.n2mg.cn^
 ||a.n8n7.me^
 ||a.nanhuwang.com^
-||a.nel.cloudflare.com^
 ||a.nelo.mx^
 ||a.netquote.com^
 ||a.no-cosmetics.com^
@@ -40149,7 +40152,6 @@ zzzyk.com###Tinfo
 ||bs.serving-sys.ru^
 ||bs.yandex.ru^
 ||bs0cf.com^
-||bs1.360sres.com^
 ||bs14.9669.cn^
 ||bs688.cc^
 ||bs987.cn^
@@ -43973,6 +43975,7 @@ zzzyk.com###Tinfo
 ||cdn-jumper.dewu.com^
 ||cdn-ketchapp.akamaized.net^
 ||cdn-lb.vungle.com^
+||cdn-lumayun-top-idvmz9c.qiniudns.com^
 ||cdn-magiclinks.trackonomics.net^
 ||cdn-media.brightline.tv^
 ||cdn-net.com^
@@ -44282,6 +44285,7 @@ zzzyk.com###Tinfo
 ||cdn.lr-ingest.com^
 ||cdn.lu.sogoucdn.com^
 ||cdn.luckyorange.com^
+||cdn.lumayun.top^
 ||cdn.lumiflux.co^
 ||cdn.manga9.co^
 ||cdn.maquinacaptacao.com.br^
@@ -44605,6 +44609,7 @@ zzzyk.com###Tinfo
 ||cdn7.network^
 ||cdn7.rocks^
 ||cdn77.org^
+||cdn7ab.vip^
 ||cdn8.iyvpw.com^
 ||cdn83753766.ahacdn.me^
 ||cdn9.dcloud.net.cn^
@@ -47548,6 +47553,7 @@ zzzyk.com###Tinfo
 ||cluster.xhspot.com^
 ||cluster56c73b29.75737156.com^
 ||cluster5aef63cf.hysjs168.com^
+||cluster676107f9.nk71l.com^
 ||cluster70d31fdc.74067120.com^
 ||cluster71e0b07a.jhydms12.com^
 ||clustercb3e14c1.00601015.com^
@@ -54403,6 +54409,8 @@ zzzyk.com###Tinfo
 ||d1zzcae3f37dfx.cloudfront.net^
 ||d2-apps.net^
 ||d2.danbatt.dk^
+||d2.jsjcsgy.com.w.cdngslb.com^
+||d2.jsjcsgy.com^
 ||d2.qjsalia.com^
 ||d2.qjsalib.com^
 ||d2.seasonshop.dk^
@@ -61721,6 +61729,7 @@ zzzyk.com###Tinfo
 ||de2nsnw1i3egd.cloudfront.net^
 ||de48cadb.eulerian.io^
 ||de5zarwna0j2q.cloudfront.net^
+||de800a48.nk71l.com^
 ||de88deggtp89.com^
 ||de8bd72412.3cedc8df37.com^
 ||dea21aeefc.com^
@@ -65459,6 +65468,8 @@ zzzyk.com###Tinfo
 ||download.ibuzza.net^
 ||download.innit.com^
 ||download.joingofree.com^
+||download.jsjcsgy.com.w.cdngslb.com^
+||download.jsjcsgy.com^
 ||download.jword.jp^
 ||download.kaobeitu.com^
 ||download.kbcard.com^
@@ -68371,6 +68382,7 @@ zzzyk.com###Tinfo
 ||e1lkihmht5wjj0ipi7ff3iebgrgzslhe.yundunwaf2.com^
 ||e1mm.143.cc^
 ||e1nfgit1p9xlfcv9f.5l6t4nzgfvyo2ty3yk1.cyou^
+||e1qjq1.cdn.itjnziwe.com^
 ||e1wluazgt.com^
 ||e1yrns9aw.com^
 ||e2.sy-d.io^
@@ -76425,6 +76437,7 @@ zzzyk.com###Tinfo
 ||ffychb.com^
 ||ffyd.b72nt.com^
 ||ffyd.ck6xg.com^
+||ffyd.cr5fy.com^
 ||ffyd.tqggk.com^
 ||ffyd.ynma2.com^
 ||ffyoo.com^
@@ -82520,6 +82533,7 @@ zzzyk.com###Tinfo
 ||gfbxsoxbywqvp.store^
 ||gfd.huigoushop.com^
 ||gfd80.com^
+||gfd8ir.com^
 ||gfdfjaghyfkdugtfeyf.com^
 ||gfdgdf.u97r5o88i.org^
 ||gfditxjqxeo.com^
@@ -92944,6 +92958,7 @@ zzzyk.com###Tinfo
 ||h5w32.thearcticpure.com^
 ||h6295.com^
 ||h6295.com^$popup
+||h636290.cc^
 ||h6671vcw5g2wtjhqp.cfd^
 ||h66niuy6.xyz^
 ||h689.nydailynews.com^
@@ -93829,6 +93844,7 @@ zzzyk.com###Tinfo
 ||hccms.com.cn^
 ||hccwwz.cn^
 ||hcdjy.xyz^
+||hcdnd101.sme.foreign.cdnhwcaoc115.cn^
 ||hcdnd101.sme.foreignv6.cdnhwcaoc115.cn^
 ||hcdnd101.sme^
 ||hcdnpe.iareduceri.ro^
@@ -94704,6 +94720,7 @@ zzzyk.com###Tinfo
 ||hgtvp.laithwaites.com^
 ||hgty2236.com^
 ||hgty373.com^
+||hgty6268.com^
 ||hgty6638.com^
 ||hgty8577.com^
 ||hgty9632.com^
@@ -100363,6 +100380,7 @@ zzzyk.com###Tinfo
 ||img.gz9d.com^
 ||img.hcwifi.cn^
 ||img.healthecareers.com^
+||img.hgty8778.com^
 ||img.hrm.groups.be^
 ||img.huaerdadi.com^
 ||img.huanagyehgn.xyz^
@@ -109992,6 +110010,7 @@ zzzyk.com###Tinfo
 ||kku.xiaoxiuapp.com^
 ||kkvaex.neunweine.at^
 ||kkxtpfbimwezy.space^
+||kkxz.xwdq3.com^
 ||kky7785.4466pay22.com^
 ||kkylx.xyz^
 ||kkynvv.lotte.com^
@@ -111718,6 +111737,8 @@ zzzyk.com###Tinfo
 ||l.gunmablog.net^
 ||l.hama1.jp^
 ||l.hamazo.tv^
+||l.heiwuya.cn.eo.dnse1.com^
+||l.heiwuya.cn^
 ||l.hida-ch.com^
 ||l.i-ra.jp^
 ||l.ialoc.app^
@@ -137539,6 +137560,7 @@ zzzyk.com###Tinfo
 ||n9q6xn.rmm74xelm3r3wk1ckg8fkj84k8.cyou^
 ||n9s74npl.de^
 ||n9ujxzht.n.cdn6ao.vip^
+||n9ujxzht.n.cdn7ab.vip^
 ||na-pages.husqvarna.com^
 ||na.demco.com^
 ||na.finekagu.com^
@@ -148852,10 +148874,12 @@ zzzyk.com###Tinfo
 ||pg.suiji.red^
 ||pg.xdrig.com^
 ||pg.xiaodns.com^
+||pg113958.cc^
 ||pg188.dk2.jhydns07.com^
 ||pg37.1129881.cc^
 ||pg37.pg37adsadad.com^
 ||pg57mx.com^
+||pg780820.cc^
 ||pg88.cn^
 ||pg88.tu0847242238.cc^
 ||pg88cdn.com^
@@ -157323,6 +157347,7 @@ zzzyk.com###Tinfo
 ||r2b2.io^
 ||r2c3i9f6v82nj9.cfd^
 ||r2d2.aotter.net^
+||r2ermw.com^
 ||r2pnq.montecarlovirtualtour.com^
 ||r2r.utas.edu.au^
 ||r3.i.lencr.org^
@@ -166893,7 +166918,6 @@ zzzyk.com###Tinfo
 ||se.rfvtgbyhn.com^
 ||se05.biz^
 ||se11.k8.com^
-||se2.360simg.com^
 ||se3.360simg.com^
 ||se80.cc^
 ||se967.com^
@@ -198413,6 +198437,7 @@ zzzyk.com###Tinfo
 ||static.breiwebshop.nl^
 ||static.bucketflare.xyz^
 ||static.byld2l.com^
+||static.c79q3.com^
 ||static.cdn.gtsmobi.com^
 ||static.cdnativepush.com^
 ||static.ceramicartsnetwork.org^
@@ -203502,6 +203527,7 @@ zzzyk.com###Tinfo
 ||syzdbxg.com^
 ||syzjxz2018.cn^
 ||syzzhd.cn^
+||sz-qiniu-all.volcgtm.com^
 ||sz.gafz.chanct.cn^
 ||sz2xlvu6jq.com^
 ||sz7yo.com^
@@ -215917,8 +215943,6 @@ zzzyk.com###Tinfo
 ||transit.ncsecu.org^
 ||transit2.wslog.chinanetcenter.com^
 ||transitionsinging.com^
-||translate-api.xiangtatech.com^
-||translate-cdn.xiangtatech.com^
 ||translate-useraction-api.xiangtatech.com^
 ||translate.googleapis.com^
 ||translatebonus.net^
@@ -219356,6 +219380,7 @@ zzzyk.com###Tinfo
 ||ubptt.bullybeds.com^
 ||ubqjbd.daviddonahue.com^
 ||ubqnvqrjaxlso.space^
+||ubr4hh1419b59q.33444579.com^
 ||ubr4hh1419b59q1.bzyongjia.com^
 ||ubrihx.allbirds.jp^
 ||ubssn.namesakehome.com^
@@ -226185,6 +226210,7 @@ zzzyk.com###Tinfo
 ||vocfhq.ilgiardinodeilibri.it^
 ||vocrojjwugeno.website^
 ||voctn.oipjuwe.com^
+||vod-all.ipv4v6.qiniu.com.volcgslb.com^
 ||vod-box.bz.mgtv.com^
 ||vod-cash.com^
 ||vod-license-b.volccdn.com^
@@ -228505,6 +228531,7 @@ zzzyk.com###Tinfo
 ||wd.602.com.volcgslb.com^
 ||wd.adcolony.com^
 ||wd.classicseller.de^
+||wd3gvp5b.n.cdn7ab.vip^
 ||wda.ydt.com.cn^
 ||wdaa.shuzilm.cn^
 ||wdad.cc^
@@ -232555,6 +232582,7 @@ zzzyk.com###Tinfo
 ||www.coons.goaserv.com^
 ||www.coreads-console.cambridge.org^
 ||www.coroner.goasrv.com^
+||www.cr5fy.com^
 ||www.cran.goaserv.com^
 ||www.creativeconsortiuminspired.com^
 ||www.creditpromo.com^
@@ -233592,7 +233620,6 @@ zzzyk.com###Tinfo
 ||wzz46x8e.xyz^
 ||wzzb.club^
 ||wzzhvn.hammer.de^
-||wzzqlm.erbaiwulaoge.com^
 ||x-busty.org^
 ||x-c.eu^
 ||x-changer.goaserv.com^
@@ -234826,6 +234853,8 @@ zzzyk.com###Tinfo
 ||xjkf3.linshenkx.com^
 ||xjkf4.jkzj888.com.w.cdngslb.com^
 ||xjkf4.jkzj888.com^
+||xjkf5.3yiot.com.w.cdngslb.com^
+||xjkf5.3yiot.com^
 ||xjkf6.stliuy.com.w.cdngslb.com^
 ||xjkf6.stliuy.com^
 ||xjkgo.7nlqjvp6cxh7uc4.cyou^
@@ -236716,6 +236745,8 @@ zzzyk.com###Tinfo
 ||xtxwva.intersport.com.tr^
 ||xtxytmqzywwfj.space^
 ||xtyizilaijx.cn^
+||xtyj.lmdbw.com.pages.dnsoe5.com^
+||xtyj.lmdbw.com^
 ||xtyokhrngzgza.online^
 ||xtyxcc.provitamin.hu^
 ||xtzoieci8.u1fm7pzfzuiu3q.cyou^
@@ -237832,10 +237863,13 @@ zzzyk.com###Tinfo
 ||ydccky.direnc.net^
 ||ydcjbomim.com^
 ||ydcksa.certideal.com^
+||ydd8.cc^
 ||yddtah.takingshape.com^
 ||ydduszefhnscz.website^
 ||ydeyivh.xyz^
 ||ydeyxx.glamira.ch^
+||ydfd.itmrright.com.019eced4.cdnhwc9.com^
+||ydfd.itmrright.com^
 ||ydfz.org^
 ||ydgaopinlu.com^
 ||ydgege.xyz^
@@ -247650,6 +247684,7 @@ zzzyk.com###Tinfo
 @@||wxqcloud.qq.com.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
+@@||wzzqlm.erbaiwulaoge.com^
 @@||x.kuwo.cn^
 @@||x0.ifengimg.com^
 @@||x19.update.netease.com^

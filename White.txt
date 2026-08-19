@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-20 00:43:36
-# 白名单规则数: 4354
+﻿# 更新时间: 2026-08-20 01:20:31
+# 白名单规则数: 4355
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -4258,6 +4258,7 @@
 @@||wxqcloud.qq.com.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
+@@||wzzqlm.erbaiwulaoge.com^
 @@||x.kuwo.cn^
 @@||x0.ifengimg.com^
 @@||x19.update.netease.com^
