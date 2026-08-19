@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 22:04:33
-# 总规则数: 247692 (黑: 243338, 白: 4354)
+﻿# 更新时间: 2026-08-19 22:53:14
+# 总规则数: 247726 (黑: 243372, 白: 4354)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9500,6 +9500,7 @@ zzzyk.com###Tinfo
 ||29e5534ea20a8.cdn.sohucs.com^
 ||29iiio.zhsc.ink.01ce1266.cdnhwcaoc115.cn^
 ||29iiio.zhsc.ink^
+||29ruu0q5p.com^
 ||29s55bf2.de^
 ||29wjns.com^
 ||29z5ch85etcymjlk5k7o5l.cfd^
@@ -13850,6 +13851,7 @@ zzzyk.com###Tinfo
 ||8g0j.cn^
 ||8g2a7mifv.com^
 ||8gce.yide.com^
+||8girie4xi9h7j1o82y5re7bp22.cfd^
 ||8gl.com.cn^
 ||8gp4wjq3.com^
 ||8gptk28oag.com^
@@ -31668,6 +31670,7 @@ zzzyk.com###Tinfo
 ||apt-shine.com^
 ||apt.qumi.com^
 ||apteka-money.ru^
+||apterpastel.shop^
 ||aptersandt.cfd^
 ||aptianashed.qpon^
 ||aptitudebruise.com^
@@ -42425,6 +42428,7 @@ zzzyk.com###Tinfo
 ||capaciousdrewreligion.com^
 ||capacity88.top^
 ||capacitygrid.com^
+||capaxbelamy.qpon^
 ||capcap621.cn^
 ||capcush.net.anwalt.de^
 ||capefast.com^
@@ -49999,6 +50003,7 @@ zzzyk.com###Tinfo
 ||contrastevaporate.com^
 ||contrib.nn.ci^
 ||contributionabdicatemoral.com^
+||contributionhobblenewlywed.com^
 ||contributorcoming.com^
 ||contributorshaveangry.com^
 ||contrive73.top^
@@ -52939,6 +52944,7 @@ zzzyk.com###Tinfo
 ||cwicbntszynpl.website^
 ||cwicybzyryttv.space^
 ||cwigitapkvac.com^
+||cwlnrlnmalwof.site^
 ||cwmgdpescuqtc.space^
 ||cwmlm.com^
 ||cwnlia.parfumdo.com^
@@ -64065,6 +64071,7 @@ zzzyk.com###Tinfo
 ||diy.beviswoodclub.com^
 ||diylvz.seereisedienst.de^
 ||diypxh.tillys.com^
+||diyvpjkdhbsgb.site^
 ||diyxjd.com^
 ||diz4z73aymwyp.cloudfront.net^
 ||dizennaphthaurian.qpon^
@@ -73265,6 +73272,7 @@ zzzyk.com###Tinfo
 ||eurwtukwbgmec.website^
 ||eus.rubiconproject.com^
 ||eusdbk.philosophyofficial.com^
+||euskaraharedukulele.cyou^
 ||eusmdates.com^
 ||eussiyvfjpqqc.site^
 ||eussownwpyxdw.online^
@@ -78381,6 +78389,7 @@ zzzyk.com###Tinfo
 ||foredidkermis.qpon^
 ||foreignabnormality.com^
 ||foreignlozenge.com^
+||foreleguni.qpon^
 ||foremedia.net^
 ||foremost57.top^
 ||forensics1000.com^
@@ -85360,6 +85369,7 @@ zzzyk.com###Tinfo
 ||gpndd.goaserv.com^
 ||gpndmekruvrzt.site^
 ||gpno7lrom.gptrno7.com^
+||gpnpcumptjlun.site^
 ||gpnsmlkgttmjd.site^
 ||gpofwj.crucerosonline.cl^
 ||gpolicy.blog50.go-static.info^
@@ -92618,6 +92628,7 @@ zzzyk.com###Tinfo
 ||gz9cm.71edge.com^
 ||gzads.com^
 ||gzasiatech.net^
+||gzastugagqpu.in^
 ||gzbcuy.mamarella.com^
 ||gzberdhytgbsy.website^
 ||gzbivgztyxmdj.site^
@@ -94089,6 +94100,7 @@ zzzyk.com###Tinfo
 ||healthvot.com^
 ||healthy.partandparcel.com.au^
 ||healthy.spartanburgregional.com^
+||healthyclad.com^
 ||healthys09.top^
 ||heap-api.com^
 ||heap.drop.com^
@@ -94418,6 +94430,7 @@ zzzyk.com###Tinfo
 ||hermes-api.net.mydays.de^
 ||hermes.igengmei.com^
 ||hermichermicgenerationhers.com^
+||hermoclarifytrips.qpon^
 ||hero.easy-tlush.co.il^
 ||hero.shakedmetal.co.il^
 ||hero.shapero.com^
@@ -95488,6 +95501,7 @@ zzzyk.com###Tinfo
 ||hlagkl.vinatis.com^
 ||hlalliances.com^
 ||hlamdeotboiz.com^
+||hlaukhywawaqi.site^
 ||hlbbn6ii.icu^
 ||hlbgo.business-class.com^
 ||hlbitfukldzbrk.com^
@@ -97231,6 +97245,7 @@ zzzyk.com###Tinfo
 ||humiliatingparking.com^
 ||humiliatingregion.com^
 ||huminfakt.ru^
+||humiriabiallyl.cyou^
 ||hummerleaked.cyou^
 ||hummingbird.mavencoalition.io^
 ||hummingexam.com^
@@ -109854,6 +109869,7 @@ zzzyk.com###Tinfo
 ||kjsdfnjkenki.media4u.pl^
 ||kjsdhefw.luzernehasselt.be^
 ||kjsjk.thealternativedaily.com^
+||kjsqgprasylcw.website^
 ||kjsrd.southernbakedpie.com^
 ||kjstorage.360buyimg.com^
 ||kjtcpz.jinnykimcollection.co.kr^
@@ -113357,6 +113373,7 @@ zzzyk.com###Tinfo
 ||leurg.ritualzeroproof.com^
 ||levaochbo.compricer.se^
 ||levcnsjalratsv.com^
+||leveelikens.qpon^
 ||leveesredupl.com^
 ||level.18huhu.com^
 ||level.badlandgame.com^
@@ -134548,6 +134565,7 @@ zzzyk.com###Tinfo
 ||mobileoffers-dld-download.com^
 ||mobilerevenu.com^
 ||mobileservice.cn^
+||mobileslakin.shop^
 ||mobileso.bz.mgtv.com^
 ||mobiletelemetry.ebay.com^
 ||mobiletest.aspensnowmass.com^
@@ -142238,6 +142256,7 @@ zzzyk.com###Tinfo
 ||obvioushome.com^
 ||obvioussecretive.com^
 ||obviousstupid.pro^
+||obvolojzmblcf.online^
 ||obvvk.diyanu.com^
 ||obwaopxfnxfdw.space^
 ||obwguczcik.com^
@@ -146657,6 +146676,7 @@ zzzyk.com###Tinfo
 ||pagfl.karismahotels.com^
 ||paginaseloqua.unisabana.edu.co^
 ||paginastelmex.goasrv.com^
+||pagingsanjaks.cfd^
 ||pagkitahn.com^
 ||pagoda56.com^
 ||pagorwzigarf.in^
@@ -150996,6 +151016,7 @@ zzzyk.com###Tinfo
 ||podefr2.net^
 ||poder.cloud^
 ||podialstates.cfd^
+||poditessinian.cfd^
 ||podname.com^
 ||podosupsurge.com^
 ||podph.mielleorganics.com^
@@ -153617,6 +153638,7 @@ zzzyk.com###Tinfo
 ||pukri.climit.com^
 ||puksjalhf.com^
 ||pukubesmile.shop^
+||pulahanconuses.cyou^
 ||pulayamosque.cfd^
 ||puldhukelpmet.com^
 ||pulexwakanda.cfd^
@@ -155024,6 +155046,7 @@ zzzyk.com###Tinfo
 ||qeqyswhipqrgu.space^
 ||qeqzktzwzqcyh.space^
 ||qerelink.qpon^
+||qerichicote.qpon^
 ||qernnbahzjdjf.online^
 ||qerpks.rollei.de^
 ||qerusgreyt.com^
@@ -155414,6 +155437,7 @@ zzzyk.com###Tinfo
 ||qiqiyii.com^
 ||qiqpiptj.com^
 ||qirbtkfgqdaug.website^
+||qirgzaosm.in^
 ||qirloith.com^
 ||qirluszpy.in^
 ||qirqritp.com^
@@ -158305,6 +158329,7 @@ zzzyk.com###Tinfo
 ||rec2000.at.ua^
 ||recanedxylonic.cyou^
 ||recantkeynotecrane.com^
+||recapscasino.cfd^
 ||recapture.io^
 ||recartmuleys.qpon^
 ||recastwilsomeleaves.cyou^
@@ -160109,6 +160134,7 @@ zzzyk.com###Tinfo
 ||rhighest.cfd^
 ||rhihi.weretheguys.com^
 ||rhinaglauke.cyou^
+||rhinalbrevity.shop^
 ||rhinfyfqtvift.site^
 ||rhino.whitewaterfish.com^
 ||rhinoaffiliates.com^
@@ -165580,6 +165606,7 @@ zzzyk.com###Tinfo
 ||satarget.npubank.com.au^
 ||satarget.southaustralia.com^
 ||satchelgeomysglumal.cfd^
+||satedoting.cfd^
 ||satellitefetidtelegraph.com^
 ||satephooeynab.com^
 ||satgt.grafana.com^
@@ -176999,6 +177026,7 @@ zzzyk.com###Tinfo
 ||skeletonbanal.com^
 ||skeletonlibrarian.com^
 ||skelpeppier.cyou^
+||skempgiterne.cfd^
 ||skeojagroup.help^
 ||skepsgirnal.qpon^
 ||sketbhang.guru^
@@ -184103,6 +184131,7 @@ zzzyk.com###Tinfo
 ||splicebook.com^
 ||spliceclub.com^
 ||splicky.com^
+||splintoutsize.qpon^
 ||splintpunkas.cfd^
 ||splitbee.io^
 ||splitexpenses.oworld.fr^
@@ -220791,6 +220820,7 @@ zzzyk.com###Tinfo
 ||unldositxpei.com^
 ||unleash.livepix.gg^
 ||unleashtuneafter.com^
+||unleavemudroom.cfd^
 ||unlessprovidence.com^
 ||unlesssecret.com^
 ||unlimitedbarbpuzzlement.com^
@@ -226697,6 +226727,7 @@ zzzyk.com###Tinfo
 ||vsfgd.searchatlas.com^
 ||vsfius.aranzulla.it^
 ||vsfswhpnyjnbv.space^
+||vsftuxqhmhuax.space^
 ||vsgallery.com^
 ||vsgwsk.bergzeit.at^
 ||vsheying.top^
@@ -231197,6 +231228,7 @@ zzzyk.com###Tinfo
 ||woegxq.com^
 ||wof.hnltcw.com^
 ||wof.matchkj.com^
+||wofdhlndeogsp.space^
 ||wofjhs.com^
 ||wofuksvmcldep.website^
 ||wofuktbwhqskm.net^
@@ -237461,6 +237493,7 @@ zzzyk.com###Tinfo
 ||yamenogres.shop^
 ||yami8alea.com^
 ||yamlgv.cinziarocca.com^
+||yamplinins.cfd^
 ||yamscharnel.com^
 ||yan.zhouguanchen.com^
 ||yan07.xyz^
@@ -240325,6 +240358,7 @@ zzzyk.com###Tinfo
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
 ||z2z7.ag8.com^
+||z35q4llb83puht2ypoekp32jhok4bt6z.rest^
 ||z3617cz9ep.fitness.tappbrothers.com^
 ||z37.web.core.brandnewapp.pro^
 ||z371.chicoer.com^
