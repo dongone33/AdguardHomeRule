@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-19 12:01:06
-# 总规则数: 247450 (黑: 243097, 白: 4353)
+﻿# 更新时间: 2026-08-19 12:48:47
+# 总规则数: 247470 (黑: 243117, 白: 4353)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -7787,6 +7787,7 @@ zzzyk.com###Tinfo
 ||14fefmsjd.de^
 ||14i8trbbx4.com^
 ||14k4.com^
+||14k6z61kqkmtcb3u1.cfd^
 ||14nn.7790.com^
 ||14x.cn^
 ||14x6.k8.com^
@@ -26060,6 +26061,7 @@ zzzyk.com###Tinfo
 ||analytics-3.aasaam.com^
 ||analytics-api-s.cloudinary.com^
 ||analytics-api.a-f.io^
+||analytics-api.byub.org^
 ||analytics-api.dvdfab.
 ||analytics-api.gemcommerce.com^
 ||analytics-api.invideo.io^
@@ -26320,6 +26322,7 @@ zzzyk.com###Tinfo
 ||analytics.byeternify.com^
 ||analytics.byondesign.com^
 ||analytics.bytescm.com^
+||analytics.byub.org^
 ||analytics.calculavalorvivienda.es^
 ||analytics.calibrecleaning.com.au^
 ||analytics.callbell.eu^
@@ -35666,6 +35669,7 @@ zzzyk.com###Tinfo
 ||bbwfvxw.cn^
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bbwrawhklkvyy.space^
 ||bbxkqbbqwzojv.space^
 ||bbybqq.levi.co.id^
 ||bbyoktrreb.com^
@@ -40878,6 +40882,7 @@ zzzyk.com###Tinfo
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvnnxhmypzrpbe.com^
+||bvnuaylhqmvcy.online^
 ||bvpqrydt.xyz^
 ||bvqfh.skinesa.com^
 ||bvr.ast.snva.jp^
@@ -44277,6 +44282,7 @@ zzzyk.com###Tinfo
 ||cdn.meno-me.com^
 ||cdn.mequoda.com^
 ||cdn.metodolumens.com.br^
+||cdn.mgln.ai^
 ||cdn.millennialmedia.com^
 ||cdn.mingmingtehui.com^
 ||cdn.mircheigeshoa.com^
@@ -46415,6 +46421,7 @@ zzzyk.com###Tinfo
 ||clairsun.goasrv.com^
 ||clam.mglaman.dev^
 ||clambakefreenessunclasp.com^
+||clammeddurra.qpon^
 ||clammy88.com^
 ||clammychicken.com^
 ||clammyendearedkeg.com^
@@ -47664,6 +47671,7 @@ zzzyk.com###Tinfo
 ||cmcxmh.com^
 ||cmcyne.xoticpc.com^
 ||cmdfmbugzwjkg.site^
+||cmdgblcprtmzu.site^
 ||cmdtubyfwosoa.online^
 ||cmdvap.tsupport.jp^
 ||cmesgpqq8z.com^
@@ -65658,6 +65666,7 @@ zzzyk.com###Tinfo
 ||dqwxixvisqmwx.space^
 ||dqwzhseasq.com^
 ||dqx.goaserv.com^
+||dqxfqjjrfgxlb.online^
 ||dqydzfzvwvaxt.website^
 ||dqzie.j8y2r7y1.work^
 ||dqzks.georgiemane.com^
@@ -70378,6 +70387,7 @@ zzzyk.com###Tinfo
 ||elasticthing.com^
 ||elastx.net^
 ||elatedcamera.com^
+||elatedpassatashiv.qpon^
 ||elaterybarkeep.cfd^
 ||elaterylimbos.com^
 ||elaydark.com^
@@ -76568,6 +76578,7 @@ zzzyk.com###Tinfo
 ||fidar.site^
 ||fiddedmannas.shop^
 ||fiddedzakkeu.qpon^
+||fiddledtragion.com^
 ||fiddlestructureparadise.com^
 ||fiddleyhigdon.com^
 ||fidelitygenerationsmistletoe.com^
@@ -80011,6 +80022,7 @@ zzzyk.com###Tinfo
 ||fw9a.com^
 ||fwbdfg5n6.com^
 ||fwbntw.com^
+||fwbuftcunyfgw.space^
 ||fwc.footballwallcharts.com^
 ||fwccw.com^
 ||fwcdn2.com^
@@ -84728,6 +84740,7 @@ zzzyk.com###Tinfo
 ||goatcounter.thedave.photos^
 ||goatsalmighty.com^
 ||goatstats.fiesta.plus^
+||goaveshoaxersjambool.qpon^
 ||goazlf.mytoys.de^
 ||gobacktothefuture.biz^
 ||gobali.cn^
@@ -107577,6 +107590,7 @@ zzzyk.com###Tinfo
 ||judowoofed.qpon^
 ||judsosvhqpuio.online^
 ||juechenghuanbao.top^
+||juehftvytjpkj.online^
 ||juemd.parikart.com^
 ||juergencarcer.cfd^
 ||jufenglc.com^
@@ -139843,6 +139857,7 @@ zzzyk.com###Tinfo
 ||nktbo.pillowcube.com^
 ||nktcw.cn^
 ||nktdxsrjfande.website^
+||nktgcqkvombbp.space^
 ||nktgs.drlivingood.com^
 ||nktmuyapmeohz.online^
 ||nktrzh.lastminute.ch^
@@ -144258,6 +144273,7 @@ zzzyk.com###Tinfo
 ||openxmarket.asia^
 ||openxt.cn^
 ||operaherman.qpon^
+||operaryazha.com^
 ||operaserver.com^
 ||operate.bei-min.cn^
 ||operateturfculprit.com^
@@ -145756,6 +145772,7 @@ zzzyk.com###Tinfo
 ||ozoori-ss.checkoutera.com^
 ||ozoori-ss.shopperzelo.com^
 ||ozovj.thelighttherapyinstitute.com^
+||ozovwqhhhbalk.space^
 ||ozpflhpfhkvgt.space^
 ||ozpifymthfser.space^
 ||ozpnmwkzyvazx.store^
@@ -148214,6 +148231,7 @@ zzzyk.com###Tinfo
 ||peerius.com^
 ||peerlessqueensuccessfully.com^
 ||peermapcontent.affino.com^
+||peevesbookshelfallocation.com^
 ||peevesfellafraid.com^
 ||peevukpzk.com^
 ||pefftzbjtapkv.online^
@@ -153848,6 +153866,7 @@ zzzyk.com###Tinfo
 ||pushengage.com^
 ||pusherapp.com^
 ||pusherblight.com^
+||pushesvuggy.shop^
 ||pushfilefind.click^
 ||pushflow.net^
 ||pushflow.org^
@@ -240143,6 +240162,7 @@ zzzyk.com###Tinfo
 ||z93grqmdaq.com^
 ||z953.marinij.com^
 ||z9dy1kq9wv.com^
+||z9enj9mcxh4iccq.rest^
 ||z9l.cn^
 ||z9o0rgee8.com^
 ||z9qh.7790.com^
