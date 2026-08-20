@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-20 22:02:49
-# 总规则数: 246829 (黑: 242473, 白: 4356)
+﻿# 更新时间: 2026-08-20 22:51:13
+# 总规则数: 246858 (黑: 242502, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -32485,6 +32485,7 @@ zzzyk.com###Tinfo
 ||assedatchasteruprip.cyou^
 ||assembleservers.com^
 ||assemblyexchange.com^
+||assentritsu.cyou^
 ||assertedclosureseaman.com^
 ||assessoriagmv.com^
 ||asset-protection-pages.protective.com^
@@ -36271,6 +36272,7 @@ zzzyk.com###Tinfo
 ||beeho.site^
 ||beeishidcue.cyou^
 ||beeketing.com^
+||beektight.cfd^
 ||beeline.beeline-tire.co.jp^
 ||beelinecolor.com^
 ||beelinehindu.com^
@@ -45711,6 +45713,7 @@ zzzyk.com###Tinfo
 ||chivalrouscalmlymexican.com^
 ||chivalrouscord.com^
 ||chivwtusseh.com^
+||chiwoevhviyty.site^
 ||chixingkeji.com^
 ||chjlg.safishing.com^
 ||chjoua.badblood.co.kr^
@@ -46070,6 +46073,7 @@ zzzyk.com###Tinfo
 ||citerviperan.shop^
 ||citharamiring.shop^
 ||citi-vietnam.com^
+||citingsnugly.com^
 ||citiservi.es^
 ||citivay.org^
 ||citizenagreementacting.com^
@@ -61919,6 +61923,7 @@ zzzyk.com###Tinfo
 ||dejectedineptvary.com^
 ||dejing.laobanfa.com^
 ||dejpog.sunstar-shop.jp^
+||dekaresdosing.cyou^
 ||dekbi.elevatedhealth.com^
 ||dekkopinolin.com^
 ||dekkosteedthurgi.cyou^
@@ -62267,6 +62272,7 @@ zzzyk.com###Tinfo
 ||desvendado.leiloesbr.com.br^
 ||desvendado.mayraakemi.com.br^
 ||desvendado.militarpatriota.com.br^
+||desvfcxalwvhf.space^
 ||detachedauraencircle.com^
 ||detachedbates.com^
 ||detachmentcancelsuspicion.com^
@@ -66556,6 +66562,7 @@ zzzyk.com###Tinfo
 ||dtcqowyzyqjw.com^
 ||dtdjhb.icu^
 ||dtdvmuadong-lienquan.com^
+||dteaam.com^
 ||dtent.povvverz.one^
 ||dterm.quickmeds.co.uk^
 ||dtestpromo.fiat.it^
@@ -78447,6 +78454,7 @@ zzzyk.com###Tinfo
 ||fourpawsahead.com^
 ||foursdibutyl.cyou^
 ||foursixty.com^
+||fourspincers.qpon^
 ||fourteenglitteringbreath.com^
 ||fourthcheesy.com^
 ||fourthinvestigation.com^
@@ -83415,6 +83423,7 @@ zzzyk.com###Tinfo
 ||glugherg.net^
 ||glum-homework.pro^
 ||glum-mortgage.com^
+||glumeseyrir.cfd^
 ||glumesfracted.cyou^
 ||glummydactyli.qpon^
 ||glumoussallooclokies.cyou^
@@ -99249,6 +99258,7 @@ zzzyk.com###Tinfo
 ||imagebuffer.com^
 ||imagecloub.com^
 ||imagecutie.com^
+||imagedabasias.cfd^
 ||imagefiles-backup.oss-ap-southeast-7.aliyuncs.com^
 ||imagehost.pics^
 ||imagehub.fun^
@@ -102020,6 +102030,7 @@ zzzyk.com###Tinfo
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
 ||ingest.metzler-electronics.com^
+||ingest.promptwatch.com^
 ||ingest.sentry^
 ||ingest.skarb.work^
 ||ingest.webcol.sdp.peacocktv.com^
@@ -102465,6 +102476,7 @@ zzzyk.com###Tinfo
 ||insignificant-foot.com^
 ||insipidsenorbaw.cyou^
 ||insistent-worker.com^
+||insistslive.qpon^
 ||insitemetrics.com^
 ||insitepromotion.com^
 ||insitez.blob.core.windows.net^
@@ -104672,6 +104684,7 @@ zzzyk.com###Tinfo
 ||jaqvwdzjuhebs.site^
 ||jar.rajnasion.pl^
 ||jar.rajogrodnika.pl^
+||jarehzfflvcsa.website^
 ||jargonthugconfessed.com^
 ||jarldirkmatie.cyou^
 ||jarsneakymoisture.com^
@@ -129067,6 +129080,7 @@ zzzyk.com###Tinfo
 ||mediumdirt.com^
 ||mediumpimpin.com^
 ||mediwebinars.com^
+||medizecalceus.qpon^
 ||medlemskap.nof.no^
 ||medleyads.com^
 ||medproad.com^
@@ -146441,6 +146455,7 @@ zzzyk.com###Tinfo
 ||parched-mail.com^
 ||parchedplay.com^
 ||parchedsofa.com^
+||pardalretierlouther.qpon^
 ||pardeehabits.com^
 ||pardko.pricerunner.com^
 ||pardompus.ru^
@@ -147884,6 +147899,7 @@ zzzyk.com###Tinfo
 ||pellockcetacea.qpon^
 ||pelonhoppledmists.cfd^
 ||peltmalecheering.com^
+||peltryrecurl.cyou^
 ||pelu.yiguspeluqueria.com^
 ||pelvt.clearchoice.com^
 ||pema.cl^
@@ -159720,6 +159736,7 @@ zzzyk.com###Tinfo
 ||rihhfqeqwimni.website^
 ||rihiv.lumindrops.co^
 ||rihurxgrxghfh.online^
+||rijayuafvocek.site^
 ||rik11.fun^
 ||rikip.com^
 ||rikishatasajo.qpon^
@@ -162113,6 +162130,7 @@ zzzyk.com###Tinfo
 ||rwfqrjucxebbo.online^
 ||rwglmbgecjkom.space^
 ||rwhdta.bigsizeclub.co.kr^
+||rwhhbbphligft.site^
 ||rwhneg.breaking-news.jp^
 ||rwhxz.space^
 ||rwj3.880.net^
@@ -174170,6 +174188,7 @@ zzzyk.com###Tinfo
 ||sh996.dftoutiao.com^
 ||sha50.com^
 ||shabbatglomera.cyou^
+||shabby-original.pro^
 ||shachledumbest.shop^
 ||shachyo.polligoods.com^
 ||shackapple.com^
@@ -174392,6 +174411,7 @@ zzzyk.com###Tinfo
 ||sharedbilkcli.qpon^
 ||sharedcount.com^
 ||sharedev.passportpower.app^
+||sharedlogion.cyou^
 ||sharedswap.com^
 ||sharefb.cnnd.vn^
 ||shareinstall.com.cn^
@@ -176134,6 +176154,7 @@ zzzyk.com###Tinfo
 ||sitstandwalk.com^
 ||sitti.co.id^
 ||situateddivine.com^
+||situatepariet.qpon^
 ||situationsparkler.com^
 ||situduiacvaek.site^
 ||situratite.com^
@@ -201147,6 +201168,7 @@ zzzyk.com###Tinfo
 ||suddlelbinit.com^
 ||sudmf.bigblanket.com^
 ||sudon.afefw.com^
+||sudorcoper.shop^
 ||sudsesusuarycoman.qpon^
 ||sudupan.com^
 ||suedai.com^
@@ -206742,6 +206764,7 @@ zzzyk.com###Tinfo
 ||tellvisual.com^
 ||tellynativescalumny.com^
 ||tellystick-ss.checkoutera.com^
+||telomegully.cyou^
 ||telphiruq.com^
 ||telsoncirrus.cfd^
 ||telstra.imrworldwide.com^
@@ -208030,6 +208053,7 @@ zzzyk.com###Tinfo
 ||tienve247.com^
 ||tienvenhanhvtb.com^
 ||tiepishihu.hk^
+||tiercedtargingphasm.cyou^
 ||tiercedthae.com^
 ||tiesprosos.qpon^
 ||tieszhu.com^
@@ -219938,6 +219962,7 @@ zzzyk.com###Tinfo
 ||unhold.ldgjhd.net^
 ||unholdgink.qpon^
 ||unhonedbarbels.shop^
+||unhonednorbert.cfd^
 ||unhonedpeinedconteck.qpon^
 ||unhoodsgamine.cyou^
 ||unhoodsgluily.cyou^
@@ -220103,6 +220128,7 @@ zzzyk.com###Tinfo
 ||unleavemudroom.cfd^
 ||unlessprovidence.com^
 ||unlesssecret.com^
+||unlevelathel.qpon^
 ||unlimitedbarbpuzzlement.com^
 ||unlimitedskil.blog.goaserv.com^
 ||unlimitedteacup.com^
@@ -220168,6 +220194,7 @@ zzzyk.com###Tinfo
 ||unpoiseshoves.shop^
 ||unpracticalwhich.org^
 ||unproudcneorum.qpon^
+||unpsymaqywtvf.site^
 ||unputexorate.cyou^
 ||unpw0czu7.com^
 ||unqsnzyrsdkuz.website^
@@ -229326,6 +229353,7 @@ zzzyk.com###Tinfo
 ||wheswl.isaleti.com^
 ||whetteddawkin.cfd^
 ||whewhikrokartou.net^
+||whewlwattape.cfd^
 ||wheybkethenic.qpon^
 ||wheyeymesial.cfd^
 ||whfambxpjlyos.online^
@@ -230474,6 +230502,7 @@ zzzyk.com###Tinfo
 ||wolf.novel.io^
 ||wolf.samarasousa.com^
 ||wolfeighteen.com^
+||wolgjnvnuewsf.online^
 ||wolist.ru^
 ||wollycanoing.com^
 ||wolsretet.net^
