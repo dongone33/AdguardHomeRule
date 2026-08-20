@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-20 21:12:00
-# 白名单规则数: 4355
+﻿# 更新时间: 2026-08-20 22:02:49
+# 白名单规则数: 4356
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -1092,6 +1092,7 @@
 @@||cm.bilibili.com^
 @@||cmechina.net^$genericblock
 @@||cmp.inmobi.com^
+@@||cmp.osano.com^
 @@||cms-assets.unrealengine.com^
 @@||cms-bucket.ws.126.net^
 @@||cms.myapp.com^
