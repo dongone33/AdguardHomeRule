@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-21 03:52:58
-# 总规则数: 239445 (黑: 235090, 白: 4355)
+﻿# 更新时间: 2026-08-21 04:18:54
+# 总规则数: 239463 (黑: 235108, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -10195,6 +10195,7 @@ zzzyk.com###Tinfo
 ||3cd03be731.com^
 ||3cd1290174.3d6a6c3707.com^
 ||3ckz.com^
+||3cpk9ptqbugrxl9ohyyzn.rest^
 ||3csa1grj0ve9.wusuoxmhjas.nbybgy.com.eo.dnse3.com^
 ||3d358eca33.com^
 ||3d55skasln2.gwbtb.cn^
@@ -33999,6 +34000,7 @@ zzzyk.com###Tinfo
 ||bannera.kingsoft-office-service.com^
 ||banneradder.se^
 ||banneradsday.com^
+||bannerave.com^
 ||bannerbank.ru^
 ||bannerboo.com^
 ||bannerbook.ru^
@@ -37607,6 +37609,7 @@ zzzyk.com###Tinfo
 ||bonuspis.com^
 ||bonwtunwgboos.online^
 ||bonxbtlkitmt.com^
+||bony-award.pro^
 ||bonyspecialist.pro^
 ||bonzai.co^
 ||bonzermixupclaxons.cyou^
@@ -46400,6 +46403,7 @@ zzzyk.com###Tinfo
 ||co8386c3.eulerian.io^
 ||co85264.com^
 ||co932.coloradopolitics.com^
+||coalawenchowbehight.qpon^
 ||coalbuffalo.com^
 ||coalitionconcessionbecause.com^
 ||coalkitchen.com^
@@ -64789,6 +64793,7 @@ zzzyk.com###Tinfo
 ||dumpster.cam4.com^
 ||dun.163*
 ||duncanknopper.cfd^
+||duncesonmarchguaka.cyou^
 ||duncherrants.shop^
 ||dunderaffiliates.com^
 ||duneenwinds.qpon^
@@ -80541,6 +80546,7 @@ zzzyk.com###Tinfo
 ||giwl0p3gx7.com^
 ||giwmicgil.com^
 ||gixiluros.com^
+||gixjzqpesgmde.website^
 ||gixmo.dk^
 ||gixto.xyz^
 ||gizgyjlxqmokh.online^
@@ -100839,6 +100845,7 @@ zzzyk.com###Tinfo
 ||ivegss.autotrack.nl^
 ||ivencq.nike.com.hk^
 ||ivesd.nl^
+||ivfhmlsqsijtc.website^
 ||ivfzv.getneuromd.com^
 ||ivginofdrspo.com^
 ||ivgl.czyiming.club^
@@ -102425,6 +102432,7 @@ zzzyk.com###Tinfo
 ||jj40z.amacx.fr^
 ||jj40z.amacx.nl^
 ||jj5zwmzcze.com^
+||jjabijzelcsbp.online^
 ||jjade.xyz^
 ||jjb168.net^
 ||jjbpuofujalna.site^
@@ -140002,6 +140010,7 @@ zzzyk.com###Tinfo
 ||ospariessolkaws.com^
 ||ospartners.xyz^
 ||ospkmjsxvihyi.space^
+||ospowqxfyhho.in^
 ||ospreymedialp.com^
 ||osr.pingan.com^
 ||osrrltw.cn^
@@ -150516,6 +150525,7 @@ zzzyk.com###Tinfo
 ||qprskl.com^
 ||qps.000aaap2023.com^
 ||qpsbd.lksneakers.com.br^
+||qpscgpmcrakpd.site^
 ||qpt.qp54695.cc^
 ||qpt.qp627835.cc^
 ||qptfdtjasvzmb.site^
@@ -154532,6 +154542,7 @@ zzzyk.com###Tinfo
 ||rhlctb.jjkeller.com^
 ||rhlxm.top^
 ||rhmlmntx-gruimsvntc.cn-shanghai.fcapp.run^
+||rhmqfekypljys.site^
 ||rhmt1jjyo.com^
 ||rhnoikbhtktjx.space^
 ||rhnrzqbydtuxc.space^
@@ -209744,6 +209755,7 @@ zzzyk.com###Tinfo
 ||trektinyreproduce.com^
 ||trelleborg.tecs1.com^
 ||trellian.com^
+||trellisidiom.qpon^
 ||tremblesyringeillusive.com^
 ||tremendous-breast.pro^
 ||tremendous-hook.pro^
@@ -211803,6 +211815,7 @@ zzzyk.com###Tinfo
 ||tvjjo.pretavoir.co.uk^
 ||tvkfms.nta.co.jp^
 ||tvkfxtoydfqtf.online^
+||tvkygzrsdfycp.space^
 ||tvlhgokjy.com^
 ||tvlmzx.icu^
 ||tvloord.shop^
@@ -220436,6 +220449,7 @@ zzzyk.com###Tinfo
 ||vympzhnxgoweg.store^
 ||vymybkyrzvwky.top^
 ||vynvpkurjcsef.online^
+||vyomkbkvmryrw.top^
 ||vypddqizgpkpo.store^
 ||vypfw.gyxbw.cn^
 ||vyplzy.job-medley.com^
@@ -223672,6 +223686,7 @@ zzzyk.com###Tinfo
 ||wispycity.com^
 ||wispyflane.shop^
 ||wissekeygroup.com^
+||wisseltamber.cfd^
 ||wissen.mikekolbe.de^
 ||wissen.sage.de^
 ||wisteinsight.com^
@@ -229384,6 +229399,7 @@ zzzyk.com###Tinfo
 ||xwm5f.cc^
 ||xwnfmfvkxzbti.site^
 ||xwoeoc.rietveldlicht.be^
+||xwpjrdbaijfwz.online^
 ||xwpoxv.birdies.com^
 ||xwpzlz.gemimarket.it^
 ||xwqpzh.you-up.com^
@@ -230578,6 +230594,7 @@ zzzyk.com###Tinfo
 ||yhgyog.elephantstock.com^
 ||yhhkrndlxhksx.online^
 ||yhhnjg.com^
+||yhhqalanfrdyo.space^
 ||yhhuzt.gintarine.lt^
 ||yhigae.junyu-fuku.com^
 ||yhiotiihvrrlg.space^
@@ -230737,6 +230754,7 @@ zzzyk.com###Tinfo
 ||yiookflg.3rdplanetguide.com^
 ||yiookflg.3rdplanetproducts.com^
 ||yiookflg.celebratorofficial.com^
+||yiopsuqcfjayh.com^
 ||yip.su^
 ||yipesalgarde.shop^
 ||yipnhryqyfelw.space^
