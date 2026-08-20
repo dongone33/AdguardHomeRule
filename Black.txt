@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-21 00:00:00
-# 总规则数: 246858 (黑: 242502, 白: 4356)
+﻿# 更新时间: 2026-08-21 00:44:12
+# 总规则数: 246871 (黑: 242516, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -11928,6 +11928,7 @@ zzzyk.com###Tinfo
 ||5e1fcb75b6d662d.com^
 ||5e1jng5u4lfi5i9qqi.rest^
 ||5e2hf0q3a.com^
+||5e3b98515a.com^
 ||5e56217cd5.396d8aaa17.com^
 ||5e8gvz6c7.g2u9g28vywgnl8.cfd^
 ||5ea0bc8c-dnsotls-ds.metric.gstatic.com^
@@ -23975,7 +23976,6 @@ zzzyk.com###Tinfo
 ||agonizebegorra.cfd^
 ||agonizing-initiative.pro^
 ||agonizingrest.com^
-||agonizingrest.comwww.agonizingrest.com^
 ||agonyshark.com^
 ||agoodm.m.taobao.com^
 ||agoqaa.stockmann.com^
@@ -53078,6 +53078,7 @@ zzzyk.com###Tinfo
 ||cysclatowtdxq.website^
 ||cysd.7kww.net^
 ||cysodwprdoejs.online^
+||cysrqxsrmxtha.website^
 ||cytcm.com^
 ||cyto-biotherapy.com^
 ||cytron.videojj.com^
@@ -62291,6 +62292,7 @@ zzzyk.com###Tinfo
 ||details.pella.com^
 ||detailsinspiration-data.com^
 ||detallefacturas.go-static.info^
+||detarkepisworsle.cyou^
 ||detect.hismarttv.com^
 ||detect.mb.qq.com^
 ||detectbravecomfy.com^
@@ -67259,6 +67261,7 @@ zzzyk.com###Tinfo
 ||dwkfdahogaipo.website^
 ||dwkgpxohcasvp.site^
 ||dwkm.cl.app^
+||dwlladiupirrc.site^
 ||dwlr.880.net^
 ||dwlv.xyz^
 ||dwmz.marcaria.com^
@@ -68775,6 +68778,7 @@ zzzyk.com###Tinfo
 ||ebayshopnet.com^
 ||ebayu.top^
 ||ebb22.922-992.icu^
+||ebbingarsinesyardarm.cfd^
 ||ebbls.tryautumn.com^
 ||ebbscouture.cfd^
 ||ebc1.capifrance.fr^
@@ -105628,6 +105632,7 @@ zzzyk.com###Tinfo
 ||jimg.jisuoping.com^
 ||jimhloyoiczgn.space^
 ||jimjampatted.com^
+||jimsonamabel.cfd^
 ||jimu.zhema1688.com^
 ||jinair.nsc.jinair.com^
 ||jinair.sc.jinair.com^
@@ -107977,6 +107982,7 @@ zzzyk.com###Tinfo
 ||jzuivotw.com^
 ||jzuyfp8.cn^
 ||jzvcicdogwrku.online^
+||jzvhiqmmfyrlq.site^
 ||jzvln.famousfootwear.com^
 ||jzvsc.thermoworks.com^
 ||jzvtfmnpdikdw.website^
@@ -110223,6 +110229,7 @@ zzzyk.com###Tinfo
 ||kosanahtapwhm.site^
 ||kosher-expression.com^
 ||kosher-safety.com^
+||kosher-surprise.pro^
 ||kosibablo.ucoz.ua^
 ||kosjf.abbottlyon.com^
 ||kost.tv^
@@ -115373,6 +115380,7 @@ zzzyk.com###Tinfo
 ||llxtiaoz96.com^
 ||llxtiaoz97.com^
 ||llykjmzkqvvqy.top^
+||llykjmzrjvrmy.top^
 ||llyqy.top^
 ||llyvjs.com^
 ||llzd2.com^
@@ -139129,6 +139137,7 @@ zzzyk.com###Tinfo
 ||ni8.lafuma.com^
 ||ni87.com^
 ||ni8b5yobfth1eebp.cfd^
+||ni8py19ozhrz4n.rest^
 ||nia.nialaya.com^
 ||niagaraswails.com^
 ||niaideren.icu^
@@ -153076,6 +153085,7 @@ zzzyk.com###Tinfo
 ||pugvm.durangoboots.com^
 ||pugzutzi.com^
 ||puhtml.com^
+||puhvfc7n5t7gvf92t6vh.cfd^
 ||puhyjyf.com^
 ||puibjylihoygx.online^
 ||puinnjsexnlbo.space^
@@ -154410,6 +154420,7 @@ zzzyk.com###Tinfo
 ||qdmeifeng.cn^
 ||qdmil.com^
 ||qdmizarqbbyqv.online^
+||qdmjtjfnzuqsr.online^
 ||qdnxys.cotswoldco.com^
 ||qdolvc.bicicletapegas.ro^
 ||qdopportune.cn^
@@ -156860,6 +156871,7 @@ zzzyk.com###Tinfo
 ||radar.luanapradoadvocacia.com.br^
 ||radar.marinhoadvmg.com.br^
 ||radar.rodrigopradomentor.com.br^
+||radar.wizzo.media^
 ||radarconsultation.com^
 ||radarstats.com^
 ||radbafhuhq.in^
@@ -156942,6 +156954,7 @@ zzzyk.com###Tinfo
 ||raidfrightbritain.com^
 ||raidingsoftie.qpon^
 ||raidmedics.com^
+||railbowyers.cfd^
 ||railroadignorant.com^
 ||railwaygiraffe.com^
 ||railwayreason.com^
@@ -159554,6 +159567,7 @@ zzzyk.com###Tinfo
 ||rhnrzqbydtuxc.space^
 ||rhnsd.splendid.com^
 ||rhnwjjffbdcra.site^
+||rhnyglwshzaya.website^
 ||rho3ihhlouug529z8eneu.rest^
 ||rhobqhafjhhwl.store^
 ||rhoditepoudretstipule.cyou^
@@ -160834,6 +160848,7 @@ zzzyk.com###Tinfo
 ||rrtng.brickwar2.com^
 ||rrudwdjo.mrvig.com^
 ||rrvay.com^
+||rrvllvxqfobil.site^
 ||rrxddl.xyz^
 ||rrxgghh986.com^
 ||rrxldl.bol.de^
@@ -175180,6 +175195,7 @@ zzzyk.com###Tinfo
 ||shopmsuong.com^
 ||shopmsuong.net^
 ||shopmsuong.shop^
+||shopmy.us^
 ||shopmyshelf.us^
 ||shopnagaymeff.com^
 ||shopnamblue.com^
@@ -175873,7 +175889,6 @@ zzzyk.com###Tinfo
 ||simmeringsuitableunwoven.com^
 ||simon184.cn^
 ||simonsignal.com^
-||simonzody.com^
 ||simoondinge.shop^
 ||simpasa.cn^
 ||simpio.com^
@@ -184139,6 +184154,7 @@ zzzyk.com###Tinfo
 ||srgwxvm.cn^
 ||srhfdx.amerii.com^
 ||srhld.cloverdalefuneralhome.com^
+||srhmzkdwrasrb.online^
 ||srhuafeng.com^
 ||srhwazpvlyxua.online^
 ||srirambiles.cfd^
@@ -208055,6 +208071,7 @@ zzzyk.com###Tinfo
 ||tiepishihu.hk^
 ||tiercedtargingphasm.cyou^
 ||tiercedthae.com^
+||tiesbcgfsmpwe.space^
 ||tiesprosos.qpon^
 ||tieszhu.com^
 ||tieudung-nganhangvn.online^
@@ -218841,7 +218858,6 @@ zzzyk.com###Tinfo
 ||udc.msn.com^
 ||udc.yahoo.com^
 ||udcazzuy.k9at.co.uk^
-||udclum1.newday.goasrv.com^
 ||udcm.yahoo.com^
 ||udcnuidybiu.com^
 ||udd1i5.zhihu.com^
@@ -221092,6 +221108,7 @@ zzzyk.com###Tinfo
 ||userzoom.com^
 ||usesentry.com^
 ||usesfathom.com^
+||usesponsorarrange.com^
 ||usewmeukdgmnh.website^
 ||usfduc.com^
 ||usfstpete.goaserv.com^
@@ -227440,6 +227457,7 @@ zzzyk.com###Tinfo
 ||waterensignbelieving.com^
 ||waterfall33.com^
 ||waterfall90.top^
+||waterfallreluctant.com^
 ||waterfull01.top^
 ||waterlogged-boy.com^
 ||waterloggedkind.com^
@@ -231674,7 +231692,6 @@ zzzyk.com###Tinfo
 ||www.advlion.com^
 ||www.affiliate.logitravel.com^
 ||www.afmykaa.com^
-||www.agonizingrest.com^
 ||www.aitongji.vip^
 ||www.akasztofa.com^
 ||www.aldarcommunications.com^
@@ -231770,7 +231787,6 @@ zzzyk.com###Tinfo
 ||www.csicskalangos.com^
 ||www.csjplatform.com^
 ||www.csr31.net.anwalt.de^
-||www.cumbersomeassistance.com^
 ||www.d.bruhn-lohnbeschichtung.de^
 ||www.dahe6f.com^
 ||www.data.fanatic.com^
@@ -232024,6 +232040,7 @@ zzzyk.com###Tinfo
 ||www.mypornstarcams.com^
 ||www.nced.goasrv.com^
 ||www.net.kg^
+||www.neurobiology.goaserv.com^
 ||www.neuroc.go-static.info^
 ||www.newscatalanaoccidente.com^
 ||www.newsgrupocatalanaoccidente.com^
@@ -232031,7 +232048,6 @@ zzzyk.com###Tinfo
 ||www.newsplusultra.es^
 ||www.ngfhkglghgdjliwgh.online^
 ||www.nleljf.xyz^
-||www.normal-place.com^
 ||www.np6.eu^
 ||www.nugeo.goaserv.com^
 ||www.nx.socialhabitmarketing.com^
@@ -232073,8 +232089,6 @@ zzzyk.com###Tinfo
 ||www.ppslsa.com^
 ||www.praha.goaserv.com^
 ||www.preservenet.goaserv.com^
-||www.primary-confidence.com^
-||www.pristine-station.com^
 ||www.privfxkf9kgw4u.net.rewe.de^
 ||www.procarsharing.store^
 ||www.proenc.iq.goasrv.com^
@@ -232128,7 +232142,6 @@ zzzyk.com###Tinfo
 ||www.service.czdirect.nl^
 ||www.service.just.nl^
 ||www.servizitelevideo.goasrv.com^
-||www.several-load.com^
 ||www.sex.com^
 ||www.sfippa.com^
 ||www.sgp.goasrv.com^
@@ -238000,6 +238013,7 @@ zzzyk.com###Tinfo
 ||ympl9l9b.xyz^
 ||ymprove.gmx.net^
 ||ymprove.web.de^
+||ympzhpbzkurpz.website^
 ||ymqnky.bagaggio.com.br^
 ||ymrckx.damaon.co.kr^
 ||ymrghezhbhfie.website^
@@ -245369,7 +245383,6 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
