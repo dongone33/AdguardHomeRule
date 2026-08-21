@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-22 07:02:04
-# 总规则数: 247253 (黑: 242897, 白: 4356)
+﻿# 更新时间: 2026-08-22 07:34:55
+# 总规则数: 247273 (黑: 242917, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -39253,6 +39253,7 @@ zzzyk.com###Tinfo
 ||bownow.jp^
 ||bowo666.com^
 ||bowooaoydmbvo.site^
+||bowsguaka.cfd^
 ||bowshotnonego.shop^
 ||bowsiefaces.shop^
 ||bowwowsyrbk.qpon^
@@ -53044,6 +53045,7 @@ zzzyk.com###Tinfo
 ||cxrfns.gu-global.com^
 ||cxrjl.jeffreycampbellshoes.com^
 ||cxrlap.litoralulromanesc.ro^
+||cxrmx3ebk22r3fjz4qlpjh5x9r.rest^
 ||cxrptu.danland.dk^
 ||cxrvilfjtbwxy.store^
 ||cxs.mibaoge.com^
@@ -71405,6 +71407,7 @@ zzzyk.com###Tinfo
 ||emprimedisease.shop^
 ||emptinessabjure.com^
 ||emptionengraff.cfd^
+||emptorvacated.shop^
 ||empty-advantage.pro^
 ||emptyboats.com^
 ||emptyescort.com^
@@ -73823,6 +73826,7 @@ zzzyk.com###Tinfo
 ||everestjs.net^
 ||everestop.io^
 ||everesttech.net^
+||everettthereinpleuron.cyou^
 ||evergage.com^
 ||evergreen-room.com^
 ||evergreenagilezoo.com^
@@ -94913,6 +94917,7 @@ zzzyk.com###Tinfo
 ||hillghibli.shop^
 ||hillglamorous.com^
 ||hillierbandala.qpon^
+||hillsakra.com^
 ||hilltopads.com^
 ||hilltopads.net^
 ||hillvietnam.xyz^
@@ -109774,6 +109779,7 @@ zzzyk.com###Tinfo
 ||kkjshsj.com^
 ||kkjw.7790.com^
 ||kkkwxollzyvmm.online^
+||kkl5we875kxmlqp3.cfd^
 ||kkl696.fcy.eesd685s98d3s56.com^
 ||kklpe.xyz^
 ||kklq05121p0i.com^
@@ -111825,6 +111831,7 @@ zzzyk.com###Tinfo
 ||ladyvietnam.online^
 ||ladyye.site^
 ||laegg.colostrumguide.com^
+||laetkippers.shop^
 ||lafacw.xyz^
 ||laferia.cr^
 ||lafinancialsettlement.e.epiqnotification.com^
@@ -136143,6 +136150,7 @@ zzzyk.com###Tinfo
 ||mugcix.hessnatur.com^
 ||mugest.com^
 ||muggedregent.com^
+||muggpolys.com^
 ||mugilreshoes.cfd^
 ||mugkk.toynk.com^
 ||mugogfy.cn^
@@ -143705,6 +143713,7 @@ zzzyk.com###Tinfo
 ||oniqjeyyebgmv.online^
 ||onirybank.com^
 ||oniryidjetapo.online^
+||oniumunshift.cyou^
 ||oniyyrgezoanj.website^
 ||onjhecwdboxld.online^
 ||onjjbn.koffiemarkt.be^
@@ -147518,6 +147527,7 @@ zzzyk.com###Tinfo
 ||pathlime.com^
 ||pathshoneycombprimitive.com^
 ||pathtrck.website^
+||pathypoultry.cfd^
 ||patient15.top^
 ||patientconfusedperfectly.com^
 ||patienthercoldness.com^
@@ -148228,6 +148238,7 @@ zzzyk.com###Tinfo
 ||pepperjamnetwork.com^
 ||peppermintthorpeguess.com^
 ||pepperrun.com^
+||peppinisurus.cfd^
 ||peppy2lon1g1stalk.com^
 ||pepscarn.com^
 ||pepwpv.icu^
@@ -157428,6 +157439,7 @@ zzzyk.com###Tinfo
 ||ratel-ad.com^
 ||rateonclick.com^
 ||raterestrict.com^
+||rathedsaws.shop^
 ||rathodsoftware.in^
 ||rating-widget.com^
 ||rating.in^
@@ -176088,6 +176100,7 @@ zzzyk.com###Tinfo
 ||siliconslow.com^
 ||silimbompom.com^
 ||silk.lx.netease.com^
+||silkenfanny.cyou^
 ||silketoru.com^
 ||silkieawk.cyou^
 ||silklanguish.com^
@@ -183733,6 +183746,7 @@ zzzyk.com###Tinfo
 ||spigte.shopee.tw^
 ||spikcomarca.cyou^
 ||spike.email-disney.cjm.adobe.com^
+||spikertrepan.com^
 ||spikesandcurrant.com^
 ||spin83qr.com^
 ||spinachhypocrisy.com^
@@ -205482,6 +205496,7 @@ zzzyk.com###Tinfo
 ||tamiseshealth.cfd^
 ||tammagkh.in^
 ||tammenaa.com^
+||tampboddagh.shop^
 ||tampedennomic.shop^
 ||tampermonkey.net^
 ||tampionsley.com^
@@ -208080,6 +208095,7 @@ zzzyk.com###Tinfo
 ||thlkctdfqkewue.com^
 ||thm.montara.it^
 ||thnsyemjiwdvwg.com^
+||thofcodes.shop^
 ||thohd.shelf-co.com^
 ||thokishbahoo.cyou^
 ||tholor.com^
@@ -216027,6 +216043,7 @@ zzzyk.com###Tinfo
 ||trianthang12.com^
 ||trianvangthang12.com^
 ||triasidleful.cyou^
+||triazingoumi.cyou^
 ||tribalfusion.com^
 ||tribclipsdorts.cyou^
 ||tribl.io^
@@ -225816,6 +225833,7 @@ zzzyk.com###Tinfo
 ||vocalsure.com^
 ||vocateabaised.cyou^
 ||vocationbunk.com^
+||vocesplotch.shop^
 ||vocfhq.ilgiardinodeilibri.it^
 ||vocrojjwugeno.website^
 ||voctn.oipjuwe.com^
@@ -230208,6 +230226,7 @@ zzzyk.com###Tinfo
 ||windowylarvule.com^
 ||windriversfiles.imeitools.com^
 ||windscreenthomas.com^
+||windsorflavo.qpon^
 ||windsplay.com^
 ||windsurf-telemetry.codeium.com^
 ||windteam.xyz^
@@ -240688,6 +240707,7 @@ zzzyk.com###Tinfo
 ||zeziswrbpmhez.site^
 ||zezxeuydapept.site^
 ||zezyjywaaqzke.top^
+||zezyjywrvqrae.top^
 ||zf.347-xz.com^
 ||zf56jef1dd.com^
 ||zf678.com^
