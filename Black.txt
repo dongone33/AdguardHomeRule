@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-22 16:14:47
-# 总规则数: 247288 (黑: 242933, 白: 4355)
+﻿# 更新时间: 2026-08-22 16:54:55
+# 总规则数: 247287 (黑: 242932, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9225,6 +9225,7 @@ zzzyk.com###Tinfo
 ||2483may2024.com^
 ||2485may2024.com^
 ||2489may2024.com^
+||24902ceb80.03850de51d.com^
 ||2491may2024.com^
 ||2493may2024.com^
 ||2495may2024.com^
@@ -93143,7 +93144,6 @@ zzzyk.com###Tinfo
 ||handy-tab.com^
 ||handy.starmobile.de^
 ||handycam.alicdn.com^
-||handyfield.com^
 ||handyfireman.com^
 ||handyincrease.com^
 ||handymandeveloper.com^
@@ -232434,7 +232434,6 @@ zzzyk.com###Tinfo
 ||www.mypornstarcams.com^
 ||www.nced.goasrv.com^
 ||www.net.kg^
-||www.neurobiology.goaserv.com^
 ||www.neuroc.go-static.info^
 ||www.newscatalanaoccidente.com^
 ||www.newsgrupocatalanaoccidente.com^
