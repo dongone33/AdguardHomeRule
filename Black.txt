@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-22 09:46:12
-# 总规则数: 247222 (黑: 242867, 白: 4355)
+﻿# 更新时间: 2026-08-22 10:45:22
+# 总规则数: 247248 (黑: 242893, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -6743,6 +6743,7 @@ zzzyk.com###Tinfo
 ||0b6h.cn^
 ||0b6rvr210q.com^
 ||0b74655a28.com^
+||0b8b518f70.com^
 ||0b8c767b16.com^
 ||0bb8jytek.com^
 ||0bc.twqbdfff.top^
@@ -8887,6 +8888,7 @@ zzzyk.com###Tinfo
 ||206.119.122.31^
 ||206.119.122.32^
 ||206.54.181.250^
+||2069372430.com^
 ||206ads.com^
 ||206solutions.com^
 ||207.148.41.253^
@@ -23137,6 +23139,7 @@ zzzyk.com###Tinfo
 ||aeqfjsa.icu^
 ||aeqfuyc.com^
 ||aeqnvirziyfof.space^
+||aerariabeg.shop^
 ||aerc.fyxer.com^
 ||aercxy.com^
 ||aerezb.nepamall.com^
@@ -36360,6 +36363,7 @@ zzzyk.com###Tinfo
 ||begonaoidausek.com^
 ||begonia20.com^
 ||begony.xyz^
+||begorryarched.shop^
 ||begowkmoocha.cfd^
 ||begravesimula.cfd^
 ||begrimreplace.shop^
@@ -37937,6 +37941,7 @@ zzzyk.com###Tinfo
 ||bkad13gfu.com^
 ||bkam33lsr.com^
 ||bkappad.189.cn^
+||bkatroa.icu^
 ||bkbck.frugalkitchens.com^
 ||bkbctgjvawkyy.online^
 ||bkbhaestxgkor.online^
@@ -45370,6 +45375,7 @@ zzzyk.com###Tinfo
 ||charlotte-content.cresa.com^
 ||charlottemice.com^
 ||charltonmedia.com^
+||charmedstipel.cfd^
 ||charmingplate.com^
 ||charmingpoliteinjunction.com^
 ||charms.pugster.com^
@@ -50591,6 +50597,7 @@ zzzyk.com###Tinfo
 ||cougar.augmentedmindapp.com^
 ||cougar.wzulfikar.com^
 ||cougarsblaflum.shop^
+||coughergot.cfd^
 ||coukpvrioimecb.com^
 ||coull.com^
 ||couloirmatrass.com^
@@ -65945,6 +65952,7 @@ zzzyk.com###Tinfo
 ||druis.mytxt.cc^
 ||druki.go-static.info^
 ||drulilqe8wg66.cloudfront.net^
+||drumfills.com^
 ||drummyangliae.cfd^
 ||drumpriorityreseptivereseptive.com^
 ||drumsitoldfashioned.com^
@@ -70817,6 +70825,7 @@ zzzyk.com###Tinfo
 ||elsheminiapp.elcapp.cn^
 ||elsieawd.com^
 ||elsiehoney.com^
+||elsinpopish.shop^
 ||elsmom.xyz^
 ||elsynmlw.fun^
 ||eltdeh.top^
@@ -75438,6 +75447,7 @@ zzzyk.com###Tinfo
 ||favorite-mine.com^
 ||favourablequickdelve.com^
 ||favourite74.com^
+||favuscymric.cyou^
 ||favusraband.com^
 ||fawb62hh9.com^
 ||fawgsjeeidnjp.space^
@@ -79274,6 +79284,7 @@ zzzyk.com###Tinfo
 ||frilly-preference.pro^
 ||frillyheat.pro^
 ||frimambeerstecture.qpon^
+||fringeappallwedel.cfd^
 ||fringesplasherbatteau.cyou^
 ||frioencwksyur.website^
 ||frionene.xyz^
@@ -97958,6 +97969,7 @@ zzzyk.com###Tinfo
 ||i2i.jp^
 ||i2idata.com^
 ||i2iserv.com^
+||i2t1zp6t2v.com^
 ||i2wj211yk.com^
 ||i2ye9dnle.com^
 ||i3.letvimg.com^
@@ -107669,6 +107681,7 @@ zzzyk.com###Tinfo
 ||jurdv-urfcd-62.com^
 ||juren0.com^
 ||juris.pedroburak.com^
+||jurishammy.cyou^
 ||jurl.pw^
 ||jursp.com^
 ||jurty.ml^
@@ -112501,6 +112514,7 @@ zzzyk.com###Tinfo
 ||lcqcytea.panicframe.com^
 ||lcqvrhkd.com^
 ||lcr.kim^
+||lcrebbqmvlbtno.com^
 ||lcrft.comercialdelsol.com.do^
 ||lcrmm.top^
 ||lcs-cops.adobe.io^
@@ -120986,6 +121000,7 @@ zzzyk.com###Tinfo
 ||lodipq3zb.com^
 ||lodjo.electrifyexpo.com^
 ||lodlww.carcon.co.jp^
+||lodunbulky.shop^
 ||loe.ipvzdelavanie.sk^
 ||loen21.net^
 ||loessgov.qpon^
@@ -134897,6 +134912,7 @@ zzzyk.com###Tinfo
 ||mopaniideaed.com^
 ||mopbucket.laundrypoint.com.au^
 ||mopedisods.com^
+||mopeierrykes.qpon^
 ||mopinion.com^
 ||mopnativeadv.037201.com^
 ||mopnnetjyvlul.space^
@@ -136077,6 +136093,7 @@ zzzyk.com###Tinfo
 ||mucosaclicks.cyou^
 ||mucosaedonatesinhelde.cfd^
 ||mucquanly247.com^
+||mucusinchaa.cfd^
 ||mucvi-dientu247.com^
 ||mucvidientu24-7.com^
 ||mucvidientuvietnam247.com^
@@ -149944,6 +149961,7 @@ zzzyk.com###Tinfo
 ||placidperson.com^
 ||placulabizoniapedule.cyou^
 ||pladform.ru^
+||plagaerollers.qpon^
 ||plagaestilb.cyou^
 ||plaiceculeus.cyou^
 ||plaidtheelin.qpon^
@@ -157371,6 +157389,7 @@ zzzyk.com###Tinfo
 ||rashlyblowfly.com^
 ||rasoqrsgnkllo.com^
 ||raspconfirmationtroops.com^
+||rasperitylus.qpon^
 ||rasperspalter.cyou^
 ||raspfact.com^
 ||raspnd.quadratec.com^
@@ -161128,6 +161147,7 @@ zzzyk.com###Tinfo
 ||rsb.medichem.es^
 ||rsb.weonclub.com^
 ||rsbnhruphyuxn.site^
+||rsboxytywtdto.com^
 ||rsbvse.puregreen.pl^
 ||rsc.lepoint.fr^
 ||rscc3.cc^
@@ -164682,6 +164702,7 @@ zzzyk.com###Tinfo
 ||sambarunpaced.shop^
 ||sambasclip.cfd^
 ||samboc.com^
+||sambukgeronto.cfd^
 ||samc.buero-zueri.ch^
 ||samc.frankly.ch^
 ||samc.swisscanto.com^
@@ -165913,6 +165934,7 @@ zzzyk.com###Tinfo
 ||scout.bergfreunde.se^
 ||scout.us2.salesloft.com^
 ||scoutanalytics.net^
+||scoutdicing.shop^
 ||scoutedfeedbag.shop^
 ||scoutle.com^
 ||scovelmammoni.cyou^
@@ -183540,6 +183562,7 @@ zzzyk.com###Tinfo
 ||spatacquaint.com^
 ||spatlumyawyreputes.cyou^
 ||spatula91.com^
+||spatula93.top^
 ||spaung.cn^
 ||spaverunsolar.cfd^
 ||spavftgwy.com^
@@ -220507,6 +220530,7 @@ zzzyk.com###Tinfo
 ||unonaunpawn.cfd^
 ||unpackelasticlens.com^
 ||unpackstaleintended.com^
+||unpasteonanismmewing.qpon^
 ||unpavelamplet.cfd^
 ||unperchtairger.qpon^
 ||unpin.hothomefuck.com^
@@ -223749,6 +223773,7 @@ zzzyk.com###Tinfo
 ||vembti.whites.net^
 ||vemkfqly.com^
 ||ven.ventdel.no^
+||venaembeam.cfd^
 ||venator.link^
 ||venatusmedia.com^
 ||venber.cn^
@@ -227677,6 +227702,7 @@ zzzyk.com###Tinfo
 ||warmlyparliamentscroll.com^
 ||warmmeadowroad.com^
 ||warmupposaune.com^
+||warmupsangrily.qpon^
 ||warnagebiotic.cyou^
 ||warningwentthorn.com^
 ||warnwing.com^
