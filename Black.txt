@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-22 15:46:18
-# 总规则数: 247277 (黑: 242922, 白: 4355)
+﻿# 更新时间: 2026-08-22 16:14:47
+# 总规则数: 247288 (黑: 242933, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -11204,6 +11204,7 @@ zzzyk.com###Tinfo
 ||4h44.com^
 ||4h87y9pc59.com^
 ||4h9cqt4acsaw-1318638261.cos.ap-chengdu.myqcloud.com^
+||4hf2saujov.com^
 ||4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com^
 ||4ht5.com^
 ||4htixb.cn^
@@ -96475,6 +96476,7 @@ zzzyk.com###Tinfo
 ||hqszwdormatma.com^
 ||hqtlw.cn^
 ||hquerdxxxxdlp.site^
+||hqugajjuh.com^
 ||hqurnvlwjlqgk.space^
 ||hqvkbn.icu^
 ||hqvldtiayuvrho.com^
@@ -106600,6 +106602,7 @@ zzzyk.com###Tinfo
 ||jorammeatman.com^
 ||jordan.qunis.ru^
 ||jordan.zcdn.click^
+||jordangazed.shop^
 ||jornal.tesouros-da-julia.com^
 ||joryvztqojsig.space^
 ||josephclassics.com^
@@ -108920,6 +108923,7 @@ zzzyk.com###Tinfo
 ||kektds.com^
 ||kelchinprune.cfd^
 ||kele4.com^
+||kelekgibleh.qpon^
 ||kelfnfabbwugq.online^
 ||kellembrues.qpon^
 ||kellysbatan.cyou^
@@ -109028,6 +109032,7 @@ zzzyk.com###Tinfo
 ||keyade.uniqlo.com^
 ||keyallocationscientific.com^
 ||keyand.xyz^
+||keyavidlyspryly.qpon^
 ||keyboard88.top^
 ||keybut.com^
 ||keydbc.fabgetaways.com^
@@ -113332,6 +113337,7 @@ zzzyk.com###Tinfo
 ||lfhugfivahoqe.online^
 ||lfidtw.faesslerw.at^
 ||lfjdqqmzpswof.website^
+||lfjrojdsqcrne.com^
 ||lfjtiuy.cn^
 ||lfkesv.seeplaces.com^
 ||lflable.com^
@@ -158437,6 +158443,7 @@ zzzyk.com###Tinfo
 ||refrainsitimmovable.com^
 ||refraintsarcoma.com^
 ||refreshmould.com^
+||refriesfossule.cyou^
 ||reftagger.com^
 ||refundradar.com^
 ||refusalcustody.com^
@@ -165152,6 +165159,7 @@ zzzyk.com###Tinfo
 ||santalipompier.cyou^
 ||santander-open-academy.cip.test.ajo.adobe.com^
 ||santarem.ondec.com.br^
+||santirssalsolajazzing.qpon^
 ||santo.neelchuri.com^
 ||santogrush.cfd^
 ||santonthose.cfd^
@@ -176855,6 +176863,7 @@ zzzyk.com###Tinfo
 ||skymedia.co.uk^
 ||skymobi.agency^
 ||skypie.info^
+||skypipehookahs.com^
 ||skypipevatican.com^
 ||skyplayer.tiscali.it^
 ||skypromotion.ru^
@@ -208439,6 +208448,7 @@ zzzyk.com###Tinfo
 ||tightpowder.com^
 ||tigkeebnv.com^
 ||tiglck.technopolis.bg^
+||tiglicsethian.com^
 ||tiglon.beyondco.de^
 ||tiglon.davidroessli.com^
 ||tigrineliaison.shop^
@@ -225879,6 +225889,7 @@ zzzyk.com###Tinfo
 ||voicedstart.com^
 ||voicefive.com^
 ||voicepins.com^
+||voicewinds.com^
 ||voidgoo.com^
 ||voidnetwork.cloud^
 ||voiknrayaanxl.space^
