@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-23 11:43:40
-# 总规则数: 247525 (黑: 243170, 白: 4355)
+﻿# 更新时间: 2026-08-23 12:25:24
+# 总规则数: 247541 (黑: 243186, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -17593,6 +17593,7 @@ zzzyk.com###Tinfo
 ||abandon.qtddd.cn^
 ||abaolokyjmlvj.top^
 ||abaolokyjmryv.top^
+||abaolokzrkvrj.top^
 ||abaryoyidjcso.store^
 ||abasedmeeds.cyou^
 ||abashfireworks.com^
@@ -35785,6 +35786,7 @@ zzzyk.com###Tinfo
 ||bcrdyev.cn^
 ||bcrealm.com^
 ||bcrrtwq1cxv6.ly413n5hh.cc^
+||bcscodanngnhc.site^
 ||bcsfpwmjulcxw.site^
 ||bcsijjgck.xyz^
 ||bcsjcj.nasdaq.com^
@@ -54225,6 +54227,7 @@ zzzyk.com###Tinfo
 ||d1j6limf657foe.cloudfront.net^
 ||d1j818d3wapogd.cloudfront.net^
 ||d1j9qsxe04m2ki.cloudfront.net^
+||d1jbmblqtpfad4.cloudfront.net^
 ||d1jcj9gy98l90g.cloudfront.net^
 ||d1jd9usa22o1l7.cloudfront.net^
 ||d1jl096lp4cce0.cloudfront.net^
@@ -63453,6 +63456,7 @@ zzzyk.com###Tinfo
 ||digitalunion.cn^
 ||digitalworkplace.ricoh.fr^
 ||digithalo.com^
+||digitizedcopy.com^
 ||digitru.st^
 ||digitsreenact.qpon^
 ||digneabrus.cyou^
@@ -80969,6 +80973,7 @@ zzzyk.com###Tinfo
 ||galileotelemetry.tencent.com^
 ||galitaillevessels.cfd^
 ||galiysana.vip^
+||galjagersmelitis.cfd^
 ||galjoeniowa.qpon^
 ||gallantfamineana.com^
 ||galleonentopic.com^
@@ -85243,6 +85248,7 @@ zzzyk.com###Tinfo
 ||gougou88.xyz^
 ||gouikrywyxnmo.store^
 ||goujayunwind.qpon^
+||goujlizglqlgj.online^
 ||goukaize.top^
 ||goukan.xyz^
 ||goulanmeng.cn^
@@ -98690,6 +98696,7 @@ zzzyk.com###Tinfo
 ||idwxyc.rosettastone.de^
 ||idx.m.hub.sandai.net^
 ||idx.pekarna-pecjak.si^
+||idxhqpjycfupd.site^
 ||idy666.com^
 ||idylsrebank.com^
 ||idynbff.cn^
@@ -104564,6 +104571,7 @@ zzzyk.com###Tinfo
 ||izcftgjuemufo.site^
 ||izcjyeehxaesm.online^
 ||izcloacciv.com^
+||izcqvrjkriinu.site^
 ||izdonegkaboga.website^
 ||izea.com^
 ||izearanks.com^
@@ -133761,6 +133769,7 @@ zzzyk.com###Tinfo
 ||mkpjchfevxpud.website^
 ||mkqdj.cn^
 ||mkrfj.innasegal.com^
+||mkrgqgkwvtc2gtgw4zlt.rest^
 ||mkrplsblistuf.website^
 ||mkrygmdgxfkzy.online^
 ||mks8vq5qfu.com^
@@ -138557,6 +138566,7 @@ zzzyk.com###Tinfo
 ||nerldv.ullapopken.pl^
 ||nernv.com^
 ||nero.live^
+||nero5cvchf5jn58.cfd^
 ||nerohut.com^
 ||neronicenteria.cyou^
 ||nersionitsumpute.com^
@@ -141294,6 +141304,7 @@ zzzyk.com###Tinfo
 ||nuntcnartgyaj.site^
 ||nunxhv.com^
 ||nuoajfndg.com^
+||nuoclylezmnvn.site^
 ||nuonuo1.icu^
 ||nuoqingck.cn^
 ||nuperfect.net^
@@ -148664,6 +148675,7 @@ zzzyk.com###Tinfo
 ||pfgfre.kidscoco.com^
 ||pfghc.nutriwise.com^
 ||pfhj89w.com^
+||pfhnrxinmndvx.site^
 ||pfhub.petitfute.cn^
 ||pfhub.petitfute.co.uk^
 ||pfhub.petitfute.com^
@@ -154408,6 +154420,7 @@ zzzyk.com###Tinfo
 ||pzsq.xyz^
 ||pzsvltbfzoqwt.space^
 ||pzsvp.theadventurechallenge.com^
+||pztblvfedjxnd.site^
 ||pztnzqwz.icu^
 ||pztpegrrlrurn.com^
 ||pzvipx.jollyroom.dk^
@@ -162423,6 +162436,7 @@ zzzyk.com###Tinfo
 ||runningman.site^
 ||runnybottom.com^
 ||runnzk.pch-shop.de^
+||runoverphyliclotrite.cyou^
 ||runsadjustmerit.com^
 ||runsbelovedrudimentary.com^
 ||runshour.com^
@@ -200393,6 +200407,7 @@ zzzyk.com###Tinfo
 ||stealth.nl^
 ||stealthbros.qpon^
 ||steamabundanceslope.com^
+||steamedkipper.cyou^
 ||steamers77.com^
 ||steamierazour.shop^
 ||steamrub.com^
@@ -209775,6 +209790,7 @@ zzzyk.com###Tinfo
 ||tmkpd.livhotelgroup.com^
 ||tmlfunrthtnff.online^
 ||tmlhmihwqzcfmoonp9gw.cfd^
+||tmlsxuvjfzyhz.space^
 ||tmluyaszhetwu.online^
 ||tmlyhh.icu^
 ||tmmjwelxryxod.site^
