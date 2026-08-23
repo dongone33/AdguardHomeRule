@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-23 15:48:47
-# 总规则数: 247672 (黑: 243317, 白: 4355)
+﻿# 更新时间: 2026-08-23 16:15:34
+# 总规则数: 247691 (黑: 243336, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -28118,6 +28118,7 @@ zzzyk.com###Tinfo
 ||anx-staging.learnwithhomer.com^
 ||anx.learnwithhomer.com^
 ||anxegytdedafg.site^
+||anxious-pull.pro^
 ||anxiousapples.com^
 ||anxiousequal.com^
 ||any-thought.pro^
@@ -65290,6 +65291,7 @@ zzzyk.com###Tinfo
 ||dooco.cn^
 ||doodlesunshinecamp.com^
 ||doodptrbqxpct.online^
+||dooketsubface.qpon^
 ||dooleucgia.cyou^
 ||doomhedge.com^
 ||doomna.com^
@@ -69243,6 +69245,7 @@ zzzyk.com###Tinfo
 ||ec3-core-lq.ecombdapi.com^
 ||ec3zlf7xk1c2ki.ppxiur4byic1lcnmy.cfd^
 ||ec868babca.959fffdae3.com^
+||ec8pr7nny.com^
 ||eca8776110.com^
 ||ecai.info^
 ||ecakqe.pixartprinting.co.uk^
@@ -74930,6 +74933,7 @@ zzzyk.com###Tinfo
 ||f653713980.com^
 ||f65qplod.xyz^
 ||f680e0bdca.com^
+||f693t4frv.com^
 ||f6b558fb61.8a4f3c8d93.com^
 ||f6c8374b9b.4c81b78eca.com^
 ||f6ce.com^
@@ -80475,6 +80479,7 @@ zzzyk.com###Tinfo
 ||fzvqmzsidkjgx.space^
 ||fzvve.cn^
 ||fzvzgaezwsrzm.store^
+||fzvzplfgafdkp.space^
 ||fzygcof.cn^
 ||fzymwqgoauaoi.space^
 ||fzysfcwetnwid.site^
@@ -99402,6 +99407,7 @@ zzzyk.com###Tinfo
 ||ilgze.cn^
 ||ilhangrnyaubr.site^
 ||ilhbimergjlfx.website^
+||ilhkodgrdkcvq.website^
 ||ilhmewufmj.com^
 ||ilhtossuwjwcg.online^
 ||ilias3.goasrv.com^
@@ -105384,6 +105390,7 @@ zzzyk.com###Tinfo
 ||jdjiuhwooalvp.website^
 ||jdjjrlmodfqxw.online^
 ||jdjkljs.click^
+||jdjridlvxwydy.site^
 ||jdkdzhvgqnecz.online^
 ||jdkic.com^
 ||jdknsghqwbrki.com^
@@ -122184,6 +122191,7 @@ zzzyk.com###Tinfo
 ||longertail.pl^
 ||longevity.young-and-co.com^
 ||longingtrees.com^
+||longjawpatina.cfd^
 ||longkoupeanut.cn^
 ||longlingsc.art^
 ||longloops.com^
@@ -140962,6 +140970,7 @@ zzzyk.com###Tinfo
 ||nrastbstp.meunumerologo.com.br^
 ||nrc.tapas.net^
 ||nrcapi.ssl2.duapps.com^
+||nrcvltopmahgw.website^
 ||nrefybpeqrpkw.online^
 ||nreg.world^
 ||nrelate.com^
@@ -154901,6 +154910,7 @@ zzzyk.com###Tinfo
 ||qcuncolm.com^
 ||qcurkzogaukec.space^
 ||qcv5.blogtruyen.vn^
+||qcvevlclrdhjq.site^
 ||qcvf.ifeng.com^
 ||qcvfwfpkszgvm.site^
 ||qcvji.aliceandolivia.com^
@@ -155044,6 +155054,7 @@ zzzyk.com###Tinfo
 ||qerpks.rollei.de^
 ||qerusgreyt.com^
 ||qeryz.com^
+||qeshpghxerbyb.site^
 ||qesrnpogpignd.store^
 ||qetup12.com^
 ||qeujnihdvzsnv.online^
@@ -162724,6 +162735,7 @@ zzzyk.com###Tinfo
 ||rwfkzw.wuerth.it^
 ||rwfqrjucxebbo.online^
 ||rwglmbgecjkom.space^
+||rwgsidrmjrghq.online^
 ||rwhdta.bigsizeclub.co.kr^
 ||rwhhbbphligft.site^
 ||rwhneg.breaking-news.jp^
@@ -166220,6 +166232,7 @@ zzzyk.com###Tinfo
 ||scopesolion.cfd^
 ||scopingcopperscirculi.cfd^
 ||scopsorioledeucing.cfd^
+||scopusscanmag.cyou^
 ||scorchads.com^
 ||scorchobservedsow.com^
 ||scorchsorchic.com^
@@ -201848,6 +201861,7 @@ zzzyk.com###Tinfo
 ||suffocatefried.com^
 ||suffocateinnhandling.com^
 ||sufiismwarfare.shop^
+||suganndiesisagoho.cyou^
 ||sugar.thepacii.com^
 ||sugar.xxx^
 ||sugarle.com^
@@ -208469,6 +208483,7 @@ zzzyk.com###Tinfo
 ||thpthuynhthuckhang.edu.vn^
 ||thpvrn.icu^
 ||thq.drdiegoschitini.com.br^
+||thqcrrmvtcnxx.online^
 ||thr.hochzeitsrausch.com^
 ||thr.hotel-roduna.com^
 ||thragmoth.com^
@@ -233887,6 +233902,7 @@ zzzyk.com###Tinfo
 ||xazhuozhi.com^
 ||xb1.tanan119.com^
 ||xb20823xbt.bzosdqj.com^
+||xb3cicbx53m8rjxyi94kumyujr.cfd^
 ||xb4l.5163.com^
 ||xb588.net^
 ||xbaeq00823.xz.shmxqx.com^
@@ -238999,6 +239015,7 @@ zzzyk.com###Tinfo
 ||yopengtong.co^
 ||yopo0hx26.com^
 ||yoqal.xdlandd.gciepk.cn^
+||yoqiqrhmjoqb.com^
 ||yoreeddic.cfd^
 ||yorkvillemarketing.net^
 ||yorztipdkeksq.site^
@@ -242975,6 +242992,7 @@ zzzyk.com###Tinfo
 ||zwtpmjjbuvfyr.website^
 ||zwtreqtyusacn.space^
 ||zwubipwic.com^
+||zwuccizucabh.in^
 ||zwuesdewosddn.site^
 ||zwvbmysbmdkoc.site^
 ||zwvq.cn^
@@ -243018,6 +243036,7 @@ zzzyk.com###Tinfo
 ||zxcwifosxcrlc.site^
 ||zxdb123caducn.xyz^
 ||zxdnsx7si.com^
+||zxfrb2qfjp4twxqf8pmonbf2j.rest^
 ||zxgdbhbsiqdib.site^
 ||zxgjrlpmaqyek.website^
 ||zxglpj.cn^
