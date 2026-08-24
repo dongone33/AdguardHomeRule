@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-24 23:52:28
-# 总规则数: 247697 (黑: 243342, 白: 4355)
+﻿# 更新时间: 2026-08-25 00:22:58
+# 总规则数: 247721 (黑: 243366, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -7719,6 +7719,7 @@ zzzyk.com###Tinfo
 ||13j5.l.mob.com^
 ||13jhmpv.3yr8vql5go73y864.cyou^
 ||13js1lbtbj3.sparkloop.app^
+||13juk6f4qujcon697yuxhwy9tbi9pckz7rb.cfd^
 ||13o54zz4o18m3giptm4f9rn8.cfd^
 ||13owamwp6c.cn^
 ||13p76nnir.de^
@@ -24145,6 +24146,7 @@ zzzyk.com###Tinfo
 ||ahima.coniferhealth.com^
 ||ahirdebile.shop^
 ||ahisft.moonmagic.com^
+||ahisu.com^
 ||ahiwvmjktstlw.site^
 ||ahizzxdpeqmkt.space^
 ||ahjcxebm.aarhuscharter.dk^
@@ -25914,6 +25916,7 @@ zzzyk.com###Tinfo
 ||amzbr.com^
 ||amzelathold.cfd^
 ||amzfepdudlyvb.site^
+||amznu.com^
 ||amzystkjjhfdz.online^
 ||an.anialichos.pl^
 ||an.audiocube.app^
@@ -28193,6 +28196,7 @@ zzzyk.com###Tinfo
 ||aokrbjfklqvsd.space^
 ||aokxcojgnjjkv.online^
 ||aolegsetqi.com^
+||aolfvjokwdkrw.online^
 ||aoljwa.cuerpodiez.com^
 ||aolqejkjfgxpr.website^
 ||aolsvc.snowqueen.ru^
@@ -35642,6 +35646,7 @@ zzzyk.com###Tinfo
 ||bbk.pnc.com^
 ||bbkdlawi.com^
 ||bbkrsm.crucerosnet.com^
+||bblaa.com^
 ||bbllwr2676.9bgq8rvf64pe.com^
 ||bbm.blubela.com^
 ||bbmknnomcostx.site^
@@ -37036,6 +37041,7 @@ zzzyk.com###Tinfo
 ||bgsjz.universalstandard.com^
 ||bgsku.stemregen.co^
 ||bgtaeb.loveandpop.kr^
+||bgtee.com^
 ||bgtfr-test.mno.link^
 ||bgtib222.com^
 ||bgtjdtnnbjp.com^
@@ -39513,6 +39519,7 @@ zzzyk.com###Tinfo
 ||bracecherry.com^
 ||bracemascara.com^
 ||bracketauthorizedportray.com^
+||bracketelude.com^
 ||bractivacar.eccocar.com^
 ||braddumacar.eccocar.com^
 ||brafsc.top^
@@ -41283,6 +41290,7 @@ zzzyk.com###Tinfo
 ||bzp2fqad7o.com^
 ||bzpgi.plankandbeam.com^
 ||bzphcxhcwuiab.site^
+||bzpoa.com^
 ||bzpogcssaxbmc.space^
 ||bzpqekgjvaqkn.website^
 ||bzqqftz.icu^
@@ -47899,6 +47907,7 @@ zzzyk.com###Tinfo
 ||cmstrendslog.timesnow.tv^
 ||cmta.yangkeduo.com^
 ||cmtmwn.ditano.com^
+||cmtrk.com^
 ||cmtrkg.com^
 ||cmttvv.bonprix.se^
 ||cmv6-10-81.getui.com^
@@ -52427,6 +52436,7 @@ zzzyk.com###Tinfo
 ||ctyhodypm.com^
 ||ctyjsf.cellphones.com.vn^
 ||ctyojp.kibek.de^
+||ctypo.com^
 ||ctysfzudaoqlf.online^
 ||ctyywrvwlffgc.online^
 ||ctyzd.com^
@@ -64542,6 +64552,7 @@ zzzyk.com###Tinfo
 ||dlp.egghead.link^
 ||dlp4luwpus5kr.cloudfront.net^
 ||dlpifu.com^
+||dlpmghuwdtjww.site^
 ||dlqbioenjjwsv.store^
 ||dlqxtm.sssports.com^
 ||dlqycx.zenhotels.com^
@@ -70942,6 +70953,7 @@ zzzyk.com###Tinfo
 ||elsinpopish.shop^
 ||elsmom.xyz^
 ||elsynmlw.fun^
+||eltbd.com^
 ||eltdeh.top^
 ||eltex.co.jp^
 ||eltlio.boribori.co.kr^
@@ -98536,6 +98548,7 @@ zzzyk.com###Tinfo
 ||icu.newsroom.bi^
 ||icubeswire.co^
 ||icugm.wagamama.us^
+||icuimnzrknikx.space^
 ||iculpiumiyznp.space^
 ||icunvveszpzxa.online^
 ||icuvzogomwarh.site^
@@ -103276,6 +103289,7 @@ zzzyk.com###Tinfo
 ||inwhcaanqt.com^
 ||inwithpulingdeia.cyou^
 ||inwmizqchqjlk.space^
+||inwrapsecunda.shop^
 ||inwrapswint.shop^
 ||inwrxgpttnukv.space^
 ||inwtef.hobbygames.ru^
@@ -110419,6 +110433,7 @@ zzzyk.com###Tinfo
 ||koduweb-int.net.mydays.de^
 ||kodvcvjyqtfsu.site^
 ||koeebuetwevng.space^
+||koeisagsqpwci.site^
 ||koekje.rapidprototyping.nl^
 ||koekje.smaakverkenners.nl^
 ||koenig.gusskoenig.de^
@@ -113883,6 +113898,7 @@ zzzyk.com###Tinfo
 ||life.scsjsd.com^
 ||life.trywellife.com^
 ||lifeboatlegalalleviate.com^
+||lifecoverdirect.com^
 ||lifedayfrondalcippe.cyou^
 ||lifeedly.com^
 ||lifeisabouthavingfun448.duckdns.org^
@@ -115467,6 +115483,7 @@ zzzyk.com###Tinfo
 ||ljwckj.love^
 ||ljybybyerzoev.top^
 ||ljybybyerzreq.top^
+||ljybyqaakvlbv.top^
 ||ljyhzllzoymxq.space^
 ||ljyipz.nugnes1920.com^
 ||ljyy846.xyz^
@@ -149637,6 +149654,7 @@ zzzyk.com###Tinfo
 ||pirxzl.xyz^
 ||pis-pcdn.youku.com^
 ||pis-tel-pcdn.youku.com^
+||piseental.cyou^
 ||pisgahserve.com^
 ||pishedhegari.cyou^
 ||pishedputons.qpon^
@@ -151175,6 +151193,7 @@ zzzyk.com###Tinfo
 ||pontilsseaworn.cfd^
 ||pontoonmanumit.shop^
 ||ponyo.cheriefm.fr^
+||poobwwvfnejtu.site^
 ||poodlefairly.com^
 ||poodlercojones.shop^
 ||poohsrebuild.shop^
@@ -151962,6 +151981,7 @@ zzzyk.com###Tinfo
 ||precisioncounter.com^
 ||preciso.net^
 ||precmd.com^
+||precoxobeish.com^
 ||precursortrimrequest.com^
 ||precursorwhiskeyleak.com^
 ||predataclient.b-cdn.net^
@@ -204800,6 +204820,7 @@ zzzyk.com###Tinfo
 ||t6.a.market.xiaomi.com^
 ||t6ac.yl.ag^
 ||t6ec3seyq.com^
+||t6n8z69eovcq1rmu.rest^
 ||t6q6187.cn^
 ||t6yx.6t.com^
 ||t70123.com^
@@ -227218,6 +227239,7 @@ zzzyk.com###Tinfo
 ||vwwsym.centerparcs.com^
 ||vwwv.go-static.info^
 ||vwxyozrzwikcy.site^
+||vwyiggzaqmnrb.space^
 ||vwyluqungwrqlii.com^
 ||vwzrmuzcjxpkh.space^
 ||vwzusobugmrad.space^
@@ -227828,6 +227850,7 @@ zzzyk.com###Tinfo
 ||waggerptg.cfd^
 ||waggerscampho.cfd^
 ||waggiescagliaptereal.qpon^
+||waggonacideryonder.cfd^
 ||waggonerchildrensurly.com^
 ||waggonerprepay.com^
 ||waggonertributeshaky.com^
@@ -230352,6 +230375,7 @@ zzzyk.com###Tinfo
 ||wicdn.cloud^
 ||wichescheaply.shop^
 ||wichoaltaisheel.net^
+||wichtpublic.cfd^
 ||wichvoks.d7cf6cef.er.aliyun-esa.net^
 ||wickedanimal.com^
 ||wickedhorace.com^
