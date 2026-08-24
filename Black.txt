@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-25 00:22:58
-# 总规则数: 247721 (黑: 243366, 白: 4355)
+﻿# 更新时间: 2026-08-25 01:05:24
+# 总规则数: 247722 (黑: 243367, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -42298,7 +42298,6 @@ zzzyk.com###Tinfo
 ||campus-2c-app.cn-hangzhou.log.aliyuncs.com^
 ||campus.goaserv.com^
 ||campus.omni.goasrv.com^
-||campus360.go-static.info^
 ||campusboletinvirtual.unisabana.edu.co^
 ||campusdigital.sertao.goasrv.com^
 ||campusedge.goasrv.com^
@@ -141828,7 +141827,6 @@ zzzyk.com###Tinfo
 ||o-oo.ooo^
 ||o-s.io^
 ||o-sdk.mediation.unity3d.com^
-||o-zrenii.goaserv.com^
 ||o.027eat.com^
 ||o.08jm.cn^
 ||o.48tube.com^
@@ -156676,6 +156674,7 @@ zzzyk.com###Tinfo
 ||quixoteluxates.cyou^
 ||quixoticleading.pro^
 ||quixoticnebula.com^
+||quixoticwar.com^
 ||quixoticzest.com^
 ||quixova.com^
 ||quiz.resolucaoonline.com^
@@ -166544,6 +166543,7 @@ zzzyk.com###Tinfo
 ||sdd.hi1718.com^
 ||sddan.com^
 ||sddmtfxmpwcntr.com^
+||sdeathteacup.com^
 ||sdefm2ikfmn2i34n2.ser023.com^
 ||sdegwynml.bmaci.me^
 ||sdf.liaotian4.com^
@@ -224914,6 +224914,7 @@ zzzyk.com###Tinfo
 ||vidsmoon.online^
 ||vidsrev.com^
 ||vidstatb.taboola.com^
+||vidstats.top^
 ||vidtok.ru^
 ||vidtrim-video-editor.ru.goasrv.com^
 ||viduageessenic.com^
