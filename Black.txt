@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-25 01:05:24
-# 总规则数: 247722 (黑: 243367, 白: 4355)
+﻿# 更新时间: 2026-08-25 01:48:31
+# 总规则数: 247720 (黑: 243365, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -73752,7 +73752,6 @@ zzzyk.com###Tinfo
 ||events.gonative.io^
 ||events.groggs.com^
 ||events.guiapetseguro.com.br^
-||events.gx.nvidia.cn^
 ||events.happyhomeheatingandcooling.com^
 ||events.herbarofficial.com^
 ||events.homebody.co.uk^
@@ -92470,7 +92469,6 @@ zzzyk.com###Tinfo
 ||gwyorodtr.com^
 ||gwyvvjj.cn^
 ||gwzpb.liberator.com^
-||gx-target-experiments-frontend-api.gx.nvidia.cn^
 ||gx.huangtai.net^
 ||gx.idg.se^
 ||gx0.funfuckmovies.com^
