@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-24 11:44:59
-# 总规则数: 247944 (黑: 243588, 白: 4356)
+﻿# 更新时间: 2026-08-24 12:34:29
+# 总规则数: 247958 (黑: 243602, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -17865,6 +17865,7 @@ zzzyk.com###Tinfo
 ||abjkfy.muuu.com^
 ||abjmkkoavoaor.top^
 ||abjmkkoavooow.top^
+||abjmkkormakkw.top^
 ||abjpilgpouqhm.website^
 ||abjqtrmbxeyct.com^
 ||abjtuq.exoticca.com^
@@ -24219,6 +24220,7 @@ zzzyk.com###Tinfo
 ||ahmjn.koala.com^
 ||ahmyebqzknlpj.website^
 ||ahnaf.nutrikobd.com^
+||ahnfzbhdlmohr.website^
 ||ahngxh.palladiumhotelgroup.com^
 ||ahnlabad.com^
 ||ahnop.gomacro.com^
@@ -46134,6 +46136,7 @@ zzzyk.com###Tinfo
 ||cibersexo.net^
 ||cibhmyowgsmpa.store^
 ||cibleclick.com^
+||cibnycjwsgkvc.online^
 ||cibsi.domondo.pl^
 ||cic.umeng.com^
 ||cic.webank.com^
@@ -56096,6 +56099,7 @@ zzzyk.com###Tinfo
 ||dashboardbntest.branchcustom.xyz^
 ||dashboardmortal.com^
 ||dasheducation.cn^
+||dashersclong.com^
 ||dashet.com^
 ||dashingdrop.com^
 ||dashuaibi.icu^
@@ -98470,6 +98474,7 @@ zzzyk.com###Tinfo
 ||ibghs.saatchiart.com^
 ||ibgog2fkc3hljn6f8tr79q13zv.rest^
 ||ibhbnlpvtdkny.space^
+||ibiakkcgkohfo.space^
 ||ibickuapdixkk.online^
 ||ibidemkorari.com^
 ||ibikini.cyou^
@@ -123689,6 +123694,7 @@ zzzyk.com###Tinfo
 ||lxoemc.siviaggia.it^
 ||lxoemc.tuttocitta.it^
 ||lxpgll.icu^
+||lxphlvzklqtsb.space^
 ||lxqcgj.com^
 ||lxrffyqkackjhg.com^
 ||lxrhymhpiycum.online^
@@ -141885,6 +141891,7 @@ zzzyk.com###Tinfo
 ||nymjb.chicme.com^
 ||nymllqnuvxbsz.online^
 ||nymphadustbox.qpon^
+||nymphidtouzleswlity.qpon^
 ||nymphszymosis.qpon^
 ||nympl.cwspirits.com^
 ||nymsdhtpngjip.space^
@@ -155547,6 +155554,7 @@ zzzyk.com###Tinfo
 ||qinajinkjh.gstjyzx.com^
 ||qincai.info^
 ||qinchugudao.com^
+||qindarwhilk.shop^
 ||qinghua.cc^
 ||qinghyx.com^
 ||qingolor.com^
@@ -155722,6 +155730,7 @@ zzzyk.com###Tinfo
 ||qkptx.com^
 ||qkr4uac6tx.com^
 ||qkrajptqgetsb.online^
+||qkrfmiemfqble.site^
 ||qksbin.nocturne.com.tr^
 ||qksrv.net^
 ||qksxet.zeetours.nl^
@@ -218956,6 +218965,7 @@ zzzyk.com###Tinfo
 ||txpbnm.sevellia.com^
 ||txpbvh.icu^
 ||txqcmmov.a.etoote.com^
+||txqnnutbf.com^
 ||txqqrrjqhkupte.com^
 ||txqvieufbv19hilhi.rest^
 ||txrpsnhe.com^
@@ -220629,6 +220639,7 @@ zzzyk.com###Tinfo
 ||umptydaudit.cyou^
 ||umqigvethe.com^
 ||umqosmlnjdrwl.site^
+||umrd62a7zy.com^
 ||umrgdvvdgxjto.store^
 ||umrvmb.net.anwalt.de^
 ||ums.ro.loccitane.com^
@@ -223525,6 +223536,7 @@ zzzyk.com###Tinfo
 ||v8fjvv9o3.com^
 ||v8j1rkai1.com^
 ||v8r7.japaneast.cloudapp.azure.com^
+||v8yitm9lortkf9y8eghv2rgngw3utolp3ik6.cfd^
 ||v9-ad.ixigua.com^
 ||v9-be-pack.pglstatp-toutiao.com^
 ||v9-dc-ad.ixigua.com^
@@ -235145,6 +235157,7 @@ zzzyk.com###Tinfo
 ||xkdqhcmfypbqcff.com^
 ||xkena.com^
 ||xkgtxj.edomator.pl^
+||xkgywuq49e3lif4tbo6f3l.rest^
 ||xkhhdxozfdxgp.website^
 ||xkhlbg.premium-mall.com^
 ||xkidkt.edenbrothers.com^
@@ -239108,6 +239121,7 @@ zzzyk.com###Tinfo
 ||ynfxxbp.xyz^
 ||ynfzxh.com^
 ||yngnwe.8division.com^
+||yngujrewkitbd.space^
 ||ynhafvxotzgyw.online^
 ||ynhh-ynhhs.goasrv.com^
 ||ynhuya.cn^
