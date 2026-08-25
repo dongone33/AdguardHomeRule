@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-26 02:03:09
-# 总规则数: 248037 (黑: 243682, 白: 4355)
+﻿# 更新时间: 2026-08-26 02:46:07
+# 总规则数: 248063 (黑: 243708, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18581,6 +18581,7 @@ zzzyk.com###Tinfo
 ||acromiaarmour.qpon^
 ||acronym.com^
 ||acronymdanaro.cfd^
+||acrookruinate.cfd^
 ||acrossexterminatorfoggy.com^
 ||acrosspf.com^
 ||acrotg.regatta.com^
@@ -24345,6 +24346,7 @@ zzzyk.com###Tinfo
 ||aiea6gaza.com^
 ||aiecrhvddyaqb.website^
 ||aieryduetto.com^
+||aieryreata.qpon^
 ||aifaka.cc^
 ||aifcoz.dryve.com.br^
 ||aifenka.cn^
@@ -32415,6 +32417,7 @@ zzzyk.com###Tinfo
 ||ashorenorris.com^
 ||ashoreyolky.qpon^
 ||ashow.pcpop.com^
+||ashpvzwkdmksn.space^
 ||ashrivetgulped.com^
 ||ashthtddicgnf.site^
 ||ashtrayexportmanage.com^
@@ -36693,6 +36696,7 @@ zzzyk.com###Tinfo
 ||berserkhydrant.com^
 ||bersq.theadventurechallenge.com^
 ||bertapert.com^
+||berthasgenty.cfd^
 ||berthedhippish.shop^
 ||berthfrankly.com^
 ||bertsysxmykqm.online^
@@ -45352,6 +45356,7 @@ zzzyk.com###Tinfo
 ||chairsdonkey.com^
 ||chaiserhyme.com^
 ||chaiwnaoytjig.site^
+||chakrasniper.cyou^
 ||chalazaleaver.cfd^
 ||chalcondrain.cyou^
 ||chalcusmagma.shop^
@@ -46547,6 +46552,7 @@ zzzyk.com###Tinfo
 ||clamorstineoid.qpon^
 ||clamourbiflex.cyou^
 ||clamp.keyclampstore.com^
+||clampsbrawnsloss.cyou^
 ||cland.fyi^
 ||clankedpobby.shop^
 ||clanker-events.squarespace.com^
@@ -64070,6 +64076,7 @@ zzzyk.com###Tinfo
 ||disparagewardenbetrayal.com^
 ||disparityanalogy.com^
 ||disparitydegenerateconstrict.com^
+||disparkalvine.cyou^
 ||dispatch-api-online.vemarsdev.com^
 ||dispatch.360-jr.com^
 ||dispatcher.camera360.com^
@@ -74068,6 +74075,7 @@ zzzyk.com###Tinfo
 ||evnzcl.ranking.ac^
 ||evodesafio.evolutioncast.com^
 ||evohladx.com^
+||evokeootwithtropine.qpon^
 ||evolationst.mywellnessoffer.com^
 ||evolok.net^
 ||evolu.adsdomaintracking.com^
@@ -80310,6 +80318,7 @@ zzzyk.com###Tinfo
 ||fwvzx907rr.com^
 ||fwyhwomzcudcj.site^
 ||fwyxbluvntuep.website^
+||fwzdclighc.com^
 ||fwzvgdqhtxsxc.store^
 ||fwzvlp.xyz^
 ||fx.corp.17k.com^
@@ -83791,6 +83800,7 @@ zzzyk.com###Tinfo
 ||gluyxsrwtuktb.com^
 ||glvej.com^
 ||glvhvesvnp.com^
+||glvlnlfchhcao.site^
 ||glvmtlnxdxdhl.website^
 ||glvrlmlyidyfj.space^
 ||glvukwnmjfiut.online^
@@ -105523,6 +105533,7 @@ zzzyk.com###Tinfo
 ||je3zdrcua.com^
 ||jealousembroideryroute.com^
 ||jealoussale.com^
+||jeanieprolate.qpon^
 ||jeansdespair.com^
 ||jeaozvppnvtni.space^
 ||jearr.flagandanthem.com^
@@ -110221,6 +110232,7 @@ zzzyk.com###Tinfo
 ||kloperd.com^
 ||kloppassway.cfd^
 ||klorn.cn^
+||klossesnuggly.qpon^
 ||klpdk.warehouseone.com^
 ||klpgmansuchcesu.com^
 ||klqfhfhpcbers.online^
@@ -122248,6 +122260,7 @@ zzzyk.com###Tinfo
 ||lojusypsa.com^
 ||lokalleads-cci.com^
 ||lokalwerben.t-online.de^
+||lokaopineal.cyou^
 ||lokeriklan.com^
 ||lokglfvlixcei.online^
 ||loki.maximonline.ru^
@@ -125598,6 +125611,7 @@ zzzyk.com###Tinfo
 ||mafengow.club^
 ||mafengwo.net^
 ||mafeyyoyo.com^
+||maffleundyed.cfd^
 ||mafllmgwrqucr.site^
 ||mafroad.com^
 ||mafurraphiroze.qpon^
@@ -126021,6 +126035,7 @@ zzzyk.com###Tinfo
 ||mandrillapp.zola.com^
 ||manfys.com^
 ||mang.marinmazda.net^
+||mangabolt.com^
 ||mangaimg.62611311.com^
 ||mangaimg.huliqun.com^
 ||manganaexserttomb.qpon^
@@ -129757,6 +129772,7 @@ zzzyk.com###Tinfo
 ||meimpheaea.com^
 ||meinauto.hdd-dienste.de^
 ||meineserver.com^
+||meioseshoaxer.cfd^
 ||meioticbanba.cfd^
 ||meiqia.com^$third-party
 ||meirav-il.com^
@@ -136943,6 +136959,7 @@ zzzyk.com###Tinfo
 ||mxcdn2.now.sh^
 ||mxcount.com^
 ||mxcpj.marathonwatch.com^
+||mxdchoose.qpon^
 ||mxdjvguezddmf.site^
 ||mxdzxd.mister-auto.com^
 ||mxevdii.cn^
@@ -137304,6 +137321,7 @@ zzzyk.com###Tinfo
 ||myline1.club^
 ||mylkmk.biyougeka.com^
 ||mylmad.com^
+||mylopffexrkme.online^
 ||mylot.com^
 ||mylotte.me^
 ||mylotte.shop^
@@ -140647,6 +140665,7 @@ zzzyk.com###Tinfo
 ||nondescriptriddle.com^
 ||nondescriptstocking.com^
 ||none-test.com^
+||nonentenwrite.shop^
 ||nonerr.com^
 ||nonethelessaugustcategory.com^
 ||nonfatmolochs.com^
@@ -147040,6 +147059,7 @@ zzzyk.com###Tinfo
 ||panther.tigil.rs^
 ||panther.uchijapan.com^
 ||pantherinvincible.com^
+||pantherpoetly.cyou^
 ||pantineskeigh.cfd^
 ||pantomime32.top^
 ||pantomimeinforms.com^
@@ -148588,6 +148608,7 @@ zzzyk.com###Tinfo
 ||pelicanprogram.com^
 ||pelicansource.com^
 ||pelikan-network.ir^
+||pellatewereass.qpon^
 ||pelliancalmato.com^
 ||pellockcetacea.qpon^
 ||pelonhoppledmists.cfd^
@@ -183667,6 +183688,7 @@ zzzyk.com###Tinfo
 ||sonobi.com^
 ||sonomoyo.com^
 ||sonoow.ecco-verde.pl^
+||sonovoxcubicle.cyou^
 ||sonovoxexcite.shop^
 ||sonovoxrescrub.cyou^
 ||sonsang.cn^
@@ -203861,6 +203883,7 @@ zzzyk.com###Tinfo
 ||szwyyl.com^
 ||szwzkummtjbag.online^
 ||szxc868.com^
+||szxcwihacsfcx.space^
 ||szxhybj.com^
 ||szxpsg.com^
 ||szxuw.com^
@@ -228150,6 +228173,7 @@ zzzyk.com###Tinfo
 ||waghgasheduranic.qpon^
 ||waghth.democrata.com.br^
 ||wagsad.com^
+||wagubptlkjnlm.space^
 ||wagwylawqmhg.com^
 ||wagzqhq.cn^
 ||wahabipygoferonymy.cyou^
@@ -231819,6 +231843,7 @@ zzzyk.com###Tinfo
 ||worstbreath.pro^
 ||worstoffice.com^
 ||worstpacifyflames.com^
+||worstsbuddle.cfd^
 ||worstspeed.pro^
 ||worthathousandwords.com^
 ||worthlesscomment.pro^
@@ -238482,6 +238507,7 @@ zzzyk.com###Tinfo
 ||ygsoeu.size.co.uk^
 ||ygtfgu.casamundo.nl^
 ||ygtnn.cn^
+||ygtnxiggfzwgi.space^
 ||ygtonnwghswtx.space^
 ||ygtrus.chilli.no^
 ||ygtt.mobi^
