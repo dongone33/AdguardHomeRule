@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-25 20:04:09
-# 总规则数: 247961 (黑: 243606, 白: 4355)
+﻿# 更新时间: 2026-08-25 21:12:46
+# 总规则数: 247980 (黑: 243625, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -73433,6 +73433,7 @@ zzzyk.com###Tinfo
 ||euthymyoglala.cyou^
 ||eutme.livewellandfully.com^
 ||eutociamonarda.cfd^
+||eutrnfnm.com^
 ||eutzh.bokksu.com^
 ||euuh.cn^
 ||euuhntxjcfqcg.space^
@@ -81764,6 +81765,7 @@ zzzyk.com###Tinfo
 ||gcxiyx.inspireuplift.com^
 ||gcxjseujjaqra.site^
 ||gcxqfqykhnzai.online^
+||gcxvdfnafvwoz.website^
 ||gczhqusagsfps.space^
 ||gczpyfnuquhix.online^
 ||gczudi.iddental.co.kr^
@@ -94181,6 +94183,7 @@ zzzyk.com###Tinfo
 ||he2d.com^
 ||he3kz8.com^
 ||he3tf77ow.com^
+||he4j6lz6d.com^
 ||he7ll.com^
 ||head-clickfusion.com^
 ||head3high.com^
@@ -95836,6 +95839,7 @@ zzzyk.com###Tinfo
 ||hmvqj.mealprepify.com^
 ||hmvtwfudecij.com^
 ||hmvuezvlrxygm.website^
+||hmvxrfnvjkvip.site^
 ||hmwebs.top^
 ||hmxg5mhyx.com^
 ||hmxrqsqisg.com^
@@ -104497,6 +104501,7 @@ zzzyk.com###Tinfo
 ||ivz0.kaiyun.com^
 ||ivz7x63ymy.ru^
 ||ivza0m05f.com^
+||ivzeknpsvnqjm.site^
 ||ivzfpwm.cn^
 ||ivzopnzwvejvg.online^
 ||iw.pentonmarketingsvcs.com^
@@ -105073,6 +105078,7 @@ zzzyk.com###Tinfo
 ||japans-offers.com^
 ||japanstartup.info^
 ||japersbackingredbill.qpon^
+||japerysledder.qpon^
 ||japfg-trending-content.uc.r.appspot.com^
 ||japheth.com.cn^
 ||japps.cn^
@@ -112138,6 +112144,7 @@ zzzyk.com###Tinfo
 ||lajizhan.org^
 ||lajytnrioiaqy.website^
 ||lajziqeakcuqp.online^
+||lakakffa.in^
 ||lakbheagdf.com^
 ||lake.joongang.co.kr^
 ||lake.studydrive.net^
@@ -112939,6 +112946,7 @@ zzzyk.com###Tinfo
 ||ldy.zfdvzp.cn^
 ||ldy5.com^
 ||ldyljr0225i.xyz^
+||ldyqwzfmd.com^
 ||ldytu.kgbl0kz.com^
 ||ldyztceolxrmy.space^
 ||ldzhg.biglifemarketing.com^
@@ -132971,6 +132979,7 @@ zzzyk.com###Tinfo
 ||mftkh.trustcache.com^
 ||mftnsjsenkwau.online^
 ||mftqdrlibjsfyq.com^
+||mftqsdgy.com^
 ||mfuobqafq.in^
 ||mfvmedrqqj.com^
 ||mfvoa.etrgovinca.hu^
@@ -133423,6 +133432,7 @@ zzzyk.com###Tinfo
 ||millsuspect.com^
 ||millswell.com^
 ||millwardbrownacsr.com^
+||millychichcremone.qpon^
 ||milotree.com^
 ||milpascreek.qpon^
 ||miltingtuchitanthill.cfd^
@@ -134159,6 +134169,7 @@ zzzyk.com###Tinfo
 ||mlkklg.suncamp.de^
 ||mllog.jd.com^
 ||mlm-tracking.meinestadt.de^
+||mlmktaagfpond.space^
 ||mlmswk.janpara.co.jp^
 ||mln.gulvxtra.no^
 ||mlnadvertising.com^
@@ -142919,6 +142930,7 @@ zzzyk.com###Tinfo
 ||ogsorfhdwamjv.com^
 ||ogszigdu.in^
 ||ogt.jp^
+||ogtndopapgldg.website^
 ||ogtsesfvshtsk.website^
 ||ogtz5yn2u1.ru^
 ||oguaumtdjyqoe.online^
@@ -148895,6 +148907,7 @@ zzzyk.com###Tinfo
 ||pfgfre.kidscoco.com^
 ||pfghc.nutriwise.com^
 ||pfhj89w.com^
+||pfhmoyvzsulxa.space^
 ||pfhnrxinmndvx.site^
 ||pfhub.petitfute.cn^
 ||pfhub.petitfute.co.uk^
@@ -157523,6 +157536,7 @@ zzzyk.com###Tinfo
 ||rabbitheedless.com^
 ||rabbitrifle.com^
 ||rabbledrawingacquit.com^
+||rabblerpylar.shop^
 ||rabc1.iteye.com^
 ||rabc2.iteye.com^
 ||rabidgeoff.com^
@@ -175293,6 +175307,7 @@ zzzyk.com###Tinfo
 ||sheareasygoingcommerce.com^
 ||sheargovernor.com^
 ||sheathsgabfest.shop^
+||sheavssgfkthz.space^
 ||sheba.dhakapharmachy.com^
 ||shebeanshanty.shop^
 ||shebisnf.com^
@@ -183821,6 +183836,7 @@ zzzyk.com###Tinfo
 ||soycdn.lol^
 ||soyconfer.com^
 ||soydcwnptchwk.com^
+||soyotecht.qpon^
 ||soyte.cc^
 ||sozlsiexijubh.website^
 ||soznlghtktitc.website^
@@ -221161,6 +221177,7 @@ zzzyk.com###Tinfo
 ||unresolvedtame.com^
 ||unrestcontemporary.com^
 ||unrestwidthconsonant.com^
+||unrestymoxa.shop^
 ||unrevxgmkbm.com^
 ||unrhrougeahnf.website^
 ||unridhoncho.com^
@@ -225918,6 +225935,7 @@ zzzyk.com###Tinfo
 ||vjtpmzsmcwfko.online^
 ||vjtpr.dimeoptics.com^
 ||vjuenyeckagkz.site^
+||vjuhfgajzlazi.website^
 ||vjusp.rags.com^
 ||vjvj.vj24co.com^
 ||vjvlq.silverjeans.com^
@@ -230039,6 +230057,7 @@ zzzyk.com###Tinfo
 ||wemtagoowhoohiz.net^
 ||wemztu.cuirs-guignard.com^
 ||wenazgwspojzi.online^
+||wendbangystroker.cyou^
 ||wendelstein-1b.com^
 ||wendicrouthy.com^
 ||wendssirloin.com^
