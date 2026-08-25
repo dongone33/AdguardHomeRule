@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-25 11:38:32
-# 总规则数: 247815 (黑: 243460, 白: 4355)
+﻿# 更新时间: 2026-08-25 12:25:24
+# 总规则数: 247831 (黑: 243476, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -10654,6 +10654,7 @@ zzzyk.com###Tinfo
 ||3rd.t.sohu.com^
 ||3rdspacetech.com^
 ||3rem4hgz3grccju9jtyr8.hh7lj32z7igoj57.cfd^
+||3rs337ci4.com^
 ||3rsppty.cn^
 ||3rvt28fkv5.p4ncioik78e5nuc8cjkr4m4m14.cyou^
 ||3rw0usds.xyz^
@@ -32897,6 +32898,7 @@ zzzyk.com###Tinfo
 ||ataykgrzwrplt.site^
 ||atb-stats-api.imolive.tv^
 ||atb.mlb.com^
+||atbashmopsarised.cfd^
 ||atbdkmt.xyz^
 ||atbhlvyasqeo.com^
 ||atbjh.getcasely.com^
@@ -34193,6 +34195,7 @@ zzzyk.com###Tinfo
 ||azknucfjdcecq.online^
 ||azkwwrejomwjb.top^
 ||azkwwrejomzjm.top^
+||azkwwrmmzkewm.top^
 ||azlej8cdm.pragmaticwebsecurity.com^
 ||azlqhukr.in^
 ||azlrwghfrhzucy.com^
@@ -45503,6 +45506,7 @@ zzzyk.com###Tinfo
 ||chawerbacca.cyou^
 ||chayibu.com^
 ||chazytypicon.qpon^
+||chcgwqlrforbz.space^
 ||chd-daolujiance.com^
 ||chdezxp.com^
 ||chdnenjtyssmn.online^
@@ -65333,6 +65337,7 @@ zzzyk.com###Tinfo
 ||dorgnh.icu^
 ||dorli.thehealthclique.co^
 ||dormanttrachle.cyou^
+||dormervias.cyou^
 ||dormiebevue.com^
 ||dormir.dormax.pt^
 ||dormouse.consentkit.com^
@@ -65782,6 +65787,7 @@ zzzyk.com###Tinfo
 ||dqs3.darjeeling.fr^
 ||dqsfil.pikolinos.com^
 ||dqsft.com^
+||dqtznufnxyirf.site^
 ||dquqco.ledakcja.pl^
 ||dqusiseemfefw.online^
 ||dqv3.720lu.com^
@@ -94744,6 +94750,7 @@ zzzyk.com###Tinfo
 ||hgpbhuj.cn^
 ||hgprha.mizalle.com^
 ||hgrepart.cyou^
+||hgrkpwsv.com^
 ||hgrotlvuifgms.site^
 ||hgrqp.com^
 ||hgruknobpq.com^
@@ -113289,6 +113296,7 @@ zzzyk.com###Tinfo
 ||lepe.go-static.info^
 ||lepetitdiary.com^
 ||lepidpomps.com^
+||leplvcbadrmgb.space^
 ||lepodownload.mediatek.com^
 ||leppq.northbrevardfuneralhome.com^
 ||leptabalarao.qpon^
@@ -123474,6 +123482,7 @@ zzzyk.com###Tinfo
 ||lwfw88.cn^
 ||lwgadm.com^
 ||lwh1.carrefour-banque.fr^
+||lwh3ncm5ng5pwm.rest^
 ||lwhhscaioywoy.online^
 ||lwhsdfc.cn^
 ||lwide.xyz^
@@ -140841,6 +140850,7 @@ zzzyk.com###Tinfo
 ||npdwrpqhfmlhfk.com^
 ||npdysftocspic.online^
 ||npeeggzb.com^
+||npfbhhacnbios.space^
 ||npfga.nourishpetfood.co.uk^
 ||npfnnmbcuotel.website^
 ||npfopn.mix.tokyo^
@@ -150952,6 +150962,7 @@ zzzyk.com###Tinfo
 ||pnlgtgdkpyvdy.space^
 ||pnlhnx.xyz^
 ||pnlwakao.santegidio.org^
+||pnlx1ofua.com^
 ||pnm6.6t.com^
 ||pnmxahlvqeaaa.space^
 ||pnn3u5nyuhew8ynwomi.rest^
@@ -152037,6 +152048,7 @@ zzzyk.com###Tinfo
 ||predatorvernonforefather.com^
 ||predayrotas.cyou^
 ||predestinationicebergpredicament.com^
+||predestineshack.com^
 ||predic.io^
 ||predict-log.aiclk.com^
 ||predicta.net^
@@ -153445,6 +153457,7 @@ zzzyk.com###Tinfo
 ||pts.primatrafikskola.se^
 ||ptsc.shoplocal.com^
 ||pttbesagne.qpon^
+||pttfndsfkr.com^
 ||ptthoo.farmasi-czech.cz^
 ||pttlghemsjghh.online^
 ||pttmyvlv.qpd.kunkundun.com^
@@ -156288,6 +156301,7 @@ zzzyk.com###Tinfo
 ||qsebe.hudsonjeans.com^
 ||qselic.top^
 ||qseqvo.a1securitycameras.com^
+||qserhwervpeun.online^
 ||qservz.com^
 ||qsf7.yl.ag^
 ||qsgjcqiqhaiad.online^
@@ -219283,6 +219297,7 @@ zzzyk.com###Tinfo
 ||u8ad.com^
 ||u8hexo5v.com^
 ||u8rnuky6e.com^
+||u8ynnlcvu8ppz8.cfd^
 ||u90p9zk9r7.com^
 ||u927.sfgate.com^
 ||u939.colgate.com^
@@ -242187,6 +242202,7 @@ zzzyk.com###Tinfo
 ||zlvxiw.medicarelife.com^
 ||zlwfvuhznixcn.store^
 ||zlwnnmyw.kaiporten.de^
+||zlwxhlwcui.com^
 ||zlwyiedcgsnco.store^
 ||zlx.com.br^
 ||zlxwsxcnkyeij.site^
