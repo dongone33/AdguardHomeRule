@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-25 16:07:01
-# 总规则数: 247864 (黑: 243509, 白: 4355)
+﻿# 更新时间: 2026-08-25 17:00:55
+# 总规则数: 247878 (黑: 243523, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18942,6 +18942,7 @@ zzzyk.com###Tinfo
 ||ad-dp-drcn.cloud.huawei.com.cn^
 ||ad-drop.jp^
 ||ad-drs-ipv6.52qumao.com^
+||ad-drs.52qumao.com
 ||ad-drs.52qumao.com^
 ||ad-dsp-1251779293.file.myqcloud.com^
 ||ad-ebis.bookpass.auone.jp^
@@ -20318,6 +20319,7 @@ zzzyk.com###Tinfo
 ||adfarm.mediaplex.com^
 ||adfenix.com^
 ||adferi23jv.0304p.com^
+||adfffltgiwzre.online^
 ||adfgdsd2.adskiller.com^
 ||adfgetlink.net^
 ||adfile.caixin.com^
@@ -24070,6 +24072,7 @@ zzzyk.com###Tinfo
 ||agwrybiopjmta.online^
 ||agxdzclwjcymr.space^
 ||agxwhz.bloomingdales.sa^
+||agymxoan.com^
 ||agynarysyun.cyou^
 ||agzdvulilbauk.website^
 ||agzx.terrassewilliamgray.com^
@@ -45696,6 +45699,7 @@ zzzyk.com###Tinfo
 ||chiamfxz.com^
 ||chiara-zupp.net.mydays.de^
 ||chiasmiraisers.com^
+||chiba-roudoukyoku.jsite.goaserv.com^
 ||chibi.sh^
 ||chibritgootee.cfd^
 ||chic9usia.com^
@@ -74307,6 +74311,7 @@ zzzyk.com###Tinfo
 ||eximdigital.com^
 ||eximius.epoise.com^
 ||exinariuminix.info^
+||exiniteamanous.shop^
 ||existencemelting.com^
 ||existencepawstest.com^
 ||existences2.top^
@@ -74626,6 +74631,7 @@ zzzyk.com###Tinfo
 ||eyiyoxz.xyz^
 ||eyj1h6ecupfbze.kmu2rpywcbovz3el7c6zvo.cyou^
 ||eyjs.b7nkd.cn^
+||eyjwalpeqgabo.site^
 ||eylnhf.jobhouse.jp^
 ||eylqbeu.cn^
 ||eylqdmtg.tallerdelcuadro.online^
@@ -76608,6 +76614,7 @@ zzzyk.com###Tinfo
 ||fguft.sjalipe.com^
 ||fguha.genseebeauty.com^
 ||fgujp.whataroom.com^
+||fgv159.goaserv.com^
 ||fgvdd.nectarsleep.com^
 ||fgvhnxst.wcjsph911.com^
 ||fgwuw.com^
@@ -125415,6 +125422,7 @@ zzzyk.com###Tinfo
 ||mackerel.passiveincome.io^
 ||mackinsbirianiusurper.cyou^
 ||maclwangluokeji.cn^
+||macoubzsqicun.space^
 ||macplatform.wondershare.com^
 ||macro4settings.net^
 ||macromill.com^
@@ -167708,6 +167716,7 @@ zzzyk.com###Tinfo
 ||semicjubiles.cyou^
 ||semicolonairborne.com^
 ||semicolondriverelevated.com^
+||seminarycentral.org^
 ||semiocast.com^
 ||semiorbunwall.cyou^
 ||semlimites.a2baceleradora.com^
@@ -224602,6 +224611,7 @@ zzzyk.com###Tinfo
 ||vftf7wvelt2mcjt9wew1kb.cfd^
 ||vfthr.com^
 ||vftsnnkkoitbp.space^
+||vfuipmpwqztws.online^
 ||vfuk.mno.link^
 ||vfulirgkuogp.in^
 ||vfuttiawfmix.in^
@@ -230177,6 +230187,7 @@ zzzyk.com###Tinfo
 ||wgscgs.worldsgreatestshave.com^
 ||wgtsvv.store-direct.fr^
 ||wgtugunflfxtd.site^
+||wgv.goaserv.com^
 ||wgvmiemzc4zuxlrjiqtiwvk4om.cfd^
 ||wgvmzdmasfoyu.store^
 ||wgvyey.butor1.hu^
@@ -232616,6 +232627,7 @@ zzzyk.com###Tinfo
 ||www.adintl.cn^
 ||www.admaji.com^
 ||www.admobile.top^
+||www.adnanmenderes.goaserv.com^
 ||www.adnordics.com^
 ||www.adnxs.com^
 ||www.adpinfo.com^
@@ -233242,6 +233254,7 @@ zzzyk.com###Tinfo
 ||www.zhaohainan.cn^
 ||www.ziyuanm.com.s-hl-content^
 ||www.zubo1139.com^
+||www.zumaialhi.goaserv.com^
 ||www.zzz19660123.goaserv.com^
 ||www.zzztl.com^
 ||www0-49.net.mydays.de^
@@ -240509,6 +240522,7 @@ zzzyk.com###Tinfo
 ||z444o.com^
 ||z451hzjrn3ntu1.cfd^
 ||z48b.cyou^
+||z49.queue.storage.goaserv.com^
 ||z492.ctinsider.com^
 ||z4a.net^
 ||z4ns.8890.com^
