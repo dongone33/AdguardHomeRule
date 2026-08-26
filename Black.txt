@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-27 02:53:14
-# 总规则数: 247298 (黑: 242943, 白: 4355)
+﻿# 更新时间: 2026-08-27 05:22:57
+# 总规则数: 247315 (黑: 242960, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -51155,6 +51155,7 @@ zzzyk.com###Tinfo
 ||cpu-openapi.baidu.com^
 ||cpu.baidu.com^$third-party
 ||cpu.js.org^
+||cpudonis.cyou^
 ||cpufan.club^
 ||cpuim.com^
 ||cpull.360.cn^
@@ -51340,6 +51341,7 @@ zzzyk.com###Tinfo
 ||crakrevenue.go2cloud.org^
 ||crakrevenue.xyz^
 ||craktraffic.com^
+||crambobauds.com^
 ||cramfinalizesluice.com^
 ||crammelsmokish.cyou^
 ||cramperruddy.com^
@@ -73219,6 +73221,7 @@ zzzyk.com###Tinfo
 ||eupvygwytrdze.online^
 ||eupzmvvsdgvmk.site^
 ||euqsfp.belluna.jp^
+||euqvdiipmkpqt.space^
 ||eureka-app.eurekaplatform.org^
 ||euro-pr.eu^
 ||euro.eurobdfashion.com^
@@ -79779,6 +79782,7 @@ zzzyk.com###Tinfo
 ||fumeiti.cc^
 ||fumestealwilfrid.com^
 ||fumiad.dxys.pro^
+||fumiestbougetcrinoid.cfd^
 ||fummd03je4.com^
 ||fumulirelique.shop^
 ||fun-hits.com^
@@ -85307,6 +85311,7 @@ zzzyk.com###Tinfo
 ||gpydym.cn^
 ||gpyuljehcsmeu.space^
 ||gpzhcc.lapeyre.fr^
+||gpzrtkxkscub.com^
 ||gpzxduotqouau.store^
 ||gqact.fleurdumal.com^
 ||gqalqi656.com^
@@ -102215,6 +102220,7 @@ zzzyk.com###Tinfo
 ||injusticebakery.com^
 ||injzufavkuark.space^
 ||inkblotst.com^
+||inkcoupon.com^
 ||inkfeedmausoleum.com^
 ||inkgdrdgypkar.website^
 ||inkingnabby.cfd^
@@ -107543,6 +107549,7 @@ zzzyk.com###Tinfo
 ||juicebarads.com^
 ||juicebard.com^
 ||juiceblocks.com^
+||juicemovement.com^
 ||juicingoasis.com^
 ||juicyads.com^
 ||juicyads.in^
@@ -109394,6 +109401,7 @@ zzzyk.com###Tinfo
 ||kiiewncsjkmon.site^
 ||kiiqnnx.cn^
 ||kiitsl.icu^
+||kiiytlrwnoptz.site^
 ||kijbwvznaofju.website^
 ||kikarsundown.com^
 ||kiki.rireetchansons.fr^
@@ -111368,6 +111376,7 @@ zzzyk.com###Tinfo
 ||kzslzfuvnrmxz.online^
 ||kzsvo.sportrx.com^
 ||kzt2afc1rp52.com^
+||kztkboivexxpj.site^
 ||kzuozcmwoap.in^
 ||kzuqpscnidssd.website^
 ||kzurl11.cn^
@@ -125707,6 +125716,7 @@ zzzyk.com###Tinfo
 ||maobujie.com^
 ||maocai.xvtpvc.cn^
 ||maodz.cn^
+||maomaoschout.com^
 ||maomaotang.com^
 ||maomi57575858.cc^
 ||maomisp.vqp95ds.com^
@@ -125816,6 +125826,7 @@ zzzyk.com###Tinfo
 ||marimedia.com^
 ||marinadelifestyle.com^
 ||marinadeworriesdurable.com^
+||marinatrillguarabu.cyou^
 ||marine.xhamster.com^
 ||marine.xhamster.desi^
 ||marine.xhamster2.com^
@@ -145489,6 +145500,7 @@ zzzyk.com###Tinfo
 ||oxshgkbicsayq.website^
 ||oxskinbini.cyou^
 ||oxsm.top^
+||oxtailmilden.com^
 ||oxtlululpbcpx.com^
 ||oxtodtcimagw.in^
 ||oxtracking.com^
@@ -155861,6 +155873,7 @@ zzzyk.com###Tinfo
 ||qrnzi.solawave.co^
 ||qrohlk.findomestic.it^
 ||qrojg.nakedsundays.com^
+||qrotubtfspqhs.space^
 ||qroyrbh.veneera.fr^
 ||qrpqnjbslsmey.site^
 ||qrpwgt.drezzy.it^
@@ -223077,6 +223090,7 @@ zzzyk.com###Tinfo
 ||valestumble.com^
 ||valetedtighter.qpon^
 ||valetturbulentwonderfully.com^
+||valexnikitdlg.site^
 ||valf.atm.cp31.ott.cibntv.net^
 ||valf.atm.youku.com^
 ||valfatm.cp12.wasu.tv^
@@ -226835,6 +226849,7 @@ zzzyk.com###Tinfo
 ||vwfwdxariknxp.website^
 ||vwfxuhjgwwent.online^
 ||vwhi.gou.sogou.com^
+||vwhngsatdzsyj.website^
 ||vwietcombank.com^
 ||vwiind.beautyforever.com^
 ||vwiy.cn^
@@ -233953,6 +233968,7 @@ zzzyk.com###Tinfo
 ||xgjktx.careofcarl.dk^
 ||xgkrkm.qualitybath.com^
 ||xglcva.racechip.us^
+||xglenntvacecj.site^
 ||xglryxd.cn^
 ||xglvldsblpkad.online^
 ||xgmc6lu8fs.me^
@@ -238897,6 +238913,7 @@ zzzyk.com###Tinfo
 ||yqeaelhqycxcp.website^
 ||yqeshhkcliqgh.website^
 ||yqfax76xs.com^
+||yqfjsdwpduyku.online^
 ||yqg.jobui.com^
 ||yqgbrupozdfrn.site^
 ||yqgjq.com^
