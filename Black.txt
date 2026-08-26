@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-26 20:05:48
-# 总规则数: 247196 (黑: 242840, 白: 4356)
+﻿# 更新时间: 2026-08-26 21:17:14
+# 总规则数: 247215 (黑: 242859, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -36212,6 +36212,7 @@ zzzyk.com###Tinfo
 ||beautiful45.com^
 ||beautifulrope.com^
 ||beautify.shanhutech.cn^
+||beautknives.com^
 ||beauty1.xyz^
 ||beautylamp.cn^
 ||beautylulu.com^
@@ -37356,6 +37357,7 @@ zzzyk.com###Tinfo
 ||bidrbu.bett1.at^
 ||bids.concert.io^
 ||bidscape.it^
+||bidscube.com^
 ||bidsimulator.com^
 ||bidsms.com^
 ||bidsopt.com^
@@ -62577,6 +62579,7 @@ zzzyk.com###Tinfo
 ||devotedcoexistsuspected.com^
 ||devoteddorothybeastly.com^
 ||devoteegibberishsinister.com^
+||devotemucatefordull.cyou^
 ||devotionalclicks.amazingfacts.org^
 ||devotoeloigns.qpon^
 ||devphp.org.ua^
@@ -82925,6 +82928,7 @@ zzzyk.com###Tinfo
 ||gicowcqhrjbwd.space^
 ||gid.tapapis.cn^
 ||giddycoat.com^
+||giddyplastic.pro^
 ||giddyrabiddaylight.com^
 ||giddyuptrk.com^
 ||gideonofrat.goaserv.com^
@@ -82963,6 +82967,7 @@ zzzyk.com###Tinfo
 ||gigapromo.de^
 ||gigcount.com^
 ||gigeo.eniva.com^
+||gigeucyldxrmp.space^
 ||gigglegrowlworrisome.com^
 ||gigglemagnetismunaired.com^
 ||gigkarma.com^
@@ -104864,6 +104869,7 @@ zzzyk.com###Tinfo
 ||jbbydz.icu^
 ||jbbyyryolmlvq.top^
 ||jbbyyryolqvvb.top^
+||jbbyyryywmkkb.top^
 ||jbcbio.cn^
 ||jbcbuy.com^
 ||jbcekxybbwsbz.website^
@@ -110124,6 +110130,7 @@ zzzyk.com###Tinfo
 ||knrzytcl7npbfz.p1fw1423z44lx17.cyou^
 ||knsoknmyvyhab.website^
 ||knucklemonthsedifice.com^
+||knueqofkktzpk.site^
 ||knutecauma.cyou^
 ||knutenegros.pro^
 ||knuteval.shop^
@@ -110571,6 +110578,7 @@ zzzyk.com###Tinfo
 ||kronoid29.net^
 ||kropka.onet.pl^
 ||krorq.heckinunicorn.com^
+||krp6o3j47gougm.rest^
 ||krpano.org^
 ||krpqxkttewzdu.online^
 ||krpzrjejyniif.online^
@@ -111337,6 +111345,7 @@ zzzyk.com###Tinfo
 ||kzxk7xixz.com^
 ||kzxsrxf.cn^
 ||kzxwkvkvdyzus.online^
+||kzyb5utt29fpgycpk29j5c791oyb65yoxw.cfd^
 ||kzyljd.jakshoes.com^
 ||kzymlc.msccroisieres.fr^
 ||kzzs.shop^
@@ -132521,6 +132530,7 @@ zzzyk.com###Tinfo
 ||mfan.iclick.com.cn^
 ||mfbkiztixbtdj.online^
 ||mfbmc.shopmilano.com^
+||mfbvstxfenjrh.site^
 ||mfcewkrob.com^
 ||mfcvxw.cn^
 ||mfcyy.revelationhealth.com^
@@ -145397,6 +145407,7 @@ zzzyk.com###Tinfo
 ||oxidesearching.com^
 ||oxidizegront.cyou^
 ||oxidy.com^
+||oxietdrlrhkkq.website^
 ||oxifwsabgd.nzz.ch^
 ||oxinahpvmdpmm.space^
 ||oxj8hcfg.xyz^
@@ -149926,6 +149937,7 @@ zzzyk.com###Tinfo
 ||planarian.dtesta.com^
 ||planarian.fatsackfails.com^
 ||planarian.reverberate.org^
+||planchlexeme.com^
 ||planconfig.openspeech.cn^
 ||plane.thebiblechat.com^
 ||planeadvancing.com^
@@ -154754,6 +154766,7 @@ zzzyk.com###Tinfo
 ||qfqbznmeuztgs.website^
 ||qfqgzbbjjutfs.site^
 ||qfqze.northshoes.co.uk^
+||qfruliwdmaas.com^
 ||qfs365.com^
 ||qft.anni.si^
 ||qftpgz.socarrao.com.br^
@@ -155577,6 +155590,7 @@ zzzyk.com###Tinfo
 ||qplywkhnlfyfy.online^
 ||qpmelqzaasl.com^
 ||qpmue.xyz^
+||qpnhvgowrlfox.online^
 ||qpnippagdkadi.online^
 ||qpnnnvtyysd.com^
 ||qpoiwnelc.com^
@@ -156399,6 +156413,7 @@ zzzyk.com###Tinfo
 ||quuyod647i.cn^
 ||quw18.com^
 ||quwtzyadstt.com^
+||quwvafjis.in^
 ||quxgijjahdogb.site^
 ||quxiangkeji.cn^
 ||quxianzhuan.com^
@@ -165346,6 +165361,7 @@ zzzyk.com###Tinfo
 ||sbenx.com^
 ||sbeqti.koaj.co^
 ||sbermarketing.ru^
+||sbfalhfrcwptz.site^
 ||sbfrnq.naturalforme.fr^
 ||sbfsdvc.com^
 ||sbgf24d.net^
@@ -235951,6 +235967,7 @@ zzzyk.com###Tinfo
 ||xreach.miaozhen.com^
 ||xrecord.xyz^
 ||xrff-adguard.pro^
+||xrggwzewhf.com^
 ||xrhf.taimei-t336.vip^
 ||xrhf.taimei-t546.vip^
 ||xrhrrk.steepandcheap.com^
@@ -236004,6 +236021,7 @@ zzzyk.com###Tinfo
 ||xrtzf.com^
 ||xrujmo.wallpaper-it.com^
 ||xrujupffivxxb.space^
+||xrunfmohndiuj.website^
 ||xruulc.some-place.co.kr^
 ||xrvppx.nagem.com.br^
 ||xrvqjyabjauuj.site^
@@ -241730,6 +241748,7 @@ zzzyk.com###Tinfo
 ||zoachoar.net^
 ||zoaclachan.cyou^
 ||zoaeaeucrasy.qpon^
+||zoaeafogyishunl.cfd^
 ||zoaenkekd.com^
 ||zoaisgughwyvm.space^
 ||zoanoowhooky.net^
