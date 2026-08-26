@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-26 23:59:45
-# 总规则数: 247248 (黑: 242892, 白: 4356)
+﻿# 更新时间: 2026-08-27 00:55:33
+# 总规则数: 247267 (黑: 242912, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -21369,6 +21369,7 @@ zzzyk.com###Tinfo
 ||ads-lite2.net^
 ||ads-log.huolala.cn^
 ||ads-lot.ru^
+||ads-marketing-vivofs.vivo.com.cn
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-media.gameforge.com^
 ||ads-media.wildberries.ru^
@@ -39914,6 +39915,7 @@ zzzyk.com###Tinfo
 ||brn99.plastic5665765.com^
 ||brnc.seidecor.com.br^
 ||brndrm.com^
+||brngawhfhtebz.website^
 ||brnju6iwxxgozijo3t.rest^
 ||brnyzr.icu^
 ||bro.flyme.cn^
@@ -41854,6 +41856,7 @@ zzzyk.com###Tinfo
 ||cabberjasey.qpon^
 ||cabccumqxzevy.space^
 ||cabhwq.com^
+||cabildosingultpapua.qpon^
 ||cabindasillockelevons.cyou^
 ||cabindauridine.cyou^
 ||cabinetmuzzled.cfd^
@@ -42264,6 +42267,7 @@ zzzyk.com###Tinfo
 ||camzap.com^
 ||can-get-some.in^
 ||can.cleaningpros.ca^
+||canaanlungee.com^
 ||canabastrobic.cyou^
 ||canada.deloitte-digital-engage.adobesandbox.com^
 ||canadamarketing.travelsavers.com^
@@ -76079,6 +76083,7 @@ zzzyk.com###Tinfo
 ||felidae.theforeignarchitect.com^
 ||felidae.top10partnersuche.ch^
 ||feline-fortune.pro^
+||felinesocial.com^
 ||felinum.goasrv.com^
 ||felix.alpinloacker.com^
 ||felix.feelgrounds.com^
@@ -80995,6 +81000,7 @@ zzzyk.com###Tinfo
 ||gameresource.itop.qq.com^
 ||gamergirl.pro^
 ||gamerhit.co^
+||gamerone.net^
 ||gamerplay67.space^
 ||gamersad.com^
 ||gamersshield.com^
@@ -85460,6 +85466,7 @@ zzzyk.com###Tinfo
 ||graveactive.cyou^
 ||gravegrandmother.com^
 ||gravel.net.mydays.de^
+||gravelsduniteshexoses.cyou^
 ||gravelsemesterflourish.com^
 ||gravelyjovialelemental.com^
 ||gravenesswomanlesszestfully.com^
@@ -92420,6 +92427,7 @@ zzzyk.com###Tinfo
 ||gyjerttqiqokh.online^
 ||gyjinchuang.vip^
 ||gykj.xyz^
+||gykpevjdkqyys.online^
 ||gylavpnvbaacd.online^
 ||gylor.xyz^
 ||gylxwpwabgp.com^
@@ -96618,6 +96626,7 @@ zzzyk.com###Tinfo
 ||hsmehkdosatlz.space^
 ||hsmgnobyomsea.space^
 ||hsncjd.xbiquge6.com^
+||hsnkwgcteukfy.online^
 ||hsnpvcdgenfwg.space^
 ||hsnskx.care^
 ||hsosldhfbjtss.website^
@@ -98004,6 +98013,7 @@ zzzyk.com###Tinfo
 ||iaa.wabl.sa^
 ||iaaaz.com.364cyd.net^
 ||iaacknkvbidsc.site^
+||iaahxcxdjhrsr.space^
 ||iaalxo.vans.ru^
 ||iab-imp-gateway.supersonicads.com^
 ||iabchina.cn^
@@ -105372,6 +105382,7 @@ zzzyk.com###Tinfo
 ||jfjjkyifclsve.site^
 ||jfjle4g5l.com^
 ||jfjsp.com^
+||jfk2kjxlh3mn3lbuyj1xf2l4k8x78gycrbn.cfd^
 ||jflfgirfvthuj.website^
 ||jfllppccauvpj.online^
 ||jflmhtxvgslfe.space^
@@ -108844,6 +108855,7 @@ zzzyk.com###Tinfo
 ||kejiadoor.cn^
 ||kejreecs.twin.so^
 ||keke.cn^
+||kekmwvqrrexim.online^
 ||kekop.cn^
 ||kektds.com^
 ||kelchinprune.cfd^
@@ -112312,6 +112324,7 @@ zzzyk.com###Tinfo
 ||lbaoj.com^
 ||lbbah.healthletic.io^
 ||lbbanners.com^
+||lbbjokeklvmmj.top^
 ||lbbjokeqbzqqj.top^
 ||lbbjokeqbzwqk.top^
 ||lbbkrsxzhoumc.space^
@@ -112429,6 +112442,7 @@ zzzyk.com###Tinfo
 ||lchtraf.com^
 ||lchzwz.com^
 ||lciapi.ninthdecimal.com^
+||lciiwxg68iqk4rtfb9hcyn.rest^
 ||lcitatocqjyjg.website^
 ||lcju23g62w72vt.rest^
 ||lcjubw.fiksuruoka.fi^
@@ -144349,6 +144363,7 @@ zzzyk.com###Tinfo
 ||oqrwpru.cn^
 ||oqsprlaybfuzd.online^
 ||oqsrwbyb.com^
+||oqtgmysvrxkvs.online^
 ||oqtuzo.b2bpartner.cz^
 ||oqtxcfuumplee.website^
 ||oquassaclaroesjaegars.cfd^
@@ -153114,6 +153129,7 @@ zzzyk.com###Tinfo
 ||ptwmstc.com^
 ||ptwmstcnt.com^
 ||ptxcfn.icu^
+||ptxlsfbohypue.site^
 ||ptyceotacvpon.site^
 ||ptygaqelxcelu.website^
 ||ptysdg.valentins.de^
@@ -171737,6 +171753,7 @@ zzzyk.com###Tinfo
 ||sfn.opposhop.cn^
 ||sfnfbubdzlfdm.online^
 ||sfngya.centrecom.com.au^
+||sfnubghez.com^
 ||sfnxvssl.cc^
 ||sfp.lollix.com.br^
 ||sfp.mcfitness.com.br^
@@ -176728,6 +176745,7 @@ zzzyk.com###Tinfo
 ||skincare.faiyazshop.com^
 ||skincheckwa-app.hotdoc.com.au^
 ||skinected.com^
+||skinhormos.cfd^
 ||skink.asorman.io^
 ||skink.magnastar.net^
 ||skinnedunsame.com^
@@ -230820,6 +230838,7 @@ zzzyk.com###Tinfo
 ||wnvqeizwbpads.online^
 ||wnvxsbctvedod.online^
 ||wnwkt6206g.com^
+||wnwtfmpsmslwi.site^
 ||wnxluflnmqxyh.online^
 ||wnyhuwsmimlzop.com^
 ||wnymfqnrzp6.com^
@@ -239550,6 +239569,7 @@ zzzyk.com###Tinfo
 ||yx659.com^
 ||yxanmbanrwlc.com^
 ||yxapp.yixincapital.com^
+||yxbosnfetpfaw.com^
 ||yxbyd.store^
 ||yxbzyppfgrhze.site^
 ||yxcpm.com^
@@ -245759,7 +245779,6 @@ zzzyk.com###Tinfo
 @@||p9-catpcha.byteimg.com^
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
-@@||p9-dy.byteimg.com
 @@||p9-dy.byteimg.com^
 @@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
