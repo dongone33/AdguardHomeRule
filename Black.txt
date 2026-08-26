@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-26 12:11:01
-# 总规则数: 247206 (黑: 242851, 白: 4355)
+﻿# 更新时间: 2026-08-26 12:58:13
+# 总规则数: 247224 (黑: 242869, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9507,6 +9507,7 @@ zzzyk.com###Tinfo
 ||29b0156692.e2d8db7931.com^
 ||29b08169.skr001.cc^
 ||29e5534ea20a8.cdn.sohucs.com^
+||29fov4e2bf3vty.cfd^
 ||29iiio.zhsc.ink.01ce1266.cdnhwcaoc115.cn^
 ||29iiio.zhsc.ink^
 ||29ruu0q5p.com^
@@ -30140,6 +30141,7 @@ zzzyk.com###Tinfo
 ||apkyeimuizlax.space^
 ||apl.headlines.pw^
 ||aplasted.com^
+||apljelzxkmgrj.space^
 ||aplobv.xexymix.com^
 ||aplpmvfnyoxji.space^
 ||aplsof2fd.*.com^
@@ -34145,6 +34147,7 @@ zzzyk.com###Tinfo
 ||azazyjjovmyow.top^
 ||azb6ljd22.com^
 ||azbjisdbhjwdq.website^
+||azbjjbwbloqra.top^
 ||azbjjbwvqozvj.top^
 ||azbns.com^
 ||azbrtw.anydesk.com^
@@ -34714,6 +34717,7 @@ zzzyk.com###Tinfo
 ||babybubble.cn^
 ||babyhonoursspoken.com^
 ||babyingputout.shop^
+||babyishsteak.pro^
 ||babymoment.net^
 ||babzg.nakedsundays.com^
 ||bac1.dcloud.net.cn^
@@ -40307,6 +40311,7 @@ zzzyk.com###Tinfo
 ||btebgl.xyz^
 ||btecvxxnfqaio.site^
 ||btegxrphkoxxw.site^
+||btejjwfirzgmt.space^
 ||btekrsdtyobog.site^
 ||btescs.fun^
 ||bteucoiyp.com^
@@ -48163,6 +48168,7 @@ zzzyk.com###Tinfo
 ||cocauseuncharmfun.qpon^
 ||coccccc.cc^
 ||coccidsepiola.shop^
+||cochairdauw.cyou^
 ||cochiefplaning.shop^
 ||cochin.net.anwalt.de^
 ||cocjl.statefortyeight.com^
@@ -86059,6 +86065,7 @@ zzzyk.com###Tinfo
 ||gsyono.ateliergs.be^
 ||gszau.thefryecompany.com^
 ||gszipwrttnsxu.website^
+||gsznyziq.com^
 ||gszpyqkktlsw.ssuyrzj.top^
 ||gt.drink-mana.com^
 ||gt.drink-mana.de^
@@ -94271,6 +94278,7 @@ zzzyk.com###Tinfo
 ||hentaionline.net^
 ||hente.afffclaimscenter.com^
 ||hentent.stre4mplay.one^
+||henterjacksaw.com^
 ||hentscreens.com^
 ||henwilkson.com^
 ||henyardwrister.cfd^
@@ -110375,6 +110383,7 @@ zzzyk.com###Tinfo
 ||kpapyw.icu^
 ||kpbmqxucd.com^
 ||kpbzar.warbyparker.com^
+||kpcqleiuipnp.com^
 ||kpcyic.sportisimo.cz^
 ||kpd63519s.com^
 ||kpdfoljzfirgj.website^
@@ -144334,6 +144343,7 @@ zzzyk.com###Tinfo
 ||oqr4.destinia.in^
 ||oqrdryfmeo.in^
 ||oqrwpru.cn^
+||oqsprlaybfuzd.online^
 ||oqsrwbyb.com^
 ||oqtuzo.b2bpartner.cz^
 ||oqtxcfuumplee.website^
@@ -148111,6 +148121,7 @@ zzzyk.com###Tinfo
 ||penlopcirri.cfd^
 ||penna.peninhaimobiliaria.com.br^
 ||pennetdhotispulpous.qpon^
+||penneyoarlikecrany.cyou^
 ||penniedtache.com^
 ||pennilessboost.com^
 ||pennilesscomingall.com^
@@ -156310,6 +156321,7 @@ zzzyk.com###Tinfo
 ||quininfusilfriar.cyou^
 ||quinolskinboot.shop^
 ||quintelligence.com^
+||quintwoy.com^
 ||quinylmane.qpon^
 ||quioneroudle.com^
 ||quipin.cn^
@@ -165627,6 +165639,7 @@ zzzyk.com###Tinfo
 ||scarvesrepaid.com^
 ||scashwl.com^
 ||scatchostomy.qpon^
+||scatheddedit.com^
 ||scatteredheat.com^
 ||scatteredstream.com^
 ||scattyjigmen.shop^
@@ -218240,6 +218253,7 @@ zzzyk.com###Tinfo
 ||twlcyc.cn^
 ||twldmx.com^
 ||twlw3vuz5f.com^
+||twmvthuwcluox.online^
 ||twnb.xyz^
 ||twns.p2ptun.qq.com^
 ||two.abayaelegance.com^
@@ -222768,6 +222782,7 @@ zzzyk.com###Tinfo
 ||v2server.girorganic.com^
 ||v2sso.oneway.mobi^
 ||v2st.shinobi.jp^
+||v2yzogykmx1i6t.rest^
 ||v3-ad.ixigua.com^
 ||v3-ad.video.yximgs.com^
 ||v3-be-pack.pglstatp-toutiao.com^
@@ -231312,6 +231327,7 @@ zzzyk.com###Tinfo
 ||wrhgivbwofdba.space^
 ||wrhuawkplaniu.online^
 ||wrhv.education.gouv.fr^
+||wridelamiterbezanty.cyou^
 ||wriestguaza.qpon^
 ||wrigglefinviewed.com^
 ||wrimpleapsid.qpon^
@@ -233110,6 +233126,7 @@ zzzyk.com###Tinfo
 ||wzhagc.cn^
 ||wzj.ywrjgzs.com^
 ||wzjijia.com^
+||wzjosexuyafjz.site^
 ||wzjs.cdn.bcebos.com^
 ||wzjs.me^
 ||wzjs1.oss-accelerate.aliyuncs.com^
@@ -237202,6 +237219,7 @@ zzzyk.com###Tinfo
 ||ybmdmdat.masonsmeats.eu^
 ||ybmhowqhutghd.store^
 ||ybmmejnmkflmw.site^
+||ybnarmqssukdj.space^
 ||ybncrxjcjqu.com^
 ||ybnndud.cn^
 ||ybnquhcbojngd.space^
