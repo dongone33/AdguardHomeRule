@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-27 00:55:33
-# 总规则数: 247267 (黑: 242912, 白: 4355)
+﻿# 更新时间: 2026-08-27 02:53:14
+# 总规则数: 247298 (黑: 242943, 白: 4355)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -18439,6 +18439,7 @@ zzzyk.com###Tinfo
 ||acgzr.lovisajewellery.eu^
 ||achangxingzy.xyz^
 ||acharyastonilypageboy.cyou^
+||achateprepaid.cfd^
 ||achatesgushily.cfd^
 ||achcdn.com^
 ||acheergigabitshamans.qpon^
@@ -18809,6 +18810,7 @@ zzzyk.com###Tinfo
 ||actuallysheep.com^
 ||actuallysnake.com^
 ||actualtrade.eu^
+||actuarygassed.com^
 ||actuateslod.cyou^
 ||acuchikittul.cfd^
 ||acuh567.com^
@@ -27825,6 +27827,7 @@ zzzyk.com###Tinfo
 ||anik.weavercre8ive.com^
 ||animal-graylog.happyelements.cn^
 ||animalcoder.com^
+||animalgush.cyou^
 ||animasoorie.com^
 ||animatedlook.com^
 ||animaux.oworld.fr^
@@ -35333,6 +35336,7 @@ zzzyk.com###Tinfo
 ||barinvent.net^
 ||barium.cheezdev.com^
 ||barkanneumeseuro.cyou^
+||barkarytummy.cyou^
 ||barkequilibrium.com^
 ||barkfactor.com^
 ||barkiertricks.shop^
@@ -35456,6 +35460,7 @@ zzzyk.com###Tinfo
 ||batsavcdn.ksmobile.net^
 ||batteryagatha.qpon^
 ||battleburst.com^
+||battledburs.qpon^
 ||battleickhope.com^
 ||battlekite.com^
 ||battlekun.com^
@@ -37948,6 +37953,7 @@ zzzyk.com###Tinfo
 ||bkezgkhgnqcpb.online^
 ||bkfhvpacslvjh.site^
 ||bkgclwupffqez.site^
+||bkgrmuxmacby.com^
 ||bkgzynoggdslv.website^
 ||bkhblj.xyz^
 ||bkhhmyjvmfgxg.online^
@@ -40980,6 +40986,7 @@ zzzyk.com###Tinfo
 ||bwtubspjogxsz.space^
 ||bwujxl.yoga-lava.com^
 ||bwvafk.yrqmtgwldcq.com^
+||bwvffebbohhiv.site^
 ||bwvgtmxrqmkwv.website^
 ||bwvhtadad.com^
 ||bwwardgyspxvy.site^
@@ -44871,6 +44878,7 @@ zzzyk.com###Tinfo
 ||center-api.gamekuaishou.com^
 ||center.io^
 ||centeredphosphate.com^
+||centeriranist.cyou^
 ||centertime.ksyun.com^
 ||centiarsags.cyou^
 ||centimetrebracketasperity.com^
@@ -72140,6 +72148,7 @@ zzzyk.com###Tinfo
 ||epartoukfarepu.org^
 ||epats.robinunderwear.com^
 ||epauletfours.cyou^
+||epaulewhine.qpon^
 ||epbssmpdthcsl.site^
 ||epcdko.forevernew.com.au^
 ||epcpz.limelush.com^
@@ -77996,6 +78005,7 @@ zzzyk.com###Tinfo
 ||fmcjpaspndckq.space^
 ||fmcnbmrafxjwq.website^
 ||fmctzfro.gais.io^
+||fmdyjeawxxqqq.space^
 ||fmedia.im.jiguang.cn^
 ||fmeeelobzlamc.space^
 ||fmei.wang^
@@ -82404,6 +82414,7 @@ zzzyk.com###Tinfo
 ||gev.dfx284.xyz^
 ||gevan.freshchileco.com^
 ||gevgm.cloudninehair.com^
+||gevqylgklqzso.site^
 ||gevzke.annonces-automobile.com^
 ||gewge.sn.aqhmd.com^
 ||gewjleqnsivvn.site^
@@ -84925,6 +84936,7 @@ zzzyk.com###Tinfo
 ||goodadvert.
 ||goodadvert.ru^
 ||goodandsoundcontent.com^
+||goodandwild.com^
 ||goodbark.com^
 ||goodbusinesspark.com^
 ||goodbyeeyesight.com^
@@ -100863,6 +100875,7 @@ zzzyk.com###Tinfo
 ||index.umeng.com^
 ||index.woai310.com^
 ||indexad.net^
+||indexervetteddefoil.cfd^
 ||indexeseconomicsenrage.com^
 ||indexs.zjqfart.cn^
 ||indexstats.com^
@@ -102330,6 +102343,7 @@ zzzyk.com###Tinfo
 ||inpower.goasrv.com^
 ||inppcdn.com^
 ||inpref.com^
+||inputcavia.cfd^
 ||inputicicle.com^
 ||inputl2.xfinfr.com^
 ||inputtwelfthrealistic.com^
@@ -104717,6 +104731,7 @@ zzzyk.com###Tinfo
 ||jaimbai2b1.com^
 ||jaimeecartebung.qpon^
 ||jaimeprobabilidadyestadistica.goaserv.com^
+||jainapedicle.cyou^
 ||jaipp.goaserv.com^
 ||jaisie.goasrv.com^
 ||jaixajhu.com^
@@ -113323,6 +113338,7 @@ zzzyk.com###Tinfo
 ||lgbdxo.azazie.com^
 ||lgcns.goldenplanet.co.kr^
 ||lgdpf.roark.com^
+||lgdsgmxbimlsm.site^
 ||lgdsvuwxjbhwz.site^
 ||lgecokr.api.useinsider.com^
 ||lgecqrb.com^
@@ -122041,6 +122057,7 @@ zzzyk.com###Tinfo
 ||lorryurban.com^
 ||lorymo.online^
 ||los.2hisnd.com^
+||losangnosher.qpon^
 ||lose4admin.de^
 ||losecounter.de^
 ||loseimposeherself.com^
@@ -123062,6 +123079,7 @@ zzzyk.com###Tinfo
 ||luststeelie.qpon^
 ||lustygg.com^
 ||lusupodum.com^
+||lususessupinelivedo.qpon^
 ||lutamivu.cdnfree.org^
 ||lutealbeatae.com^
 ||luteciaporkpen.qpon^
@@ -142268,6 +142286,7 @@ zzzyk.com###Tinfo
 ||oetqvicnhifip.site^
 ||oetremlyfmekm.site^
 ||oetvmdsvpckci.site^
+||oeubadryzvwyk.space^
 ||oeufihzttngjt.website^
 ||oeulxyw.com^
 ||oevery.com^
@@ -142397,6 +142416,7 @@ zzzyk.com###Tinfo
 ||ofhypnoer.com^
 ||ofhzqxpfhusrw.website^
 ||ofice365.github.io^
+||oficinasetout.qpon^
 ||ofiywatidyhuq.site^
 ||ofjamkwak.com^
 ||ofjujdmsylvmo.website^
@@ -142422,6 +142442,7 @@ zzzyk.com###Tinfo
 ||ofpeg.trywellbe.de^
 ||ofpodconnmtyd.space^
 ||ofppahlkiz.com^
+||ofpqmenz.in^
 ||ofptzgmiiyeod.website^
 ||ofpwwzlrf5l7wqbn1if7.cfd^
 ||ofqkbk.proclipusa.com^
@@ -154280,6 +154301,7 @@ zzzyk.com###Tinfo
 ||q27sz.com^
 ||q296.143.cc^
 ||q29k22vpu.com^
+||q2fomkg8nzmqkh64b3x436gc.cfd^
 ||q2fwgl4q8.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
 ||q2hno7n37y4.kh6nxzf3ozmebjy2nq.cyou^
@@ -157943,6 +157965,7 @@ zzzyk.com###Tinfo
 ||reaujwzwzkdih.store^
 ||reauojyojmlcc.site^
 ||reauthenticator.com^
+||reavingpernel.qpon^
 ||rebdy.com^
 ||rebecbobol.qpon^
 ||rebeginlouvre.shop^
@@ -175724,6 +175747,7 @@ zzzyk.com###Tinfo
 ||shqjickefiglh.website^
 ||shqmetrics.sony.com^
 ||shqxt.prickstop.com^
+||shreddypfennig.shop^
 ||shredform.com^
 ||shredquiz.com^
 ||shrek.6.cn^
@@ -204490,6 +204514,7 @@ zzzyk.com###Tinfo
 ||t7k3n9.micasa.ch^
 ||t7qmlfbt1hn9.obs.cn-north-1.myhuaweicloud.com^
 ||t7x22m7c.com^
+||t7yjo353fxc7fmhqo3m8yuepv.rest^
 ||t7ywa5ai3.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||t8.1ufztt6mkpt1p1krt3.cfd^
@@ -220263,6 +220288,7 @@ zzzyk.com###Tinfo
 ||undukelobes.cyou^
 ||undurs.1md.org^
 ||undvswusurzeq.com^
+||undwelttiredly.cfd^
 ||uneasinessresurrection.com^
 ||uneasyupstandingsubsist.com^
 ||uneede.com^
@@ -226275,6 +226301,7 @@ zzzyk.com###Tinfo
 ||vqpque.eloan.co.jp^
 ||vqptw27j.rycmp.com^
 ||vqq.admaster.com.cn^
+||vqqaelqorzzry.top^
 ||vqqca.veracityhealth.co^
 ||vqqcqfrnugfqm.site^
 ||vqqem.myovry.ca^
@@ -227541,6 +227568,7 @@ zzzyk.com###Tinfo
 ||wallpaper-1258344696.file.myqcloud.com^
 ||wallpaper.apc.360.cn^
 ||wallpapersfacts.com^
+||wallsmagged.cyou^
 ||walmartshoping.com^
 ||walmartva.icu^
 ||walmeric.com^
@@ -229271,6 +229299,7 @@ zzzyk.com###Tinfo
 ||weiekbrbolvvk.online^
 ||weifengi.xyz^
 ||weifengtianxia.com^
+||weighinalarmed.cfd^
 ||weightfeathersoffhand.com^
 ||weightwindow.com^
 ||weighty-strength.com^
@@ -231289,6 +231318,7 @@ zzzyk.com###Tinfo
 ||wqkcsg.armandthiery.fr^
 ||wqkptgmrlkkel.online^
 ||wqkygg.maschinensucher.de^
+||wqldvxtfwamtu.online^
 ||wqmnhaxnmdvdu.space^
 ||wqmnvspyjhgqhqn.com^
 ||wqmobile.com^
@@ -235988,6 +236018,7 @@ zzzyk.com###Tinfo
 ||xqvdz.loganhollowell.com^
 ||xqvenulmbseas.space^
 ||xqvsjtz.danielleguiziony.com^
+||xqvtewapftgrt.website^
 ||xqvtrmza.vivamebel.com^
 ||xqwaixyfvtvxy.space^
 ||xqwiremesh.com^
