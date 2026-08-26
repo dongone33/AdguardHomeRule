@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-26 19:01:10
-# 总规则数: 247273 (黑: 242917, 白: 4356)
+﻿# 更新时间: 2026-08-26 19:40:39
+# 总规则数: 247300 (黑: 242944, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -9542,6 +9542,7 @@ zzzyk.com###Tinfo
 ||2bcf8eac11.ca8ef1ccff.com^
 ||2bd89d5d9a.63b3c3ecc2.com^
 ||2bestoffer.com^
+||2bh38bi5nuh9qh4j5m4n.cfd^
 ||2bj.cn^
 ||2bqlkznz.xyz^
 ||2bssjsq.com^
@@ -11306,6 +11307,7 @@ zzzyk.com###Tinfo
 ||4v9h.880.net^
 ||4vgyjja.cn^
 ||4vo8.zmyzqcinzyixm2e.cfd^
+||4vquwe6gjri9kej3i.rest^
 ||4vv5.7790.com^
 ||4w09ji.com^
 ||4w3ol467n.com^
@@ -18112,6 +18114,7 @@ zzzyk.com###Tinfo
 ||absentlylaserlardy.com^
 ||absentwhimdesired.com^
 ||absinfo.eagle.org^
+||absistjib.cfd^
 ||abslakpdotzst.site^
 ||absm.hostliger.com^
 ||absod.video.iqiyi.com^
@@ -27786,6 +27789,7 @@ zzzyk.com###Tinfo
 ||andyfanfan.xyz^
 ||andyhoppe.com^
 ||ane.yahoo.co.jp^
+||aneareddossmen.qpon^
 ||aneathyocked.shop^
 ||aneguftwymwfg.store^
 ||anemiachoky.com^
@@ -32521,6 +32525,7 @@ zzzyk.com###Tinfo
 ||aspensjokist.shop^
 ||asperencium.com^
 ||asperlyhallowsleersia.cfd^
+||aspicchurrip.shop^
 ||aspignitean.com^
 ||aspirationprogrammecontains.com^
 ||aspiredemeaningmarvelous.com^
@@ -36649,6 +36654,7 @@ zzzyk.com###Tinfo
 ||berthedhippish.shop^
 ||berthfrankly.com^
 ||bertsysxmykqm.online^
+||berunhowbeit.cfd^
 ||berush.com^
 ||berylnbb.com^
 ||bes-api.oceanengine.com^
@@ -45269,6 +45275,7 @@ zzzyk.com###Tinfo
 ||chaintopdom.nl^
 ||chaipoodrort.com^
 ||chaireggnog.com^
+||chairermomma.shop^
 ||chairman69.top^
 ||chairmansmile.com^
 ||chairqed.cfd^
@@ -47134,6 +47141,7 @@ zzzyk.com###Tinfo
 ||clientlogsf.music.163.com^
 ||clientmetrics-augmentum.kik.com^
 ||clientmetrics.kik.com^
+||clientpooches.cfd^
 ||clients.aon.com^
 ||clients.belairdirect.com^
 ||clients.hermes-investment.com^
@@ -47327,6 +47335,7 @@ zzzyk.com###Tinfo
 ||clogging.devcoal.net^
 ||cloggyredly.shop^
 ||clohzp.hifi.lu^
+||cloineskulls.cyou^
 ||cloisteredcurve.com^
 ||clonalfloaty.shop^
 ||clone.goaserv.com^
@@ -50420,6 +50429,7 @@ zzzyk.com###Tinfo
 ||copperegg.com^
 ||copperstills.net^
 ||coppingdabberspyrobi.cfd^
+||copraswhist.cfd^
 ||cops.policestresscourse.com^
 ||copulaehooillipe.qpon^
 ||copush.com^
@@ -73078,6 +73088,9 @@ zzzyk.com###Tinfo
 ||eu-cdn.kgm-motors.co.uk^
 ||eu-data.kameleoon.io^
 ||eu-gmtdmp.gd1.mookie1.com^
+||eu-onrt-stsdk.vivoglobal.com^
+||eu-ort-stsdk.vivoglobal.com^
+||eu-stsdk.vivoglobal.com^
 ||eu-survey.com^
 ||eu-west-1-cluster1.net.mydays.de^
 ||eu-west-2.compute.cryptohosting.eu4327052.notify6.com^
@@ -74030,6 +74043,7 @@ zzzyk.com###Tinfo
 ||ewyjmkgvvtoxy.space^
 ||ewykdrcicvpob.online^
 ||ewyvzyykjlpcu.site^
+||ex-adreq-asia.vivoglobal.com^
 ||ex.as.pptv.com^
 ||ex.mobmore.com^
 ||ex.newsland.com^
@@ -76145,6 +76159,7 @@ zzzyk.com###Tinfo
 ||fen.dkdlsj.com^
 ||fenacheaverage.com^
 ||fenai.top^
+||fenbanktoffees.cyou^
 ||fenbo.cn^
 ||fencesync.com^
 ||fenchylsquali.qpon^
@@ -78547,6 +78562,7 @@ zzzyk.com###Tinfo
 ||forwardslashetc.com^
 ||forwarnjigging.qpon^
 ||forwarnrefeel.shop^
+||forweanlappets.shop^
 ||forworksyconus.com^
 ||foryoungguys.goaserv.com^
 ||forzbv.agriconomie.be^
@@ -93493,6 +93509,7 @@ zzzyk.com###Tinfo
 ||havenclick.com^
 ||havenfromcomputing.com^
 ||havenyl.xyz^
+||haversalgieba.qpon^
 ||havetestifyharriet.com^
 ||havetohave.com^
 ||havingunderwear.com^
@@ -94749,6 +94766,7 @@ zzzyk.com###Tinfo
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
 ||hi686.com^
+||hi6uqvisz9.com^
 ||hi760.com^
 ||hi9377.com^
 ||hiabeoqxxqnec.online^
@@ -125280,6 +125298,7 @@ zzzyk.com###Tinfo
 ||magsrv.com^
 ||magstag.magnalia.com.br^
 ||magtorr.com^
+||maguarienshawl.cfd^
 ||maguruphreuza.store^
 ||mahajanenfelon.qpon^
 ||mahaldenaryfrit.qpon^
@@ -125771,6 +125790,7 @@ zzzyk.com###Tinfo
 ||maragedperiapt.qpon^
 ||marapcana.online^
 ||mararalindera.com^
+||marasdisple.shop^
 ||maraseffete.shop^
 ||marathiglowed.cfd^
 ||marathondataco.com^
@@ -137397,6 +137417,7 @@ zzzyk.com###Tinfo
 ||name.jiangoo.com^
 ||name.shkuiying.com^
 ||nameads.com^
+||nameaphrabagwig.qpon^
 ||namedq.com^
 ||namel.net^
 ||namemek.com^
@@ -148363,6 +148384,7 @@ zzzyk.com###Tinfo
 ||pertinent-yard.pro^
 ||pertinentberriesoutburst.com^
 ||pertinentking.com^
+||pertusecoshes.cfd^
 ||perukedbilker.cfd^
 ||perungordonerasing.qpon^
 ||perva.ashleyhomestore.ca^
@@ -149065,6 +149087,7 @@ zzzyk.com###Tinfo
 ||piclick.kr^
 ||picmega.com^
 ||picnewsss.com^
+||picotahmijl.cfd^
 ||picotedunwarn.qpon^
 ||picpar.com^$domain=18board.com|18p2p.com
 ||pics.firstload.de^
@@ -150751,6 +150774,7 @@ zzzyk.com###Tinfo
 ||pointclicktrack.com^
 ||pointcontinentrtb.com^
 ||pointdigestion.com^
+||pointelpunniercopped.cyou^
 ||pointillist.com^
 ||pointingdowry.com^
 ||pointless-plenty.com^
@@ -206487,6 +206511,7 @@ zzzyk.com###Tinfo
 ||tcppu.com^
 ||tcpreport.jpush.cn^
 ||tcpts.nutrafol.com^
+||tcqbelfb.com^
 ||tcragarnh.com^
 ||tcrk.brunaperipato.com.br^
 ||tcrtidleivyai.space^
@@ -208223,6 +208248,7 @@ zzzyk.com###Tinfo
 ||thunderapostrophefunds.com^
 ||thunderhead.com^
 ||thunderous-army.com^
+||thunderous-cause.com^
 ||thunderousapartment.pro^
 ||thunderousprocess.pro^
 ||thunderousschool.pro^
@@ -230629,6 +230655,7 @@ zzzyk.com###Tinfo
 ||wlkkta.lifewarehouse.net^
 ||wlkojk.orange.ro^
 ||wlkpa.cn^
+||wlleboaomjvvm.top^
 ||wllhjebhtcrjz.space^
 ||wllwdfvaudnhi.space^
 ||wlmarketing.com^
