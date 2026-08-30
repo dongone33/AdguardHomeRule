@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-08-30 19:41:10
-# 白名单规则数: 4356
+﻿# 更新时间: 2026-08-30 23:31:07
+# 白名单规则数: 4357
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -3149,6 +3149,7 @@
 @@||redir.ownpage.fr^
 @@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
+@@||redirect.disqus.com^
 @@||redirector.gvt1.com^
 @@||ref.rbauction.com^
 @@||refer.discover.com^
