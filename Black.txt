@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-02 06:03:23
-# 总规则数: 248586 (黑: 244230, 白: 4356)
+﻿# 更新时间: 2026-09-02 08:11:26
+# 总规则数: 248613 (黑: 244257, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -12057,6 +12057,7 @@ zzzyk.com###Tinfo
 ||5qoh.cn^
 ||5qryjrx3.xyz^
 ||5rfmh61.klcevcy3ngug1pb9bv6.cfd^
+||5rjz91kppoz925o95vqhwt3e1.cfd^
 ||5ru5.6t.com^
 ||5rx58mikcenx5ozf2f.cfd^
 ||5rxk.cn^
@@ -18151,6 +18152,7 @@ zzzyk.com###Tinfo
 ||abstractedamount.com^
 ||abstractedauthority.com^
 ||abstractreunion.com^
+||abstrlst.qpon^
 ||absurdapple.com^
 ||absurdbatchconfess.com^
 ||absurditylockdown.com^
@@ -25078,6 +25080,7 @@ zzzyk.com###Tinfo
 ||alfredtrimfaith.com^
 ||alga.aircounsel.com^
 ||alga9frog.com^
+||algaetriedplants.cyou^
 ||algat.intergoles.me^
 ||algatesdist.cyou^
 ||algebarhooted.qpon^
@@ -25578,6 +25581,7 @@ zzzyk.com###Tinfo
 ||alvaro.sanarconcaballos.org^
 ||alvdbm.buffalo.at^
 ||alvearysucre.cyou^
+||alvelozwei.qpon^
 ||alvenda.com^
 ||alviavalerie.cyou^
 ||alvinazigzags.cfd^
@@ -36722,6 +36726,7 @@ zzzyk.com###Tinfo
 ||beringterm.com^
 ||berjzj.xyz^
 ||berlipurplin.com^
+||bermesblights.cyou^
 ||berneseprf.cyou^
 ||berninischulz.anunciojuridico.com.br^
 ||beroll.ru^
@@ -40817,6 +40822,7 @@ zzzyk.com###Tinfo
 ||burpee.thesculptsociety.com^
 ||burpee.xyz^
 ||burrelworky.qpon^
+||burrishcrowdle.qpon^
 ||bursa.conxxx.pro^
 ||bursateyouprance.qpon^
 ||burseedphaedo.cfd^
@@ -65529,6 +65535,7 @@ zzzyk.com###Tinfo
 ||dormanttrachle.cyou^
 ||dormervias.cyou^
 ||dormiebevue.com^
+||dormietwitch.cfd^
 ||dormir.dormax.pt^
 ||dormouse.consentkit.com^
 ||dormspunned.qpon^
@@ -72649,6 +72656,7 @@ zzzyk.com###Tinfo
 ||eqnvddxleryews.com^
 ||eqobb.appfx8.com^
 ||eqocincfsnhdx.online^
+||eqodnmjyvanim.space^
 ||eqothv.degrenne.fr^
 ||eqpaulxcpirir.site^
 ||eqpcc.cn^
@@ -72769,6 +72777,7 @@ zzzyk.com###Tinfo
 ||ericabohrer.go-static.info^
 ||ericasedea.cyou^
 ||erikengager.shop^
+||erikitelustre.com^
 ||erionoxcintene.com^
 ||erisyngolerda.space^
 ||erjiyouhuiquan.com^
@@ -76474,6 +76483,7 @@ zzzyk.com###Tinfo
 ||felix3utama.goasrv.com^
 ||fellfortunatepassive.com^
 ||fellicinjure.cyou^
+||fellingseisors.cfd^
 ||felllilyforegoing.com^
 ||fellowearnwave.com^
 ||fellowshiplyricsceasless.com^
@@ -76803,6 +76813,7 @@ zzzyk.com###Tinfo
 ||fgchfhmkh.com^
 ||fgdghhts.sundt.de^
 ||fgdhfd.wbnv94.shop^
+||fgdndfqbpyuzp.online^
 ||fge9vbrzwt.bid^
 ||fgetmzx.icu^
 ||fgfecw.rebelle.com^
@@ -92471,6 +92482,7 @@ zzzyk.com###Tinfo
 ||gullahsedgingtwilt.cfd^
 ||gulliblegrip.com^
 ||gulliesbaalism.cfd^
+||gullsupbank.cfd^
 ||guloimmisincamp.qpon^
 ||gulpedcountwhipped.com^
 ||gulsyangtao.guru^
@@ -105139,6 +105151,7 @@ zzzyk.com###Tinfo
 ||j2009.v4.ddos567.net^
 ||j2097z.xyz^
 ||j2121.xyz^
+||j243poq91qhbk8fw4vw.rest^
 ||j282.thetimes-tribune.com^
 ||j2cpjr7qipjtjiip.rest^
 ||j2fu64j4e.com^
@@ -105475,6 +105488,7 @@ zzzyk.com###Tinfo
 ||jbazlkbvmyecd.website^
 ||jbbljg.autoscout24.bg^
 ||jbbralnoniaak.online^
+||jbbtyboyepzsu.site^
 ||jbbydz.icu^
 ||jbbyyryolmlvq.top^
 ||jbbyyryywmkkb.top^
@@ -106033,6 +106047,7 @@ zzzyk.com###Tinfo
 ||jgbnltrrpotbl.online^
 ||jgcakixnbnyng.website^
 ||jgchq.com^
+||jgcovosxstnnc.online^
 ||jgcq3003.com^
 ||jgdko.infinitegarden.shop^
 ||jgdqd.saskrush.com^
@@ -108178,6 +108193,7 @@ zzzyk.com###Tinfo
 ||jumperweve.cfd^
 ||jumpfiledoor.click^
 ||jumpflyerintentionally.com^
+||jumpilypashmskeily.cyou^
 ||jumplead.com^
 ||jumpm.58xmgys.com^
 ||jumpschmoos.cyou^
@@ -112304,6 +112320,7 @@ zzzyk.com###Tinfo
 ||la7890.cc^
 ||la9435.com^
 ||laarmwcgehodw.website^
+||laasfudoai.com^
 ||laastlqfntmun.online^
 ||laawmmy.cn^
 ||lab.analyticspodium.com^
@@ -114230,6 +114247,7 @@ zzzyk.com###Tinfo
 ||lichee.fun^
 ||lichenqx.com^
 ||lichenrambles.shop^
+||lichtsswiggle.cyou^
 ||lichunxiao.cn^
 ||lickbylick.com^
 ||licluumkehiwi.store^
@@ -126522,6 +126540,7 @@ zzzyk.com###Tinfo
 ||maritaluntidynegotiate.com^
 ||marjorienice.com^
 ||mark.l.qq.com^
+||markabjackboy.qpon^
 ||markadver.com^
 ||markedmeasure.com^
 ||markedoneofth.com^
@@ -133281,6 +133300,7 @@ zzzyk.com###Tinfo
 ||mfamazona.cyou^
 ||mfamcw.sodexobeneficios.com.br^
 ||mfan.iclick.com.cn^
+||mfatvdikutgoo.space^
 ||mfbkiztixbtdj.online^
 ||mfbmc.shopmilano.com^
 ||mfbvstxfenjrh.site^
@@ -134068,6 +134088,7 @@ zzzyk.com###Tinfo
 ||mistysteel.co^
 ||misunderstandprodigalnovember.com^
 ||misweenownself.com^
+||miswiremauling.qpon^
 ||miszfe.glamira.es^
 ||mit.bhw.de^
 ||mit.db.com^
@@ -135885,6 +135906,7 @@ zzzyk.com###Tinfo
 ||moxiaoyang.top^
 ||moxiplayer-ss.checkoutera.com^
 ||moxiplayer-ss.topashopo.com^
+||moxotreaty.cfd^
 ||moxycarts-ss.checkoutera.com^
 ||moyotacet.cyou^
 ||mozgvya.com^
@@ -159134,6 +159156,7 @@ zzzyk.com###Tinfo
 ||redeemspaciousdevice.com^
 ||redetaailshilet.com^
 ||redexchange.net^
+||redexecs.com^
 ||redfastlabs.com^
 ||redfinsraiment.shop^
 ||redflu.ru^
@@ -177797,6 +177820,7 @@ zzzyk.com###Tinfo
 ||skincare.faiyazshop.com^
 ||skincheckwa-app.hotdoc.com.au^
 ||skinected.com^
+||skinfulwinkled.cyou^
 ||skinhormos.cfd^
 ||skink.asorman.io^
 ||skink.magnastar.net^
@@ -209224,6 +209248,7 @@ zzzyk.com###Tinfo
 ||thongtindonhang.com^
 ||thoohizoogli.xyz^
 ||thor3.club^
+||thoraxlaith.qpon^
 ||thoriasreagreesassy.cyou^
 ||thorncontinuepalm.com^
 ||thorosecuresgnashes.cfd^
@@ -211244,6 +211269,7 @@ zzzyk.com###Tinfo
 ||tootherungaitemurres.qpon^
 ||toothpick75.com^
 ||tootlarker.com^
+||tootsieataraxy.cfd^
 ||tootsiebedims.qpon^
 ||tootsykyklops.com^
 ||toourbb.com^
@@ -244051,6 +244077,7 @@ zzzyk.com###Tinfo
 ||zymdcscw7dcdsc9whsdcdh.zq45xc.com^
 ||zyme.fodzyme.com^
 ||zymerget.win^
+||zymjzwakrmao.top^
 ||zymo.mps.weibo.com^
 ||zymro.com^
 ||zymwr.warstic.com^
