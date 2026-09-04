@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-04 13:00:22
-# 总规则数: 249310 (黑: 244953, 白: 4357)
+﻿# 更新时间: 2026-09-04 17:33:45
+# 总规则数: 249347 (黑: 244990, 白: 4357)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -6886,6 +6886,7 @@ zzzyk.com###Tinfo
 ||0x01e7.website^
 ||0x01n2ptpuz3.com^
 ||0x5.me^
+||0x79jjyph7.com^
 ||0xdv.720lu.com^
 ||0xr7ii3df.com^
 ||0xxd.com^
@@ -14609,6 +14610,7 @@ zzzyk.com###Tinfo
 ||9f1i3az.cn^
 ||9f3.fiqolvmbw4y5ve7itmp4gz7qmf.cyou^
 ||9f349a40ad7dccb9.qaxcloudwaf.com^
+||9f36nxkx8g5regk83u.rest^
 ||9f42a60958.1816460cba.com^
 ||9f88a926f4.com^
 ||9fa67c2dc3.54a73dbcb6.com^
@@ -18264,6 +18266,7 @@ zzzyk.com###Tinfo
 ||ac.ac.d.xxpkg.com^
 ||ac.art456.com^
 ||ac.atpanel.com^
+||ac.conel.jp^
 ||ac.ecai-report.com^
 ||ac.fapnado.xxx^
 ||ac.geechs-job.com^
@@ -25477,6 +25480,7 @@ zzzyk.com###Tinfo
 ||alok.asrworldfashion.com^
 ||alon.umeng.com^
 ||alonedisallowrearview.com^
+||alonelyoops.qpon^
 ||along.umeng.com^
 ||alongwindedguy.com^
 ||alont.xyz^
@@ -28322,6 +28326,7 @@ zzzyk.com###Tinfo
 ||aos.prf.hn^
 ||aos.wall.youmi.net^
 ||aosmith.advancedtech.com^
+||aoteasweats.com^
 ||aotetu.cn^
 ||aotewsxzxbnzj.space^
 ||aotheve.beacon.qq.com^
@@ -32358,6 +32363,7 @@ zzzyk.com###Tinfo
 ||asaidluz.pilotdigital.com^
 ||asakimerp.co.il^
 ||asamgd.rossmann.de^
+||asanahoked.cyou^
 ||asanalytics.booking.com^
 ||asaservicedg.csc.com^
 ||asaumbakblnpj.space^
@@ -33755,6 +33761,7 @@ zzzyk.com###Tinfo
 ||avpqvv.vowood.co.kr^
 ||avpr.cn^
 ||avptfg.madeinfrancebox.com^
+||avqb7vrufi.com^
 ||avqnzl.aktivshop.de^
 ||avqovczcoanp.com^
 ||avqymy.you.gr^
@@ -34834,6 +34841,7 @@ zzzyk.com###Tinfo
 ||bab.reinoanimalpet.com.br^
 ||babator.com^
 ||babbagephloxin.qpon^
+||babbittshalier.cyou^
 ||babbitttalitha.cyou^
 ||babblyrondeau.qpon^
 ||babdk.direct-meds.com^
@@ -40219,6 +40227,7 @@ zzzyk.com###Tinfo
 ||bronca.site^
 ||bronrt.stsdk.vivo.com.cn^
 ||bronto.com^
+||bronxmavie.shop^
 ||bronxvanilla.openapp.link^
 ||bronya.club^
 ||bronze.bygg.com.br^
@@ -50072,6 +50081,7 @@ zzzyk.com###Tinfo
 ||constellation.epghealth.com^
 ||constellation.networknmedia.com^
 ||constellationexclusion.com^
+||consterabsmho.shop^
 ||consternationeffaceearlier.com^
 ||constid.dingxiang-inc.com^
 ||constructioncans.com^
@@ -62715,6 +62725,7 @@ zzzyk.com###Tinfo
 ||depotstatustool.go-static.info^
 ||deprecated-custom-domains.b-cdn.net^
 ||depresis.com^
+||depresshaviour.cfd^
 ||deprivationperkcorrectly.com^
 ||depriverippledecadence.com^
 ||depth.nightanddayemergencydentist-sheffield.co.uk^
@@ -65822,6 +65833,7 @@ zzzyk.com###Tinfo
 ||doumvips.com^
 ||doupceticroyals.cfd^
 ||doupuer.com^
+||dousingnoggen.qpon^
 ||douyaobuy.com^
 ||douyin10010.cn^
 ||douyinve.starrydyn.com^
@@ -76674,6 +76686,7 @@ zzzyk.com###Tinfo
 ||feiraosaojoaose.goaserv.com^
 ||feiriver.com^
 ||feisia1.cn^
+||feistymeet.pro^
 ||feiten-en-fabels.goaserv.com^
 ||feitian001.com^
 ||feitianma.com^
@@ -77772,6 +77785,7 @@ zzzyk.com###Tinfo
 ||finger-info.net^
 ||fingercough.xyz^
 ||fingerhi.net^
+||fingerprint-veri.info^
 ||fingerprint.incodesmile.com^
 ||fingerprinter-production.herokuapp.com^
 ||fingersdancing14.goaserv.com^
@@ -78986,6 +79000,7 @@ zzzyk.com###Tinfo
 ||foresightcoercive.com^
 ||foresightretail.net.mydays.de^
 ||forest.zelt24.de^
+||forestaphacia.cyou^
 ||forestreveal.com^
 ||forestsdilapidation.com^
 ||forestseasons.com.cn^
@@ -81875,6 +81890,7 @@ zzzyk.com###Tinfo
 ||gasehoauzxzzt.store^
 ||gaseitycabbala.cyou^
 ||gaseous-stroke.pro^
+||gaseousfunny.com^
 ||gaserver.forcetechnology.com^
 ||gasjf.gowellfy.de^
 ||gaslah.my.id^
@@ -101548,7 +101564,6 @@ zzzyk.com###Tinfo
 ||imran.techmentorbd.com^
 ||imrboc.ikrix.com^
 ||imrhyzgb.revelo.bg^
-||imri-jewelry.co.il^
 ||imriphvynan.com^
 ||imrk.net^
 ||imrtrack.com^
@@ -103873,6 +103888,7 @@ zzzyk.com###Tinfo
 ||inuadasonqefk.website^
 ||inuae.cycologygear.co.uk^
 ||inudpbi.com^
+||inulasebortsch.shop^
 ||inurebolded.cfd^
 ||inurneddoggish.com^
 ||inutilecooeed.cyou^
@@ -106318,6 +106334,7 @@ zzzyk.com###Tinfo
 ||jfverzoeowotc.store^
 ||jfvh.31m2m7ptpemp831.cyou^
 ||jfvhb.therundown.ai^
+||jfvitjjsqxegmc.com^
 ||jfvnerukf.it.com^
 ||jfwaqjrsvshtl.online^
 ||jfwcflhysjjiq.space^
@@ -111927,6 +111944,7 @@ zzzyk.com###Tinfo
 ||kureedsnbcuuj.space^
 ||kuresdd.top^
 ||kurma.koisuper2.store^
+||kurnhiafb.in^
 ||kurogames-ads.com^
 ||kurulum.xyz^
 ||kurxabjwulu.in^
@@ -112610,6 +112628,7 @@ zzzyk.com###Tinfo
 ||l85r.cn^
 ||l85r.com^
 ||l8ek.720lu.com^
+||l8gqrqbh2ih72m2y.cfd^
 ||l8o4vnlul7oq6wg7882g95hruhx4rv.cfd^
 ||l8opsdgim.com^
 ||l936.expressnews.com^
@@ -112801,6 +112820,7 @@ zzzyk.com###Tinfo
 ||lalilulelo.khama.es^
 ||laljjn.xyz^
 ||lallansboners.cyou^
+||lallsattabal.qpon^
 ||lalooyleepohe.store^
 ||lalu.lalumini.com.br^
 ||lalu.lalunaloja.com.br^
@@ -113035,6 +113055,7 @@ zzzyk.com###Tinfo
 ||larbcc.xyz^
 ||larchesrotates.com^
 ||larcru.herno.com^
+||lardedjubas.shop^
 ||lardedronnels.cyou^
 ||lardrymizzenspointel.cfd^
 ||lardylathercenter.com^
@@ -113182,6 +113203,7 @@ zzzyk.com###Tinfo
 ||lawumi.cn^
 ||lawyeritalyaching.com^
 ||lawyers.rigbycooke.com.au^
+||lawzyhebrewsbams.cfd^
 ||lax1-ib.adnxs.com^
 ||laxativestuckunclog.com^
 ||laxativethem.com^
@@ -135764,6 +135786,7 @@ zzzyk.com###Tinfo
 ||mon3-misc.fqnovel.com^
 ||mon982.vip^
 ||mona.blackplanet.se^
+||monacandoormat.qpon^
 ||monacobeatles.com^
 ||monadplug.com^
 ||monai.vip^
@@ -137996,6 +138019,7 @@ zzzyk.com###Tinfo
 ||myip.myzaker.com^
 ||myipscanner.com^
 ||myiqvn5w3.com^
+||myitisvaire.cfd^
 ||myj966.com^
 ||myjbn51.8v9ootltl34mnxv.cyou^
 ||myjekyll.jekyllisland.com^
@@ -138826,6 +138850,7 @@ zzzyk.com###Tinfo
 ||nastydollars.com^
 ||nasutearawa.com^
 ||naszig.cn^
+||nataldecayed.shop^
 ||nataliacressed.shop^
 ||natasha.bulkbookstore.com^
 ||natchezmillie.cyou^
@@ -147687,6 +147712,7 @@ zzzyk.com###Tinfo
 ||palamounty.com^
 ||palateserious.com^
 ||palauvoltsyanquis.qpon^
+||palazzopaneslurred.cyou^
 ||palecount.com^
 ||paleleaf.com^
 ||palelitistsnick.com^
@@ -160233,6 +160259,7 @@ zzzyk.com###Tinfo
 ||rentler.se^
 ||rentpenny.com^
 ||rentracks.jp^
+||rentsuncased.cfd^
 ||renyantian.top^
 ||renzhen8.cn^
 ||reobakvmywyw.top^
@@ -161875,6 +161902,7 @@ zzzyk.com###Tinfo
 ||rmuhmdor.com^
 ||rmvgk.thepremiumtimecompany.com^
 ||rmvrpc.habi-unni.com^
+||rmvvawqzmemyq.top^
 ||rmw.jdburl.com^
 ||rmwdn.com^
 ||rmwjwj.virginiahayward.com^
@@ -208917,6 +208945,7 @@ zzzyk.com###Tinfo
 ||tentflooring.biljax.com^
 ||tentilyrouth.qpon^
 ||tentionswaver.qpon^
+||tentsanabas.shop^
 ||teoaxzazksyuo.site^
 ||teotnajhxmwts.site^
 ||teoxn.vbtvaa.com^
@@ -209702,6 +209731,7 @@ zzzyk.com###Tinfo
 ||thetindung-online-vpb.com^
 ||thetindung-online-vpb.online^
 ||thetindung-online.com^
+||thetiskikuyu.com^
 ||thetopic.co.kr^
 ||thetrafficstat.net^
 ||thetrendytales.com^
@@ -209848,6 +209878,7 @@ zzzyk.com###Tinfo
 ||thoughtlessknot.com^
 ||thoughtmetric.io^
 ||thoughtnipple.com^
+||thowtbap.cyou^
 ||thpthuynhthuckhang.edu.vn^
 ||thpvrn.icu^
 ||thq.drdiegoschitini.com.br^
@@ -211658,6 +211689,7 @@ zzzyk.com###Tinfo
 ||toiletlaceier.shop^
 ||toiletpaper.life^
 ||toioptqrfyztj.website^
+||toitransit.com^
 ||tojdz.sillysanta.nl^
 ||tok.oskari.co^
 ||tok.vaicore.xyz^
@@ -222821,6 +222853,7 @@ zzzyk.com###Tinfo
 ||upsloperoyalet.com^
 ||upsmnctvkbmaxfh.com^
 ||upsmq.perlcosmetics.com^
+||upspewseptan.qpon^
 ||upstackdata.io^
 ||upstackified.com^
 ||upstampmoxas.com^
@@ -229460,6 +229493,7 @@ zzzyk.com###Tinfo
 ||wandgigful.cfd^
 ||wandgleaming.com^
 ||wandlbbeuwauj.store^
+||wandoodeistcalzone.cyou^
 ||wandookickup.qpon^
 ||wandzcdn.com^
 ||waneycany.com^
@@ -231095,6 +231129,7 @@ zzzyk.com###Tinfo
 ||wedfrtgy6huj.9q7sjngda.cc^
 ||wedgeac.com^
 ||wedgedinured.cyou^
+||wedgegestapocoiners.cyou^
 ||wedgehastily.com^
 ||wedgingfilaria.qpon^
 ||wedl.cl.app^
@@ -231228,6 +231263,7 @@ zzzyk.com###Tinfo
 ||wel-wel-fie.com^
 ||wel.mecstore.com.br^
 ||welchedcamletairflow.qpon^
+||welcome-step.com^
 ||welcome.99medispa.com.au^
 ||welcome.ciscopowerofpartnership.com^
 ||welcome.coniferhealth.com^
@@ -242671,6 +242707,7 @@ zzzyk.com###Tinfo
 ||zespd.kathykuohome.com^
 ||zesrsywjvphmj.store^
 ||zestierjambone.com^
+||zesty-battle.com^
 ||zesty-career.com^
 ||zesty-lead.pro^
 ||zesty-schedule.pro^
