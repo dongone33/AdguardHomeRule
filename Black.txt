@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-06 04:40:05
-# 总规则数: 249902 (黑: 245546, 白: 4356)
+﻿# 更新时间: 2026-09-06 06:21:38
+# 总规则数: 249933 (黑: 245577, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -8590,6 +8590,7 @@ zzzyk.com###Tinfo
 ||1m78.cl.app^
 ||1maode.com^
 ||1mb71rr5oo.com^
+||1ml8jjlv3vxulm23xnv.cfd^
 ||1mob.com^
 ||1moka.tqpbs.cn^
 ||1mp.mobi^
@@ -37061,6 +37062,7 @@ zzzyk.com###Tinfo
 ||betpartners.it^
 ||betr-for-tod.com^
 ||betrad.com^
+||betrapomen.shop^
 ||betrayalbadger.com^
 ||betraystartly.cfd^
 ||betrendwells.cfd^
@@ -39662,6 +39664,7 @@ zzzyk.com###Tinfo
 ||bp4apps.horus.biz^
 ||bp776.com^
 ||bp8mct71pn.com^
+||bp8w7b7ch6jv6z7o73ho.rest^
 ||bpahyyjwjwcd.com^
 ||bpaoj.jettylife.com^
 ||bpauszxiaozwb.site^
@@ -41547,6 +41550,7 @@ zzzyk.com###Tinfo
 ||byplayslaccin.cfd^
 ||byprechaos.cfd^
 ||byqdtp.interpark.com^
+||byquobikgiayn.online^
 ||byqxqhb.cn^
 ||byracucosopenu.com^
 ||byrlingnonfluxdid.cyou^
@@ -63176,6 +63180,7 @@ zzzyk.com###Tinfo
 ||devinctthee.cfd^
 ||deviousvergedrawled.qpon^
 ||devisdirect.com^
+||devisesalang.qpon^
 ||devlanding.devmktg.subway.com^
 ||devlink.saganworks.com^
 ||devlink.sprive.com^
@@ -66383,6 +66388,7 @@ zzzyk.com###Tinfo
 ||dramaticdirection.com^
 ||dramaticsalad.com^
 ||drammercheng.com^
+||drammtestone.cfd^
 ||drankclosed.com^
 ||drankexpertstroll.com^
 ||drankinjectioncircumference.com^
@@ -69370,6 +69376,7 @@ zzzyk.com###Tinfo
 ||eardepth-prisists.com^
 ||eardh.thequalityedit.com^
 ||eardropcurls.com^
+||earingfroust.cyou^
 ||earlapssmalm.com^
 ||earlesscantina.shop^
 ||earlierbrewer.cfd^
@@ -79183,6 +79190,7 @@ zzzyk.com###Tinfo
 ||forever-k.com.cn^
 ||forevergears.com^
 ||foreveryoung.gz01.bdysite.com^
+||forewitcozy.com^
 ||forex.americanexpress.com^
 ||forexclub.ru^
 ||forexlilvetrading.goaserv.com^
@@ -81737,6 +81745,7 @@ zzzyk.com###Tinfo
 ||galaxymeet.ru^
 ||galaxyns.com^
 ||galaxypush.com^
+||galdsbemihfxc.website^
 ||galeaeevovae.com^
 ||galegaquakers.qpon^
 ||galeindelicatedrove.com^
@@ -84206,6 +84215,7 @@ zzzyk.com###Tinfo
 ||gladysway.com^
 ||glaiketcurpin.cyou^
 ||glairemastax.cyou^
+||glairyratwaterpane.qpon^
 ||glaivesblued.cyou^
 ||glaiwhee.net^
 ||glamhawk.com^
@@ -98283,6 +98293,7 @@ zzzyk.com###Tinfo
 ||husetraces.qpon^
 ||husfly.com^
 ||hushclosing.com^
+||husheenpome.cyou^
 ||hushenqiquan.com^
 ||hushpub.com^
 ||huskiesclumper.qpon^
@@ -99267,6 +99278,7 @@ zzzyk.com###Tinfo
 ||ibqh.cn^
 ||ibqkjbw.com^
 ||ibqkl.hatch-green-chile.com^
+||ibquremkyogwk.online^
 ||ibrahim.boiache.com^
 ||ibrahim.hillorabd.com^
 ||ibrahim.laptopache.com^
@@ -111255,6 +111267,7 @@ zzzyk.com###Tinfo
 ||kn.zstjy.com^
 ||kn.zzdahan.com^
 ||kn81kivjwwc7.www.logology.co^
+||knabmiosis.shop^
 ||knackspanksitting.com^
 ||knaflgvldrdtb.online^
 ||knajeupzdxcyp.space^
@@ -112235,6 +112248,7 @@ zzzyk.com###Tinfo
 ||kuyin123.com^
 ||kuyun.com^
 ||kuzai.cooguo.com^
+||kuzdhkwwv.com^
 ||kv-analytics.kiotviet.vn^
 ||kv.stat.nearme.com.cn^
 ||kv8899.com^
@@ -137191,6 +137205,7 @@ zzzyk.com###Tinfo
 ||msyq.xyz^
 ||msz3.destinia.cn^
 ||mszbwywsbdgmm.space^
+||mszdnvqspacks.space^
 ||mszvexqqyxrgc.site^
 ||mt-api.itpub.cloud^
 ||mt-business.vodafone.com^
@@ -140491,6 +140506,7 @@ zzzyk.com###Tinfo
 ||nf31.cn^
 ||nf4egyhllyxbuc8xmf4pjvq.cfd^
 ||nf57yq1mepnm8c.cfd^
+||nfbjuzxbkwgsw.site^
 ||nfbqp.hotelcollectionofficial.nl^
 ||nfccjj.artefakt.pl^
 ||nfciajnho.com^
@@ -142584,6 +142600,7 @@ zzzyk.com###Tinfo
 ||nudpqt.com^
 ||nudsf4r387a.voceconcursado.com.br^
 ||nuegtu.meuvivaz.com.br^
+||nueogmmongvux.space^
 ||nuevaq.net^
 ||nufajfnntuyot.site^
 ||nuffnang.com.cn^
@@ -150273,6 +150290,7 @@ zzzyk.com###Tinfo
 ||phadia.thermo.com^
 ||phadia.thermofisher.com^
 ||phaedobirdies.cyou^
+||phagehanuman.cyou^
 ||phagueq.cn^
 ||phampheane.com^
 ||phanmem111.com^
@@ -156482,6 +156500,7 @@ zzzyk.com###Tinfo
 ||qeecl.bewegungsmeister.de^
 ||qeefxyltwpruv.website^
 ||qeegwhsxzwcdv.com^
+||qeejhjwcfrzqg.space^
 ||qeezie.folm.de^
 ||qefwqf.chungdamgirl.com^
 ||qegkek.icu^
@@ -160302,6 +160321,7 @@ zzzyk.com###Tinfo
 ||regardingfourteenth.com^
 ||regardingsnappy.com^
 ||regardlived.com^
+||regencytrikir.cfd^
 ||regenergize.com^
 ||regexmail.com^
 ||reghgnyodfqoi.store^
@@ -173588,6 +173608,7 @@ zzzyk.com###Tinfo
 ||seweredrebrick.cfd^
 ||sewerfieryendurance.com^
 ||sewingbleaklantern.com^
+||sewingdindon.shop^
 ||sewingfreaky.com^
 ||sewiow.f7bdl3g8.com^
 ||sex-and-flirt.com^
@@ -178287,6 +178308,7 @@ zzzyk.com###Tinfo
 ||sinfo.awrostamani.com^
 ||sinfo.dtcidev.co^
 ||sinful-bad.pro^
+||sinfulmaia.cfd^
 ||singerimg.kugou.com^
 ||singerimgretry.kugou.com^
 ||singingprior.com^
@@ -207845,6 +207867,7 @@ zzzyk.com###Tinfo
 ||taqrr.fromourplace.co.uk^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
+||taraponmately.qpon^
 ||taratahgrr.shop^
 ||tarbfjimpnnbvi.com^
 ||tarbushpteris.qpon^
@@ -209428,6 +209451,7 @@ zzzyk.com###Tinfo
 ||terbit2.com^
 ||terbit21.gdn^
 ||tercabilis.info^
+||tercelhoplite.shop^
 ||tercept.com^
 ||tercetacker.com^
 ||terciogouge.com^
@@ -212638,6 +212662,7 @@ zzzyk.com###Tinfo
 ||towers-shield.com^
 ||towersflimsy.com^
 ||towiesbather.cfd^
+||towieshalting.cyou^
 ||towievisited.cfd^
 ||towmastdelawn.cyou^
 ||townhouses.woodlea.com.au^
@@ -223331,6 +223356,7 @@ zzzyk.com###Tinfo
 ||upset-rent.com^
 ||upsetexpulsionfairy.com^
 ||upsetsoozoid.cfd^
+||upsexonym.qpon^
 ||upsidebeauty.com^
 ||upsidehair.com^
 ||upsideshoeboy.qpon^
@@ -226136,6 +226162,7 @@ zzzyk.com###Tinfo
 ||veinagewabbles.cyou^
 ||veinsoloistsubstitute.com^
 ||veinteractive.com^
+||veireagins.qpon^
 ||veirkaey.com^
 ||veitgov.cc^
 ||vejrp6iq25.com^
@@ -239548,6 +239575,7 @@ zzzyk.com###Tinfo
 ||yaayoi.neatfx.fr^
 ||yaba.org.cn^
 ||yabagaisiityc.site^
+||yabajohnian.cyou^
 ||yabmu-ps6339bx.j2wcj5-xvjikfl.top^
 ||yabo33.ee^
 ||yabo729.com^
@@ -241595,6 +241623,7 @@ zzzyk.com###Tinfo
 ||ysh105.zqtnm.cn^
 ||yshek1188.com^
 ||ysjkbk.com^
+||ysjovdlklxecs.online^
 ||ysjwj.com^
 ||yskcnygisow.cygkrfp.cn^
 ||yskfsvgksetur.online^
@@ -244568,6 +244597,7 @@ zzzyk.com###Tinfo
 ||zowralr.cn^
 ||zox3ue.com^
 ||zoxyxrmbk.com^
+||zoykzjawyjjle.top^
 ||zozdpe.nrv.nl^
 ||zozwyc.moscot.com^
 ||zp.guanzistory.com^
@@ -245375,6 +245405,7 @@ zzzyk.com###Tinfo
 ||zypenetwork.com^
 ||zypsnobkgkthp.site^
 ||zypvvubom.com^
+||zypxlsrrellyr.site^
 ||zypzzv.xyz^
 ||zyq2.destinia.sk^
 ||zyqejavldfcwd.space^
