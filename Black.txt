@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-06 23:53:35
-# 总规则数: 250134 (黑: 245777, 白: 4357)
+﻿# 更新时间: 2026-09-07 01:53:00
+# 总规则数: 250160 (黑: 245803, 白: 4357)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -10725,6 +10725,7 @@ zzzyk.com###Tinfo
 ||3x1ry6we9.com^
 ||3x49w6.15mxqionfmjc6jowlk1rvbfj25f44vfg.cyou^
 ||3x5h6x434.com^
+||3x8ffj7bx8vjgo67f8fkjm.rest^
 ||3x8zapzon.com^
 ||3xeedcdci.com^
 ||3xeo00tqz.com^
@@ -13275,6 +13276,7 @@ zzzyk.com###Tinfo
 ||7fkm2r4pzi.com^
 ||7functions.com^
 ||7g33.xb.app^
+||7g4uqcgwv7hqpejhj.cfd^
 ||7g6p21pmm.com^
 ||7g761j2nc.com^
 ||7g9m3r.com^
@@ -17455,6 +17457,7 @@ zzzyk.com###Tinfo
 ||aafzswczvtc.com^
 ||aag.yahooapis.jp^
 ||aagcd.keymaster247.com^
+||aagemuwuyfhqz.site^
 ||aagm.link^
 ||aagprboumamaz.space^
 ||aahamarketing.hubinternational.com^
@@ -33219,6 +33222,7 @@ zzzyk.com###Tinfo
 ||atraff.com^
 ||atraxio.com^
 ||atrdb.laeckerli-huus.ch^
+||atriblelilasrama.cyou^
 ||atriblewhilere.shop^
 ||atrmlvulftzkr.space^
 ||atrophychumpreentry.com^
@@ -37186,6 +37190,7 @@ zzzyk.com###Tinfo
 ||bfhrwqaroikoo.site^
 ||bfhspobdvajttb.com^
 ||bfiat.veteranproject.com^
+||bfifntelwmswz.online^
 ||bfirpqcbyfd.com^
 ||bfitra1eho.com^
 ||bfjflpryolthp.online^
@@ -38448,6 +38453,7 @@ zzzyk.com###Tinfo
 ||bleua.ecefibwja.xyz^
 ||bleumzr.icu^
 ||blfi.bodylab.fi^
+||blfkgzycowfcm.online^
 ||blfkmp.fti.de^
 ||blfrrfanpmwqt.website^
 ||blfyquz.cn^
@@ -41238,6 +41244,7 @@ zzzyk.com###Tinfo
 ||bvaib.naenaes.com^
 ||bvakl.ifeng.com^
 ||bvbam.heathstreetapparel.com^
+||bvbfjeqxhnmbtj.com^
 ||bvbl.720lu.com^
 ||bvbqyq.odalys-vacances.com^
 ||bvbypswhds.com^
@@ -41540,6 +41547,7 @@ zzzyk.com###Tinfo
 ||byoeg.ck99n4uvwmi73uu.cyou^
 ||byoung.goasrv.com^
 ||byoviral.com^
+||byoxcmxcprhztn.com^
 ||byoxhojwqdvhmy.com^
 ||bypassduehardly.com^
 ||bypasseudev.stape.dev^
@@ -50946,6 +50954,7 @@ zzzyk.com###Tinfo
 ||cordier2.goasrv.com^
 ||cordinghology.info^
 ||cordingsulfiddoffs.qpon^
+||cordjrzruuraf.online^
 ||cordless.trusted-essentials.com^
 ||cordmusikindo.goaserv.com^
 ||cordplumb.com^
@@ -71093,6 +71102,7 @@ zzzyk.com###Tinfo
 ||ektmyescfvnmb.website^
 ||ektxsfkdnciut.space^
 ||ekuhv.wearpepper.com^
+||ekvgttpmqykwv.online^
 ||ekvhgfruqyadw.site^
 ||ekvoffgfhdtoj.website^
 ||ekxtrafcewyww.store^
@@ -101927,6 +101937,7 @@ zzzyk.com###Tinfo
 ||inaudiblefrequently.com^
 ||inb967.com^
 ||inbbredraxing.com^
+||inbentseckel.cyou^
 ||inbodypalkee.cfd^
 ||inboldoreer.com^
 ||inborn-noise.pro^
@@ -109085,6 +109096,7 @@ zzzyk.com###Tinfo
 ||jwmwtcmexc.com^
 ||jwmyw.drakes.com^
 ||jwmzdm.piccadilly.com.br^
+||jwnulotraunuh.site^
 ||jwoawrucjoerw.space^
 ||jwpepper.actonsoftware.com^
 ||jwpltx.com^
@@ -111513,6 +111525,7 @@ zzzyk.com###Tinfo
 ||kobjs.sokolovelaw.com^
 ||koboldmoreish.com^
 ||kobtimfpearff.space^
+||kobwhgszwowtf.website^
 ||kochava.com^
 ||kocieuszy.goasrv.com^
 ||kocom.mobi^
@@ -117014,6 +117027,7 @@ zzzyk.com###Tinfo
 ||lmpadebis.gala-series.com^
 ||lmpygevzkenzr.online^
 ||lmqrawimfqccph.com^
+||lmqvowebejqmm.top^
 ||lmr7rv2d3.vip^
 ||lmr9.yjzb.app^
 ||lmrljuiymdtry.space^
@@ -138905,6 +138919,7 @@ zzzyk.com###Tinfo
 ||naemailom.fun^
 ||naenidktmcjne.store^
 ||naesl.theinkeylist.com^
+||naetherbabiismpointy.cfd^
 ||naetherspinors.cyou^
 ||nafmxc.1083.fr^
 ||nagaikaslojd.com^
@@ -139252,6 +139267,7 @@ zzzyk.com###Tinfo
 ||nasikfvzxdpda.website^
 ||nasimke.ru^
 ||nasimobi.com^
+||naskhiraguly.com^
 ||nasocpjp.in^
 ||nasodresser.com^
 ||nasotrading.cn^
@@ -143518,6 +143534,7 @@ zzzyk.com###Tinfo
 ||obj.test.ttwifi.net^
 ||obj23q.com^
 ||obj9.cn^
+||objbsivjekhut.online^
 ||objecthero.com^
 ||objectionsbeaten.com^
 ||objective-wright-961fed.netlify.com^
@@ -146800,6 +146817,7 @@ zzzyk.com###Tinfo
 ||ouro.leilatebet.art.br^
 ||ourot.com^
 ||ours3care.com^
+||ourselvesincompetentlearned.com^
 ||oursprivacy.com^
 ||oursrestrict.com^
 ||ourstats.de^
@@ -157029,6 +157047,7 @@ zzzyk.com###Tinfo
 ||qinzhihao.com^
 ||qinzigenjudi.com^
 ||qiofu.dadgang.co^
+||qiopyxdqaxtrh.online^
 ||qipaspjivpupa.website^
 ||qipskd.cn^
 ||qipt.1632j6.cn^
@@ -161393,6 +161412,7 @@ zzzyk.com###Tinfo
 ||reticencestatesmanfigured.com^
 ||reticencevaliddecoction.com^
 ||retimeddoused.com^
+||retintdefeit.qpon^
 ||retirement.aonunited.com^
 ||retirement.newyorklifeannuities.com^
 ||retirementadvisorinsights.com^
@@ -164378,6 +164398,7 @@ zzzyk.com###Tinfo
 ||ruttientindung-mposonline.com^
 ||ruttientindung-nextpay.com^
 ||ruttientindung-payonline.com^
+||ruttilyfoxfeet.com^
 ||ruttindungpos.com^
 ||ruttwind.com^
 ||rutvind.com^
@@ -203821,6 +203842,7 @@ zzzyk.com###Tinfo
 ||sudsesusuarycoman.qpon^
 ||sudupan.com^
 ||suedai.com^
+||suedesgreyly.cfd^
 ||suedinepredate.cfd^
 ||suejvtxdvjtqc.website^
 ||suetyparteduello.qpon^
@@ -205184,6 +205206,7 @@ zzzyk.com###Tinfo
 ||sxqyuming.xyz^
 ||sxrgd.com^
 ||sxrs.shop^
+||sxrzczawwbv.com^
 ||sxs.7dmc.ae^
 ||sxsftevgkwlam.site^
 ||sxsgyawsmtbxxt.com^
@@ -233464,6 +233487,7 @@ zzzyk.com###Tinfo
 ||wnacammull.com^
 ||wnacug.georgiaboot.com^
 ||wnardmwt.com^
+||wnatychpldwsf.site^
 ||wnbeuabtgorcd.space^
 ||wnbfw.com^
 ||wnbpr.perfectlens.ca^
@@ -239483,6 +239507,7 @@ zzzyk.com###Tinfo
 ||xyexwfbjrrnak.space^
 ||xyf-test.oss-cn-beijing.aliyuncs.com^
 ||xyf21yawkj.com^
+||xyfkoeigcxxc.com^
 ||xyftidkux8i2ab.ddcu8sdjmnbhh.dafga*.com^
 ||xygj.cc^
 ||xygxko.shop-apotheke.ch^
@@ -243684,6 +243709,7 @@ zzzyk.com###Tinfo
 ||zgtcar.com^
 ||zgtcp.hotelcollectionofficial.uk^
 ||zgthwq.cardsdirect.com^
+||zgtlbqmomygtn.site^
 ||zgtsgrklbslya.store^
 ||zgttfnkcztzpjc.com^
 ||zgtvi2inmc9o.fo9wlrmetlec8qkpkmtl216g.cyou^
