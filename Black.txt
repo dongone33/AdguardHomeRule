@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-07 04:14:54
-# 总规则数: 250229 (黑: 245873, 白: 4356)
+﻿# 更新时间: 2026-09-07 06:12:54
+# 总规则数: 250247 (黑: 245891, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -34328,6 +34328,7 @@ zzzyk.com###Tinfo
 ||ayo.arredoitaliano.it^
 ||ayodanuauw.com^
 ||ayon.impressofits.com^
+||ayovkkyiaiyuk.online^
 ||ayparnarzt.com^
 ||aypgkxgnetnxd.site^
 ||ayqd29m.ng.impervadns.net^
@@ -36933,6 +36934,7 @@ zzzyk.com###Tinfo
 ||bertsysxmykqm.online^
 ||berunhowbeit.cfd^
 ||berush.com^
+||berylgetting.com^
 ||berylnbb.com^
 ||bes-api.oceanengine.com^
 ||bes-mtj.baidu.com^
@@ -41443,6 +41445,7 @@ zzzyk.com###Tinfo
 ||bxerfbkaoasof.space^
 ||bxfgfcmeltucf.site^
 ||bxfvaugytecwq.online^
+||bxfwmwxohvkkh.com^
 ||bxg68.com^
 ||bxgmb.com^
 ||bxgz.cc^
@@ -48813,6 +48816,7 @@ zzzyk.com###Tinfo
 ||cofs.partscentre.co.uk^
 ||coftfdtcjtnjt.website^
 ||coggingbrocard.com^
+||cogginglnrgravel.cfd^
 ||cogglyumbrose.com^
 ||coghlecytozoa.cfd^
 ||cogmatch.net^
@@ -74769,6 +74773,7 @@ zzzyk.com###Tinfo
 ||ewebanalytics.com^
 ||eweconciliate.com^
 ||ewekeoqn.com^
+||ewesgabbier.com^
 ||ewesmedia.com^
 ||ewetrotreset.com^
 ||ewfarp.kappa.com^
@@ -82305,6 +82310,7 @@ zzzyk.com###Tinfo
 ||gavnuifk.xyz^
 ||gavpn.getui.com^
 ||gawayez.e-postserv.com^
+||gawhwnlqqmdbd.site^
 ||gawneytae.cfd^
 ||gaxkyokrghyts.online^
 ||gaxyssprvcejy.site^
@@ -96521,6 +96527,7 @@ zzzyk.com###Tinfo
 ||hlbizs.noo.ma^
 ||hlbtv.cbdistillery.co^
 ||hlcdhk.jskis.com^
+||hlcfgjbmdayxo.website^
 ||hld9.cn^
 ||hldijphcjszui.store^
 ||hldjclick.gzjykj.com^
@@ -105347,6 +105354,7 @@ zzzyk.com###Tinfo
 ||iungnc.williamhenry.com^
 ||iunmrmdyetjbe.website^
 ||iuouv.firstday.com^
+||iupgjparbbtae.site^
 ||iupnlpd.cn^
 ||iupuwugpfsygy.site^
 ||iuqjd.alphapaw.com^
@@ -105574,6 +105582,7 @@ zzzyk.com###Tinfo
 ||ixodiansitting.qpon^
 ||ixodidscebell.qpon^
 ||ixog.cn^
+||ixotptygorntw.website^
 ||ixpaecojilsoj.space^
 ||ixpub.net^
 ||ixrfsm.sawiday.fr^
@@ -109639,6 +109648,7 @@ zzzyk.com###Tinfo
 ||kaboodle49.com^
 ||kaboss.cn^
 ||kabqgaklabehk.website^
+||kachariwhinescasual.cyou^
 ||kacq.cn^
 ||kad.gotokeep.com^
 ||kadam.net^
@@ -111772,6 +111782,7 @@ zzzyk.com###Tinfo
 ||kpayeoaytfpsi.online^
 ||kpbmqxucd.com^
 ||kpbzar.warbyparker.com^
+||kpcezhkekxgmg.online^
 ||kpcqleiuipnp.com^
 ||kpcyic.sportisimo.cz^
 ||kpd63519s.com^
@@ -115235,6 +115246,7 @@ zzzyk.com###Tinfo
 ||lilkdtrwspxvk.website^
 ||lillycaraco.com^
 ||lilpr.barbanortena.com^
+||lilsczgqslysc.site^
 ||lilthn.mollyg.com^
 ||lilxdostfpngv.space^
 ||lilxvvndclgcs.space^
@@ -130034,6 +130046,7 @@ zzzyk.com###Tinfo
 ||mdhv.io^
 ||mdhxyhl.cn^
 ||mdhz.uiuin.cn^
+||mdilurnzhzyhk.space^
 ||mdiyay.vseinstrumenti.ru^
 ||mdjaqbmzrwrcx.space^
 ||mdjar.drkellyann.com^
@@ -141207,6 +141220,7 @@ zzzyk.com###Tinfo
 ||nipxqhbthzrdi.site^
 ||nipzjdunvqmxa.space^
 ||niqqanoywhgse.site^
+||niqslqhugqyle.space^
 ||nirdjz.revolveclothing.com.au^
 ||nirentang.com^
 ||nirhpolzdzthq.online^
@@ -141577,6 +141591,7 @@ zzzyk.com###Tinfo
 ||nlvnht.miror.jp^
 ||nlvuh.longtermdenial.com^
 ||nlvxwyesryreu.space^
+||nlwwcgbzixepk.website^
 ||nlxdtixibgohb.com^
 ||nlxkzo.friopecas.com.br^
 ||nlxpsparlszfu.space^
@@ -208868,6 +208883,7 @@ zzzyk.com###Tinfo
 ||tcdn.snapfitness.com^
 ||tcdwm.com^
 ||tce.alicdn.com^
+||tceqmdcibftas.website^
 ||tcfjtdaovwimt.space^
 ||tcgikincfivus.online^
 ||tcgjhulupwqpc.space^
@@ -211070,6 +211086,7 @@ zzzyk.com###Tinfo
 ||timeapi.io^
 ||timeclock.mytoolr.com^
 ||timecrossed.com^
+||timedgype.com^
 ||timedirect.ru
 ||timeforagreement.com^
 ||timejs.game.163.com^
@@ -234215,6 +234232,7 @@ zzzyk.com###Tinfo
 ||wrsmnqmpopund.net^
 ||wrth.cn^
 ||wrtm.walla.co.il^
+||wrtmgjyc.com^
 ||wru795e.cn^
 ||wrufer.com^
 ||wrugwj.bakerross.de^
