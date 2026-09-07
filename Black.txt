@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-08 05:53:28
-# 总规则数: 246347 (黑: 241991, 白: 4356)
+﻿# 更新时间: 2026-09-08 07:53:29
+# 总规则数: 246363 (黑: 242007, 白: 4356)
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -33690,6 +33690,7 @@ zzzyk.com###Tinfo
 ||awumnf.com^
 ||awv.kassenkompass.de^
 ||awvrnescbvwlo.website^
+||awvykqzkcdabd.site^
 ||aww5.net^
 ||awwepz.evenstadmusikk.no^
 ||awwlcx.cn^
@@ -37251,6 +37252,7 @@ zzzyk.com###Tinfo
 ||bidforclicks.com^
 ||bidfortraffic.com^
 ||bidgear.com^
+||bidgetclunistmestees.qpon^
 ||bidgx.com^
 ||bidio.pl^
 ||bidjora.com^
@@ -39137,6 +39139,7 @@ zzzyk.com###Tinfo
 ||boutomeeshaul.com^
 ||boutonspannus.shop^
 ||boutoorcein.shop^
+||bouwcastrumnaegait.qpon^
 ||bovid.neural.love^
 ||bovidbesee.cfd^
 ||bovinetimingunsaddle.com^
@@ -61903,6 +61906,7 @@ zzzyk.com###Tinfo
 ||deifyuplay.qpon^
 ||deilghtfuidate.net^
 ||deinozeroing.cfd^
+||deirdrethelium.cyou^
 ||deisd5o6v8rgq.cloudfront.net^
 ||deisdewool.cfd^
 ||deisflair.shop^
@@ -77310,6 +77314,7 @@ zzzyk.com###Tinfo
 ||fkgmi.respshop.com^
 ||fkgpewlsrzwiu.website^
 ||fkhagviev.com^
+||fkhbrnayokikj.site^
 ||fkhfk.cn^
 ||fkhqplyxmaafw.space^
 ||fkhwblrosnlrc.space^
@@ -95456,6 +95461,7 @@ zzzyk.com###Tinfo
 ||hobypcdcsidnc.online^
 ||hocbongtienganh.com^
 ||hocgeese.com^
+||hochhut.qpon^
 ||hochu-deneg.ru^
 ||hockdayunpacks.cyou^
 ||hockeydoorrejoined.com^
@@ -113421,6 +113427,7 @@ zzzyk.com###Tinfo
 ||limoidtrowane.cfd^
 ||limonads.net^
 ||limone.iltrovatore.it^
+||limosichazans.cyou^
 ||limp-signal.pro^
 ||limpet.pioneerlandscapingllc.com^
 ||limpet.yago.dev^
@@ -139194,6 +139201,7 @@ zzzyk.com###Tinfo
 ||njzly2e3nzywm.ejttpj.com^
 ||njzyjy.cn^
 ||nk2va5i.top^
+||nk4bi6594qp49fogq.rest^
 ||nkaczwsqxlolq.website^
 ||nkadc.xyz^
 ||nkarmh.jmbullion.com^
@@ -144700,6 +144708,7 @@ zzzyk.com###Tinfo
 ||ovghljmcnxejx.online^
 ||ovgpljyqpochn.store^
 ||ovhq.yl.ag^
+||ovicidecypriot.cfd^
 ||ovisacscapashantih.cyou^
 ||ovkwiz.xyz^
 ||ovlkc.shoprongrong.com^
@@ -182530,6 +182539,7 @@ zzzyk.com###Tinfo
 ||soulshape.cn^
 ||soulsoul.xyz^
 ||soulunbornrib.com^
+||soumdownlie.qpon^
 ||soundcloud-pax.pandora.com^
 ||sounder.skywaybehavioralhealth.com^
 ||soundfrankcoke.com^
@@ -182911,6 +182921,7 @@ zzzyk.com###Tinfo
 ||spaung.cn^
 ||spaverunsolar.cfd^
 ||spaviesbalanta.qpon^
+||spavinscondyle.cyou^
 ||spawnbowleskakar.cyou^
 ||spb.bid.run^
 ||spbgc.com^
@@ -200767,6 +200778,7 @@ zzzyk.com###Tinfo
 ||suburban-deposit.pro^
 ||suburbcriticizefragment.com^
 ||suburbincriminatesubdue.com^
+||subwarers.qpon^
 ||subwayeachaccompaniment.com^
 ||subwayhumility.com^
 ||subwhfrsfjcip.online^
@@ -203770,6 +203782,7 @@ zzzyk.com###Tinfo
 ||t4ft.de^
 ||t4s8t6p39.com^
 ||t4sf.yl.ag^
+||t4trjegqi6vlxc.cfd^
 ||t4uz.td28ese.pro^
 ||t5.taboola.com^
 ||t5124f9.vip^
@@ -209582,6 +209595,7 @@ zzzyk.com###Tinfo
 ||toruk.tanx.com^
 ||torulashootee.qpon^
 ||torvind.com^
+||torvousrottle.qpon^
 ||tos.botex.dk^
 ||tos.pstatp.com^
 ||tosfeed.com^
@@ -218653,6 +218667,7 @@ zzzyk.com###Tinfo
 ||ufqtn.capyera.com^
 ||ufqzrk.espritshop.ch^
 ||ufrafc.nihonsakari.co.jp^
+||ufsithabgxlnn.website^
 ||ufskfcie.cfd^
 ||ufsmcn.blackspade.com.tr^
 ||ufsmt.colders.com^
@@ -229533,6 +229548,7 @@ zzzyk.com###Tinfo
 ||wisteinsight.com^
 ||wister.biz^
 ||wisteria37.top^
+||wisteshaul.cyou^
 ||wistfulseverely.com^
 ||wistfulsynchronizetoys.com^
 ||wistfulwaste.com^
