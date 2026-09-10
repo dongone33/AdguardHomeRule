@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-11 01:45:13
-# 白名单规则数: 4342
+﻿# 更新时间: 2026-09-11 04:09:15
+# 白名单规则数: 4357
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -372,6 +372,7 @@
 @@||adm.crowdicity.com^
 @@||admin-oss-xlvip.a.88cdn.com^
 @@||admin.dable.io^
+@@||admin.mailchimp.com^
 @@||admin.microsoft.com^$important
 @@||admin.onedrive.com^$important
 @@||adminwebservice.microsoftonline.com^$important
@@ -437,6 +438,7 @@
 @@||akamaized.net^
 @@||akashio.com^$generichide
 @@||aks.jdpay.com^
+@@||al-aqsanews.com
 @@||alb-jjexm35p5nv4ven8gt.cn-shenzhen.alb.aliyuncsslb.com^
 @@||albert.apple.com^$important
 @@||ali-gamezone.static.yximgs.com^
@@ -710,6 +712,7 @@
 @@||auth.huaweicloud.com^
 @@||auth.wosms.cn^
 @@||auth.zijieapi.com^
+@@||auto-api.yelp.com
 @@||autocomplete.clearbit.com^
 @@||autodiscover.*.onmicrosoft.com
 @@||autologon.microsoftazuread-sso.com^$important
@@ -897,6 +900,7 @@
 @@||cdn.bootcss.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
 @@||cdn.cnbj1.fds.api.mi-img.com^
+@@||cdn.datatables.net^
 @@||cdn.deepseek.com^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.exp.xiaomi.com^
@@ -1367,6 +1371,7 @@
 @@||download-cdn.clf.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com.cn^
 @@||download-cdn.jetbrains.com^
+@@||download.adguard.com^
 @@||download.alicdn.com^
 @@||download.bitcomet.com^
 @@||download.deepseek.com^
@@ -1980,6 +1985,7 @@
 @@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||init.itunes.apple.com^
+@@||injections.adguard.org^
 @@||inoreader.com^$genericblock,generichide
 @@||inporn.com^
 @@||input.shouji.sogou.com^
@@ -2115,6 +2121,7 @@
 @@||knicks.jd.com^
 @@||knowsex.net^
 @@||konachan.com^
+@@||krebsonsecurity.com
 @@||ku.dk^
 @@||kubernetes.io^
 @@||kugou.com^
@@ -2243,6 +2250,7 @@
 @@||lnk2.cc^$generichide
 @@||loadingbaycn.webapp.163.com^
 @@||loc.map.baidu.com^
+@@||local.adguard.org^
 @@||localads.chengzijianzhan.cn^
 @@||lockororder.netlify.app^
 @@||log-api.pangolin-sdk-toutiao-b.com^
@@ -2258,6 +2266,7 @@
 @@||login-sh.aki-game.com^
 @@||login-us.microsoftonline.com^$important
 @@||login-user.kugou.com^
+@@||login.gaijin.net^
 @@||login.live.com^
 @@||login.live.com^$important
 @@||login.m.taobao.com^
@@ -2932,6 +2941,7 @@
 @@||pg-bootstrap.itunes.apple.com^$important
 @@||pg-wuming.com^$generichide
 @@||pgdt.gtimg.cn^
+@@||pgpartner.com^
 @@||phobos.apple.com^
 @@||phonecallapi.micloud.xiaomi.net^
 @@||photocdn.tv.sohu.com^
@@ -2941,6 +2951,7 @@
 @@||pic*.zhimg.com^
 @@||pic.baike.soso.com^
 @@||pic.iask.com.cn^
+@@||pic.imgdb.cn
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
@@ -2962,6 +2973,7 @@
 @@||pica.zhimg.com
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
+@@||pics.porndroids.com^
 @@||picx.zhimg.com
 @@||pifa.pinduoduo.com^
 @@||pingjs.qq.com^
@@ -3136,6 +3148,7 @@
 @@||redir.ownpage.fr^
 @@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
+@@||redirect.disqus.com^
 @@||redirector.gvt1.com^
 @@||ref.rbauction.com^
 @@||refer.discover.com^
@@ -3216,6 +3229,7 @@
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
 @@||s1.voicecloud.cn^
+@@||s1.wp.com^
 @@||s1.zhuanstatic.com^
 @@||s2.hdslb.com^
 @@||s2.kskwai.com^
@@ -3957,6 +3971,7 @@
 @@||webcast.amemv.com^
 @@||webfiles.gamebanana.com^
 @@||webstatic.hoyoverse.com^
+@@||webstatic.nero.com^
 @@||webtoonscan.com^
 @@||webtor.io^
 @@||webzjcaptcha.reg.163.com^
