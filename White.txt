@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-12 01:41:20
-# 白名单规则数: 4359
+﻿# 更新时间: 2026-09-12 04:04:43
+# 白名单规则数: 4350
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -759,7 +759,6 @@
 @@||bbs.tampermonkey.net.cn^
 @@||bbs.tgfcer.com^$generichide
 @@||bce.baidu.com^
-@@||bcebos.com^
 @@||bcebos.com^$script,domain=jingwubook.com
 @@||bcelive.com^
 @@||bcicl.*.evergage.com^
@@ -848,7 +847,6 @@
 @@||c1.skype.com^
 @@||cacerts.digicert.com^$important
 @@||cache.ip138.com^
-@@||cache.umengcn.org^
 @@||cache.video.iqiyi.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||calendars.icloud.com^
@@ -1752,7 +1750,6 @@
 @@||h5s.kuwo.cn^
 @@||h5static.cc.163.com^
 @@||h5static.kuwo.cn^
-@@||h5vv6.video.qq.com^
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||hanime1.me^
@@ -1914,7 +1911,6 @@
 @@||images1-focus-opensocial.googleusercontent.com^
 @@||images2.imgbox.com^
 @@||imagex.bytedanceapi.com^
-@@||imapi5-oth-*.zijieapi.com^
 @@||imasdk.googleapis.com^
 @@||ime-igw.doubao.com^
 @@||ime-res-download.xfinfr.com^
@@ -2570,7 +2566,6 @@
 @@||msgacs.m.taobao.com^
 @@||msn.yidianzixun.com^
 @@||mss0.bdstatic.com^
-@@||mssdk3-normal-*.zijieapi.com^
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||msync-im1-vip6-std.easemob.com^
 @@||mumu.163.com^
@@ -2957,7 +2952,6 @@
 @@||pic.imgdb.cn^
 @@||pic.mairuan.com^
 @@||pic.rmb.bdstatic.com^
-@@||pic1.zhimg.com
 @@||pic1.zhuanstatic.com^
 @@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
@@ -2972,11 +2966,9 @@
 @@||pic640.weishi.qq.com^
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
-@@||pica.zhimg.com
 @@||picasso-static.xiaohongshu.com^
 @@||pics.hentai.name^
 @@||pics.porndroids.com^
-@@||picx.zhimg.com
 @@||pifa.pinduoduo.com^
 @@||pingjs.qq.com^
 @@||pingjs.qq.com^$~third-party
@@ -3297,7 +3289,6 @@
 @@||search.kuwo.cn^
 @@||search.mcmod.cn^
 @@||search.sogoucdn.com^
-@@||search.umengcn.org^
 @@||search.ximalaya.com^
 @@||search.youku.com^
 @@||searchrec.marketplace-intl.huaweicloud.com^
