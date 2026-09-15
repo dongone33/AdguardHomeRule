@@ -1,5 +1,5 @@
-﻿# 更新时间: 2026-09-15 09:48:49
-# 白名单规则数: 4359
+﻿# 更新时间: 2026-09-15 14:51:09
+# 白名单规则数: 4372
 # 作者: dongone33 (Merged by Script)
 # ------------------------------------------
 
@@ -40,6 +40,10 @@
 @@||*-www.sway-extensions.com^
 @@||*.*.szbdyd.com^
 @@||*.1e100.net1^
+@@||*.4399.com^
+@@||*.5054399.com^
+@@||*.7k7k.com^
+@@||*.7k7kimg.cn^
 @@||*.95516.com^
 @@||*.a.yximgs.com^
 @@||*.aadrm.com^
@@ -94,6 +98,7 @@
 @@||*.hicloud.com^
 @@||*.hip.live.com^
 @@||*.img.mobile.sina.cn^
+@@||*.img4399.com^
 @@||*.in-addr.arpa^
 @@||*.informationprotection.azure.com
 @@||*.ke.com^
@@ -1969,6 +1974,7 @@
 @@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
+@@||imga*.5054399.com^
 @@||imgcache.qq.com^
 @@||imgessl.kugou.com^
 @@||imgservices-1252317822.image.myqcloud.com^
@@ -3051,6 +3057,7 @@
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
 @@||pt.afl.rakuten.co.jp^
+@@||ptlogin.4399.com^
 @@||ptlogin.yuewen.com^
 @@||pttn.m3pd.com^
 @@||ptx.cdntrex.com^
@@ -3228,6 +3235,7 @@
 @@||s0.meituan.net^
 @@||s01.mifile.cn^
 @@||s1.hdslb.com^
+@@||s1.img4399.com^
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
 @@||s1.voicecloud.cn^
@@ -4040,7 +4048,12 @@
 @@||www.360.cn^
 @@||www.360kuai.com^
 @@||www.360simg.com^
+@@||www.4399.cn^
+@@||www.4399.com^
+@@||www.5054399.com^
 @@||www.54647.io^
+@@||www.7k7k.com^
+@@||www.7k7kjs.cn^
 @@||www.9game.cn^
 @@||www.acompli.com^$important
 @@||www.agiso.com^
